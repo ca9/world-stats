@@ -1,3 +1,8 @@
-django
+requests
+Flask
 rpy2
-south
+wbdata
+
+# django
+# django-tastypie
+# south
