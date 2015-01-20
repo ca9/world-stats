@@ -1,0 +1,1286 @@
+{
+    "DT.DOD.MLAT.ZS": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Multilateral debt (% of total external debt)", 
+        "sourceNote": "Multilateral debt to total external debt stocks."
+    }, 
+    "DT.AXR.OFFT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Principal rescheduled, official (current US$)", 
+        "sourceNote": "Principal rescheduled is the amount of principal due or in arrears that was rescheduled in any given year. Debt from official creditors includes loans from international organizations (multilateral loans) and loans from governments (bilateral loans). Loans from international organization include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Government loans include loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies. Data are in current U.S. dollars."
+    }, 
+    "DT.NFL.PCBK.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, commercial banks (NFL, current US$)", 
+        "sourceNote": "Public and publicly guaranteed commercial bank loans from private banks and other private financial institutions. Net flows (or net lending or net disbursements) received by the borrower during the year are disbursements minus principal repayments. Data are in current U.S. dollars."
+    }, 
+    "DT.MAT.DPPG": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Average maturity on new external debt commitments (years)", 
+        "sourceNote": "Maturity is the number of years to original maturity date, which is the sum of grace and repayment periods. Grace period for principal is the period from the date of signature of the loan or the issue of the financial instrument to the first repayment of principal. The repayment period is the period from the first to last repayment of principal. To obtain the average, the maturity for all public and publicly guaranteed loans have been weighted by the amounts of the loans. Public debt is an external obligation of a public debtor, including the national government, a political subdivision (or an agency of either), and autonomous public bodies. Publicly guaranteed debt is an external obligation of a private debtor that is guaranteed for repayment by a public entity."
+    }, 
+    "DT.UND.PRVT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Undisbursed external debt, private creditors (UND, current US$)", 
+        "sourceNote": "Undisbursed debt is the total public and publicly guaranteed debt undrawn at year end; data for private nonguaranteed debt are not available. Debt from private creditors include bonds that are either publicly issued or privately placed; commercial bank loans from private banks and other private financial institutions; and other private credits from manufacturers, exporters, and other suppliers of goods, and bank credits covered by a guarantee of an export credit agency. Data are in current U.S. dollars."
+    }, 
+    "DT.DOD.RSDL.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Residual, debt stock-flow reconciliation (current US$)", 
+        "sourceNote": "The residual difference, i.e. the change in stock not explained by any of the factors identified under debt stock-flow reconciliation, is calculated as the sum of identified accounts minus the change in stock. Where the latter is large it can, in some cases, serve as an illustration of the inconsistencies in the reported data. More often however, it can be explained by specific borrowing phenomenon in individual countries. Data are in current U.S. dollars."
+    }, 
+    "DT.IXF.DPPG.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Interest forgiven (current US$)", 
+        "sourceNote": "Interest forgiven is the amount of interest due or in arrears that was written off or forgiven in any given year. Data are in current U.S. dollars."
+    }, 
+    "DT.NFL.MLTC.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, multilateral concessional (NFL, current US$)", 
+        "sourceNote": "Public and publicly guaranteed multilateral loans include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Concessional debt is defined as loans with an original grant element of 25 percent or more. The grant element of a loan is the grant equivalent expressed as a percentage of the amount committed. It is used as a measure of the overall cost of borrowing. The grant equivalent of a loan is its commitment (present) value, less the discounted present value of its contractual debt service; conventionally, future service payments are discounted at 10 percent. Net flows (or net lending or net disbursements) received by the borrower during the year are disbursements minus principal repayments. Data are in current U.S. dollars."
+    }, 
+    "DT.NTR.PRVT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, private creditors (NTR, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt from private creditors include bonds that are either publicly issued or privately placed; commercial bank loans from private banks and other private financial institutions; and other private credits from manufacturers, exporters, and other suppliers of goods, and bank credits covered by a guarantee of an export credit agency. Net transfers are net flows minus interest payments during the year; negative transfers show net transfers made by the borrower to the creditor during the year. Data are in current U.S. dollars."
+    }, 
+    "DT.INR.OFFT": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Average interest on new external debt commitments, official (%)", 
+        "sourceNote": "Interest represents the average interest rate on all new public and publicly guaranteed loans contracted during the year. To obtain the average, the interest rates for all public and publicly guaranteed loans have been weighted by the amounts of the loans. Debt from official creditors includes loans from international organizations (multilateral loans) and loans from governments (bilateral loans). Loans from international organization include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Government loans include loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies."
+    }, 
+    "DT.DIS.PNGB.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PNG, bonds (DIS, current US$)", 
+        "sourceNote": "Nonguaranteed long-term debt from bonds that are privately placed. Disbursements are drawings by the borrower on loan commitments during the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.DIS.MLTC.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, multilateral concessional (DIS, current US$)", 
+        "sourceNote": "Public and publicly guaranteed multilateral loans include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Concessional debt is defined as loans with an original grant element of 25 percent or more. The grant element of a loan is the grant equivalent expressed as a percentage of the amount committed. It is used as a measure of the overall cost of borrowing. The grant equivalent of a loan is its commitment (present) value, less the discounted present value of its contractual debt service; conventionally, future service payments are discounted at 10 percent. Disbursements are drawings by the borrower on loan commitments during the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.COM.MIDA.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Commitments, IDA (COM, current US$)", 
+        "sourceNote": "Commitments (IDA) are the sum of new commitments on public and publicly guaranteed loans from the International Development Association (IDA). Data are in current U.S. dollars."
+    }, 
+    "DT.NTR.OFFT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, official creditors (NTR, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt from official creditors includes loans from international organizations (multilateral loans) and loans from governments (bilateral loans). Loans from international organization include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Government loans include loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies. Net transfers are net flows minus interest payments during the year; negative transfers show net transfers made by the borrower to the creditor during the year. Data are in current U.S. dollars."
+    }, 
+    "BX.GRT.EXTA.CD.WD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics, and OECD.", 
+        "name": "Grants, excluding technical cooperation (BoP, current US$)", 
+        "sourceNote": "Grants are defined as legally binding commitments that obligate a specific value of funds available for disbursement for which there is no repayment requirement. Data are in current U.S. dollars."
+    }, 
+    "DT.DOD.ALLC.ZS": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Concessional debt (% of total external debt)", 
+        "sourceNote": "Concessional debt to total external debt stocks. Concessional debt is defined as loans with an original grant element of 25 percent or more."
+    }, 
+    "DT.NFL.DECT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Net flows on external debt, total (NFL, current US$)", 
+        "sourceNote": "Net flows on external debt are disbursements on long-term external debt and IMF purchases minus principal repayments on long-term external debt and IMF repurchases up to 1984. Beginning in 1985 this line includes the change in stock of short-term debt (including interest arrears for long-term debt). Thus, if the change in stock is positive, a disbursement is assumed to have taken place; if negative, a repayment is assumed to have taken place. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "DT.DSB.DPPG.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Debt buyback (current US$)", 
+        "sourceNote": "Debt buyback is the repurchase by a debtor of its own debt, discounted or at par. In the event of a buyback of long-term debt, the face value of the debt bought back will be recorded as a decline in the long-term debt stock, and the cash amount received by creditors will be recorded as a principal repayment. Data are in current U.S. dollars."
+    }, 
+    "DT.INR.DPPG": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Average interest on new external debt commitments (%)", 
+        "sourceNote": "Interest represents the average interest rate on all new public and publicly guaranteed loans contracted during the year. To obtain the average, the interest rates for all public and publicly guaranteed loans have been weighted by the amounts of the loans. Public debt is an external obligation of a public debtor, including the national government, a political subdivision (or an agency of either), and autonomous public bodies. Publicly guaranteed debt is an external obligation of a private debtor that is guaranteed for repayment by a public entity."
+    }, 
+    "DT.AXA.DPPG.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Principal arrears, public and publicly guaranteed (current US$)", 
+        "sourceNote": "Principal in arrears on long-term debt is defined as principal repayment due but not paid, on a cumulative basis. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "DT.TDS.DPNG.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Debt service on external debt, private nonguaranteed (PNG) (TDS, current US$)", 
+        "sourceNote": "Private nonguaranteed debt service is an external obligation of a private debtor that is not guaranteed for repayment by a public entity. Debt service payments are the sum of principal repayments and interest payments actually made in the year specified. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "DT.INT.BLTC.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, bilateral concessional (INT, current US$)", 
+        "sourceNote": "Bilateral debt includes loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies. Concessional debt is defined as loans with an original grant element of 25 percent or more. The grant element of a loan is the grant equivalent expressed as a percentage of the amount committed. It is used as a measure of the overall cost of borrowing. The grant equivalent of a loan is its commitment (present) value, less the discounted present value of its contractual debt service; conventionally, future service payments are discounted at 10 percent. Interest payments are actual amounts of interest paid by the borrower in currency, goods, or services in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.NTR.MLTC.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, multilateral concessional (NTR, current US$)", 
+        "sourceNote": "Public and publicly guaranteed multilateral loans include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Concessional debt is defined as loans with an original grant element of 25 percent or more. The grant element of a loan is the grant equivalent expressed as a percentage of the amount committed. It is used as a measure of the overall cost of borrowing. The grant equivalent of a loan is its commitment (present) value, less the discounted present value of its contractual debt service; conventionally, future service payments are discounted at 10 percent. Net transfers are net flows minus interest payments during the year; negative transfers show net transfers made by the borrower to the creditor during the year. Data are in current U.S. dollars."
+    }, 
+    "DT.NFL.RDBC.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Net financial flows, RDB concessional (NFL, current US$)", 
+        "sourceNote": "Net financial flows received by the borrower during the year are disbursements of loans and credits less repayments of principal. Concessional financial flows cover disbursements made through concessional lending facilities. Regional development banks are the African Development Bank, in Tunis, Tunisia, which serves all of Africa, including North Africa; the Asian Development Bank, in Manila, Philippines, which serves South and Central Asia and East Asia and Pacific; the European Bank for Reconstruction and Development, in London, United Kingdom, which serves Europe and Central Asia; and the Inter-American Development Bank, in Washington, D.C., which serves the Americas. Aggregates include amounts for economies not specified elsewhere. Data are in current U.S. dollars."
+    }, 
+    "DT.DOD.DECT.EX.ZS": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "External debt stocks (% of exports of goods, services and primary income)", 
+        "sourceNote": "Total external debt stocks to exports of goods, services and income."
+    }, 
+    "DT.NFL.NIFC.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "IFC, private nonguaranteed (NFL, current US$)", 
+        "sourceNote": "Nonguaranteed long-term debt privately placed from the International Finance Corporation (IFC). Net flows (or net lending or net disbursements) received by the borrower during the year are disbursements minus principal repayments. Data are in current U.S. dollars."
+    }, 
+    "DT.AMT.PBND.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, bonds (AMT, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt from bonds that are either publicly issued or privately placed. Principal repayments are actual amounts of principal (amortization) paid by the borrower in currency, goods, or services in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.AMT.OFFT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, official creditors (AMT, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt from official creditors includes loans from international organizations (multilateral loans) and loans from governments (bilateral loans). Loans from international organization include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Government loans include loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies. Principal repayments are actual amounts of principal (amortization) paid by the borrower in currency, goods, or services in the year specified. Data are in current U.S. dollars."
+    }, 
+    "BX.KLT.DINV.CD.WD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "International Monetary Fund, Balance of Payments database, supplemented by data from the United Nations Conference on Trade and Development and official national sources.", 
+        "name": "Foreign direct investment, net inflows (BoP, current US$)", 
+        "sourceNote": "Foreign direct investment are the net inflows of investment to acquire a lasting management interest (10 percent or more of voting stock) in an enterprise operating in an economy other than that of the investor. It is the sum of equity capital, reinvestment of earnings, other long-term capital, and short-term capital as shown in the balance of payments. This series shows net inflows (new investment inflows less disinvestment) in the reporting economy from foreign investors. Data are in current U.S. dollars."
+    }, 
+    "DT.NFL.MIBR.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Net financial flows, IBRD (NFL, current US$)", 
+        "sourceNote": "Net financial flows received by the borrower during the year are disbursements of loans and credits less repayments of principal. IBRD is the International Bank for Reconstruction and Development, the founding and largest member of the World Bank Group. Data are in current U.S. dollars."
+    }, 
+    "DT.CUR.FFRC.ZS": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Currency composition of PPG debt, French franc (%)", 
+        "sourceNote": "The percentage of external long-term public and publicly-guaranteed debt contracted in French francs for the low- and middle-income countries."
+    }, 
+    "DT.INT.PCBK.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, commercial banks (INT, current US$)", 
+        "sourceNote": "Public and publicly guaranteed commercial bank loans from private banks and other private financial institutions. Interest payments are actual amounts of interest paid by the borrower in currency, goods, or services in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.DIS.DPNG.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Disbursements on external debt, private nonguaranteed (PNG) (DIS, current US$)", 
+        "sourceNote": "Private nonguaranteed external debt is an external obligation of a private debtor that is not guaranteed for repayment by a public entity. Disbursements are drawings by the borrower on loan commitments during the year specified. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "DT.DIS.PROP.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, other private creditors (DIS, current US$)", 
+        "sourceNote": "Public and publicly guaranteed other private credits from manufacturers, exporters, and other suppliers of goods, and bank credits covered by a guarantee of an export credit agency. Disbursements are drawings by the borrower on loan commitments during the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.AMT.MIBR.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, IBRD (AMT, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt outstanding from the International Bank for Reconstruction and Development (IBRD) is nonconcessional. Nonconcessional debt excludes loans with an original grant element of 25 percent or more. Principal repayments are actual amounts of principal (amortization) paid by the borrower in currency, goods, or services in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.TDS.PCBK.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, commercial banks (TDS, current US$)", 
+        "sourceNote": "Public and publicly guaranteed commercial bank loans from private banks and other private financial institutions. Debt service payments are the sum of principal repayments and interest payments actually made in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.IXA.DPPG.CD.CG": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Net change in interest arrears (current US$)", 
+        "sourceNote": "Net change in interest arrears is the variation in the total amount of interest in arrears between two consecutive years. Data are in current U.S. dollars."
+    }, 
+    "DT.TDS.MLAT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Multilateral debt service (TDS, current US$)", 
+        "sourceNote": "Public and publicly guaranteed multilateral loans include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Debt service payments are the sum of principal repayments and interest payments actually made in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.COM.OFFT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Commitments, official creditors (COM, current US$)", 
+        "sourceNote": "Commitments are the amount of long-term loans for which contracts were signed in the year specified. Debt from official creditors includes loans from international organizations (multilateral loans) and loans from governments (bilateral loans). Loans from international organization include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Government loans include loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "DT.DIS.PNGC.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PNG, commercial banks and other creditors (DIS, current US$)", 
+        "sourceNote": "Nonguaranteed long-term commercial bank loans from private banks and other private financial institutions. Disbursements are drawings by the borrower on loan commitments during the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.AMT.MIDA.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, IDA (AMT, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt outstanding from the International Development Association (IDA) is concessional. Concessional debt is defined as loans with an original grant element of 25 percent or more. The grant element of a loan is the grant equivalent expressed as a percentage of the amount committed. It is used as a measure of the overall cost of borrowing. The grant equivalent of a loan is its commitment (present) value, less the discounted present value of its contractual debt service; conventionally, future service payments are discounted at 10 percent. Principal repayments are actual amounts of principal (amortization) paid by the borrower in currency, goods, or services in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.NTR.DLXF.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Net transfers on external debt, long-term (NTR, current US$)", 
+        "sourceNote": "Net transfers are net flows minus interest payments during the year; negative transfers show net transfers made by the borrower to the creditor during the year. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "DT.CUR.OTHC.ZS": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Currency composition of PPG debt, all other currencies (%)", 
+        "sourceNote": "The percentage of external long-term public and publicly-guaranteed debt contracted in all other currencies not specified for the low- and middle-income countries."
+    }, 
+    "DT.NTR.DPNG.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Net transfers on external debt, private nonguaranteed (PNG) (NTR, current US$)", 
+        "sourceNote": "Private nonguaranteed external debt is an external obligation of a private debtor that is not guaranteed for repayment by a public entity. Net transfers are net flows minus interest payments during the year; negative transfers show net transfers made by the borrower to the creditor during the year. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "DT.TDS.PROP.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, other private creditors (TDS, current US$)", 
+        "sourceNote": "Public and publicly guaranteed other private credits from manufacturers, exporters, and other suppliers of goods, and bank credits covered by a guarantee of an export credit agency. Debt service payments are the sum of principal repayments and interest payments actually made in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.TDS.DLXF.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Debt service on external debt, long-term (TDS, current US$)", 
+        "sourceNote": "Debt service payments are the sum of principal repayments and interest payments actually made in the year specified. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "DT.IXR.PRVT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Interest rescheduled, private (current US$)", 
+        "sourceNote": "Interest rescheduled is the amount of interest due or in arrears that was rescheduled in any given year. Debt from private creditors include bonds that are either publicly issued or privately placed; commercial bank loans from private banks and other private financial institutions; and other private credits from manufacturers, exporters, and other suppliers of goods, and bank credits covered by a guarantee of an export credit agency. Data are in current U.S. dollars."
+    }, 
+    "DT.DIS.OFFT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, official creditors (DIS, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt from official creditors includes loans from international organizations (multilateral loans) and loans from governments (bilateral loans). Loans from international organization include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Government loans include loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies. Disbursements are drawings by the borrower on loan commitments during the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.NFL.PROP.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, other private creditors (NFL, current US$)", 
+        "sourceNote": "Public and publicly guaranteed other private credits from manufacturers, exporters, and other suppliers of goods, and bank credits covered by a guarantee of an export credit agency. Net flows (or net lending or net disbursements) received by the borrower during the year are disbursements minus principal repayments. Data are in current U.S. dollars."
+    }, 
+    "DT.AMT.PRVT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, private creditors (AMT, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt from private creditors include bonds that are either publicly issued or privately placed; commercial bank loans from private banks and other private financial institutions; and other private credits from manufacturers, exporters, and other suppliers of goods, and bank credits covered by a guarantee of an export credit agency. Principal repayments are actual amounts of principal (amortization) paid by the borrower in currency, goods, or services in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.GPA.PRVT": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Average grace period on new external debt commitments, private (years)", 
+        "sourceNote": "Grace period is the period from the date of signature of the loan or the issue of the financial instrument to the first repayment of principal. To obtain the average, the grace periods for all public and publicly guaranteed loans have been weighted by the amounts of the loans. Debt from private creditors include bonds that are either publicly issued or privately placed; commercial bank loans from private banks and other private financial institutions; and other private credits from manufacturers, exporters, and other suppliers of goods, and bank credits covered by a guarantee of an export credit agency."
+    }, 
+    "BX.GSR.TOTL.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "International Monetary Fund, Balance of Payments Statistics Yearbook and data files.", 
+        "name": "Exports of goods, services and primary income (BoP, current US$)", 
+        "sourceNote": "Exports of goods, services and primary income is the sum of goods exports, service exports and primary income receipts. Data are in current U.S. dollars."
+    }, 
+    "DT.DOD.PNGB.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PNG, bonds (DOD, current US$)", 
+        "sourceNote": "Nonguaranteed long-term debt from bonds that are privately placed. Private nonguaranteed long-term debt outstanding and disbursed is an external obligation of a private debtor that is not guaranteed for repayment by a public entity. Data are in current U.S. dollars."
+    }, 
+    "DT.NFL.NEBR.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "EBRD, private nonguaranteed (NFL, current US$)", 
+        "sourceNote": "Nonguaranteed long-term debt privately placed from the European Bank for Reconstruction and Development (EBRD). Net flows (or net lending or net disbursements) received by the borrower during the year are disbursements minus principal repayments. Data are in current U.S. dollars."
+    }, 
+    "DT.AXA.OFFT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Principal arrears, official creditors (current US$)", 
+        "sourceNote": "Principal in arrears on long-term debt is defined as principal repayment due but not paid, on a cumulative basis. Debt from official creditors includes loans from international organizations (multilateral loans) and loans from governments (bilateral loans). Loans from international organization include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Government loans include loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "DT.AMT.MLTC.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, multilateral concessional (AMT, current US$)", 
+        "sourceNote": "Public and publicly guaranteed multilateral loans include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Concessional debt is defined as loans with an original grant element of 25 percent or more. The grant element of a loan is the grant equivalent expressed as a percentage of the amount committed. It is used as a measure of the overall cost of borrowing. The grant equivalent of a loan is its commitment (present) value, less the discounted present value of its contractual debt service; conventionally, future service payments are discounted at 10 percent. Principal repayments are actual amounts of principal (amortization) paid by the borrower in currency, goods, or services in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.AMT.BLAT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, bilateral (AMT, current US$)", 
+        "sourceNote": "Bilateral debt includes loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies. Principal repayments are actual amounts of principal (amortization) paid by the borrower in foreign currency, goods, or services in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.NTR.PBND.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, bonds (NTR, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt from bonds that are either publicly issued or privately placed. Net transfers are net flows minus interest payments during the year; negative transfers show net transfers made by the borrower to the creditor during the year. Data are in current U.S. dollars."
+    }, 
+    "DT.DIS.BLAT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, bilateral (DIS, current US$)", 
+        "sourceNote": "Bilateral debt includes loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies. Disbursements are drawings by the borrower on loan commitments during the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.IXR.DPPG.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Interest rescheduled (capitalized) (current US$)", 
+        "sourceNote": "Interest rescheduled is the amount of interest due or in arrears that was rescheduled in any given year. (Interest capitalized is the interest that became part of the stock of debt due to a rescheduling operation.) Data are in current U.S. dollars."
+    }, 
+    "DT.NFL.PNGB.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PNG, bonds (NFL, current US$)", 
+        "sourceNote": "Nonguaranteed long-term debt from bonds that are privately placed. Net flows (or net lending or net disbursements) received by the borrower during the year are disbursements minus principal repayments. Data are in current U.S. dollars."
+    }, 
+    "BM.GSR.TOTL.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "International Monetary Fund, Balance of Payments Statistics Yearbook and data files.", 
+        "name": "Imports of goods, services and primary income (BoP, current US$)", 
+        "sourceNote": "Imports of goods, services and primary income is the sum of goods imports, service imports and primary income payments. Data are in current U.S. dollars."
+    }, 
+    "DT.DOD.DECT.GN.ZS": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "External debt stocks (% of GNI)", 
+        "sourceNote": "Total external debt stocks to gross national income. Total external debt is debt owed to nonresidents repayable in currency, goods, or services. Total external debt is the sum of public, publicly guaranteed, and private nonguaranteed long-term debt, use of IMF credit, and short-term debt. Short-term debt includes all debt having an original maturity of one year or less and interest in arrears on long-term debt. GNI (formerly GNP) is the sum of value added by all resident producers plus any product taxes (less subsidies) not included in the valuation of output plus net receipts of primary income (compensation of employees and property income) from abroad."
+    }, 
+    "FI.RES.TOTL.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "International Monetary Fund, International Financial Statistics and data files.", 
+        "name": "Total reserves (includes gold, current US$)", 
+        "sourceNote": "Total reserves comprise holdings of monetary gold, special drawing rights, reserves of IMF members held by the IMF, and holdings of foreign exchange under the control of monetary authorities. The gold component of these reserves is valued at year-end (December 31) London prices. Data are in current U.S. dollars."
+    }, 
+    "DT.TDS.BLTC.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, bilateral concessional (TDS, current US$)", 
+        "sourceNote": "Bilateral debt includes loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies. Concessional debt is defined as loans with an original grant element of 25 percent or more. The grant element of a loan is the grant equivalent expressed as a percentage of the amount committed. It is used as a measure of the overall cost of borrowing. The grant equivalent of a loan is its commitment (present) value, less the discounted present value of its contractual debt service; conventionally, future service payments are discounted at 10 percent. Debt service payments are the sum of principal repayments and interest payments actually made in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.DOD.BLTC.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, bilateral concessional (DOD, current US$)", 
+        "sourceNote": "Public and publicly guaranteed bilateral debt includes loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies. Concessional debt is defined as loans with an original grant element of 25 percent or more. The grant element of a loan is the grant equivalent expressed as a percentage of the amount committed. It is used as a measure of the overall cost of borrowing. The grant equivalent of a loan is its commitment (present) value, less the discounted present value of its contractual debt service; conventionally, future service payments are discounted at 10 percent. Data are in current U.S. dollars."
+    }, 
+    "DT.TDS.PBND.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, bonds (TDS, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt from bonds that are either publicly issued or privately placed. Debt service payments are the sum of principal repayments and interest payments actually made in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.DOD.DPNG.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "External debt stocks, private nonguaranteed (PNG) (DOD, current US$)", 
+        "sourceNote": "Private nonguaranteed external debt comprises long-term external obligations of private debtors that are not guaranteed for repayment by a public entity. Data are in current U.S. dollars."
+    }, 
+    "DT.TDS.MIBR.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, IBRD (TDS, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt outstanding from the International Bank for Reconstruction and Development (IBRD) is nonconcessional. Nonconcessional debt excludes loans with an original grant element of 25 percent or more. Debt service payments are the sum of principal repayments and interest payments actually made in the year specified. Data are in current U.S. dollars."
+    }, 
+    "BX.GRT.TECH.CD.WD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics, and OECD.", 
+        "name": "Technical cooperation grants (BoP, current US$)", 
+        "sourceNote": "Technical cooperation grants include free-standing technical cooperation grants, which are intended to finance the transfer of technical and managerial skills or of technology for the purpose of building up general national capacity without reference to any specific investment projects; and investment-related technical cooperation grants, which are provided to strengthen the capacity to execute specific investment projects. Data are in current U.S. dollars."
+    }, 
+    "DT.DOD.PNGC.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PNG, commercial banks and other creditors (DOD, current US$)", 
+        "sourceNote": "Nonguaranteed long-term commercial bank loans from private banks and other private financial institutions. Private nonguaranteed long-term debt outstanding and disbursed is an external obligation of a private debtor that is not guaranteed for repayment by a public entity. Data are in current U.S. dollars."
+    }, 
+    "DT.NTR.BLAT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, bilateral (NTR, current US$)", 
+        "sourceNote": "Bilateral debt includes loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies. Net transfers are net flows minus interest payments during the year; negative transfers show net transfers made by the borrower to the creditor during the year. Data are in current U.S. dollars."
+    }, 
+    "DT.MAT.PRVT": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Average maturity on new external debt commitments, private (years)", 
+        "sourceNote": "Maturity is the number of years to original maturity date, which is the sum of grace and repayment periods. Grace period for principal is the period from the date of signature of the loan or the issue of the financial instrument to the first repayment of principal. The repayment period is the period from the first to last repayment of principal. To obtain the average, the maturity for all public and publicly guaranteed loans have been weighted by the amounts of the loans. Debt from private creditors include bonds that are either publicly issued or privately placed; commercial bank loans from private banks and other private financial institutions; and other private credits from manufacturers, exporters, and other suppliers of goods, and bank credits covered by a guarantee of an export credit agency."
+    }, 
+    "DT.NTR.PCBK.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, commercial banks (NTR, current US$)", 
+        "sourceNote": "Public and publicly guaranteed commercial bank loans from private banks and other private financial institutions. Net transfers are net flows minus interest payments during the year; negative transfers show net transfers made by the borrower to the creditor during the year. Data are in current U.S. dollars."
+    }, 
+    "DT.INT.DIMF.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "IMF charges (INT, current US$)", 
+        "sourceNote": "IMF charges cover interest payments with respect to all uses of IMF resources, excluding those resulting from drawings in the reserve tranche. Data are in current U.S. dollars."
+    }, 
+    "BX.KLT.DREM.CD.DT": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Primary income on FDI, payments (current US$)", 
+        "sourceNote": "Primary income on foreign direct investment covers payments of direct investment income (debit side), which consist of income on equity (dividends, branch profits, and reinvested earnings) and income on the intercompany debt (interest). Data are in current U.S. dollars."
+    }, 
+    "DT.IXA.DPPG.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Interest arrears, public and publicly guaranteed (current US$)", 
+        "sourceNote": "Interest in arrears on long-term debt is defined as interest payment due but not paid, on a cumulative basis. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "DT.TDS.DIMF.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "IMF repurchases and charges (TDS, current US$)", 
+        "sourceNote": "IMF repurchases are total repayments of outstanding drawings from the General Resources Account during the year specified, excluding repayments due in the reserve tranche. IMF charges cover interest payments with respect to all uses of IMF resources, excluding those resulting from drawings in the reserve tranche. Data are in current U.S. dollars."
+    }, 
+    "DT.DOD.BLAT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, bilateral (DOD, current US$)", 
+        "sourceNote": "Public and publicly guaranteed bilateral debt includes loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies. Data are in current U.S. dollars."
+    }, 
+    "DT.NTR.MIDA.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, IDA (NTR, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt outstanding from the International Development Association (IDA) is concessional. Concessional debt is defined as loans with an original grant element of 25 percent or more. The grant element of a loan is the grant equivalent expressed as a percentage of the amount committed. It is used as a measure of the overall cost of borrowing. The grant equivalent of a loan is its commitment (present) value, less the discounted present value of its contractual debt service; conventionally, future service payments are discounted at 10 percent. Net transfers are net flows minus interest payments during the year; negative transfers show net transfers made by the borrower to the creditor during the year. Data are in current U.S. dollars."
+    }, 
+    "DT.AMT.MLAT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, multilateral (AMT, current US$)", 
+        "sourceNote": "Public and publicly guaranteed multilateral loans include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Principal repayments are actual amounts of principal (amortization) paid by the borrower in currency, goods, or services in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.CUR.DMAK.ZS": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Currency composition of PPG debt, Deutsche mark (%)", 
+        "sourceNote": "The percentage of external long-term public and publicly-guaranteed debt contracted in Deutsche marks for the low- and middle-income countries."
+    }, 
+    "DT.AMT.PCBK.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, commercial banks (AMT, current US$)", 
+        "sourceNote": "Public and publicly guaranteed commercial bank loans from private banks and other private financial institutions. Principal repayments are actual amounts of principal (amortization) paid by the borrower in currency, goods, or services in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.DOD.PCBK.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, commercial banks (DOD, current US$)", 
+        "sourceNote": "Public and publicly guaranteed commercial bank loans from private banks and other private financial institutions. Data are in current U.S. dollars."
+    }, 
+    "DT.DIS.DLXF.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Disbursements on external debt, long-term (DIS, current US$)", 
+        "sourceNote": "Disbursements on long-term debt are drawings by the borrower on loan commitments during the year specified. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "DT.INT.DPNG.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Interest payments on external debt, private nonguaranteed (PNG) (INT, current US$)", 
+        "sourceNote": "Private nonguaranteed external debt is an external obligation of a private debtor that is not guaranteed for repayment by a public entity. Interest payments are actual amounts of interest paid by the borrower in currency, goods, or services in the year specified. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "DT.TDS.DPPG.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Debt service on external debt, public and publicly guaranteed (PPG) (TDS, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt service is the sum of principal repayments and interest actually paid in currency, goods, or services on long-term obligations of public debtors and long-term private obligations guaranteed by a public entity. Data are in current U.S. dollars."
+    }, 
+    "DT.DSF.DPPG.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Debt stock reduction (current US$)", 
+        "sourceNote": "Debt stock reductions show the amount that has been netted out of the stock of debt using debt conversion schemes such as buybacks and equity swaps or the discounted value of long-term bonds that were issued in exchange for outstanding debt. It includes the effect of any financial operation that will reduce the debt stock other than debt stock restructuring, repayment of principal and debt forgiven. In particular, debt stock reduction will include the face value of debt bought back, the face value of debt swapped for equity (or \"nature\" or \"development\"), any face value reduction that might result as the consequence of a bond exchange, and any face value reduction resulting from an exchange of debt for discount bonds. Data are in current U.S. dollars."
+    }, 
+    "DT.NFL.PNGC.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PNG, commercial banks and other creditors (NFL, current US$)", 
+        "sourceNote": "Nonguaranteed long-term commercial bank loans from private banks and other private financial institutions. Net flows (or net lending or net disbursements) received by the borrower during the year are disbursements minus principal repayments. Data are in current U.S. dollars."
+    }, 
+    "DT.DOD.MIBR.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, IBRD (DOD, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt outstanding from the International Bank for Reconstruction and Development (IBRD) is nonconcessional. Nonconcessional debt excludes loans with an original grant element of 25 percent or more. Data are in current U.S. dollars."
+    }, 
+    "DT.TDS.MLTC.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, multilateral concessional (TDS, current US$)", 
+        "sourceNote": "Public and publicly guaranteed multilateral loans include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Concessional debt is defined as loans with an original grant element of 25 percent or more. The grant element of a loan is the grant equivalent expressed as a percentage of the amount committed. It is used as a measure of the overall cost of borrowing. The grant equivalent of a loan is its commitment (present) value, less the discounted present value of its contractual debt service; conventionally, future service payments are discounted at 10 percent. Debt service payments are the sum of principal repayments and interest payments actually made in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.INT.PROP.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, other private creditors (INT, current US$)", 
+        "sourceNote": "Public and publicly guaranteed other private credits from manufacturers, exporters, and other suppliers of goods, and bank credits covered by a guarantee of an export credit agency. Interest payments are actual amounts of interest paid by the borrower in currency, goods, or services in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.DOD.DPPG.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt comprises long-term external obligations of public debtors, including the national government, political subdivisions (or an agency of either), and autonomous public bodies, and external obligations of private debtors that are guaranteed for repayment by a public entity. Data are in current U.S. dollars."
+    }, 
+    "DT.INT.BLAT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, bilateral (INT, current US$)", 
+        "sourceNote": "Bilateral debt includes loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies. Interest payments are actual amounts of interest paid by the borrower in currency, goods, or services in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.DOD.DECT.CD.CG": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Total change in external debt stocks (current US$)", 
+        "sourceNote": "Total change in debt stocks shows the variation in debt stock between two consecutive years. Data are in current U.S. dollars."
+    }, 
+    "DT.NTR.DPPG.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Net transfers on external debt, public and publicly guaranteed (PPG) (NTR, current US$)", 
+        "sourceNote": "Public debt is an external obligation of a public debtor, including the national government, a political subdivision (or an agency of either), and autonomous public bodies. Publicly guaranteed debt is an external obligation of a private debtor that is guaranteed for repayment by a public entity. Net transfers are net flows minus interest payments during the year; negative transfers show net transfers made by the borrower to the creditor during the year. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "DT.AMT.DPPG.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Principal repayments on external debt, public and publicly guaranteed (PPG) (AMT, current US$)", 
+        "sourceNote": "Public and publicly guaranteed long-term debt are aggregated. Public debt is an external obligation of a public debtor, including the national government, a political subdivision (or an agency of either), and autonomous public bodies. Publicly guaranteed debt is an external obligation of a private debtor that is guaranteed for repayment by a public entity. Principal repayments are actual amounts of principal (amortization) paid by the borrower in currency, goods, or services in the year specified. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "DT.AMT.DIMF.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "IMF repurchases (AMT, current US$)", 
+        "sourceNote": "IMF repurchases are total repayments of outstanding drawings from the General Resources Account during the year specified, excluding repayments due in the reserve tranche. Data are in current U.S. dollars."
+    }, 
+    "DT.TDS.PRVT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, private creditors (TDS, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt from private creditors include bonds that are either publicly issued or privately placed; commercial bank loans from private banks and other private financial institutions; and other private credits from manufacturers, exporters, and other suppliers of goods, and bank credits covered by a guarantee of an export credit agency. Debt service payments are the sum of principal repayments and interest payments actually made in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.AMT.PROP.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, other private creditors (AMT, current US$)", 
+        "sourceNote": "Public and publicly guaranteed other private credits from manufacturers, exporters, and other suppliers of goods, and bank credits covered by a guarantee of an export credit agency. Principal repayments are actual amounts of principal (amortization) paid by the borrower in currency, goods, or services in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.DIS.MIDA.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, IDA (DIS, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt outstanding from the International Development Association (IDA) is concessional. Concessional debt is defined as loans with an original grant element of 25 percent or more. The grant element of a loan is the grant equivalent expressed as a percentage of the amount committed. It is used as a measure of the overall cost of borrowing. The grant equivalent of a loan is its commitment (present) value, less the discounted present value of its contractual debt service; conventionally, future service payments are discounted at 10 percent. Disbursements are drawings by the borrower on loan commitments during the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.UND.DPPG.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Undisbursed external debt, total (UND, current US$)", 
+        "sourceNote": "Undisbursed debt is the total public and publicly guaranteed debt undrawn at year end; data for private nonguaranteed debt are not available. Public and publicly guaranteed long-term debt are aggregated. Public debt is an external obligation of a public debtor, including the national government, a political subdivision (or an agency of either), and autonomous public bodies. Publicly guaranteed debt is an external obligation of a private debtor that is guaranteed for repayment by a public entity. Data are in current U.S. dollars."
+    }, 
+    "FI.RES.TOTL.DT.ZS": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Total reserves (% of total external debt)", 
+        "sourceNote": "International reserves to total external debt stocks."
+    }, 
+    "DT.DIS.PBND.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, bonds (DIS, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt from bonds that are either publicly issued or privately placed. Disbursements are drawings by the borrower on loan commitments during the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.TDS.DECT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Debt service on external debt, total (TDS, current US$)", 
+        "sourceNote": "Total debt service is the sum of principal repayments and interest actually paid in currency, goods, or services on long-term debt, interest paid on short-term debt, and repayments (repurchases and charges) to the IMF. Data are in current U.S. dollars."
+    }, 
+    "DT.NTR.MIBR.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, IBRD (NTR, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt outstanding from the International Bank for Reconstruction and Development (IBRD) is nonconcessional. Nonconcessional debt excludes loans with an original grant element of 25 percent or more. Net transfers are net flows minus interest payments during the year; negative transfers show net transfers made by the borrower to the creditor during the year. Data are in current U.S. dollars."
+    }, 
+    "DT.NFL.PBND.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, bonds (NFL, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt from bonds that are either publicly issued or privately placed. Net flows (or net lending or net disbursements) received by the borrower during the year are disbursements minus principal repayments. Data are in current U.S. dollars."
+    }, 
+    "DT.NFL.BLAT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Net financial flows, bilateral (NFL, current US$)", 
+        "sourceNote": "Bilateral debt includes loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies. Net flows (or net lending or net disbursements) received by the borrower during the year are disbursements minus principal repayments. Data are in current U.S. dollars."
+    }, 
+    "DT.NFL.MIDA.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Net financial flows, IDA (NFL, current US$)", 
+        "sourceNote": "Net financial flows received by the borrower during the year are disbursements of loans and credits less repayments of principal. IDA is the International Development Association, the concessional loan window of the World Bank Group. Data are in current U.S. dollars."
+    }, 
+    "DT.AXF.DPPG.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Principal forgiven (current US$)", 
+        "sourceNote": "Principal forgiven is the amount of principal due or in arrears that was written off or forgiven in any given year. It includes debt forgiven within and outside Paris Club agreements, principal forgiven and principal arrears forgiven. Data are in current U.S. dollars."
+    }, 
+    "DT.INT.DECT.GN.ZS": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Interest payments on external debt (% of GNI)", 
+        "sourceNote": "Total interest payments to gross national income."
+    }, 
+    "DT.DOD.PUBS.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "External debt stocks, long-term public sector (DOD, current US$)", 
+        "sourceNote": "Long-term public sector external debt conveys information about the distribution of long-term debt for DRS countries by type of debtor (central government, state and local government, central bank, public and mixed enterprises, and official development banks). Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "DT.TDS.BLAT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, bilateral (TDS, current US$)", 
+        "sourceNote": "Bilateral debt includes loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies. Debt service payments are the sum of principal repayments and interest payments actually made in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.AMT.DLXF.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Principal repayments on external debt, long-term (AMT, current US$)", 
+        "sourceNote": "Principal repayments on long-term debt are actual amounts of principal (amortization) paid by the borrower in currency, goods, or services in the year specified. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "DT.INT.MIBR.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, IBRD (INT, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt outstanding from the International Bank for Reconstruction and Development (IBRD) is nonconcessional. Nonconcessional debt excludes loans with an original grant element of 25 percent or more. Interest payments are actual amounts of interest paid by the borrower in currency, goods, or services in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.CUR.UKPS.ZS": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Currency composition of PPG debt, Pound sterling (%)", 
+        "sourceNote": "The percentage of external long-term public and publicly-guaranteed debt contracted in U.K. pound sterling for the low- and middle-income countries."
+    }, 
+    "DT.TDS.MIDA.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, IDA (TDS, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt outstanding from the International Development Association (IDA) is concessional. Concessional debt is defined as loans with an original grant element of 25 percent or more. The grant element of a loan is the grant equivalent expressed as a percentage of the amount committed. It is used as a measure of the overall cost of borrowing. The grant equivalent of a loan is its commitment (present) value, less the discounted present value of its contractual debt service; conventionally, future service payments are discounted at 10 percent. Debt service payments are the sum of principal repayments and interest payments actually made in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.INT.DECT.EX.ZS": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Interest payments on external debt (% of exports of goods, services and primary income)", 
+        "sourceNote": "Total interest payments to exports of goods and services."
+    }, 
+    "DT.INT.DSTC.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Interest payments on external debt, short-term (INT, current US$)", 
+        "sourceNote": "Interest payments on short-term debt are actual amounts of interest paid by the borrower in currency, goods, or services in the year specified. This item includes interest paid on long-term debt, IMF charges, and interest paid on short-term debt. Short-term external debt is defined as debt that has an original maturity of one year or less. Available data permit no distinction between public and private nonguaranteed short-term debt. Data are in current U.S. dollars."
+    }, 
+    "DT.DXR.DPPG.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Debt stock rescheduled (current US$)", 
+        "sourceNote": "Debt stocks rescheduled is the amount of debt outstanding rescheduled in any given year. Data are in current U.S. dollars."
+    }, 
+    "DT.DOD.DLXF.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "External debt stocks, long-term (DOD, current US$)", 
+        "sourceNote": "Long-term debt is debt that has an original or extended maturity of more than one year. It has three components: public, publicly guaranteed, and private nonguaranteed debt. Data are in current U.S. dollars."
+    }, 
+    "DT.TDS.DECT.EX.ZS": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Total debt service (% of exports of goods, services and primary income)", 
+        "sourceNote": "Total debt service is the sum of principal repayments and interest actually paid in currency, goods, or services on long-term debt, interest paid on short-term debt, and repayments (repurchases and charges) to the IMF."
+    }, 
+    "NY.GNP.MKTP.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank national accounts data, and OECD National Accounts data files.", 
+        "name": "GNI (current US$)", 
+        "sourceNote": "GNI (formerly GNP) is the sum of value added by all resident producers plus any product taxes (less subsidies) not included in the valuation of output plus net receipts of primary income (compensation of employees and property income) from abroad. Data are in current U.S. dollars."
+    }, 
+    "DT.DOD.DSTC.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "External debt stocks, short-term (DOD, current US$)", 
+        "sourceNote": "Short-term external debt is defined as debt that has an original maturity of one year or less. Available data permit no distinction between public and private nonguaranteed short-term debt. Data are in current U.S. dollars."
+    }, 
+    "DT.UND.OFFT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Undisbursed external debt, official creditors (UND, current US$)", 
+        "sourceNote": "Undisbursed debt is the total public and publicly guaranteed debt undrawn at year end; data for private nonguaranteed debt are not available. Debt from official creditors includes loans from international organizations (multilateral loans) and loans from governments (bilateral loans). Loans from international organization include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Government loans include loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies. Data are in current U.S. dollars."
+    }, 
+    "DT.MAT.OFFT": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Average maturity on new external debt commitments, official (years)", 
+        "sourceNote": "Maturity is the number of years to original maturity date, which is the sum of grace and repayment periods. Grace period for principal is the period from the date of signature of the loan or the issue of the financial instrument to the first repayment of principal. The repayment period is the period from the first to last repayment of principal. To obtain the average, the maturity for all public and publicly guaranteed loans have been weighted by the amounts of the loans. Debt from official creditors includes loans from international organizations (multilateral loans) and loans from governments (bilateral loans). Loans from international organization include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Government loans include loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies."
+    }, 
+    "DT.GRE.PRVT": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Average grant element on new external debt commitments, private (%)", 
+        "sourceNote": "The grant element of a loan is the grant equivalent expressed as a percentage of the amount committed. It is used as a measure of the overall cost of borrowing. To obtain the average, the grant elements for all public and publicly guaranteed loans have been weighted by the amounts of the loans. The grant equivalent of a loan is its commitment (present) value, less the discounted present value of its contractual debt service; conventionally, future service payments are discounted at 10 percent. Commitments cover the total amount of loans for which contracts were signed in the year specified. Debt from private creditors include bonds that are either publicly issued or privately placed; commercial bank loans from private banks and other private financial institutions; and other private credits from manufacturers, exporters, and other suppliers of goods, and bank credits covered by a guarantee of an export credit agency."
+    }, 
+    "DT.TDS.PNGB.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PNG, bonds (TDS, current US$)", 
+        "sourceNote": "Nonguaranteed long-term debt from bonds that are privately placed. Debt service payments are the sum of principal repayments and interest payments actually made in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.DFR.DPPG.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Debt forgiveness or reduction (current US$)", 
+        "sourceNote": "Debt forgiveness or reduction shows the change in debt stock due to debt forgiveness or reduction. It is derived by subtracting debt forgiven and debt stock reduction from debt buyback. Data are in current U.S. dollars."
+    }, 
+    "DT.DOD.MIDA.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, IDA (DOD, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt outstanding from the International Development Association (IDA) is concessional. Concessional debt is defined as loans with an original grant element of 25 percent or more. The grant element of a loan is the grant equivalent expressed as a percentage of the amount committed. It is used as a measure of the overall cost of borrowing. The grant equivalent of a loan is its commitment (present) value, less the discounted present value of its contractual debt service; conventionally, future service payments are discounted at 10 percent. Data are in current U.S. dollars."
+    }, 
+    "DT.DOD.DSTC.ZS": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Short-term debt (% of total external debt)", 
+        "sourceNote": "Short-term debt includes all debt having an original maturity of one year or less and interest in arrears on long-term debt. Total external debt is debt owed to nonresidents repayable in currency, goods, or services. Total external debt is the sum of public, publicly guaranteed, and private nonguaranteed long-term debt, use of IMF credit, and short-term debt."
+    }, 
+    "DT.CUR.MULC.ZS": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Currency composition of PPG debt, Multiple currencies (%)", 
+        "sourceNote": "The percentage of external long-term public and publicly-guaranteed debt contracted in multiple currencies for the low- and middle-income countries."
+    }, 
+    "DT.NFL.MOTH.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Net financial flows, others (NFL, current US$)", 
+        "sourceNote": "Net financial flows received by the borrower during the year are disbursements of loans and credits less repayments of principal. Others is a residual category in the World Bank's Debtor Reporting System. It includes such institutions as the Caribbean Development Fund, Council of Europe, European Development Fund, Islamic Development Bank, Nordic Development Fund, and the like. Data are in current U.S. dollars."
+    }, 
+    "DT.DOD.PBND.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, bonds (DOD, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt from bonds that are either publicly issued or privately placed. Data are in current U.S. dollars."
+    }, 
+    "DT.COM.DPPG.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Commitments, public and publicly guaranteed (COM, current US$)", 
+        "sourceNote": "Commitments are the total amount of long-term loans for which contracts were signed in the year specified; data for private nonguaranteed debt are not available. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "DT.INT.PNGB.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PNG, bonds (INT, current US$)", 
+        "sourceNote": "Nonguaranteed long-term debt from bonds that are privately placed. Interest payments are actual amounts of interest paid by the borrower in currency, goods, or services in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.NTR.PNGC.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PNG, commercial banks and other creditors (NTR, current US$)", 
+        "sourceNote": "Nonguaranteed long-term commercial bank loans from private banks and other private financial institutions. Net transfers are net flows minus interest payments during the year; negative transfers show net transfers made by the borrower to the creditor during the year. Data are in current U.S. dollars."
+    }, 
+    "DT.DIS.IDAG.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "IDA grants (current US$)", 
+        "sourceNote": "IDA grants are net disbursements of grants from the International Development Association (IDA). Data are in current U.S. dollars. Regional allocations are included in aggregate data."
+    }, 
+    "DT.AMT.PNGB.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PNG, bonds (AMT, current US$)", 
+        "sourceNote": "Nonguaranteed long-term debt from bonds that are privately placed. Principal repayments are actual amounts of principal (amortization) paid by the borrower in currency, goods, or services in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.NFL.DSTC.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Net flows on external debt, short-term (NFL, current US$)", 
+        "sourceNote": "Net flows (or net lending or net disbursements) received by the borrower during the year are disbursements minus principal repayments. Short-term external debt is defined as debt that has an original maturity of one year or less. Available data permit no distinction between public and private nonguaranteed short-term debt. Data are in current U.S. dollars."
+    }, 
+    "DT.AMT.BLTC.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, bilateral concessional (AMT, current US$)", 
+        "sourceNote": "Bilateral debt includes loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies. Concessional debt is defined as loans with an original grant element of 25 percent or more. The grant element of a loan is the grant equivalent expressed as a percentage of the amount committed. It is used as a measure of the overall cost of borrowing. The grant equivalent of a loan is its commitment (present) value, less the discounted present value of its contractual debt service; conventionally, future service payments are discounted at 10 percent. Principal repayments are actual amounts of principal (amortization) paid by the borrower in currency, goods, or services in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.IXR.OFFT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Interest rescheduled, official (current US$)", 
+        "sourceNote": "Interest rescheduled is the amount of interest due or in arrears that was rescheduled in any given year. Debt from official creditors includes loans from international organizations (multilateral loans) and loans from governments (bilateral loans). Loans from international organizations include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Government loans include loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies. Data are in current U.S. dollars."
+    }, 
+    "DT.DIS.MIBR.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, IBRD (DIS, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt outstanding from the International Bank for Reconstruction and Development (IBRD) is nonconcessional. Nonconcessional debt excludes loans with an original grant element of 25 percent or more. Disbursements are drawings by the borrower on loan commitments during the year specified. Data are in current U.S. dollars."
+    }, 
+    "FI.RES.TOTL.MO": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "International Monetary Fund, International Financial Statistics and data files.", 
+        "name": "Total reserves in months of imports", 
+        "sourceNote": "Total reserves comprise holdings of monetary gold, special drawing rights, reserves of IMF members held by the IMF, and holdings of foreign exchange under the control of monetary authorities. The gold component of these reserves is valued at year-end (December 31) London prices. This item shows reserves expressed in terms of the number of months of imports of goods and services they could pay for [Reserves/(Imports/12)]."
+    }, 
+    "DT.DOD.PRVS.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "External debt stocks, long-term private sector (DOD, current US$)", 
+        "sourceNote": "Long-term private sector external debt conveys information about the distribution of long-term debt for DRS countries by type of debtor (private banks and private entities). Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "DT.INT.PBND.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, bonds (INT, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt from bonds that are either publicly issued or privately placed. Interest payments are actual amounts of interest paid by the borrower in currency, goods, or services in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.NFL.OFFT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, official creditors (NFL, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt from official creditors includes loans from international organizations (multilateral loans) and loans from governments (bilateral loans). Loans from international organization include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Government loans include loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies. Net flows (or net lending or net disbursements) received by the borrower during the year are disbursements minus principal repayments. Data are in current U.S. dollars."
+    }, 
+    "DT.COM.PRVT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Commitments, private creditors (COM, current US$)", 
+        "sourceNote": "Commitments are the amount of long-term loans for which contracts were signed in the year specified; data for private nonguaranteed debt are not available. Debt from private creditors include bonds that are either publicly issued or privately placed; commercial bank loans from private banks and other private financial institutions; and other private credits from manufacturers, exporters, and other suppliers of goods, and bank credits covered by a guarantee of an export credit agency. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "DT.DOD.PRVT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, private creditors (DOD, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt from private creditors include bonds that are either publicly issued or privately placed; commercial bank loans from private banks and other private financial institutions; and other private credits from manufacturers, exporters, and other suppliers of goods, and bank credits covered by a guarantee of an export credit agency. Data are in current U.S. dollars."
+    }, 
+    "DT.TXR.DPPG.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Total amount of debt rescheduled (current US$)", 
+        "sourceNote": "Total amount of debt rescheduled includes the debt stock, principal, interest, charges and penalties rescheduled. Data are in current U.S. dollars."
+    }, 
+    "DT.AXR.DPPG.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Principal rescheduled (current US$)", 
+        "sourceNote": "Principal rescheduled is the amount of principal due or in arrears that was rescheduled in any given year. Data are in current U.S. dollars."
+    }, 
+    "BN.CAB.XOKA.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "International Monetary Fund, Balance of Payments Statistics Yearbook and data files.", 
+        "name": "Current account balance (BoP, current US$)", 
+        "sourceNote": "Current account balance is the sum of net exports of goods and services, net primary income, and net secondary income. Data are in current U.S. dollars."
+    }, 
+    "DT.INT.MIDA.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, IDA (INT, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt outstanding from the International Development Association (IDA) is concessional. Concessional debt is defined as loans with an original grant element of 25 percent or more. The grant element of a loan is the grant equivalent expressed as a percentage of the amount committed. It is used as a measure of the overall cost of borrowing. The grant equivalent of a loan is its commitment (present) value, less the discounted present value of its contractual debt service; conventionally, future service payments are discounted at 10 percent. Interest payments are actual amounts of interest paid by the borrower in currency, goods, or services in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.DIS.PCBK.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, commercial banks (DIS, current US$)", 
+        "sourceNote": "Public and publicly guaranteed commercial bank loans from private banks and other private financial institutions. Disbursements are drawings by the borrower on loan commitments during the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.NFL.MLAT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Net financial flows, multilateral (NFL, current US$)", 
+        "sourceNote": "Public and publicly guaranteed multilateral loans include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Net flows (or net lending or net disbursements) received by the borrower during the year are disbursements minus principal repayments. Data are in current U.S. dollars."
+    }, 
+    "DT.NTR.PROP.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, other private creditors (NTR, current US$)", 
+        "sourceNote": "Public and publicly guaranteed other private credits from manufacturers, exporters, and other suppliers of goods, and bank credits covered by a guarantee of an export credit agency. Net transfers are net flows minus interest payments during the year; negative transfers show net transfers made by the borrower to the creditor during the year. Data are in current U.S. dollars."
+    }, 
+    "DT.DOD.PROP.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, other private creditors (DOD, current US$)", 
+        "sourceNote": "Public and publicly guaranteed other private credits from manufacturers, exporters, and other suppliers of goods, and bank credits covered by a guarantee of an export credit agency. Data are in current U.S. dollars."
+    }, 
+    "DT.AMT.DLTF.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Principal repayments on external debt, long-term + IMF (AMT, current US$)", 
+        "sourceNote": "Principal repayments are actual amounts of principal (amortization) paid by the borrower in currency, goods, or services in the year specified. This item includes principal repayments on long-term debt and IMF repurchases. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. IMF repurchases are total repayments of outstanding drawings from the General Resources Account during the year specified, excluding repayments due in the reserve tranche. To maintain comparability between data on transactions with the IMF and data on long-term debt, use of IMF credit outstanding at the end of year (stock) is converted to dollars at the SDR exchange rate in effect at the end of year. Repurchases (flows) are converted at the average SDR exchange rate for the year in which transactions take place. Data are in current U.S. dollars."
+    }, 
+    "DT.NTR.BLTC.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, bilateral concessional (NTR, current US$)", 
+        "sourceNote": "Bilateral debt includes loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies. Concessional debt is defined as loans with an original grant element of 25 percent or more. The grant element of a loan is the grant equivalent expressed as a percentage of the amount committed. It is used as a measure of the overall cost of borrowing. The grant equivalent of a loan is its commitment (present) value, less the discounted present value of its contractual debt service; conventionally, future service payments are discounted at 10 percent. Net transfers are net flows minus interest payments during the year; negative transfers show net transfers made by the borrower to the creditor during the year. Data are in current U.S. dollars."
+    }, 
+    "DT.DOD.MDRI.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "Development Assistance Committee of the Organisation for Economic Co-operation and Development.", 
+        "name": "Debt forgiveness grants (current US$)", 
+        "sourceNote": "Debt forgiveness grants data cover both debt cancelled by agreement between debtor and creditor and a reduction in the net present value of non-ODA debt achieved by concessional rescheduling or refinancing. The  data are on a disbursement basis and cover flows from all bilateral and multilateral donors. Data are in current U.S. dollars. Regional and unspecified allocations are excluded from aggregate data. "
+    }, 
+    "DT.NFL.RDBN.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Net financial flows, RDB nonconcessional (NFL, current US$)", 
+        "sourceNote": "Net financial flows received by the borrower during the year are disbursements of loans and credits less repayments of principal. Nonconcessional financial flows cover all disbursements except those made through concessional lending facilities. Regional development banks are the African Development Bank, in Tunis, Tunisia, which serves all of Africa, including North Africa; the Asian Development Bank, in Manila, Philippines, which serves South and Central Asia and East Asia and Pacific; the European Bank for Reconstruction and Development, in London, United Kingdom, which serves Europe and Central Asia; and the Inter-American Development Bank, in Washington, D.C., which serves the Americas. Aggregates include amounts for economies not specified elsewhere. Data are in current U.S. dollars."
+    }, 
+    "DT.AMT.DPNG.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Principal repayments on external debt, private nonguaranteed (PNG) (AMT, current US$)", 
+        "sourceNote": "Private nonguaranteed external debt is an external obligation of a private debtor that is not guaranteed for repayment by a public entity. Principal repayments are actual amounts of principal (amortization) paid by the borrower in currency, goods, or services in the year specified. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "DT.DOD.OFFT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, official creditors (DOD, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt from official creditors includes loans from international organizations (multilateral loans) and loans from governments (bilateral loans). Loans from international organization include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Government loans include loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies. Data are in current U.S. dollars."
+    }, 
+    "DT.CUR.JYEN.ZS": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Currency composition of PPG debt, Japanese yen (%)", 
+        "sourceNote": "The percentage of external long-term public and publicly-guaranteed debt contracted in Japanese yen for the low- and middle-income countries."
+    }, 
+    "DT.DIS.PRVT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, private creditors (DIS, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt from private creditors include bonds that are either publicly issued or privately placed; commercial bank loans from private banks and other private financial institutions; and other private credits from manufacturers, exporters, and other suppliers of goods, and bank credits covered by a guarantee of an export credit agency. Disbursements are drawings by the borrower on loan commitments during the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.GRE.DPPG": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Average grant element on new external debt commitments (%)", 
+        "sourceNote": "The grant element of a loan is the grant equivalent expressed as a percentage of the amount committed. It is used as a measure of the overall cost of borrowing. To obtain the average, the grant elements for all public and publicly guaranteed loans have been weighted by the amounts of the loans. The grant equivalent of a loan is its commitment (present) value, less the discounted present value of its contractual debt service; conventionally, future service payments are discounted at 10 percent. Commitments cover the total amount of loans for which contracts were signed in the year specified. Public debt is an external obligation of a public debtor, including the national government, a political subdivision (or an agency of either), and autonomous public bodies. Publicly guaranteed debt is an external obligation of a private debtor that is guaranteed for repayment by a public entity. Data for private nonguaranteed debt are not available."
+    }, 
+    "DT.DOD.DIMF.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Use of IMF credit (DOD, current US$)", 
+        "sourceNote": "Use of IMF credit denotes members' drawings on the IMF other than amounts drawn against the country's reserve tranche position. Use of IMF credit includes purchases and drawings under Stand-By, Extended, Structural Adjustment, Enhanced Structural Adjustment, and Systemic Transformation Facility Arrangements as well as Trust Fund loans. SDR allocations are also included in this category. Note: Data related to the operations of the IMF are provided by the IMF Treasurer\u2019s Department. They are converted from special drawing rights into dollars using end-of-period exchange rates for stocks and average-over-the-period exchange rates for flows. Data are in current U.S. dollars."
+    }, 
+    "DT.NTR.DECT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Net transfers on external debt, total (NTR, current US$)", 
+        "sourceNote": "Net transfers on external debt are net flows minus interest payments during the year; negative transfers show net transfers made by the borrower to the creditor during the year. Data are in current U.S. dollars."
+    }, 
+    "DT.CUR.USDL.ZS": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Currency composition of PPG debt, U.S. dollars (%)", 
+        "sourceNote": "The percentage of external long-term public and publicly-guaranteed debt contracted in U.S. dollars for the low- and middle-income countries."
+    }, 
+    "DT.DOD.MLAT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, multilateral (DOD, current US$)", 
+        "sourceNote": "Public and publicly guaranteed multilateral loans include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Data are in current U.S. dollars."
+    }, 
+    "DT.INT.OFFT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, official creditors (INT, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt from official creditors includes loans from international organizations (multilateral loans) and loans from governments (bilateral loans). Loans from international organization include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Government loans include loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies. Interest payments are actual amounts of interest paid by the borrower in currency, goods, or services in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.DOD.MLTC.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, multilateral concessional (DOD, current US$)", 
+        "sourceNote": "Public and publicly guaranteed multilateral loans include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Concessional debt is defined as loans with an original grant element of 25 percent or more. The grant element of a loan is the grant equivalent expressed as a percentage of the amount committed. It is used as a measure of the overall cost of borrowing. The grant equivalent of a loan is its commitment (present) value, less the discounted present value of its contractual debt service; conventionally, future service payments are discounted at 10 percent. Data are in current U.S. dollars."
+    }, 
+    "DT.CUR.SDRW.ZS": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Currency composition of PPG debt, SDR (%)", 
+        "sourceNote": "The percentage of external long-term public and publicly-guaranteed debt contracted in special drawing rights for the low- and middle-income countries."
+    }, 
+    "DT.COM.MIBR.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Commitments, IBRD (COM, current US$)", 
+        "sourceNote": "Commitments (IBRD) are the sum of new commitments on public and publicly guaranteed loans from the International Bank for Reconstruction and Development (IBRD). Data are in current U.S. dollars."
+    }, 
+    "DT.IXA.PRVT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Interest arrears, private creditors (current US$)", 
+        "sourceNote": "Interest in arrears on long-term debt is defined as interest payment due but not paid, on a cumulative basis. Debt from private creditors include bonds that are either publicly issued or privately placed; commercial bank loans from private banks and other private financial institutions; and other private credits from manufacturers, exporters, and other suppliers of goods, and bank credits covered by a guarantee of an export credit agency. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "BX.PEF.TOTL.CD.WD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "International Monetary Fund, Balance of Payments database, and World Bank, International Debt Statistics.", 
+        "name": "Portfolio equity, net inflows (BoP, current US$)", 
+        "sourceNote": "Portfolio equity includes net inflows from equity securities other than those recorded as direct investment and including shares, stocks, depository receipts (American or global), and direct purchases of shares in local stock markets by foreign investors. Data are in current U.S. dollars."
+    }, 
+    "DT.DOD.ALLC.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "External debt stocks, concessional (DOD, current US$)", 
+        "sourceNote": "Concessional external debt conveys information about the borrower's receipt of aid from official lenders at concessional terms as defined by the Development Assistance Committee (DAC) of the OECD. Concessional debt is defined as loans with an original grant element of 25 percent or more. The grant element of a loan is the grant equivalent expressed as a percentage of the amount committed. It is used as a measure of the overall cost of borrowing. The grant equivalent of a loan is its commitment (present) value, less the discounted present value of its contractual debt service; conventionally, future service payments are discounted at 10 percent. Loans from major regional development banks--African Development Bank, Asian Development Bank, and the Inter-American Development Bank--and from the World Bank are classified as concessional according to each institution's classification and not according to the DAC definition, as was the practice in earlier reports. Long-term debt outstanding and disbursed is the total outstanding long-term debt at year end. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "DT.DOD.VTOT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "External debt stocks, variable rate (DOD, current US$)", 
+        "sourceNote": "Variable interest rate is long-term external debt with interest rates that float with movements in a key market rate; for example, the London interbank offered rate (LIBOR) or the U.S. prime rate. This item conveys information about the borrower's exposure to changes in international interest rates. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "DT.INT.MLAT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, multilateral (INT, current US$)", 
+        "sourceNote": "Public and publicly guaranteed multilateral loans include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Interest payments are actual amounts of interest paid by the borrower in currency, goods, or services in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.GRE.OFFT": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Average grant element on new external debt commitments, official (%)", 
+        "sourceNote": "The grant element of a loan is the grant equivalent expressed as a percentage of the amount committed. It is used as a measure of the overall cost of borrowing. To obtain the average, the grant elements for all public and publicly guaranteed loans have been weighted by the amounts of the loans. The grant equivalent of a loan is its commitment (present) value, less the discounted present value of its contractual debt service; conventionally, future service payments are discounted at 10 percent. Commitments cover the total amount of loans for which contracts were signed in the year specified. Debt from official creditors includes loans from international organizations (multilateral loans) and loans from governments (bilateral loans). Loans from international organization include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Government loans include loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies."
+    }, 
+    "DT.NFL.IMFC.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Net financial flows, IMF concessional (NFL, current US$)", 
+        "sourceNote": "Net financial flows received by the borrower during the year are disbursements of loans and credits less repayments of principal. IMF is the International Monetary Fund, which provides concessional lending through its Extended Credit Facility, Standby Credit Facility, and Rapid Credit Facility. Data are in current U.S. dollars."
+    }, 
+    "DT.INT.DECT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Interest payments on external debt, total (INT, current US$)", 
+        "sourceNote": "Interest payments are actual amounts of interest paid by the borrower in currency, goods, or services in the year specified. This item includes interest paid on long-term debt, IMF charges, and interest paid on short-term debt. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. Short-term external debt is defined as debt that has an original maturity of one year or less. Available data permit no distinction between public and private nonguaranteed short-term debt. Data are in current U.S. dollars."
+    }, 
+    "DT.INT.PRVT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, private creditors (INT, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt from private creditors include bonds that are either publicly issued or privately placed; commercial bank loans from private banks and other private financial institutions; and other private credits from manufacturers, exporters, and other suppliers of goods, and bank credits covered by a guarantee of an export credit agency. Interest payments are actual amounts of interest paid by the borrower in currency, goods, or services in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.DIS.DLTF.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Disbursements on external debt, long-term + IMF (DIS, current US$)", 
+        "sourceNote": "Disbursements are drawings by the borrower on loan commitments during the year specified. This item includes disbursements on long-term debt and IMF purchases. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. IMF purchases are total drawings on the General Resources Account of the IMF during the year specified, excluding drawings in the reserve tranche. To maintain comparability between data on transactions with the IMF and data on long-term debt, use of IMF credit outstanding at the end of year (stock) is converted to dollars at the SDR exchange rate in effect at the end of year. Purchases are converted at the average SDR exchange rate for the year in which transactions take place. Data are in current U.S. dollars."
+    }, 
+    "DT.INT.DLXF.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Interest payments on external debt, long-term (INT, current US$)", 
+        "sourceNote": "Interest payments on long-term debt are actual amounts of interest paid by the borrower in currency, goods, or services in the year specified. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "DT.INT.MLTC.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, multilateral concessional (INT, current US$)", 
+        "sourceNote": "Public and publicly guaranteed multilateral loans include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Concessional debt is defined as loans with an original grant element of 25 percent or more. The grant element of a loan is the grant equivalent expressed as a percentage of the amount committed. It is used as a measure of the overall cost of borrowing. The grant equivalent of a loan is its commitment (present) value, less the discounted present value of its contractual debt service; conventionally, future service payments are discounted at 10 percent. Interest payments are actual amounts of interest paid by the borrower in currency, goods, or services in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.NFL.PRVT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, private creditors (NFL, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt from private creditors include bonds that are either publicly issued or privately placed; commercial bank loans from private banks and other private financial institutions; and other private credits from manufacturers, exporters, and other suppliers of goods, and bank credits covered by a guarantee of an export credit agency. Net flows (or net lending or net disbursements) received by the borrower during the year are disbursements minus principal repayments. Data are in current U.S. dollars."
+    }, 
+    "DT.IXA.OFFT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Interest arrears, official creditors (current US$)", 
+        "sourceNote": "Interest in arrears on long-term debt is defined as interest payment due but not paid, on a cumulative basis. Debt from official creditors includes loans from international organizations (multilateral loans) and loans from governments (bilateral loans). Loans from international organization include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Government loans include loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "DT.NFL.DLXF.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Net flows on external debt, long-term (NFL, current US$)", 
+        "sourceNote": "Net flows (or net lending or net disbursements) received by the borrower during the year are disbursements minus principal repayments. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "DT.DIS.DPPG.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Disbursements on external debt, public and publicly guaranteed (PPG) (DIS, current US$)", 
+        "sourceNote": "Public and publicly guaranteed long-term debt are aggregated. Public debt is an external obligation of a public debtor, including the national government, a political subdivision (or an agency of either), and autonomous public bodies. Publicly guaranteed debt is an external obligation of a private debtor that is guaranteed for repayment by a public entity. Disbursements are drawings by the borrower on loan commitments during the year specified. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "DT.CUR.SWFR.ZS": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Currency composition of PPG debt, Swiss franc (%)", 
+        "sourceNote": "The percentage of external long-term public and publicly-guaranteed debt contracted in Swiss francs for the low- and middle-income countries."
+    }, 
+    "DT.DIS.BLTC.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, bilateral concessional (DIS, current US$)", 
+        "sourceNote": "Bilateral debt includes loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies. Concessional debt is defined as loans with an original grant element of 25 percent or more. The grant element of a loan is the grant equivalent expressed as a percentage of the amount committed. It is used as a measure of the overall cost of borrowing. The grant equivalent of a loan is its commitment (present) value, less the discounted present value of its contractual debt service; conventionally, future service payments are discounted at 10 percent. Disbursements are drawings by the borrower on loan commitments during the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.DOD.DECT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "External debt stocks, total (DOD, current US$)", 
+        "sourceNote": "Total external debt is debt owed to nonresidents repayable in currency, goods, or services. Total external debt is the sum of public, publicly guaranteed, and private nonguaranteed long-term debt, use of IMF credit, and short-term debt. Short-term debt includes all debt having an original maturity of one year or less and interest in arrears on long-term debt. Data are in current U.S. dollars."
+    }, 
+    "DT.GPA.DPPG": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Average grace period on new external debt commitments (years)", 
+        "sourceNote": "Grace period is the period from the date of signature of the loan or the issue of the financial instrument to the first repayment of principal. To obtain the average, the grace periods for all public and publicly guaranteed loans have been weighted by the amounts of the loans. Public debt is an external obligation of a public debtor, including the national government, a political subdivision (or an agency of either), and autonomous public bodies. Publicly guaranteed debt is an external obligation of a private debtor that is guaranteed for repayment by a public entity."
+    }, 
+    "DT.NFL.BLTC.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, bilateral concessional (NFL, current US$)", 
+        "sourceNote": "Bilateral debt includes loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies. Concessional debt is defined as loans with an original grant element of 25 percent or more. The grant element of a loan is the grant equivalent expressed as a percentage of the amount committed. It is used as a measure of the overall cost of borrowing. The grant equivalent of a loan is its commitment (present) value, less the discounted present value of its contractual debt service; conventionally, future service payments are discounted at 10 percent. Net flows (or net lending or net disbursements) received by the borrower during the year are disbursements minus principal repayments. Data are in current U.S. dollars."
+    }, 
+    "DT.INT.DPPG.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Interest payments on external debt, public and publicly guaranteed (PPG) (INT, current US$)", 
+        "sourceNote": "Public and publicly guaranteed long-term debt are aggregated. Public debt is an external obligation of a public debtor, including the national government, a political subdivision (or an agency of either), and autonomous public bodies. Publicly guaranteed debt is an external obligation of a private debtor that is guaranteed for repayment by a public entity. Interest payments are actual amounts of interest paid by the borrower in currency, goods, or services in the year specified. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "DT.DIS.DIMF.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "IMF purchases (DIS, current US$)", 
+        "sourceNote": "IMF purchases are total drawings on the General Resources Account of the IMF during the year specified, excluding drawings in the reserve tranche. Data are in current U.S. dollars."
+    }, 
+    "DT.NFL.IMFN.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Net financial flows, IMF nonconcessional (NFL, current US$)", 
+        "sourceNote": "Net financial flows received by the borrower during the year are disbursements of loans and credits less repayments of principal. IMF is the International Monetary Fund, which provides nonconcessional lending through the credit it provides to its members, mainly to meet balance of payments needs. Data are in current U.S. dollars."
+    }, 
+    "DT.DIS.MLAT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, multilateral (DIS, current US$)", 
+        "sourceNote": "Public and publicly guaranteed multilateral loans include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Disbursements are drawings by the borrower on loan commitments during the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.NFL.DPPG.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Net flows on external debt, public and publicly guaranteed (PPG) (NFL, current US$)", 
+        "sourceNote": "Public and publicly guaranteed long-term debt are aggregated. Public debt is an external obligation of a public debtor, including the national government, a political subdivision (or an agency of either), and autonomous public bodies. Publicly guaranteed debt is an external obligation of a private debtor that is guaranteed for repayment by a public entity. Net flows (or net lending or net disbursements) received by the borrower during the year are disbursements minus principal repayments. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "DT.TDS.OFFT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, official creditors (TDS, current US$)", 
+        "sourceNote": "Public and publicly guaranteed debt from official creditors includes loans from international organizations (multilateral loans) and loans from governments (bilateral loans). Loans from international organization include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Government loans include loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies. Debt service payments are the sum of principal repayments and interest payments actually made in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.DOD.PVLX.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Present value of external debt (current US$)", 
+        "sourceNote": "Present value of debt is the sum of short-term external debt plus the discounted sum of total debt service payments due on public, publicly guaranteed, and private nonguaranteed long-term external debt over the life of existing loans. Data are in current U.S. dollars."
+    }, 
+    "DT.TDS.PNGC.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PNG, commercial banks and other creditors (TDS, current US$)", 
+        "sourceNote": "Nonguaranteed long-term commercial bank loans from private banks and other private financial institutions. Debt service payments are the sum of principal repayments and interest payments actually made in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.INR.PRVT": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Average interest on new external debt commitments, private (%)", 
+        "sourceNote": "Interest represents the average interest rate on all new public and publicly guaranteed loans contracted during the year. To obtain the average, the interest rates for all public and publicly guaranteed loans have been weighted by the amounts of the loans. Debt from private creditors include bonds that are either publicly issued or privately placed; commercial bank loans from private banks and other private financial institutions; and other private credits from manufacturers, exporters, and other suppliers of goods, and bank credits covered by a guarantee of an export credit agency."
+    }, 
+    "DT.CUR.EURO.ZS": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Currency composition of PPG debt, Euro (%)", 
+        "sourceNote": "The percentage of external long-term public and publicly-guaranteed debt contracted in Euros for the low- and middle-income countries."
+    }, 
+    "DT.AMT.PNGC.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PNG, commercial banks and other creditors (AMT, current US$)", 
+        "sourceNote": "Nonguaranteed long-term commercial bank loans from private banks and other private financial institutions. Principal repayments are actual amounts of principal (amortization) paid by the borrower in currency, goods, or services in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.NTR.MLAT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PPG, multilateral (NTR, current US$)", 
+        "sourceNote": "Public and publicly guaranteed multilateral loans include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Net transfers are net flows minus interest payments during the year; negative transfers show net transfers made by the borrower to the creditor during the year. Data are in current U.S. dollars."
+    }, 
+    "DT.AXR.PRVT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Principal rescheduled, private (current US$)", 
+        "sourceNote": "Principal rescheduled is the amount of principal due or in arrears that was rescheduled in any given year. Debt from private creditors include bonds that are either publicly issued or privately placed; commercial bank loans from private banks and other private financial institutions; and other private credits from manufacturers, exporters, and other suppliers of goods, and bank credits covered by a guarantee of an export credit agency. Data are in current U.S. dollars."
+    }, 
+    "DT.GPA.OFFT": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Average grace period on new external debt commitments, official (years)", 
+        "sourceNote": "Grace period is the period from the date of signature of the loan or the issue of the financial instrument to the first repayment of principal. To obtain the average, the grace periods for all public and publicly guaranteed loans have been weighted by the amounts of the loans. Debt from official creditors includes loans from international organizations (multilateral loans) and loans from governments (bilateral loans). Loans from international organization include loans and credits from the World Bank, regional development banks, and other multilateral and intergovernmental agencies. Excluded are loans from funds administered by an international organization on behalf of a single donor government; these are classified as loans from governments. Government loans include loans from governments and their agencies (including central banks), loans from autonomous bodies, and direct loans from official export credit agencies."
+    }, 
+    "DT.NFL.DPNG.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Net flows on external debt, private nonguaranteed (PNG) (NFL, current US$)", 
+        "sourceNote": "Private nonguaranteed external debt is an external obligation of a private debtor that is not guaranteed for repayment by a public entity. Net flows (or net lending or net disbursements) received by the borrower during the year are disbursements minus principal repayments. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "BX.TRF.PWKR.CD.DT": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on IMF balance of payments data.", 
+        "name": "Personal remittances, received (current US$)", 
+        "sourceNote": "Personal transfers consist of all current transfers in cash or in kind made or received by resident households to or from nonresident households. Personal transfers thus include all current transfers between resident and nonresident individuals. Compensation of employees refers to the income of border, seasonal, and other short-term workers who are employed in an economy where they are not resident and of residents employed by nonresident entities. Data are the sum of two items defined in the sixth edition of the IMF's Balance of Payments Manual: personal transfers and compensation of employees. Data are in current U.S. dollars. "
+    }, 
+    "DT.AXA.PRVT.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Principal arrears, private creditors (current US$)", 
+        "sourceNote": "Principal in arrears on long-term debt is defined as principal repayment due but not paid, on a cumulative basis. Debt from private creditors include bonds that are either publicly issued or privately placed; commercial bank loans from private banks and other private financial institutions; and other private credits from manufacturers, exporters, and other suppliers of goods, and bank credits covered by a guarantee of an export credit agency. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents by residents of an economy and repayable in currency, goods, or services. Data are in current U.S. dollars."
+    }, 
+    "DT.INT.PNGC.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PNG, commercial banks and other creditors (INT, current US$)", 
+        "sourceNote": "Nonguaranteed long-term commercial bank loans from private banks and other private financial institutions. Interest payments are actual amounts of interest paid by the borrower in currency, goods, or services in the year specified. Data are in current U.S. dollars."
+    }, 
+    "DT.NTR.PNGB.CD": {
+        "source": "International Debt Statistics", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "PNG, bonds (NTR, current US$)", 
+        "sourceNote": "Nonguaranteed long-term debt from bonds that are privately placed. Net transfers are net flows minus interest payments during the year; negative transfers show net transfers made by the borrower to the creditor during the year. Data are in current U.S. dollars."
+    }
+}

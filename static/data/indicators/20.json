@@ -1,0 +1,1154 @@
+{
+    "DP.DOD.DLDS.CR.L1.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "043.Debt securities (PSDCG, LT, <1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLDS.CR.M1.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "050.Debt securities (PSDCG, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLCD.CR.M1.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "081.Currency and deposits (PSDCGGB, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSCD.CR.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "003.Currency and deposits (PSDGG, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLIN.CR.L1.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "077.Insurance, pensions, and standardized guarantee schemes (PSDCGGB, LT, <1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DECF.CR.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "159.Gross Financial Public Corporations Debt, Foreign currency  US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSLO.CR.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "101.Loans (PSDNFPC, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLLO.CR.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "025.Loans (PSDGG) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLIN.CR.M1.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "084.Insurance, pensions, and standardized guarantee schemes (PSDCGGB, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLDS.CR.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "088.Debt securities (PSDCGGB) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLSD.CR.M1.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "176.Special Drawing Rights (SDRs) (PSDT, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLSD.CR.M1.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "144.Special Drawing Rights (SDRs) (PSDFPC, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLDS.CR.L1.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "075.Debt securities (PSDCGGB, LT, <1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DECX.CR.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "125.Gross Nonfinancial Public Corporations Debt, External creditors  US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DECT.CR.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "033.Gross Central Government Debt (PSDCG) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLDS.CR.M1.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "146.Debt securities (PSDFPC, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DECF.CR.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "127.Gross Nonfinancial Public Corporations Debt, Foreign currency  US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLIN.CR.M1.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "052.Insurance, pensions, and standardized guarantee schemes (PSDCG, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLDS.CR.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "056.Debt securities (PSDCG) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLCD.CR.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "183.Currency and deposits (PSDT) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLOA.CR.M1.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "053.Other accounts payable (PSDCG, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLCD.CR.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "151.Currency and deposits (PSDFPC) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSTC.CR.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "162.Short-term by original maturity (PSDT, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLCD.CR.L1.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "170.Currency and deposits (PSDT, LT,<1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLCD.CR.L1.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "074.Currency and deposits (PSDCGGB, LT, <1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLSD.CR.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "182.Special Drawing Rights (SDRs) (PSDT) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLSD.CR.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "150.Special Drawing Rights (SDRs) (PSDFPC) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DECF.CR.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "095.Gross Budg. Central Govt. Public Sector Debt, Foreign currency US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLTC.CR.M1.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "111.With payment due in more than one year (PSDNFPC, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLCD.CR.M1.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "177.Currency and deposits (PSDT, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLIN.CR.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "026.Insurance, pensions, and standardized guarantee schemes (PSDGG) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLTC.CR.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "136.Long-term, by original maturity (PSDFPC, LT) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLTC.CR.M1.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "047.With payment due in more than one year (PSDCG, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLDS.CR.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "120.Debt securities (PSDNFPC) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLSD.CR.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "118.Special Drawing Rights (SDRs) (PSDNFPC) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLIN.CR.M1.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "116.Insurance, pensions, and standardized guarantee schemes (PSDNFPC, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DECX.CR.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "157.Gross Financial Public Corporations Debt, External creditors  US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DECX.CR.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "061.Central Govt. Public Sector Debt, External creditors US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLTC.CR.L1.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "169.With payment due in one year or less (PSDT, LT,<1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLTC.CR.L1.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "041.With payment due in one year or less (PSDCG, LT, <1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLDS.CR.MV.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "160.Gross Financial Public Corporations Debt Securities at market value US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLLO.CR.L1.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "108.Loans (PSDNFPC, LT, <1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLDS.CR.M1.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "178.Debt securities (PSDT, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSTC.CR.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "034.Short-term by original maturity (PSDCG, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSIN.CR.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "070.Insurance, pensions, and standardized guarantee schemes (PSDCGGB, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DECN.CR.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "158.Gross Financial Public Corporations Debt, Domestic currency  US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSIN.CR.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "038.Insurance, pensions, and standardized guarantee schemes (PSDCG, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSOA.CR.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "039.Other accounts payable (PSDCG, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLOA.CR.M1.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "021.Other accounts payable (PSDGG, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLOA.CR.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "091.Other accounts payable (PSDCGGB) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLTC.CR.L1.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "105.With payment due in one year or less (PSDNFPC, LT, <1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLTC.CR.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "008.Long-term, by original maturity (PSDGG, LT) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSDS.CR.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "132.Debt securities (PSDFPC, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DECX.CR.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "029.General Govt. Public Sector Debt, External creditors US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLLO.CR.L1.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "076.Loans (PSDCGGB, LT, <1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSLO.CR.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "133.Loans (PSDFPC, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLTC.CR.M1.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "015.With payment due in more than one year (PSDGG, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DECX.CR.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "093.Gross Budg. Central Govt. Public Sector Debt, External creditors US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLOA.CR.L1.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "142.Other accounts payable (PSDFPC, LT, <1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLDS.CR.L1.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "107.Debt securities (PSDNFPC, LT, <1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLTC.CR.L1.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "137.With payment due in one year or less (PSDFPC, LT, <1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLCD.CR.L1.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "042.Currency and deposits (PSDCG, LT, <1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DECD.CR.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "188.Gross Public Sector Debt, Domestic creditors  US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DECF.CR.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "063.Central Govt. Public Sector Debt, Foreign currency US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLDS.CR.MV.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "032.General Govt. Public Sector Debt Securities at market value US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSIN.CR.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "166.Insurance, pensions, and standardized guarantee schemes (PSDT, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLLO.CR.L1.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "172.Loans (PSDT, LT,<1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLDS.CR.MV.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "192.Gross Public Sector Debt Securities at market value US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLDS.CR.MV.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "096.Gross Budg. Central Govt. Public Sector Debt Securities at market value US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSCD.CR.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "163.Currency and deposits (PSDT, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLTC.CR.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "040.Long-term, by original maturity (PSDCG, LT) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLOA.CR.M1.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "085.Other accounts payable (PSDCGGB, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSOA.CR.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "103.Other accounts payable (PSDNFPC, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLIN.CR.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "122.Insurance, pensions, and standardized guarantee schemes (PSDNFPC) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSCD.CR.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "067.Currency and deposits (PSDCGGB, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLOA.CR.L1.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "110.Other accounts payable (PSDNFPC, LT, <1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLLO.CR.M1.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "147.Loans (PSDFPC, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSDS.CR.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "164.Debt securities (PSDT, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLCD.CR.L1.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "010.Currency and deposits (PSDGG, LT, <1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLLO.CR.L1.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "044.Loans (PSDCG, LT, <1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSOA.CR.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "167.Other accounts payable (PSDT, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSLO.CR.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "005.Loans (PSDGG, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLIN.CR.M1.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "020.Insurance, pensions, and standardized guarantee schemes (PSDGG, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLDS.CR.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "024.Debt securities (PSDGG) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLOA.CR.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "155.Other accounts payable (PSDFPC) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DECD.CR.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "156.Gross Financial Public Corporations Debt, Domestic creditors  US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLOA.CR.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "187.Other accounts payable (PSDT) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLOA.CR.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "123.Other accounts payable (PSDNFPC) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DECN.CR.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "190.Gross Public Sector Debt, Domestic currency  US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLOA.CR.L1.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "046.Other accounts payable (PSDCG, LT, <1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLTC.CR.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "104.Long-term, by original maturity (PSDNFPC, LT) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSTC.CR.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "130.Short-term by original maturity (PSDFPC, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DECT.CR.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "161.Gross Public Sector Debt (PSDT) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLSD.CR.M1.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "080.Special Drawing Rights (SDRs) (PSDCGGB, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLLO.CR.M1.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "083.Loans (PSDCGGB, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DECT.CR.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "001.General Govt. Public Sector Debt (PSDGG) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DECN.CR.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "030.General Govt. Public Sector Debt, Domestic currency US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLCD.CR.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "119.Currency and deposits (PSDNFPC) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLTC.CR.M1.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "143.With payment due in more than one year (PSDFPC, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLDS.CR.L1.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "011.Debt securities (PSDGG, LT, <1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLIN.CR.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "154.Insurance, pensions, and standardized guarantee schemes (PSDFPC) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLTC.CR.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "168.Long-term, by original maturity (PSDT, LT) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DECD.CR.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "060.Central Govt. Public Sector Debt, Domestic creditors US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSCD.CR.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "131.Currency and deposits (PSDFPC, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLSD.CR.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "086.Special Drawing Rights (SDRs) (PSDCGGB) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLDS.CR.M1.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "018.Debt securities (PSDGG, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLDS.CR.MV.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "064.Central Govt. Public Sector Debt Securities at market value US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSIN.CR.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "134.Insurance, pensions, and standardized guarantee schemes (PSDFPC, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DECF.CR.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "191.Gross Public Sector Debt, Foreign currency  US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLOA.CR.M1.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "149.Other accounts payable (PSDFPC, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DECD.CR.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "092.Gross Budg. Central Govt. Public Sector Debt, Domestic creditors US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLOA.CR.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "027.Other accounts payable (PSDGG) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLIN.CR.M1.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "148.Insurance, pensions, and standardized guarantee schemes (PSDFPC, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLDS.CR.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "152.Debt securities (PSDFPC) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLTC.CR.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "072.Long-term, by original maturity (PSDCGGB, LT) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DECX.CR.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "189.Gross Public Sector Debt, External creditors  US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DECF.CR.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "031.General Govt. Public Sector Debt, Foreign currency US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLSD.CR.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "054.Special Drawing Rights (SDRs) (PSDCG) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSCD.CR.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "035.Currency and deposits (PSDCG, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSTC.CR.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "002.Short-term by original maturity (PSDGG, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLDS.CR.MV.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "128.Gross Nonfinancial Public Corporations Debt Securities at market value US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLDS.CR.L1.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "139.Debt securities (PSDFPC, LT, <1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSIN.CR.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "102.Insurance, pensions, and standardized guarantee schemes (PSDNFPC, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLTC.CR.M1.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "175.With payment due in more than one year (PSDT, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLCD.CR.M1.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "017.Currency and deposits (PSDGG, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSLO.CR.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "165.Loans (PSDT, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLLO.CR.M1.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "019.Loans (PSDGG, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLSD.CR.M1.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "016.Special Drawing Rights (SDRs) (PSDGG, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLOA.CR.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "059.Other accounts payable (PSDCG) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLOA.CR.L1.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "014.Other accounts payable (PSDGG, LT, <1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLSD.CR.M1.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "112.Special Drawing Rights (SDRs) (PSDNFPC, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLDS.CR.M1.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "114.Debt securities (PSDNFPC, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLIN.CR.L1.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "045.Insurance, pensions, and standardized guarantee schemes (PSDCG, LT, <1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLCD.CR.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "055.Currency and deposits (PSDCG) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSDS.CR.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "100.Debt securities (PSDNFPC, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLLO.CR.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "153.Loans (PSDFPC) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLOA.CR.L1.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "078.Other accounts payable (PSDCGGB, LT, <1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLLO.CR.M1.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "179.Loans (PSDT, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DECT.CR.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "097.Gross Nonfinancial Public Corporations Debt (PSDNFPC) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DECT.CR.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "065.Gross Budgetary Central Government Debt (PSDCGGB) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSOA.CR.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "135.Other accounts payable (PSDFPC, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSDS.CR.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "036.Debt securities (PSDCG, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLDS.CR.L1.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "171.Debt securities (PSDT, LT,<1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DECN.CR.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "126.Gross Nonfinancial Public Corporations Debt, Domestic currency  US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLCD.CR.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "023.Currency and deposits (PSDGG) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLOA.CR.M1.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "117.Other accounts payable (PSDNFPC, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLLO.CR.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "089.Loans (PSDCGGB) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLLO.CR.L1.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "012.Loans (PSDGG, LT, <1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLIN.CR.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "090.Insurance, pensions, and standardized guarantee schemes (PSDCGGB) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSLO.CR.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "037.Loans (PSDCG, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLOA.CR.M1.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "181.Other accounts payable (PSDT, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLLO.CR.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "121.Loans (PSDNFPC) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLDS.CR.M1.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "082.Debt securities (PSDCGGB, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DECD.CR.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "124.Gross Nonfinancial Public Corporations Debt, Domestic creditors  US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLCD.CR.M1.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "113.Currency and deposits (PSDNFPC, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DECN.CR.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "094.Gross Budg. Central Govt. Public Sector Debt, Domestic currency US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLLO.CR.L1.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "140.Loans (PSDFPC, LT, <1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSLO.CR.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "069.Loans (PSDCGGB, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DECN.CR.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "062.Central Govt. Public Sector Debt, Domestic currency US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DECT.CR.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "129.Gross Financial Public Corporations Debt (PSDFPC) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSTC.CR.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "098.Short-term by original maturity (PSDNFPC, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSTC.CR.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "066.Short-term by original maturity (PSDCGGB, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSIN.CR.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "006.Insurance, pensions, and standardized guarantee schemes (PSDGG, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSOA.CR.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "071.Other accounts payable (PSDCGGB, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLLO.CR.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "057.Loans (PSDCG) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLCD.CR.M1.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "145.Currency and deposits (PSDFPC, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLLO.CR.M1.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "115.Loans (PSDNFPC, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLIN.CR.L1.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "141.Insurance, pensions, and standardized guarantee schemes (PSDFPC, LT, <1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLCD.CR.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "087.Currency and deposits (PSDCGGB) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLIN.CR.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "186.Insurance, pensions, and standardized guarantee schemes (PSDT) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLSD.CR.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "022.Special Drawing Rights (SDRs) (PSDGG) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLCD.CR.M1.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "049.Currency and deposits (PSDCG, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSDS.CR.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "068.Debt securities (PSDCGGB, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSDS.CR.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "004.Debt securities (PSDGG, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLCD.CR.L1.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "106.Currency and deposits (PSDNFPC, LT, <1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLIN.CR.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "058.Insurance, pensions, and standardized guarantee schemes (PSDCG) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLIN.CR.L1.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "173.Insurance, pensions, and standardized guarantee schemes (PSDT, LT,<1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLTC.CR.M1.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "079.With payment due in more than one year (PSDCGGB, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLIN.CR.L1.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "109.Insurance, pensions, and standardized guarantee schemes (PSDNFPC, LT, <1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLSD.CR.M1.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "048.Special Drawing Rights (SDRs) (PSDCG, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DECD.CR.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "028.General Govt. Public Sector Debt, Domestic creditors US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLTC.CR.L1.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "009.With payment due in one year or less (PSDGG, LT, <1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLLO.CR.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "185.Loans (PSDT) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLLO.CR.M1.CG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "051.Loans (PSDCG, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLDS.CR.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "184.Debt securities (PSDT) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLIN.CR.M1.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "180.Insurance, pensions, and standardized guarantee schemes (PSDT, LT, >1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSOA.CR.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "007.Other accounts payable (PSDGG, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLIN.CR.L1.GG.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "013.Insurance, pensions, and standardized guarantee schemes (PSDGG, LT, <1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLCD.CR.L1.FC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "138.Currency and deposits (PSDFPC, LT, <1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLOA.CR.L1.PS.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "174.Other accounts payable (PSDT, LT,<1yr) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DSCD.CR.NF.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "099.Currency and deposits (PSDNFPC, ST) US$", 
+        "sourceNote": "Member Country"
+    }, 
+    "DP.DOD.DLTC.CR.L1.BC.CD": {
+        "source": "Quarterly Public Sector Debt", 
+        "sourceOrganization": "World Bank.", 
+        "name": "073.With payment due in one year or less (PSDCGGB, LT, <1yr) US$", 
+        "sourceNote": "Member Country"
+    }
+}

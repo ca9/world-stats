@@ -1,0 +1,326 @@
+{
+    "2.2_ACCESS.NONSOLIDFUEL.RURAL": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "WHO Global Household Energy Database 2013", 
+        "name": "Access to Non-Solid Fuel (% of rural population)", 
+        "sourceNote": "Access to Non-Solid Fuel is the percentage of rural population with access to Non-Solid Fuel. "
+    }, 
+    "16.1_DECOMP.EFFICIENCY.IND": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Divisia Decomposition Analysis - Energy Intensity component Index", 
+        "sourceNote": "The Index is created from the series of year to year Energy Intensity component of the Decomposition Analysis with the DIVISIA LMDI I method. The Significant Period is defined as the period for which the available data is consistent in the energy and value added databases such that all the sectors have energy and value added for those years. The CAGR is calculated over that Significant Period."
+    }, 
+    "2.1.9_SHARE.BIOGAS": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Biogas consumption (% in TFEC)", 
+        "sourceNote": "Biogas consumption (% in TFEC): Share of biogas in total final energy consumption"
+    }, 
+    "5.1.1_TOTAL.CAPACITY": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Total installed generation capacity (GW)", 
+        "sourceNote": "Total installed generation capacity (GW): Total number of GW of installed capacity"
+    }, 
+    "3.1.10_MARINE.CONSUM": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Marine energy consumption (TJ)", 
+        "sourceNote": "Marine energy consumption (TJ): Final consumption of marine energy"
+    }, 
+    "15.1_OTHER.SECT.ENER.INTENS": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Energy intensity of other sectors (MJ/$2005)", 
+        "sourceNote": "Energy intensity of other sectors (MJ/$2005): A ratio between energy consumption in other sectors (including services, residential and transport) and services sector value added measured at purchasing power parity. Energy intensity is an indication of how much energy is used to produce one unit of economic output. Lower ratio indicates that less energy is used to produce one unit of output. "
+    }, 
+    "16.6_DECOMP.STRUCTURE.RATE": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Divisia Decomposition Analysis - Structure Component - Compound Annual Growth Rate (%)", 
+        "sourceNote": "Compound Annual Growth Rate (CAGR) of the Structure component calculated over the significant period"
+    }, 
+    "2.1.2_SHARE.MODERNBIO": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Modern biomass consumption (% in TFEC)", 
+        "sourceNote": "Modern biomass consumption (% in TFEC): Share of modern biomass in total final energy consumption. Modern biomass is defined as all biomass that was not consumed in the residential sector in non-OECD countries. It includes the following categories in the IEA statistics: primary solid biofuels, charcoal and non-specified primary biofuels and waste."
+    }, 
+    "1.3_ACCESS.ELECTRICITY.URBAN": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank Global Electrification Database 2014", 
+        "name": "Access to electricity (% of urban population)", 
+        "sourceNote": "Access to electricity is the percentage of total population with access to electricity. "
+    }, 
+    "8.1.2_FINAL.ENERGY.INTENSITY": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Energy intensity level of final energy (MJ/$2005 PPP)", 
+        "sourceNote": "Energy intensity level of final energy (MJ/$2005 PPP): A ratio between final energy consumption and gross domestic product measured at purchasing power parity. Energy intensity is an indication of how much energy is used to produce one unit of economic output. Lower ratio indicates that less energy is used to produce one unit of output. "
+    }, 
+    "12.1_TD.LOSSES": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Transmission and distribution losses (%)", 
+        "sourceNote": "Transmission and distribution losses (%): Transmission and distribution (T&D) losses measure power lost in the transmission of (high-voltage) electricity from power generators to distributors and in the distribution of (medium- and low-voltage) electricity from distributors to end-users. T&D losses are represented as a percentage of gross electricity production. They include both technical and nontechnical (or commercial) losses. Included in the latter are unmetered, unbilled, and unpaid electricity, including theft, which could be significant in developing countries. Aggregate T&D system indicators may be dominated by factors other than losses. The location of primary energy resources (such as hydro lakes and coal seams) and large loads (cities and industries) may be more significant factors in T&D efficiency indicators than the losses or efficiency of the transmission system itself. Properly separating true losses (and hence the efficiency potential of transmission systems) from exogenous location and scale factors and nontechnical losses would require detailed studies of system-dynamic interactions and real operating requirements that are not practical for global tracking purposes."
+    }, 
+    "6.1_PRIMARY.ENERGY.INTENSITY": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Energy intensity level of primary energy (MJ/$2005 PPP)", 
+        "sourceNote": "Energy intensity level of primary energy (MJ/$2005 PPP): A ratio between energy supply and gross domestic product measured at purchasing power parity. Energy intensity is an indication of how much energy is used to produce one unit of economic output. Lower ratio indicates that less energy is used to produce one unit of output. "
+    }, 
+    "2.1.3_SHARE.HYDRO": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Hydro energy consumption (% in TFEC)", 
+        "sourceNote": "Hydro consumption (% in TFEC): Share of hydro energy in total final energy consumption"
+    }, 
+    "2.1.8_SHARE.WASTE": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Waste energy consumption (% in TFEC)", 
+        "sourceNote": "Waste energy consumption (% in TFEC): Share of waste energy in total final consumption, which is defined in the IEA statistics as renewable municipal waste"
+    }, 
+    "9.1_FINAL.PRIMARY.RATIO": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Final to primary energy ratio (%)", 
+        "sourceNote": "Final to primary energy ratio (%): A high-level indicator that captures the overall energy efficiency in the supply sector obtained by dividing end-use final energy over primary energy.  High ratio indicates better supply sector efficiency.  "
+    }, 
+    "16.2_DECOMP.ACTIVITY.INDEX": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Divisia Decomposition Analysis - Activity component Index", 
+        "sourceNote": "The Index is created from the series of year to year Activity component of the Decomposition Analysis with the DIVISIA LMDI I method. The Significant Period is defined as the period for which the available data is consistent in the energy and value added databases such that all the sectors have energy and value added for those years. The CAGR is calculated over that Significant Period."
+    }, 
+    "4.1.2_REN.ELECTRICITY.OUTPUT": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Renewable energy electricity output (GWh)", 
+        "sourceNote": "Renewable energy electricity output (GWh): Total number of GWh generated by renewable power plants, including wind, solar PV, solar thermal, hydro, marine, geothermal, biomass, renewable municipal waste, liquid biofuels and biogas. Electricity production for hydro pumpted storage is excluded."
+    }, 
+    "1.1_TOTAL.FINAL.ENERGY.CONSUM": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Total final energy consumption (TFEC)", 
+        "sourceNote": "Total final energy consumption (TFEC): This indicator is derived form energy balances statistics and is equivalent to total final consumption excluding non-energy use."
+    }, 
+    "3.1.9_BIOGAS.CONSUM": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Biogas consumption (TJ)", 
+        "sourceNote": "Biogas consumption (TJ): Final consumption of biogas"
+    }, 
+    "16.4_DECOMP.EFFICIENCY.RATE": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Divisia Decomposition Analysis - Energy Intensity component -Compound Annual Growth Rate (%)", 
+        "sourceNote": "Compound Annual Growth Rate (CAGR) of the Energy Intensity component calculated over the significant period"
+    }, 
+    "5.1.2_RE.CAPACITY": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Renewable energy installed capacity (GW)", 
+        "sourceNote": "Renewable energy installed capacity (GW): Total number of renewable energy installed capacity"
+    }, 
+    "2.1.6_SHARE.SOLAR": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Solar energy consumption (% in TFEC)", 
+        "sourceNote": "Solar consumption (% in TFEC): Share of solar energy in total final energy consumption"
+    }, 
+    "2.1.1_SHARE.TRADBIO": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Traditional biomass consumption (% in TFEC)", 
+        "sourceNote": "Traditional biomass consumption (% in TFEC): Share of traditional biomass in total final energy consumption. Traditional biomass is defined as biomass consumed in the residential sector in non-OECD countries. It includes the following categories in the IEA statistics: primary solid biofuels, charcoal and non-specified primary biofuels and waste."
+    }, 
+    "3.1.8_WASTE.CONSUM": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Waste energy consumption (TJ)", 
+        "sourceNote": "Waste energy consumption (TJ): Final consumption of waste energy, which is defined in the IEA statistics as renewable municipal waste"
+    }, 
+    "4.1.1_TOTAL.ELECTRICITY.OUTPUT": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Total electricity output (GWh)", 
+        "sourceNote": "Total electricity output (GWh): Total number of GWh generated by all power plants"
+    }, 
+    "3.1.2_MODERNBIO.CONSUM": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Modern biomass consumption (TJ)", 
+        "sourceNote": "Modern biomass consumption (% in TFEC): Final consumption of modern biomass. Modern biomass is defined as all biomass that was not consumed in the residential sector in non-OECD countries. It includes the following categories in the IEA statistics: primary solid biofuels, charcoal and non-specified primary biofuels and waste."
+    }, 
+    "3.1.7_GEOTHERMAL.CONSUM": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Geothermal energy consumption (TJ)", 
+        "sourceNote": "Geothermal consumption (TJ): Final consumption of geothermal energy"
+    }, 
+    "2.1_ACCESS.NONSOLIDFUEL.TOT": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "WHO Global Household Energy Database 2012", 
+        "name": "Access to Non-Solid Fuel (% of total population)", 
+        "sourceNote": "Access to Non-Solid Fuel is the percentage of population with access to Non-Solid Fuel. "
+    }, 
+    "8.1.1_FINAL.ENERGY.CONSUMPTION": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Total final consumption (TJ)", 
+        "sourceNote": "Total final consumption (TJ): As defined by the IEA, total final consumption represents the sum of consumption in the end-use sectors and excludes energy used for transformation processes and energy used of the energy producing industries"
+    }, 
+    "2.1_SHARE.TOTAL.RE.IN.TFEC": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Renewable energy consumption(% in TFEC)", 
+        "sourceNote": "Renewable energy consumption(% in TFEC): Share of renewables energy in total final energy consumption"
+    }, 
+    "16.3_DECOMP.STRUCTURE.INDEX": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Divisia Decomposition Analysis - Structure Component Index", 
+        "sourceNote": "The Index is created from the series of year to year Structure component of the Decomposition Analysis with the DIVISIA LMDI I method. The Significant Period is defined as the period for which the available data is consistent in the energy and value added databases such that all the sectors have energy and value added for those years. The CAGR is calculated over that Significant Period."
+    }, 
+    "4.1_SHARE.RE.IN.ELECTRICITY": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Renewable electricity (% in total electricity output)", 
+        "sourceNote": "Renewable electricity (% in total electricity output): Share of electrity generated by renewable power plants in total electricity generated by all types of plants"
+    }, 
+    "13.1_INDUSTRY.ENERGY.INTENSITY": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Energy intensity of industrial sector (MJ/$2005)", 
+        "sourceNote": "Energy intensity of industrial sector (MJ/$2005):  A ratio between energy consumption in industry (including energy industry own use) and industry sector value added measured at purchasing power parity. Energy intensity is an indication of how much energy is used to produce one unit of economic output. Lower ratio indicates that less energy is used to produce one unit of output. "
+    }, 
+    "3.1.6_SOLAR.CONSUM": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Solar energy consumption (TJ)", 
+        "sourceNote": "Solar consumption (TJ): Final consumption of solar energy, including solar PV and solar thermal"
+    }, 
+    "3.1.5_WIND.CONSUM": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Wind energy consumption (TJ)", 
+        "sourceNote": "Wind consumption (TJ): Final consumption of wind energy"
+    }, 
+    "2.3_ACCESS.NONSOLIDFUEL.URBAN": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "WHO Global Household Energy Database 2014", 
+        "name": "Access to Non-Solid Fuel (% of urban population)", 
+        "sourceNote": "Access to Non-Solid Fuel is the percentage of total population with access to Non-Solid Fuel. "
+    }, 
+    "2.1.10_SHARE.MARINE": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Marine energy consumption (% in TFEC)", 
+        "sourceNote": "Marine energy consumption (% in TFEC): Share of marine energy in total final consumption"
+    }, 
+    "2.1.4_SHARE.BIOFUELS": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Liquid biofuels consumption (% in TFEC)", 
+        "sourceNote": "Liquid biofuels consumption (% in TFEC): Share of liquid biofuels energy in total final energy consumption"
+    }, 
+    "2.1.7_SHARE.GEOTHERMAL": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Geothermal energy consumption (% in TFEC)", 
+        "sourceNote": "Geothermal consumption (% in TFEC): Share of geothermal energy in total final energy consumption"
+    }, 
+    "11.1_THERMAL.EFFICIENCY": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Thermal efficiency (%) in power supply", 
+        "sourceNote": "Thermal efficiency (%) in power supply:  This supply-side energy efficiency indicator measure the efficiency of thermal plants in converting primary energy sources\u2014such as coal, gas, and oil\u2014into electricity. They are calculated by dividing gross electricity production from electricity and cogeneration plants by total inputs of fuels into those plants. Whether market-based or privately owned, self-generating plants that do not export their power are included in the index assessment. In the case of cogeneration plants, fuel inputs are allocated between electricity and heat production in proportion to their shares of the annual output. "
+    }, 
+    "10.1_ENERGY.SAVINGS": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Energy savings of primary energy (TJ)", 
+        "sourceNote": "Energy savings of primary energy (TJ): Energy savings due to realized energy intensity improvements. Country level savings represent the difference between a hypothetical energy consumption that would have been should the energy intensity remained at its 1990 level and actual consumption. Global, regional and income group savings represent the sum of country by country savings and not calculated separately."
+    }, 
+    "7.1_PRIMARY.ENER.INTENS.RATE": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Primary energy intensity - Compound Annual Growth Rate (%)", 
+        "sourceNote": "Rate of primary energy intensity improvement (%): Compound annual gross rate (CAGR) of the energy intensity ratio reported for two decades (1990-2000 and 2000-2010) and a twenty-year period (1990-2010). Negative values represent improvements in energy intensity (less energy is used to produce one unit of output), while positive numbers indicate declination of energy intensity (more energy is used to produce one unit of output)"
+    }, 
+    "2.1.5_SHARE.WIND": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Wind energy consumption (% in TFEC)", 
+        "sourceNote": "Wind consumption (% in TFEC): Share of wind energy in total final energy consumption"
+    }, 
+    "6.1.1_PRIMARY.ENERGY.SUPPLY": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Total primary energy supply (TJ)", 
+        "sourceNote": "Total primary energy supply (TJ): As defined by the IEA, total primary energy supply is made up of production+net imports-international marine and aviation bunkers+-stock changes."
+    }, 
+    "3.1_RE.CONSUMPTION": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Renewable energy consumption (TJ)", 
+        "sourceNote": "Renewable energy consumption (TJ): This indicator includes renewable energy consumption of all technologies: hydro, modern and traditional biomass, wind, solar, liquid biofuels, biogas, geothermal, marine and waste"
+    }, 
+    "8.1_FINAL.ENER.INTENS.RATE": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Final energy intensity - Compound Annual Growth Rate (%)", 
+        "sourceNote": "Rate of final energy intensity improvement (%): Compound annual gross rate (CAGR) of the energy intensity ratio reported for two decades (1990-2000 and 2000-2010) and a twenty-year period (1990-2010). Negative values represent improvements in energy intensity (less energy is used to produce one unit of output), while positive numbers indicate declination of energy intensity (more energy is used to produce one unit of output)"
+    }, 
+    "5.1_RE.SHARE.IN.CAPACITY": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Share of renewable capacity in total capacity (%)", 
+        "sourceNote": "Share of renewable capacity in total capacity (%): Share of renewable energy capacity in total istalled capacity"
+    }, 
+    "3.1.3_HYDRO.CONSUM": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Hydro energy consumption (TJ)", 
+        "sourceNote": "Hydro consumption (TJ): Final consumption of hydro energy"
+    }, 
+    "1.2_ACCESS.ELECTRICITY.RURAL": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank Global Electrification Database 2013", 
+        "name": "Access to electricity (% of rural population)", 
+        "sourceNote": "Access to electricity is the percentage of rural population with access to electricity. "
+    }, 
+    "3.1.1_TRADBIO.CONSUM": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Traditional biomass consumption (TJ)", 
+        "sourceNote": "Traditional biomass consumption (TJ): Final consumption of traditional biomass. Traditional biomass is defined as biomass consumed in the residential sector in non-OECD countries. It includes the following categories in the IEA statistics: primary solid biofuels, charcoal and non-specified primary biofuels and waste."
+    }, 
+    "14.1_AGR.ENERGY.INTENSITY": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Energy intensity of agricultural sector (MJ/$2005)", 
+        "sourceNote": "Energy intensity of agricultural sector (MJ/$2005):  A ratio between energy consumption in agricultural sector (including forestry and fishing) and agricultural sector value added measured at purchasing power parity. Energy intensity is an indication of how much energy is used to produce one unit of economic output. Lower ratio indicates that less energy is used to produce one unit of output. "
+    }, 
+    "3.1.4_BIOFUELS.CONSUM": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Liquid biofuels consumption (TJ)", 
+        "sourceNote": "Liquid biofuels consumption (TJ): Final consumption of liquid biofuels, including biogasoline, biodiesels and other liquid biofuels"
+    }, 
+    "1.1_ACCESS.ELECTRICITY.TOT": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank Global Electrification Database 2012", 
+        "name": "Access to electricity (% of total population)", 
+        "sourceNote": "Access to electricity is the percentage of population with access to electricity."
+    }, 
+    "16.5_DECOMP.ACTIVITY.RATE": {
+        "source": "Sustainable Energy for All", 
+        "sourceOrganization": "World Bank and International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp).  ", 
+        "name": "Divisia Decomposition Analysis - Activity component  - Compound Annual Growth Rate (%)", 
+        "sourceNote": "Compound Annual Growth Rate (CAGR) of the Activity component calculated over the significant period"
+    }
+}

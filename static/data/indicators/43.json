@@ -1,0 +1,188 @@
+{
+    "NY.ADJ.DMIN.GN.ZS": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "World Bank staff estimates based on sources and methods in World Bank's \"The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium\" (2011).", 
+        "name": "Adjusted savings: mineral depletion (% of GNI)", 
+        "sourceNote": "Mineral depletion is the ratio of the value of the stock of mineral resources to the remaining reserve lifetime (capped at 25 years). It covers tin, gold, lead, zinc, iron, copper, nickel, silver, bauxite, and phosphate. "
+    }, 
+    "NY.ADJ.DPEM.CD": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "Kiran D. Pandey and others' \"The Human Costs of Air Pollution: New Estimates for Developing Countries\" (working paper).", 
+        "name": "Adjusted savings: particulate emission damage (current US$)", 
+        "sourceNote": "Particulate emissions damage is calculated as the willingness to pay to avoid mortality attributable to particulate emissions."
+    }, 
+    "NY.ADJ.SVNG.GN.ZS": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "World Bank staff estimates based on sources and methods in World Bank's \"The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium\" (2011).", 
+        "name": "Adjusted net savings, including particulate emission damage (% of GNI)", 
+        "sourceNote": "Adjusted net savings are equal to net national savings plus education expenditure and minus energy depletion, mineral depletion, net forest depletion, and carbon dioxide and particulate emissions damage."
+    }, 
+    "NY.GDP.MINR.RT.ZS": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "Estimates based on sources and methods described in \"The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium\" (World Bank, 2011).", 
+        "name": "Mineral rents (% of GDP)", 
+        "sourceNote": "Mineral rents are the difference between the value of production for a stock of minerals at world prices and their total costs of production. Minerals included in the calculation are tin, gold, lead, zinc, iron, copper, nickel, silver, bauxite, and phosphate."
+    }, 
+    "NY.ADJ.SVNX.GN.ZS": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "World Bank staff estimates based on sources and methods in World Bank's \"The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium\" (2011).", 
+        "name": "Adjusted net savings, excluding particulate emission damage (% of GNI)", 
+        "sourceNote": "Adjusted net savings are equal to net national savings plus education expenditure and minus energy depletion, mineral depletion, net forest depletion, and carbon dioxide. This series excludes particulate emissions damage."
+    }, 
+    "NY.ADJ.DCO2.CD": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "World Bank staff estimates based on Samuel Fankhauser's \"Valuing Climate Change: The Economics of the Greenhouse\" (1995).", 
+        "name": "Adjusted savings: carbon dioxide damage (current US$)", 
+        "sourceNote": "Carbon dioxide damage is estimated to be $20 per ton of carbon (the unit damage in 1995 U.S. dollars) times the number of tons of carbon emitted."
+    }, 
+    "NY.ADJ.DPEM.GN.ZS": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "Kiran D. Pandey and others' \"The Human Costs of Air Pollution: New Estimates for Developing Countries\" (working paper).", 
+        "name": "Adjusted savings: particulate emission damage (% of GNI)", 
+        "sourceNote": "Particulate emissions damage is calculated as the willingness to pay to avoid mortality attributable to particulate emissions."
+    }, 
+    "NY.ADJ.DCO2.GN.ZS": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "World Bank staff estimates based on Samuel Fankhauser's \"Valuing Climate Change: The Economics of the Greenhouse\" (1995).", 
+        "name": "Adjusted savings: carbon dioxide damage (% of GNI)", 
+        "sourceNote": "Carbon dioxide damage is estimated to be $20 per ton of carbon (the unit damage in 1995 U.S. dollars) times the number of tons of carbon emitted."
+    }, 
+    "NY.ADJ.SVNX.CD": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "World Bank staff estimates based on sources and methods in World Bank's \"The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium\" (2011).", 
+        "name": "Adjusted net savings, excluding particulate emission damage (current US$)", 
+        "sourceNote": "Adjusted net savings are equal to net national savings plus education expenditure and minus energy depletion, mineral depletion, net forest depletion, and carbon dioxide. This series excludes particulate emissions damage."
+    }, 
+    "NY.ADJ.NNAT.CD": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "World Bank staff estimates based on sources and methods in World Bank's \"The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium\" (2011).", 
+        "name": "Adjusted savings: net national savings (current US$)", 
+        "sourceNote": "Net national savings are equal to gross national savings less the value of consumption of fixed capital."
+    }, 
+    "NY.ADJ.NNTY.KD": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "World Bank staff estimates based on sources and methods in World Bank's \"The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium\" (2011).", 
+        "name": "Adjusted net national income (constant 2005 US$)", 
+        "sourceNote": "Adjusted net national income is GNI minus consumption of fixed capital and natural resources depletion."
+    }, 
+    "NY.GDP.COAL.RT.ZS": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "Estimates based on sources and methods described in \"The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium\" (World Bank, 2011).", 
+        "name": "Coal rents (% of GDP)", 
+        "sourceNote": "Coal rents are the difference between the value of both hard and soft coal production at world prices and their total costs of production."
+    }, 
+    "NY.ADJ.DFOR.GN.ZS": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "World Bank staff estimates based on sources and methods in World Bank's \"The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium\" (2011).", 
+        "name": "Adjusted savings: net forest depletion (% of GNI)", 
+        "sourceNote": "Net forest depletion is calculated as the product of unit resource rents and the excess of roundwood harvest over natural growth."
+    }, 
+    "NY.GDP.NGAS.RT.ZS": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "Estimates based on sources and methods described in \"The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium\" (World Bank, 2011).", 
+        "name": "Natural gas rents (% of GDP)", 
+        "sourceNote": "Natural gas rents are the difference between the value of natural gas production at world prices and total costs of production."
+    }, 
+    "NY.GDP.FRST.RT.ZS": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "Estimates based on sources and methods described in \"The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium\" (World Bank, 2011).", 
+        "name": "Forest rents (% of GDP)", 
+        "sourceNote": "Forest rents are roundwood harvest times the product of average prices and a region-specific rental rate."
+    }, 
+    "NY.ADJ.DKAP.GN.ZS": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "World Bank staff estimates using data from the United Nations Statistics Division's National Accounts Statistics.", 
+        "name": "Adjusted savings: consumption of fixed capital (% of GNI)", 
+        "sourceNote": "Consumption of fixed capital represents the replacement value of capital used up in the process of production."
+    }, 
+    "NY.ADJ.DRES.GN.ZS": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "World Bank staff estimates based on sources and methods in World Bank's \"The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium\" (2011).", 
+        "name": "Adjusted savings: natural resources depletion (% of GNI)", 
+        "sourceNote": "Natural resource depletion is the sum of net forest depletion, energy depletion, and mineral depletion. Net forest depletion is unit resource rents times the excess of roundwood harvest over natural growth. Energy depletion is the ratio of the value of the stock of energy resources to the remaining reserve lifetime (capped at 25 years). It covers coal, crude oil, and natural gas. Mineral depletion is the ratio of the value of the stock of mineral resources to the remaining reserve lifetime (capped at 25 years). It covers tin, gold, lead, zinc, iron, copper, nickel, silver, bauxite, and phosphate."
+    }, 
+    "NY.ADJ.DKAP.CD": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "World Bank staff estimates using data from the United Nations Statistics Division's National Accounts Statistics.", 
+        "name": "Adjusted savings: consumption of fixed capital (current US$)", 
+        "sourceNote": "Consumption of fixed capital represents the replacement value of capital used up in the process of production."
+    }, 
+    "NY.ADJ.ICTR.GN.ZS": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "World Bank national accounts data files.", 
+        "name": "Adjusted savings: gross savings (% of GNI)", 
+        "sourceNote": "Gross savings are the difference between gross national income and public and private consumption, plus net current transfers."
+    }, 
+    "NY.ADJ.DFOR.CD": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "World Bank staff estimates based on sources and methods in World Bank's \"The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium\" (2011).", 
+        "name": "Adjusted savings: net forest depletion (current US$)", 
+        "sourceNote": "Net forest depletion is calculated as the product of unit resource rents and the excess of roundwood harvest over natural growth."
+    }, 
+    "NY.GDP.TOTL.RT.ZS": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "Estimates based on sources and methods described in \"The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium\" (World Bank, 2011).", 
+        "name": "Total natural resources rents (% of GDP)", 
+        "sourceNote": "Total natural resources rents are the sum of oil rents, natural gas rents, coal rents (hard and soft), mineral rents, and forest rents."
+    }, 
+    "NY.ADJ.NNAT.GN.ZS": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "World Bank staff estimates based on sources and methods in World Bank's \"The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium\" (2011).", 
+        "name": "Adjusted savings: net national savings (% of GNI)", 
+        "sourceNote": "Net national savings are equal to gross national savings less the value of consumption of fixed capital."
+    }, 
+    "NY.GDP.PETR.RT.ZS": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "Estimates based on sources and methods described in \"The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium\" (World Bank, 2011).", 
+        "name": "Oil rents (% of GDP)", 
+        "sourceNote": "Oil rents are the difference between the value of crude oil production at world prices and total costs of production."
+    }, 
+    "NY.ADJ.DNGY.CD": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "World Bank staff estimates based on sources and methods in World Bank's \"The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium\" (2011).", 
+        "name": "Adjusted savings: energy depletion (current US$)", 
+        "sourceNote": "Energy depletion is the ratio of the value of the stock of energy resources to the remaining reserve lifetime (capped at 25 years). It covers coal, crude oil, and natural gas. "
+    }, 
+    "NY.ADJ.NNTY.CD": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "World Bank staff estimates based on sources and methods in World Bank's \"The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium\" (2011).", 
+        "name": "Adjusted net national income (current US$)", 
+        "sourceNote": "Adjusted net national income is GNI minus consumption of fixed capital and natural resources depletion."
+    }, 
+    "NY.ADJ.DNGY.GN.ZS": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "World Bank staff estimates based on sources and methods in World Bank's \"The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium\" (2011).", 
+        "name": "Adjusted savings: energy depletion (% of GNI)", 
+        "sourceNote": "Energy depletion is the ratio of the value of the stock of energy resources to the remaining reserve lifetime (capped at 25 years). It covers coal, crude oil, and natural gas. "
+    }, 
+    "NY.ADJ.AEDU.CD": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "World Bank staff estimates using data from the United Nations Statistics Division's Statistical Yearbook, and the UNESCO Institute for Statistics online database.", 
+        "name": "Adjusted savings: education expenditure (current US$)", 
+        "sourceNote": "Education expenditure refers to the current operating expenditures in education, including wages and salaries and excluding capital investments in buildings and equipment."
+    }, 
+    "NY.ADJ.AEDU.GN.ZS": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "World Bank staff estimates using data from the United Nations Statistics Division's Statistical Yearbook, and the UNESCO Institute for Statistics online database.", 
+        "name": "Adjusted savings: education expenditure (% of GNI)", 
+        "sourceNote": "Education expenditure refers to the current operating expenditures in education, including wages and salaries and excluding capital investments in buildings and equipment."
+    }, 
+    "NY.ADJ.DMIN.CD": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "World Bank staff estimates based on sources and methods in World Bank's \"The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium\" (2011).", 
+        "name": "Adjusted savings: mineral depletion (current US$)", 
+        "sourceNote": "Mineral depletion is the ratio of the value of the stock of mineral resources to the remaining reserve lifetime (capped at 25 years). It covers tin, gold, lead, zinc, iron, copper, nickel, silver, bauxite, and phosphate. "
+    }, 
+    "NY.ADJ.NNTY.KD.ZG": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "World Bank staff estimates based on sources and methods in World Bank's \"The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium\" (2011).", 
+        "name": "Adjusted net national income (annual % growth)", 
+        "sourceNote": "Adjusted net national income is GNI minus consumption of fixed capital and natural resources depletion."
+    }, 
+    "NY.ADJ.SVNG.CD": {
+        "source": "Wealth accounting", 
+        "sourceOrganization": "World Bank staff estimates based on sources and methods in World Bank's \"The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium\" (2011).", 
+        "name": "Adjusted net savings, including particulate emission damage (current US$)", 
+        "sourceNote": "Adjusted net savings are equal to net national savings plus education expenditure and minus energy depletion, mineral depletion, net forest depletion, and carbon dioxide and particulate emissions damage."
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "SN.SH.SVR.WAST.ZS": {
+        "source": "Subnational Malnutrition Database", 
+        "sourceOrganization": "Yet to receive metadata", 
+        "name": "Sub-National Prevalence of severe wasting, weight for height (% of children under 5)", 
+        "sourceNote": "Yet to receive metadata"
+    }, 
+    "SN.SH.STA.STNT.ZS": {
+        "source": "Subnational Malnutrition Database", 
+        "sourceOrganization": "World Health Organization, Global Database on Child Growth and Malnutrition. Country-level data are unadjusted data from national surveys, and thus may not be comparable across countries. Adjusted, comparable data are available at http://www.who.int/nutgrowthdb/en. Aggregation is based on UNICEF, WHO, and the World Bank harmonized dataset (adjusted, comparable data) and methodology.", 
+        "name": "Sub-National Malnutrition prevalence, height for age (% of children under 5)", 
+        "sourceNote": "Prevalence of child malnutrition is the percentage of children under age 5 whose height for age (stunting) is more than two standard deviations below the median for the international reference population ages 0-59 months. For children up to two years old height is measured by recumbent length. For older children height is measured by stature while standing. The data are based on the WHO's new child growth standards released in 2006."
+    }, 
+    "SN.SH.STA.WAST.ZS": {
+        "source": "Subnational Malnutrition Database", 
+        "sourceOrganization": "World Health Organization, Global Database on Child Growth and Malnutrition. Country-level data are unadjusted data from national surveys, and thus may not be comparable across countries. Adjusted, comparable data are available at http://www.who.int/nutgrowthdb/en. Aggregation is based on UNICEF, WHO, and the World Bank harmonized dataset (adjusted, comparable data) and methodology.", 
+        "name": "Sub-National Prevalence of wasting (% of children under 5)", 
+        "sourceNote": "Wasting prevalence is the proportion of children under five whose weight for height is more than two standard deviations below the median for the international reference population ages 0-59."
+    }, 
+    "SN.SH.STA.MALN.ZS": {
+        "source": "Subnational Malnutrition Database", 
+        "sourceOrganization": "World Health Organization, Global Database on Child Growth and Malnutrition. Country-level data are unadjusted data from national surveys, and thus may not be comparable across countries. Adjusted, comparable data are available at http://www.who.int/nutgrowthdb/en. Aggregation is based on UNICEF, WHO, and the World Bank harmonized dataset (adjusted, comparable data) and methodology.", 
+        "name": "Sub-National Malnutrition prevalence, weight for age (% of children under 5)", 
+        "sourceNote": "Prevalence of child malnutrition is the percentage of children under age 5 whose weight for age is more than two standard deviations below the median for the international reference population ages 0-59 months. The data are based on the WHO's new child growth standards released in 2006."
+    }, 
+    "SN.SH.STA.OWGH.ZS": {
+        "source": "Subnational Malnutrition Database", 
+        "sourceOrganization": "World Health Organization, Global Database on Child Growth and Malnutrition. Country-level data are unadjusted data from national surveys, and thus may not be comparable across countries. Adjusted, comparable data are available at http://www.who.int/nutgrowthdb/en. Aggregation is based on UNICEF, WHO, and the World Bank harmonized dataset (adjusted, comparable data) and methodology.", 
+        "name": "Sub-National Prevalence of overweight (% of children under 5)", 
+        "sourceNote": "Prevalence of overweight children is the percentage of children under age 5 whose weight for height is more than two standard deviations above the median for the international reference population of the corresponding age as established by the WHO's new child growth standards released in 2006."
+    }
+}

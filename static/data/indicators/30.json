@@ -1,0 +1,590 @@
+{
+    "A10v": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "30.Export Value per Incumbent: Third Quartile", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "E6i": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "96.Destination Survival Rate of 2-year Incumbents: Mean", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "D6i": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "78.Product Survival Rate of 2-year Incumbents: Mean", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A10iii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "28.Export Value per Incumbent: StDev", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A7iii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "13.Export Value per Entrant: StDev", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "B3ii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "46.Number of HS6 Products per Exporter: Median", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "D3ii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "70.Share of New Products in TEV of Incumbents: Median", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "D4iii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "74.Share of New Products in TEV of Survivors: StDev", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "E5iii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "95.Destination Exit Rate of Incumbents: StDev", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A12iii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "38.Growth of Survivors: StDev", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A10i": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "26.Export Value per Incumbent: Mean", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A6v": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "10.Export Value per Exporter: Third Quartile", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A3": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "03.Number of Exiters", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A6i": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "06.Export Value per Exporter: Mean", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "B2i": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "42.Share of top 1% Exporters in TEV (Total Export Value)", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "D5i": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "75.Product Exit Rate of Incumbents: Mean", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "E3ii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "88.Share of New Destinations in TEV of Incumbents: Median", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A6ii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "07.Export Value per Exporter: Median", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A6iv": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "09.Export Value per Exporter: First Quartile", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "E1ii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "82.Destination Entry Rate of Incumbents: Median", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "D6iii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "80.Product Survival Rate of 2-year Incumbents: StDev", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A12iv": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "39.Growth of Survivors: First Quartile", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "B5i": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "51.Number of Exporters per HS6 Product: Mean", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "B1": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "41.Herfindahl-Hirschman Index", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A7i": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "11.Export Value per Entrant: Mean", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A7v": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "15.Export Value per Entrant: Third Quartile", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "E5ii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "94.Destination Exit Rate of Incumbents: Median", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "B3iii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "47.Number of HS6 Products per Exporter: StDev", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "B4ii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "49.Number of Destinations per Exporter: Median", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "E4i": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "90.Share of New Destinations in TEV of Survivors: Mean", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "E1iii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "83.Destination Entry Rate of Incumbents: StDev", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A8ii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "17.Export Value per Exiter: Median", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "D4ii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "73.Share of New Products in TEV of Survivors: Median", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "E2iii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "86.Destination Entry Rate of Survivors: StDev", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "E2ii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "85.Destination Entry Rate of Survivors: Median", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A8iv": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "19.Export Value per Exiter: First Quartile", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "E5i": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "93.Destination Exit Rate of Incumbents: Mean", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A11v": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "35.Growth of Incumbents: Third Quartile", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "B2iii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "44.Share of top 25% Exporters in TEV (Total Export Value)", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "B4iii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "50.Number of Destinations per Exporter: StDev", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A11i": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "31.Growth of Incumbents: Mean", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "D2iii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "68.Product Entry Rate of Survivors: StDev", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "E6iii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "98.Destination Survival Rate of 2-year Incumbents: StDev", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "E6ii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "97.Destination Survival Rate of 2-year Incumbents: Median", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A7iv": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "14.Export Value per Entrant: First Quartile", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A7ii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "12.Export Value per Entrant: Median", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "B3i": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "45.Number of HS6 Products per Exporter: Mean", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "C1": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "57.Firm Entry Rate", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "D2i": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "66.Product Entry Rate of Survivors: Mean", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "D3iii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "71.Share of New Products in TEV of Incumbents: StDev", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A9iii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "23.Export Value per Survivor: StDev", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "E2i": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "84.Destination Entry Rate of Survivors: Mean", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "D5iii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "77.Product Exit Rate of Incumbents: StDev", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A9v": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "25.Export Value per Survivor: Third Quartile", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "D5ii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "76.Product Exit Rate of Incumbents: Median", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "C3": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "59.Firm Survival Rate", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "C2": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "58.Firm Exit Rate", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "B6i": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "54.Number of Exporters per Destination: Mean", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "B5ii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "52.Number of Exporters per HS6 Product: Median", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "C5": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "61.2-year Firm Survival Rate", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "C4": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "60.Share of Entrants in TEV (Total Export Value)", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "E4iii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "92.Share of New Destinations in TEV of Survivors: StDev", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "E3iii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "89.Share of New Destinations in TEV of Incumbents: StDev", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A11iii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "33.Growth of Incumbents: StDev", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "D1i": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "63.Product Entry Rate of Incumbents: Mean", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "E3i": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "87.Share of New Destinations in TEV of Incumbents: Mean", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A10iv": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "29.Export Value per Incumbent: First Quartile", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A9iv": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "24.Export Value per Survivor: First Quartile", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "B6iii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "56.Number of Exporters per Destination: StDev", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "C6": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "62.3-year Firm Survival Rate", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A9ii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "22.Export Value per Survivor: Median", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A10ii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "27.Export Value per Incumbent: Median", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A12i": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "36.Growth of Survivors: Mean", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "D4i": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "72.Share of New Products in TEV of Survivors: Mean", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A8v": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "20.Export Value per Exiter: Third Quartile", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "B6ii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "55.Number of Exporters per Destination: Median", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "B5iii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "53.Number of Exporters per HS6 Product: StDev", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "D2ii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "67.Product Entry Rate of Survivors: Median", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A8i": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "16.Export Value per Exiter: Mean", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A12v": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "40.Growth of Survivors: Third Quartile", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A12ii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "37.Growth of Survivors: Median", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "E4ii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "91.Share of New Destinations in TEV of Survivors: Median", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A1": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "01.Number of Exporters", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "B2ii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "43.Share of top 5% Exporters in TEV (Total Export Value)", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A2": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "02.Number of Entrants", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A5": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "05.Number of Incumbents", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A4": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "04.Number of Survivors", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "D6ii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "79.Product Survival Rate of 2-year Incumbents: Median", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "B4i": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "48.Number of Destinations per Exporter: Mean", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "D1iii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "65.Product Entry Rate of Incumbents: StDev", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A9i": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "21.Export Value per Survivor: Mean", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A6iii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "08.Export Value per Exporter: StDev", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "E1i": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "81.Destination Entry Rate of Incumbents: Mean", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "D3i": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "69.Share of New Products in TEV of Incumbents: Mean", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A8iii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "18.Export Value per Exiter: StDev", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A11iv": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "34.Growth of Incumbents: First Quartile", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "D1ii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "64.Product Entry Rate of Incumbents: Median", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }, 
+    "A11ii": {
+        "source": "Exporter Dynamics Database: Country-Year", 
+        "sourceOrganization": "", 
+        "name": "32.Growth of Incumbents: Median", 
+        "sourceNote": "Exporter-level information on export transactions - Customs"
+    }
+}

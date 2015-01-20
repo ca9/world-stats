@@ -25,8 +25,10 @@ def get_data(from_date=datetime.datetime(2010, 1, 1), to_date=datetime.datetime.
     return session['data']
 
 
-def get_all():
-    get_countries()
-    get_data()
-    return
+def get_categories():
+    categories = [(x['id'], x['name']) for x in wbdata.get_source(display=False)]
+    return categories
 
+def get_indicators(i, name):
+    indicators = wbdata.get_indicator(source = i, display=False)
+    return indicators

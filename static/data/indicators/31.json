@@ -1,0 +1,128 @@
+{
+    "IQ.CPA.PROP.XQ": {
+        "source": "Country Policy and Institutional Assessment (CPIA) ", 
+        "sourceOrganization": "World Bank Group, CPIA database (http://www.worldbank.org/ida).", 
+        "name": "CPIA property rights and rule-based governance rating (1=low to 6=high)", 
+        "sourceNote": "Property rights and rule-based governance assess the extent to which private economic activity is facilitated by an effective legal system and rule-based governance structure in which property and contract rights are reliably respected and enforced."
+    }, 
+    "IQ.CPA.MACR.XQ": {
+        "source": "Country Policy and Institutional Assessment (CPIA) ", 
+        "sourceOrganization": "World Bank Group, CPIA database (http://www.worldbank.org/ida).", 
+        "name": "CPIA macroeconomic management rating (1=low to 6=high)", 
+        "sourceNote": "Macroeconomic management assesses the monetary, exchange rate, and aggregate demand policy framework."
+    }, 
+    "IQ.CPA.FINS.XQ": {
+        "source": "Country Policy and Institutional Assessment (CPIA) ", 
+        "sourceOrganization": "World Bank Group, CPIA database (http://www.worldbank.org/ida).", 
+        "name": "CPIA financial sector rating (1=low to 6=high)", 
+        "sourceNote": "Financial sector assesses the structure of the financial sector and the policies and regulations that affect it."
+    }, 
+    "IQ.CPA.IRAI.XQ": {
+        "source": "Country Policy and Institutional Assessment (CPIA) ", 
+        "sourceOrganization": "World Bank Group, CPIA database (http://www.worldbank.org/ida).", 
+        "name": "IDA resource allocation index (1=low to 6=high)", 
+        "sourceNote": "IDA Resource Allocation Index is obtained by calculating the average score for each cluster and then by averaging those scores. For each of 16 criteria countries are rated on a scale of 1 (low) to 6 (high)."
+    }, 
+    "IQ.CPA.GNDR.XQ": {
+        "source": "Country Policy and Institutional Assessment (CPIA) ", 
+        "sourceOrganization": "World Bank Group, CPIA database (http://www.worldbank.org/ida).", 
+        "name": "CPIA gender equality rating (1=low to 6=high)", 
+        "sourceNote": "Gender equality assesses the extent to which the country has installed institutions and programs to enforce laws and policies that promote equal access for men and women in education, health, the economy, and protection under law."
+    }, 
+    "IQ.CPA.SOCI.XQ": {
+        "source": "Country Policy and Institutional Assessment (CPIA) ", 
+        "sourceOrganization": "World Bank Group, CPIA database (http://www.worldbank.org/ida).", 
+        "name": "CPIA policies for social inclusion/equity cluster average (1=low to 6=high)", 
+        "sourceNote": "The policies for social inclusion and equity cluster includes gender equality, equity of public resource use, building human resources, social protection and labor, and policies and institutions for environmental sustainability."
+    }, 
+    "IQ.CPA.PROT.XQ": {
+        "source": "Country Policy and Institutional Assessment (CPIA) ", 
+        "sourceOrganization": "World Bank Group, CPIA database (http://www.worldbank.org/ida).", 
+        "name": "CPIA social protection rating (1=low to 6=high)", 
+        "sourceNote": "Social protection and labor assess government policies in social protection and labor market regulations that reduce the risk of becoming poor, assist those who are poor to better manage further risks, and ensure a minimal level of welfare to all people."
+    }, 
+    "IQ.CPA.FISP.XQ": {
+        "source": "Country Policy and Institutional Assessment (CPIA) ", 
+        "sourceOrganization": "World Bank Group, CPIA database (http://www.worldbank.org/ida).", 
+        "name": "CPIA fiscal policy rating (1=low to 6=high)", 
+        "sourceNote": "Fiscal policy assesses the short- and medium-term sustainability of fiscal policy (taking into account monetary and exchange rate policy and the sustainability of the public debt) and its impact on growth."
+    }, 
+    "IQ.CPA.ECON.XQ": {
+        "source": "Country Policy and Institutional Assessment (CPIA) ", 
+        "sourceOrganization": "World Bank Group, CPIA database (http://www.worldbank.org/ida).", 
+        "name": "CPIA economic management cluster average (1=low to 6=high)", 
+        "sourceNote": "The economic management cluster includes macroeconomic management, fiscal policy, and debt policy."
+    }, 
+    "IQ.CPA.BREG.XQ": {
+        "source": "Country Policy and Institutional Assessment (CPIA) ", 
+        "sourceOrganization": "World Bank Group, CPIA database (http://www.worldbank.org/ida).", 
+        "name": "CPIA business regulatory environment rating (1=low to 6=high)", 
+        "sourceNote": "Business regulatory environment assesses the extent to which the legal, regulatory, and policy environments help or hinder private businesses in investing, creating jobs, and becoming more productive."
+    }, 
+    "IQ.CPA.TRAD.XQ": {
+        "source": "Country Policy and Institutional Assessment (CPIA) ", 
+        "sourceOrganization": "World Bank Group, CPIA database (http://www.worldbank.org/ida).", 
+        "name": "CPIA trade rating (1=low to 6=high)", 
+        "sourceNote": "Trade assesses how the policy framework fosters trade in goods."
+    }, 
+    "IQ.CPA.FINQ.XQ": {
+        "source": "Country Policy and Institutional Assessment (CPIA) ", 
+        "sourceOrganization": "World Bank Group, CPIA database (http://www.worldbank.org/ida).", 
+        "name": "CPIA quality of budgetary and financial management rating (1=low to 6=high)", 
+        "sourceNote": "Quality of budgetary and financial management assesses the extent to which there is a comprehensive and credible budget linked to policy priorities, effective financial management systems, and timely and accurate accounting and fiscal reporting, including timely and audited public accounts."
+    }, 
+    "IQ.CPA.PADM.XQ": {
+        "source": "Country Policy and Institutional Assessment (CPIA) ", 
+        "sourceOrganization": "World Bank Group, CPIA database (http://www.worldbank.org/ida).", 
+        "name": "CPIA quality of public administration rating (1=low to 6=high)", 
+        "sourceNote": "Quality of public administration assesses the extent to which civilian central government staff is structured to design and implement government policy and deliver services effectively."
+    }, 
+    "IQ.CPA.PUBS.XQ": {
+        "source": "Country Policy and Institutional Assessment (CPIA) ", 
+        "sourceOrganization": "World Bank Group, CPIA database (http://www.worldbank.org/ida).", 
+        "name": "CPIA public sector management and institutions cluster average (1=low to 6=high)", 
+        "sourceNote": "The public sector management and institutions cluster includes property rights and rule-based governance, quality of budgetary and financial management, efficiency of revenue mobilization, quality of public administration, and transparency, accountability, and corruption in\nthe public sector."
+    }, 
+    "IQ.CPA.ENVR.XQ": {
+        "source": "Country Policy and Institutional Assessment (CPIA) ", 
+        "sourceOrganization": "World Bank Group, CPIA database (http://www.worldbank.org/ida).", 
+        "name": "CPIA policy and institutions for environmental sustainability rating (1=low to 6=high)", 
+        "sourceNote": "Policy and institutions for environmental sustainability assess the extent to which environmental policies foster the protection and sustainable use of natural resources and the management of pollution."
+    }, 
+    "IQ.CPA.PRES.XQ": {
+        "source": "Country Policy and Institutional Assessment (CPIA) ", 
+        "sourceOrganization": "World Bank Group, CPIA database (http://www.worldbank.org/ida).", 
+        "name": "CPIA equity of public resource use rating (1=low to 6=high)", 
+        "sourceNote": "Equity of public resource use assesses the extent to which the pattern of public expenditures and revenue collection affects the poor and is consistent with national poverty reduction priorities."
+    }, 
+    "IQ.CPA.REVN.XQ": {
+        "source": "Country Policy and Institutional Assessment (CPIA) ", 
+        "sourceOrganization": "World Bank Group, CPIA database (http://www.worldbank.org/ida).", 
+        "name": "CPIA efficiency of revenue mobilization rating (1=low to 6=high)", 
+        "sourceNote": "Efficiency of revenue mobilization assesses the overall pattern of revenue mobilization--not only the de facto tax structure, but also revenue from all sources as actually collected."
+    }, 
+    "IQ.CPA.TRAN.XQ": {
+        "source": "Country Policy and Institutional Assessment (CPIA) ", 
+        "sourceOrganization": "World Bank Group, CPIA database (http://www.worldbank.org/ida).", 
+        "name": "CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)", 
+        "sourceNote": "Transparency, accountability, and corruption in the public sector assess the extent to which the executive can be held accountable for its use of funds and for the results of its actions by the electorate and by the legislature and judiciary, and the extent to which public employees within the executive are required to account for administrative decisions, use of resources, and results obtained. The three main dimensions assessed here are the accountability of the executive to oversight institutions and of public employees for their performance, access of civil society to information on public affairs, and state capture by narrow vested interests."
+    }, 
+    "IQ.CPA.DEBT.XQ": {
+        "source": "Country Policy and Institutional Assessment (CPIA) ", 
+        "sourceOrganization": "World Bank Group, CPIA database (http://www.worldbank.org/ida).", 
+        "name": "CPIA debt policy rating (1=low to 6=high)", 
+        "sourceNote": "Debt policy assesses whether the debt management strategy is conducive to minimizing budgetary risks and ensuring long-term debt sustainability."
+    }, 
+    "IQ.CPA.STRC.XQ": {
+        "source": "Country Policy and Institutional Assessment (CPIA) ", 
+        "sourceOrganization": "World Bank Group, CPIA database (http://www.worldbank.org/ida).", 
+        "name": "CPIA structural policies cluster average (1=low to 6=high)", 
+        "sourceNote": "The structural policies cluster includes trade, financial sector, and business regulatory environment."
+    }, 
+    "IQ.CPA.HRES.XQ": {
+        "source": "Country Policy and Institutional Assessment (CPIA) ", 
+        "sourceOrganization": "World Bank Group, CPIA database (http://www.worldbank.org/ida).", 
+        "name": "CPIA building human resources rating (1=low to 6=high)", 
+        "sourceNote": "Building human resources assesses the national policies and public and private sector service delivery that affect the access to and quality of health and education services, including prevention and treatment of HIV/AIDS, tuberculosis, and malaria."
+    }
+}

@@ -1,0 +1,1682 @@
+{
+    "SP.POP.GROW": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Derived from total population. Population source: (1) United Nations Population Division. World Population Prospects, (2) United Nations Statistical Division. Population and Vital Statistics Report (various years), (3) Census reports and other statistical publications from national statistical offices, (4) Eurostat: Demographic Statistics, (5) Secretariat of the Pacific Community: Statistics and Demography Programme, and (6) U.S. Census Bureau: International Database..", 
+        "name": "Population growth (annual %)", 
+        "sourceNote": "Population growth (annual %) is the exponential rate of growth of midyear population from year t-1 to t, expressed as a percentage. "
+    }, 
+    "SH.MLR.NETS.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNICEF, State of the World's Children, Childinfo, and Demographic and Health Surveys by ICF International.", 
+        "name": "Use of insecticide-treated bed nets (% of under-5 population)", 
+        "sourceNote": "Use of insecticide-treated bed nets refers to the percentage of children under age five who slept under an insecticide-treated bednet to prevent malaria."
+    }, 
+    "SH.STA.STNT.MA.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization, Global Database on Child Growth and Malnutrition. Country-level data are unadjusted data from national surveys, and thus may not be comparable across countries.", 
+        "name": "Malnutrition prevalence, height for age, male (% of children under 5)", 
+        "sourceNote": "Prevalence of child malnutrition is the percentage of children under age 5 whose height for age (stunting) is more than two standard deviations below the median for the international reference population ages 0-59 months. For children up to two years old height is measured by recumbent length. For older children height is measured by stature while standing. The data are based on the WHO's new child growth standards released in 2006."
+    }, 
+    "SH.XPD.PUBL.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization National Health Account database (see http://apps.who.int/nha/database/DataExplorerRegime.aspx for the most recent updates).", 
+        "name": "Health expenditure, public (% of GDP)", 
+        "sourceNote": "Public health expenditure consists of recurrent and capital spending from government (central and local) budgets, external borrowings and grants (including donations from international agencies and nongovernmental organizations), and social (or compulsory) health insurance funds."
+    }, 
+    "SP.POP.0509.FE.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 5-9, female (% of female population)", 
+        "sourceNote": "Female population between the ages 5 to 9 as a percentage of the total female population."
+    }, 
+    "SH.STA.MALN.FE.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization, Global Database on Child Growth and Malnutrition. Country-level data are unadjusted data from national surveys, and thus may not be comparable across countries.", 
+        "name": "Malnutrition prevalence, weight for age, female (% of children under 5)", 
+        "sourceNote": "Prevalence of child malnutrition is the percentage of children under age 5 whose weight for age is more than two standard deviations below the median for the international reference population ages 0-59 months. The data are based on the WHO's new child growth standards released in 2006."
+    }, 
+    "SP.POP.AG04.MA.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UN World Population Prospects for years up to 2009, and World Bank for 2010 onwards.", 
+        "name": "Age population, age 04, male, interpolated", 
+        "sourceNote": "Age population, age 04, male, interpolated"
+    }, 
+    "SH.STA.BRTC.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNICEF, State of the World's Children, Childinfo, and Demographic and Health Surveys by ICF International.", 
+        "name": "Births attended by skilled health staff (% of total)", 
+        "sourceNote": "Births attended by skilled health staff are the percentage of deliveries attended by personnel trained to give the necessary supervision, care, and advice to women during pregnancy, labor, and the postpartum period; to conduct deliveries on their own; and to care for newborns."
+    }, 
+    "SP.POP.3539.FE.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 35-39, female (% of female population)", 
+        "sourceNote": "Female population between the ages 35 to 39 as a percentage of the total female population."
+    }, 
+    "SP.POP.AG01.FE.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UN World Population Prospects for years up to 2009, and World Bank for 2010 onwards.", 
+        "name": "Age population, age 01, female, interpolated", 
+        "sourceNote": "Age population, age 01, female, interpolated"
+    }, 
+    "SP.POP.AG03.FE.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UN World Population Prospects for years up to 2009, and World Bank for 2010 onwards.", 
+        "name": "Age population, age 03, female, interpolated", 
+        "sourceNote": "Age population, age 03, female, interpolated"
+    }, 
+    "SP.MTR.1519.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Demographic and Health Surveys by ICF International.", 
+        "name": "Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant)", 
+        "sourceNote": "Teenage mothers are the percentage of women ages 15-19 who already have children or are currently pregnant."
+    }, 
+    "SE.XPD.TOTL.GD.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "Public spending on education, total (% of GDP)", 
+        "sourceNote": "Public expenditure on education as % of GDP is the total public expenditure (current and capital) on education expressed as a percentage of the Gross Domestic Product (GDP) in a given year. Public expenditure on education includes government spending on educational institutions (both public and private), education administration, and transfers/subsidies for private entities (students/households and other privates entities)."
+    }, 
+    "SP.POP.TOTL.FE.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "The United Nations Population Division's World Population Prospects.", 
+        "name": "Population, female (% of total)", 
+        "sourceNote": "Population, female (% of total) is the percentage of the population that is female."
+    }, 
+    "SP.REG.BRTH.UR.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNICEF's State of the World's Children based mostly on household surveys and ministry of health data.", 
+        "name": "Completeness of birth registration, urban (%)", 
+        "sourceNote": "Completeness of birth registration is the percentage of children under age 5 whose births were registered at the time of the survey. The numerator of completeness of birth registration includes children whose birth certificate was seen by the interviewer or whose mother or caretaker says the birth has been registered."
+    }, 
+    "SH.XPD.EXTR.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization National Health Account database (see http://apps.who.int/nha/database/DataExplorerRegime.aspx for the most recent updates).", 
+        "name": "External resources for health (% of total expenditure on health)", 
+        "sourceNote": "External resources for health are funds or services in kind that are provided by entities not part of the country in question. The resources may come from international organizations, other countries through bilateral arrangements, or foreign nongovernmental organizations. These resources are part of total health expenditure."
+    }, 
+    "SP.DYN.SMAM.MA": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Demographic and Health Surveys", 
+        "name": "Age at first marriage, male", 
+        "sourceNote": "Age at first marriage, male"
+    }, 
+    "SP.RUR.TOTL.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank Staff estimates based on United Nations, World Urbanization Prospects. ", 
+        "name": "Rural population (% of total population)", 
+        "sourceNote": "Rural population refers to people living in rural areas as defined by national statistical offices. It is calculated as the difference between total population and urban population."
+    }, 
+    "SP.UWT.TFRT": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Household surveys, including Demographic and Health Surveys by ICF International and Multiple Indicator Cluster Surveys by UNICEF.", 
+        "name": "Unmet need for contraception (% of married women ages 15-49)", 
+        "sourceNote": "Unmet need for contraception is the percentage of fertile, married women of reproductive age who do not want to become pregnant and are not using contraception."
+    }, 
+    "SP.POP.80UP.FE.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 80 and above, female (% of female population)", 
+        "sourceNote": "Female population between the ages 80 and above as a percentage of the total female population."
+    }, 
+    "SH.XPD.PUBL.GX.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization National Health Account database (see http://apps.who.int/nha/database/DataExplorerRegime.aspx for the most recent updates).", 
+        "name": "Health expenditure, public (% of government expenditure)", 
+        "sourceNote": "Public health expenditure consists of recurrent and capital spending from government (central and local) budgets, external borrowings and grants (including donations from international agencies and nongovernmental organizations), and social (or compulsory) health insurance funds."
+    }, 
+    "SH.STA.MMRT.NE": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNICEF, State of the World's Children, Childinfo, and Demographic and Health Surveys by ICF International.", 
+        "name": "Maternal mortality ratio (national estimate, per 100,000 live births)", 
+        "sourceNote": "Maternal mortality ratio is the number of women who die from pregnancy-related causes while pregnant or within 42 days of pregnancy termination per 100,000 live births."
+    }, 
+    "SH.MMR.RISK.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "WHO, UNICEF, UNFPA, The World Bank, and the United Nations Population Division. Trends in Maternal Mortality: 1990 to 2013. Geneva, World Health Organization, 2014", 
+        "name": "Lifetime risk of maternal death (%)", 
+        "sourceNote": "Life time risk of maternal death is the probability that a 15-year-old female will die eventually from a maternal cause assuming that current levels of fertility and mortality (including maternal mortality) do not change in the future, taking into account competing causes of death. "
+    }, 
+    "SE.SEC.NENR.MA": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "School enrollment, secondary, male (% net)", 
+        "sourceNote": "Net enrolment rate. Secondary. All programmes. Male is the ratio of male children of the official secondary school age who are enrolled in secondary school to the male population of the official secondary school age."
+    }, 
+    "SP.POP.AG16.MA.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 16, male, interpolated", 
+        "sourceNote": "Age population, male refers to male population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SN.ITK.SALT.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "United Nations Children's Fund, State of the World's Children.", 
+        "name": "Consumption of iodized salt (% of households)", 
+        "sourceNote": "Consumption of iodized salt refers to the percentage of households that use edible salt fortified with iodine."
+    }, 
+    "SH.STA.OWGH.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization, Global Database on Child Growth and Malnutrition. Country-level data are unadjusted data from national surveys, and thus may not be comparable across countries. Adjusted, comparable data are available at http://www.who.int/nutgrowthdb/en. Aggregation is based on UNICEF, WHO, and the World Bank harmonized dataset (adjusted, comparable data) and methodology.", 
+        "name": "Prevalence of overweight (% of children under 5)", 
+        "sourceNote": "Prevalence of overweight children is the percentage of children under age 5 whose weight for height is more than two standard deviations above the median for the international reference population of the corresponding age as established by the WHO's new child growth standards released in 2006."
+    }, 
+    "SH.XPD.TOTL.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization National Health Account database (see http://apps.who.int/nha/database/DataExplorerRegime.aspx for the most recent updates).", 
+        "name": "Health expenditure, total (% of GDP)", 
+        "sourceNote": "Total health expenditure is the sum of public and private health expenditure. It covers the provision of health services (preventive and curative), family planning activities, nutrition activities, and emergency aid designated for health but does not include provision of water and sanitation."
+    }, 
+    "SP.POP.2529.FE.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 25-29, female (% of female population)", 
+        "sourceNote": "Female population between the ages 25 to 29 as a percentage of the total female population."
+    }, 
+    "SH.XPD.PUBL": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization National Health Account database (see http://apps.who.int/nha/database/DataExplorerRegime.aspx for the most recent updates).", 
+        "name": "Health expenditure, public (% of total health expenditure)", 
+        "sourceNote": "Public health expenditure consists of recurrent and capital spending from government (central and local) budgets, external borrowings and grants (including donations from international agencies and nongovernmental organizations), and social (or compulsory) health insurance funds. Total health expenditure is the sum of public and private health expenditure. It covers the provision of health services (preventive and curative), family planning activities, nutrition activities, and emergency aid designated for health but does not include provision of water and sanitation."
+    }, 
+    "SH.DYN.MORT.MA": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Estimates developed by the UN Inter-agency Group for Child Mortality Estimation (UNICEF, WHO, World Bank, UN DESA Population Division) at www.childmortality.org.", 
+        "name": "Mortality rate, under-5, male (per 1,000)", 
+        "sourceNote": "Under-five mortality rate, male is the probability per 1,000 that a newborn male baby will die before reaching age five, if subject to male age-specific mortality rates of the specified year."
+    }, 
+    "SH.MLR.PREG.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Demographic and Health Surveys by Macro International.", 
+        "name": "Use of preventive treatment for malaria (% of pregnant women)", 
+        "sourceNote": "Use of preventive treatment for malaria shows the prophylactic use of antimalarial drugs and use of Intermittent Preventive Treatment (IPT) by women during pregnancy."
+    }, 
+    "SH.VAC.TTNS.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "WHO and UNICEF (http://www.who.int/immunization/monitoring_surveillance/en/).", 
+        "name": "Newborns protected against tetanus (%)", 
+        "sourceNote": "Newborns protected against tetanus are the percentage of births by women of child-bearing age who are immunized against tetanus."
+    }, 
+    "SP.RUR.TOTL.ZG": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank Staff estimates based on United Nations, World Urbanization Prospects. ", 
+        "name": "Rural population growth (annual %)", 
+        "sourceNote": "Rural population refers to people living in rural areas as defined by national statistical offices. It is calculated as the difference between total population and urban population."
+    }, 
+    "SE.SEC.ENRR": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "School enrollment, secondary (% gross)", 
+        "sourceNote": "Gross enrolment ratio. Secondary. All programmes. Total is the total enrollment in secondary education, regardless of age, expressed as a percentage of the population of official secondary education age. GER can exceed 100% due to the inclusion of over-aged and under-aged students because of early or late school entrance and grade repetition."
+    }, 
+    "SH.DYN.MORT": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Estimates developed by the UN Inter-agency Group for Child Mortality Estimation (UNICEF, WHO, World Bank, UN DESA Population Division) at www.childmortality.org.", 
+        "name": "Mortality rate, under-5 (per 1,000 live births)", 
+        "sourceNote": "Under-five mortality rate is the probability per 1,000 that a newborn baby will die before reaching age five, if subject to age-specific mortality rates of the specified year."
+    }, 
+    "SP.POP.AG15.FE.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 15, female, interpolated", 
+        "sourceNote": "Age population, female refers to female population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SI.POV.RUHC": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank, Global Poverty Working Group. Data are based on World Bank's country poverty assessments and country Poverty Reduction Strategies.", 
+        "name": "Rural poverty headcount ratio at national poverty lines (% of rural population)", 
+        "sourceNote": "World Bank, Global Poverty Working Group. Data are compiled from official government sources or are computed by World Bank staff using national (i.e. country\u2013specific) poverty lines."
+    }, 
+    "SH.STA.WAST.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization, Global Database on Child Growth and Malnutrition. Country-level data are unadjusted data from national surveys, and thus may not be comparable across countries. Adjusted, comparable data are available at http://www.who.int/nutgrowthdb/en. Aggregation is based on UNICEF, WHO, and the World Bank harmonized dataset (adjusted, comparable data) and methodology.", 
+        "name": "Prevalence of wasting (% of children under 5)", 
+        "sourceNote": "Wasting prevalence is the proportion of children under five whose weight for height is more than two standard deviations below the median for the international reference population ages 0-59."
+    }, 
+    "SH.STA.ACSN.RU": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "WHO/UNICEF Joint Monitoring Programme (JMP) for Water Supply and Sanitation (http://www.wssinfo.org/).", 
+        "name": "Improved sanitation facilities, rural (% of rural population with access)", 
+        "sourceNote": "Access to improved sanitation facilities refers to the percentage of the population using improved sanitation facilities. The improved sanitation facilities include flush/pour flush (to piped sewer system, septic tank, pit latrine), ventilated improved pit (VIP) latrine, pit latrine with slab, and composting toilet."
+    }, 
+    "SP.POP.65UP.TO": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates using the World Bank's population and the United Nations Population Division's World Population Prospects. The World Bank's population estimates are from various sources including the United Nations Population Division's World Population Prospects; census reports and statistical publications from national statistical offices; household surveys conducted by national agencies, Macro International, and the U.S. Conters for Disease Control and Prevention; Eurostat's Demographic Statistics; Secretariat of the Pacific Community, Statistics and Demography Programme; and U.S. Bureau of the Census, International Data Base.", 
+        "name": "Population ages 65 and above, total", 
+        "sourceNote": "Total population 65 years of age or older. Population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship--except for refugees not permanently settled in the country of asylum, who are generally considered part of the population of the country of origin."
+    }, 
+    "SP.POP.5559.FE.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 55-59, female (% of female population)", 
+        "sourceNote": "Female population between the ages 55 to 59 as a percentage of the total female population."
+    }, 
+    "SP.POP.3539.MA.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 35-39, male (% of male population)", 
+        "sourceNote": "Male population between the ages 35 to 39 as a percentage of the total male population."
+    }, 
+    "SH.ANM.CHLD.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "1. WHO. Global anemia prevalence and trends 1995-2011. Geneva: World Health Organization; forthcoming.  2. Stevens GA, Finucane MM, De-Regil LM, et al. Global, regional, and national trends in hemoglobin concentration and prevalence of total and severe anemia in children and pregnant and non-pregnant women for 1995-2011: a systematic analysis of population-representative data. The Lancet Global Health 2013; 1(1): e16-e25.", 
+        "name": "Prevalence of anemia among children (% of children under 5)", 
+        "sourceNote": "Prevalence of anemia, children under age 5, is the percentage of children under age 5 whose hemoglobin level is less than 110 grams per liter at sea level."
+    }, 
+    "SP.POP.AG10.FE.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 10, female, interpolated", 
+        "sourceNote": "Age population, female refers to female population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SH.TBS.INCD": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization, Global Tuberculosis Report.", 
+        "name": "Incidence of tuberculosis (per 100,000 people)", 
+        "sourceNote": "Incidence of tuberculosis is the estimated number of new pulmonary, smear positive, and extra-pulmonary tuberculosis cases. Incidence includes patients with HIV."
+    }, 
+    "SP.POP.AG03.MA.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UN World Population Prospects for years up to 2009, and World Bank for 2010 onwards.", 
+        "name": "Age population, age 03, male, interpolated", 
+        "sourceNote": "Age population, age 03, male, interpolated"
+    }, 
+    "SP.POP.0014.FE.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "The United Nations Population Division's World Population Prospects.", 
+        "name": "Population ages 0-14, female (% of total)", 
+        "sourceNote": "Female population between the ages 0 to 14 as a percentage of the total female population. Population is based on the de facto definition of population."
+    }, 
+    "SH.STA.BFED.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNICEF, State of the World's Children, Childinfo, and Demographic and Health Surveys by ICF International.", 
+        "name": "Exclusive breastfeeding (% of children under 6 months)", 
+        "sourceNote": "Exclusive breastfeeding refers to the percentage of children less than six months old who are fed breast milk alone (no other liquids) in the past 24 hours."
+    }, 
+    "SP.DYN.IMRT.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Estimates developed by the UN Inter-agency Group for Child Mortality Estimation (UNICEF, WHO, World Bank, UN DESA Population Division) at www.childmortality.org.", 
+        "name": "Mortality rate, infant (per 1,000 live births)", 
+        "sourceNote": "Infant mortality rate is the number of infants dying before reaching one year of age, per 1,000 live births in a given year."
+    }, 
+    "SP.POP.1519.FE.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 15-19, female (% of female population)", 
+        "sourceNote": "Female population between the ages 15 to 19 as a percentage of the total female population."
+    }, 
+    "SP.POP.AG05.FE.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UN World Population Prospects for years up to 2009, and World Bank for 2010 onwards.", 
+        "name": "Age population, age 05, female, interpolated", 
+        "sourceNote": "Age population, age 05, female, interpolated"
+    }, 
+    "SP.POP.5054.FE.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 50-54, female (% of female population)", 
+        "sourceNote": "Female population between the ages 50 to 54 as a percentage of the total female population."
+    }, 
+    "SH.HIV.TOTL": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNAIDS estimates.", 
+        "name": "Adults (ages 15+) and children (0-14 years) living with HIV", 
+        "sourceNote": "Adults and children living with HIV refers to the number of people ages 0-49 (adult ages 15-49 and children ages 0-14) who are infected with HIV."
+    }, 
+    "SN.ITK.VITA.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "United Nations Children's Fund, State of the World's Children.", 
+        "name": "Vitamin A supplementation coverage rate (% of children ages 6-59 months)", 
+        "sourceNote": "Vitamin A supplementation refers to the percentage of children ages 6-59 months old who received at least two doses of vitamin A in the previous year."
+    }, 
+    "SH.XPD.OOPC.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization National Health Account database (see http://apps.who.int/nha/database/DataExplorerRegime.aspx for the most recent updates).", 
+        "name": "Out-of-pocket health expenditure (% of private expenditure on health)", 
+        "sourceNote": "Out of pocket expenditure is any direct outlay by households, including gratuities and in-kind payments, to health practitioners and suppliers of pharmaceuticals, therapeutic appliances, and other goods and services whose primary intent is to contribute to the restoration or enhancement of the health status of individuals or population groups. It is a part of private health expenditure."
+    }, 
+    "SP.DYN.AMRT.FE": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "(1) United Nations Population Division. World Population Prospects. New York, United Nations, Department of Economic and Social Affairs (advanced Excel tables). Available at http://esa.un.org/wpp/unpp/panel_population.htm, (2) University of California, Berkeley, and Max Planck Institute for Demographic Research. Human Mortality Database. [ www.mortality.org or www.humanmortality.de].", 
+        "name": "Mortality rate, adult, female (per 1,000 female adults)", 
+        "sourceNote": "Adult mortality rate is the probability of dying between the ages of 15 and 60--that is, the probability of a 15-year-old dying before reaching age 60, if subject to current age-specific mortality rates between those ages."
+    }, 
+    "SH.TBS.MORT": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization, Global Tuberculosis Report.", 
+        "name": "Tuberculosis death rate (per 100,000 people)", 
+        "sourceNote": "Tuberculosis death rate is the estimated number of deaths from tuberculosis among HIV-negative people, expressed as the rate per 100,000 population.  Estimates for all years are recalculated as new information becomes available and techniques are refined, so they may differ from those published previously."
+    }, 
+    "SP.POP.AG12.MA.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 12, male", 
+        "sourceNote": "Age population, male refers to male population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SH.CON.1524.MA.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Demographic and Health Surveys by ICF International.", 
+        "name": "Condom use, population ages 15-24, male (% of males ages 15-24)", 
+        "sourceNote": "Condom use is the percentage of the population ages 15-24 who used a condom at last intercourse in the last 12 months."
+    }, 
+    "SP.POP.7074.FE.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 70-74, female (% of female population)", 
+        "sourceNote": "Female population between the ages 70 to 74 as a percentage of the total female population."
+    }, 
+    "SP.POP.AG13.FE.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 13, female, interpolated", 
+        "sourceNote": "Age population, female refers to female population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SH.MLR.SPF2.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNICEF Childinfo, Multiple Indicator Cluster Surveys, Demographic and Health Surveys.", 
+        "name": "Use of Intermittent Preventive Treatment of malaria, 2+ doses of SP/Fansidar (% of pregnant women)", 
+        "sourceNote": "Percentage of women with a live birth in the recent years preceding the survey who received 2+ doses of sulfadoxine-pyrimethamine (SP/Fansidar), at least one during an antenatal care visit. Intermittent Preventive Treatment (IPT) is preventive treatment with SP/Fansidar during an antenatal care (ANC) visit treatment with a dose of sulfadoxine-pyrimethamine (SP/Fansidar) to pregnant women at each scheduled antenatal visit after the first trimester, but not more frequently than once a month."
+    }, 
+    "SE.SEC.NENR": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "School enrollment, secondary (% net)", 
+        "sourceNote": "Net enrolment rate. Secondary. All programmes. Total is the ratio of children of the official secondary school age who are enrolled in secondary school to the population of the official secondary school age."
+    }, 
+    "SH.STA.OWGH.MA.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization, Global Database on Child Growth and Malnutrition. Country-level data are unadjusted data from national surveys, and thus may not be comparable across countries.", 
+        "name": "Prevalence of overweight, male (% of children under 5)", 
+        "sourceNote": "Prevalence of overweight children is the percentage of children under age 5 whose weight for height is more than two standard deviations above the median for the international reference population of the corresponding age as established by the WHO's new child growth standards released in 2006."
+    }, 
+    "SP.DYN.TO65.FE.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "United Nations Population Division. World Population Prospects. New York, United Nations, Department of Economic and Social Affairs (advanced Excel tables). Available at http://esa.un.org/wpp/unpp/panel_population.htm.", 
+        "name": "Survival to age 65, female (% of cohort)", 
+        "sourceNote": "Survival to age 65 refers to the percentage of a cohort of newborn infants that would survive to age 65, if subject to current age specific mortality rates."
+    }, 
+    "SP.POP.AG07.MA.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 07, male, interpolated", 
+        "sourceNote": "Age population, male refers to male population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SP.POP.AG02.MA.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UN World Population Prospects for years up to 2009, and World Bank for 2010 onwards.", 
+        "name": "Age population, age 02, male, interpolated", 
+        "sourceNote": "Age population, age 02, male, interpolated"
+    }, 
+    "SP.DYN.CBRT.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "(1) United Nations Population Division. World Population Prospects, (2) United Nations Statistical Division. Population and Vital Statistics Report (various years), (3) Census reports and other statistical publications from national statistical offices, (4) Eurostat: Demographic Statistics, (5) Secretariat of the Pacific Community: Statistics and Demography Programme, and (6) U.S. Census Bureau: International Database.", 
+        "name": "Birth rate, crude (per 1,000 people)", 
+        "sourceNote": "Crude birth rate indicates the number of live births occurring during the year, per 1,000 population estimated at midyear. Subtracting the crude death rate from the crude birth rate provides the rate of natural increase, which is equal to the rate of population change in the absence of migration."
+    }, 
+    "SL.TLF.TOTL.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Labor force, total", 
+        "sourceNote": "Total labor force comprises people ages 15 and older who meet the International Labour Organization definition of the economically active population: all people who supply labor for the production of goods and services during a specified period. It includes both the employed and the unemployed. While national practices vary in the treatment of such groups as the armed forces and seasonal or part-time workers, in general the labor force includes the armed forces, the unemployed, and first-time job-seekers, but excludes homemakers and other unpaid caregivers and workers in the informal sector."
+    }, 
+    "SP.POP.AG07.FE.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 07, female, interpolated", 
+        "sourceNote": "Age population, female refers to female population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SH.STA.STNT.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization, Global Database on Child Growth and Malnutrition. Country-level data are unadjusted data from national surveys, and thus may not be comparable across countries. Adjusted, comparable data are available at http://www.who.int/nutgrowthdb/en. Aggregation is based on UNICEF, WHO, and the World Bank harmonized dataset (adjusted, comparable data) and methodology.", 
+        "name": "Malnutrition prevalence, height for age (% of children under 5)", 
+        "sourceNote": "Prevalence of child malnutrition is the percentage of children under age 5 whose height for age (stunting) is more than two standard deviations below the median for the international reference population ages 0-59 months. For children up to two years old height is measured by recumbent length. For older children height is measured by stature while standing. The data are based on the WHO's new child growth standards released in 2006."
+    }, 
+    "SI.POV.URHC": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank, Global Poverty Working Group. Data are based on World Bank's country poverty assessments and country Poverty Reduction Strategies.", 
+        "name": "Urban poverty headcount ratio at national poverty lines (% of urban population)", 
+        "sourceNote": "World Bank, Global Poverty Working Group. Data are compiled from official government sources or are computed by World Bank staff using national (i.e. country\u2013specific) poverty lines."
+    }, 
+    "SH.DTH.NCOM.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Derived based on the data from WHO's World Health Statistics.", 
+        "name": "Cause of death, by non-communicable diseases (% of total)", 
+        "sourceNote": "Cause of death refers to the share of all deaths for all ages by underlying causes. Non-communicable diseases include cancer, diabetes mellitus, cardiovascular diseases, digestive diseases, skin diseases, musculoskeletal diseases, and congenital anomalies."
+    }, 
+    "SH.XPD.PCAP": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization National Health Account database (see http://apps.who.int/nha/database/DataExplorerRegime.aspx for the most recent updates).", 
+        "name": "Health expenditure per capita (current US$)", 
+        "sourceNote": "Total health expenditure is the sum of public and private health expenditures as a ratio of total population. It covers the provision of health services (preventive and curative), family planning activities, nutrition activities, and emergency aid designated for health but does not include provision of water and sanitation. Data are in current U.S. dollars."
+    }, 
+    "SP.POP.AG06.MA.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 06, male, interpolated", 
+        "sourceNote": "Age population, male refers to male population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SE.PRM.CMPT.FE.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "Primary completion rate, female (% of relevant age group)", 
+        "sourceNote": "Primary completion rate is measured as the gross intake ratio to the last grade of primary education. It is calculated by taking the total number of students in the last grade of primary school, minus the number of repeaters in that grade, divided by the total number of children of official graduation age."
+    }, 
+    "SH.IMM.HEPB": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "WHO and UNICEF (http://www.who.int/immunization_monitoring/routine/en/).", 
+        "name": "Immunization, HepB3 (% of one-year-old children)", 
+        "sourceNote": "Child immunization rate, hepatitis B is the percentage of children ages 12-23 months who received vaccinations before 12 months or at any time before the survey. A child is considered adequately immunized after three doses."
+    }, 
+    "SP.URB.TOTL": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank Staff estimates based on United Nations, World Urbanization Prospects. ", 
+        "name": "Urban population", 
+        "sourceNote": "Urban population refers to people living in urban areas as defined by national statistical offices. It is calculated using World Bank population estimates and urban ratios from the United Nations World Urbanization Prospects."
+    }, 
+    "SH.MED.CMHW.P3": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization, OECD, supplemented by country data.", 
+        "name": "Community health workers (per 1,000 people)", 
+        "sourceNote": "Community health workers include various types of community health aides, many with country-specific occupational titles such as community health officers, community health-education workers, family health workers, lady health visitors and health extension package workers."
+    }, 
+    "SP.POP.AG22.MA.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 22, male, interpolated", 
+        "sourceNote": "Age population, male refers to male population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SH.STA.ACSN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "WHO/UNICEF Joint Monitoring Programme (JMP) for Water Supply and Sanitation (http://www.wssinfo.org/).", 
+        "name": "Improved sanitation facilities (% of population with access)", 
+        "sourceNote": "Access to improved sanitation facilities refers to the percentage of the population using improved sanitation facilities. The improved sanitation facilities include flush/pour flush (to piped sewer system, septic tank, pit latrine), ventilated improved pit (VIP) latrine, pit latrine with slab, and composting toilet."
+    }, 
+    "SE.PRM.NENR": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "School enrollment, primary (% net)", 
+        "sourceNote": "Net enrolment rate. Primary. Total is the ratio of children of the official primary school age who are enrolled in primary school to the total population of the official primary school age."
+    }, 
+    "SP.POP.65UP.MA.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "The United Nations Population Division's World Population Prospects.", 
+        "name": "Population ages 65 and above, male (% of total)", 
+        "sourceNote": "Male population 65 years of age or older as a percentage of the total male population. Population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship--except for refugees not permanently settled in the country of asylum, who are generally considered part of the population of the country of origin."
+    }, 
+    "SP.URB.GROW": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank Staff estimates based on United Nations, World Urbanization Prospects. ", 
+        "name": "Urban population growth (annual %)", 
+        "sourceNote": "Urban population refers to people living in urban areas as defined by national statistical offices. It is calculated using World Bank population estimates and urban ratios from the United Nations World Urbanization Prospects."
+    }, 
+    "SH.MED.BEDS.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Data are from the World Health Organization, supplemented by country data.", 
+        "name": "Hospital beds (per 1,000 people)", 
+        "sourceNote": "Hospital beds include inpatient beds available in public, private, general, and specialized hospitals and rehabilitation centers. In most cases beds for both acute and chronic care are included."
+    }, 
+    "SH.PRV.SMOK.MA": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "WHO Report on the Global Tobacco Epidemic.", 
+        "name": "Smoking prevalence, males (% of adults)", 
+        "sourceNote": "Prevalence of smoking, male is the percentage of men ages 15 and over who smoke any form of tobacco, including cigarettes, cigars, and pipes, and excluding smokeless tobacco. Data include daily and non-daily smoking."
+    }, 
+    "SP.ADO.TFRT": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "United Nations Population Division, World Population Prospects.", 
+        "name": "Adolescent fertility rate (births per 1,000 women ages 15-19)", 
+        "sourceNote": "Adolescent fertility rate is the number of births per 1,000 women ages 15-19."
+    }, 
+    "SH.STA.ACSN.UR": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "WHO/UNICEF Joint Monitoring Programme (JMP) for Water Supply and Sanitation (http://www.wssinfo.org/).", 
+        "name": "Improved sanitation facilities, urban (% of urban population with access)", 
+        "sourceNote": "Access to improved sanitation facilities refers to the percentage of the population using improved sanitation facilities. The improved sanitation facilities include flush/pour flush (to piped sewer system, septic tank, pit latrine), ventilated improved pit (VIP) latrine, pit latrine with slab, and composting toilet."
+    }, 
+    "SP.REG.BRTH.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNICEF's State of the World's Children based mostly on household surveys and ministry of health data.", 
+        "name": "Completeness of birth registration (%)", 
+        "sourceNote": "Completeness of birth registration is the percentage of children under age 5 whose births were registered at the time of the survey. The numerator of completeness of birth registration includes children whose birth certificate was seen by the interviewer or whose mother or caretaker says the birth has been registered."
+    }, 
+    "SE.ENR.ORPH": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "United Nations Children's Fund (UNICEF) (UN MDG site).", 
+        "name": "Ratio of school attendance of orphans to school attendance of non-orphans ages 10-14", 
+        "sourceNote": "Ratio of school attendance of orphans to school attendance of non orphans is the ratio of school attendance of orphans to school attendance of non orphans ages 10-14."
+    }, 
+    "SL.UEM.TOTL.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Unemployment, total (% of total labor force) (modeled ILO estimate)", 
+        "sourceNote": "Unemployment refers to the share of the labor force that is without work but available for and seeking employment."
+    }, 
+    "SP.POP.2024.FE.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 20-24, female (% of female population)", 
+        "sourceNote": "Female population between the ages 20 to 24 as a percentage of the total female population."
+    }, 
+    "SN.ITK.DEFC": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Food and Agriculture Organization, The State of Food Insecurity in the World (http://www.fao.org/publications/sofi/food-security-indicators/en/).", 
+        "name": "Number of people who are undernourished", 
+        "sourceNote": "Number of people who are undernourished shows the number of people whose food intake is insufficient to meet dietary energy requirements continuously."
+    }, 
+    "SP.POP.AG14.MA.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 14, male", 
+        "sourceNote": "Age population, male refers to male population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SH.STA.WAST.MA.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization, Global Database on Child Growth and Malnutrition. Country-level data are unadjusted data from national surveys, and thus may not be comparable across countries.", 
+        "name": "Prevalence of wasting, male (% of children under 5)", 
+        "sourceNote": "Wasting prevalence is the proportion of children under five whose weight for height is more than two standard deviations below the median for the international reference population ages 0-59."
+    }, 
+    "SH.H2O.SAFE.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "WHO/UNICEF Joint Monitoring Programme (JMP) for Water Supply and Sanitation (http://www.wssinfo.org/).", 
+        "name": "Improved water source (% of population with access)", 
+        "sourceNote": "Access to an improved water source refers to the percentage of the population using an improved drinking water source. The improved drinking water source includes piped water on premises (piped household water connection located inside the user\u2019s dwelling, plot or yard), and other improved drinking water sources (public taps or standpipes, tube wells or boreholes, protected dug wells, protected springs, and rainwater collection)."
+    }, 
+    "SN.ITK.DEFC.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Food and Agriculture Organization, The State of Food Insecurity in the World (http://www.fao.org/publications/sofi/food-security-indicators/en/).", 
+        "name": "Prevalence of undernourishment (% of population)", 
+        "sourceNote": "Population below minimum level of dietary energy consumption (also referred to as prevalence of undernourishment) shows the percentage of the population whose food intake is insufficient to meet dietary energy requirements continuously. Data showing as 2.5 signifies a prevalence of undernourishment below 2.5%."
+    }, 
+    "SP.POP.AG01.MA.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UN World Population Prospects for years up to 2009, and World Bank for 2010 onwards.", 
+        "name": "Age population, age 01, male, interpolated", 
+        "sourceNote": "Age population, age 01, male, interpolated"
+    }, 
+    "SH.XPD.PRIV": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization National Health Account database (see http://apps.who.int/nha/database for the most recent updates).", 
+        "name": "Health expenditure, private (% of total health expenditure)", 
+        "sourceNote": "Private health expenditure includes direct household (out-of-pocket) spending, private insurance, charitable donations, and direct service payments by private corporations."
+    }, 
+    "SE.TER.ENRR.FE": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "School enrollment, tertiary, female (% gross)", 
+        "sourceNote": "Gross enrolment ratio. Tertiary (ISCED 5 and 6). Female is the total female enrollment in tertiary education (ISCED 5 and 6), regardless of age, expressed as a percentage of the total female population of the five-year age group following on from secondary school leaving. "
+    }, 
+    "SP.POP.AG24.FE.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 24, female, interpolated", 
+        "sourceNote": "Age population, female refers to female population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SH.XPD.TOTL.CD": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization National Health Account database (see http://apps.who.int/nha/database for the most recent updates).", 
+        "name": "Health expenditure (current US$)", 
+        "sourceNote": "Total health expenditure is the sum of public and private health expenditure. It covers the provision of health services (preventive and curative), family planning activities, nutrition activities, and emergency aid designated for health but does not include provision of water and sanitation."
+    }, 
+    "SP.POP.AG14.FE.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 14, female, interpolated", 
+        "sourceNote": "Age population, female refers to female population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SE.SEC.ENRR.FE": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "School enrollment, secondary, female (% gross)", 
+        "sourceNote": "Gross enrolment ratio. Secondary. All programmes. Female is the total female enrollment in secondary education, regardless of age, expressed as a percentage of the female population of official secondary education age. GER can exceed 100% due to the inclusion of over-aged and under-aged students because of early or late school entrance and grade repetition."
+    }, 
+    "SH.HIV.1524.KW.FE.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Household surveys such as Demographic and Health Surveys and Multiple Indicator Cluster Surveys.  Largely compiled by UNICEF.", 
+        "name": "Comprehensive correct knowledge of HIV/AIDS, ages 15-24, female (2 prevent ways and reject 3 misconceptions)", 
+        "sourceNote": "The percent of female respondents ages 15-24 who correctly identify the two major ways of preventing the sexual transmission of HIV (using condoms and limiting sex to one faithful, uninfected partner), who reject the two most common local misconceptions about HIV transmission, and who know that a healthy-looking person can have HIV."
+    }, 
+    "SP.DYN.TO65.MA.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "United Nations Population Division. World Population Prospects. New York, United Nations, Department of Economic and Social Affairs (advanced Excel tables). Available at http://esa.un.org/wpp/unpp/panel_population.htm.", 
+        "name": "Survival to age 65, male (% of cohort)", 
+        "sourceNote": "Survival to age 65 refers to the percentage of a cohort of newborn infants that would survive to age 65, if subject to current age specific mortality rates."
+    }, 
+    "SP.POP.TOTL.FE.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank estimates using ratio from UN World Population Prospects and World Bank's population.", 
+        "name": "Population, female", 
+        "sourceNote": "Population, female"
+    }, 
+    "SP.POP.0004.FE.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 0-4, female (% of female population)", 
+        "sourceNote": "Female population between the ages 0 to 4 as a percentage of the total female population."
+    }, 
+    "SP.DYN.CONU.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Household surveys, including Demographic and Health Surveys by Macro International and Multiple Indicator Cluster Surveys by UNICEF.", 
+        "name": "Contraceptive prevalence (% of women ages 15-49)", 
+        "sourceNote": "Contraceptive prevalence rate is the percentage of women who are practicing, or whose sexual partners are practicing, any form of contraception. It is usually measured for married women ages 15-49 only."
+    }, 
+    "SH.STA.OWGH.FE.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization, Global Database on Child Growth and Malnutrition. Country-level data are unadjusted data from national surveys, and thus may not be comparable across countries.", 
+        "name": "Prevalence of overweight, female (% of children under 5)", 
+        "sourceNote": "Prevalence of overweight children is the percentage of children under age 5 whose weight for height is more than two standard deviations above the median for the international reference population of the corresponding age as established by the WHO's new child growth standards released in 2006."
+    }, 
+    "SP.POP.6569.FE.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 65-69, female (% of female population)", 
+        "sourceNote": "Female population between the ages 65 to 69 as a percentage of the total female population."
+    }, 
+    "SE.TER.ENRR": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "School enrollment, tertiary (% gross)", 
+        "sourceNote": "Gross enrolment ratio. Tertiary (ISCED 5 and 6). Total is the total enrollment in tertiary education (ISCED 5 and 6), regardless of age, expressed as a percentage of the total population of the five-year age group following on from secondary school leaving. "
+    }, 
+    "SH.HIV.1524.MA.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNAIDS estimates.", 
+        "name": "Prevalence of HIV, male (% ages 15-24)", 
+        "sourceNote": "Prevalence of HIV is the percentage of people who are infected with HIV. Youth rates are as a percentage of the relevant age group."
+    }, 
+    "SH.HIV.1524.KW.MA.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Household surveys such as Demographic and Health Surveys and Multiple Indicator Cluster Surveys.  Largely compiled by UNICEF.", 
+        "name": "Comprehensive correct knowledge of HIV/AIDS, ages 15-24, male (2 prevent ways and reject 3 misconceptions)", 
+        "sourceNote": "The percent of male respondents ages 15-24 who correctly identify the two major ways of preventing the sexual transmission of HIV (using condoms and limiting sex to one faithful, uninfected partner), who reject the two most common local misconceptions about HIV transmission, and who know that a healthy-looking person can have HIV."
+    }, 
+    "SP.POP.6569.MA.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 65-69, male (% of male population)", 
+        "sourceNote": "Male population between the ages 65 to 69 as a percentage of the total male population."
+    }, 
+    "SH.STA.MMRT": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "WHO, UNICEF, UNFPA, The World Bank, and the United Nations Population Division. Trends in Maternal Mortality: 1990 to 2013. Geneva, World Health Organization, 2014", 
+        "name": "Maternal mortality ratio (modeled estimate, per 100,000 live births)", 
+        "sourceNote": "Maternal mortality ratio is the number of women who die from pregnancy-related causes while pregnant or within 42 days of pregnancy termination per 100,000 live births. The data are estimated with a regression model using information on the proportion of maternal deaths among non-AIDS deaths in women ages 15-49, fertility, birth attendants, and GDP."
+    }, 
+    "SH.CON.AIDS.FE.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Demographic and Health Surveys from national sources.", 
+        "name": "Condom use with non regular partner, % adults(15-49), female", 
+        "sourceNote": "Condom use at last high-risk sex is the percentage of the population ages 15-49 who used a condom at last intercourse with a non-marital and non-cohabiting sexual partner in the last 12 months."
+    }, 
+    "SE.SEC.NENR.FE": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "School enrollment, secondary, female (% net)", 
+        "sourceNote": "Net enrolment rate. Secondary. All programmes. Female is the ratio of female children of the official secondary school age who are enrolled in secondary school to the female population of the official secondary school age."
+    }, 
+    "SP.POP.AG13.MA.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 13, male", 
+        "sourceNote": "Age population, male refers to male population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SP.POP.AG23.FE.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 23, female, interpolated", 
+        "sourceNote": "Age population, female refers to female population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SP.POP.80UP.FE": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 80 and above, female", 
+        "sourceNote": "Female population between the ages 80 and above."
+    }, 
+    "SP.POP.5054.MA.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 50-54, male (% of male population)", 
+        "sourceNote": "Male population between the ages 50 to 54 as a percentage of the total male population."
+    }, 
+    "SL.EMP.INSV.FE.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Share of women employed in the nonagricultural sector (% of total nonagricultural employment)", 
+        "sourceNote": "Share of women employed in the nonagricultural sector is the share of female workers in the nonagricultural sector (industry and services), expressed as a percentage of total employment in the nonagricultural sector. Industry includes mining and quarrying (including oil production), manufacturing, construction, electricity, gas, and water, corresponding to divisions 2-5 (ISIC revision 2) or tabulation categories C-F (ISIC revision 3). Services include wholesale and retail trade and restaurants and hotels; transport, storage, and communications; financing, insurance, real estate, and business services; and community, social, and personal services-corresponding to divisions 6-9 (ISIC revision 2) or tabulation categories G-P (ISIC revision 3)."
+    }, 
+    "SH.STA.ANV4.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNICEF, State of the World's Children, Childinfo, and Demographic and Health Surveys by Macro International. ", 
+        "name": "Pregnant women receiving prenatal care of at least four visits (% of pregnant women)", 
+        "sourceNote": "Pregnant women receiving prenatal care, at least four times, are the percentage of women attended at least four times during pregnancy by skilled health personnel for reasons related to pregnancy."
+    }, 
+    "SP.POP.1519.MA.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 15-19, male (% of male population)", 
+        "sourceNote": "Male population between the ages 15 to 19 as a percentage of the total male population."
+    }, 
+    "SP.POP.6064.FE.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 50-64, female (% of female population)", 
+        "sourceNote": "Female population between the ages 60 to 64 as a percentage of the total female population."
+    }, 
+    "SH.DYN.AIDS.DH": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNAIDS estimates.", 
+        "name": "AIDS estimated deaths (UNAIDS estimates)", 
+        "sourceNote": "AIDS deaths are the estimated number of adults and children who died due to AIDS-related causes."
+    }, 
+    "SH.TBS.PREV": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization, Global Tuberculosis Report.", 
+        "name": "Prevalence of tuberculosis (per 100,000 population)", 
+        "sourceNote": "Prevalence of tuberculosis is the estimated number of TB cases (all forms) at a given point in time, expressed as the rate per 100,000 population. Estimates for all years are recalculated as new information becomes available and techniques are refined, so they may differ from those published previously."
+    }, 
+    "SH.MMR.DTHS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "WHO, UNICEF, UNFPA, The World Bank, and the United Nations Population Division. Trends in Maternal Mortality: 1990 to 2013. Geneva, World Health Organization, 2014", 
+        "name": "Number of maternal deaths", 
+        "sourceNote": "Maternal mortality deaths is the number of women who die during pregnancy and childbirth."
+    }, 
+    "SH.PRV.SMOK.FE": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "WHO Report on the Global Tobacco Epidemic.", 
+        "name": "Smoking prevalence, females (% of adults)", 
+        "sourceNote": "Prevalence of smoking, female is the percentage of women ages 15 and over who smoke any form of tobacco, including cigarettes, cigars, and pipes, and excluding smokeless tobacco. Data include daily and non-daily smoking."
+    }, 
+    "SH.DYN.MORT.FE": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Estimates developed by the UN Inter-agency Group for Child Mortality Estimation (UNICEF, WHO, World Bank, UN DESA Population Division) at www.childmortality.org.", 
+        "name": "Mortality rate, under-5, female (per 1,000)", 
+        "sourceNote": "Under-five mortality rate, female is the probability per 1,000 that a newborn female baby will die before reaching age five, if subject to female age-specific mortality rates of the specified year."
+    }, 
+    "SP.POP.80UP.MA.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 80 and above, male (% of male population)", 
+        "sourceNote": "Male population between the ages 80 and above as a percentage of the total male population."
+    }, 
+    "SP.POP.AG00.FE.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UN World Population Prospects for years up to 2009, and World Bank for 2010 onwards.", 
+        "name": "Age population, age 0, female, interpolated", 
+        "sourceNote": "Age population, age 0, female, interpolated"
+    }, 
+    "SH.HIV.KNOW.FE.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Household surveys such as Demographic and Health Surveys and Multiple Indicator Cluster Surveys.  Largely compiled by UNICEF.", 
+        "name": "% of females ages 15-49 having comprehensive correct knowledge about HIV (2 prevent ways and reject 3 misconceptions)", 
+        "sourceNote": "Knowledge of HIV is the percentage of respondents who correctly identify the two major ways of preventing the sexual transmission of HIV (using condoms and limiting sex to one faithful, uninfected partner), who reject the two most common local misconceptions about HIV transmission, and who know that a healthy-looking person can have HIV."
+    }, 
+    "SH.IMM.IBCG": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "WHO and UNICEF (http://www.who.int/immunization_monitoring/routine/en/).", 
+        "name": "Immunization, BCG (% of one-year-old children)", 
+        "sourceNote": "Child immunization rate, BCG is the percentage of children ages 12-23 months who received vaccinations before 12 months or at any time before the survey for BCG. A child is considered adequately immunized after one dose."
+    }, 
+    "SP.POP.4549.FE.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 45-49, female (% of female population)", 
+        "sourceNote": "Female population between the ages 45 to 49 as a percentage of the total female population."
+    }, 
+    "SP.POP.AG11.FE.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 11, female, interpolated", 
+        "sourceNote": "Age population, female refers to female population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SP.POP.AG24.MA.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 24, male, interpolated", 
+        "sourceNote": "Age population, male refers to male population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SP.POP.1564.TO": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "The United Nations Population Division's World Population Prospects.", 
+        "name": "Population ages 15-64, total", 
+        "sourceNote": "Population ages 15-64, total"
+    }, 
+    "SH.HIV.0014": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNAIDS estimates.", 
+        "name": "Children (0-14) living with HIV", 
+        "sourceNote": "Children living with HIV refers to the number of children ages 0-14 who are infected with HIV."
+    }, 
+    "SP.POP.1014.FE.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 10-14, female (% of female population)", 
+        "sourceNote": "Female population between the ages 10 to 14 as a percentage of the total female population."
+    }, 
+    "SP.POP.AG25.MA.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 25, male, interpolated", 
+        "sourceNote": "Age population, male refers to male population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SH.H2O.SAFE.UR.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "WHO/UNICEF Joint Monitoring Programme (JMP) for Water Supply and Sanitation (http://www.wssinfo.org/).", 
+        "name": "Improved water source, urban (% of urban population with access)", 
+        "sourceNote": "Access to an improved water source refers to the percentage of the population using an improved drinking water source. The improved drinking water source includes piped water on premises (piped household water connection located inside the user\u2019s dwelling, plot or yard), and other improved drinking water sources (public taps or standpipes, tube wells or boreholes, protected dug wells, protected springs, and rainwater collection)."
+    }, 
+    "SP.POP.7579.MA.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 75-79, male (% of male population)", 
+        "sourceNote": "Male population between the ages 75 to 79 as a percentage of the total male population."
+    }, 
+    "SH.PRG.ANEM": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization, Worldwide Prevalence of Anemia.", 
+        "name": "Prevalence of anemia among pregnant women (%)", 
+        "sourceNote": "Prevalence of anemia, pregnant women, is the percentage of pregnant women whose hemoglobin level is less than 110 grams per liter at sea level."
+    }, 
+    "SP.POP.0014.TO": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "The United Nations Population Division's World Population Prospects.", 
+        "name": "Population ages 0-14, total", 
+        "sourceNote": "Population, age 0-14, female is the total population between the ages of 0 and 14."
+    }, 
+    "SP.POP.AG25.FE.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 25, female, interpolated", 
+        "sourceNote": "Age population, female refers to female population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SL.UEM.TOTL.FE.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Unemployment, female (% of female labor force) (modeled ILO estimate)", 
+        "sourceNote": "Unemployment refers to the share of the labor force that is without work but available for and seeking employment."
+    }, 
+    "SH.STA.ANVC.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNICEF, State of the World's Children, Childinfo, and Demographic and Health Surveys by ICF International.", 
+        "name": "Pregnant women receiving prenatal care (%)", 
+        "sourceNote": "Pregnant women receiving prenatal care are the percentage of women attended at least once during pregnancy by skilled health personnel for reasons related to pregnancy."
+    }, 
+    "SH.DYN.AIDS.FE.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNAIDS estimates.", 
+        "name": "Women's share of population ages 15+ living with HIV (%)", 
+        "sourceNote": "Prevalence of HIV is the percentage of people who are infected with HIV. Female rate is as a percentage of the total population ages 15+ who are living with HIV."
+    }, 
+    "SH.MMR.LEVE": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "United Nations, World's Women.", 
+        "name": "Number of weeks of maternity leave", 
+        "sourceNote": "Number of weeks of maternity leave"
+    }, 
+    "SP.POP.AG20.FE.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 20, female, interpolated", 
+        "sourceNote": "Age population, female refers to female population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SE.ADT.LITR.FE.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "Literacy rate, adult female (% of females ages 15 and above)", 
+        "sourceNote": "Adult (15+) literacy rate (%). Female is the percentage of females age 15 and above who can, with understanding, read and write a short, simple statement on their everyday life. Generally, \u2018literacy\u2019 also encompasses \u2018numeracy\u2019, the ability to make simple arithmetic calculations. This indicator is calculated by dividing the number of female literates aged 15 years and over by the corresponding age group population and multiplying the result by 100. "
+    }, 
+    "SP.POP.6064.MA.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 50-64, male (% of male population)", 
+        "sourceNote": "Male population between the ages 60 to 64 as a percentage of the total male population."
+    }, 
+    "SP.HOU.FEMA.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Demographic and Health Surveys by ICF International.", 
+        "name": "Female headed households (% of households with a female head)", 
+        "sourceNote": "Female headed households shows the percentage of households with a female head."
+    }, 
+    "SP.POP.5559.MA.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 55-59, male (% of male population)", 
+        "sourceNote": "Male population between the ages 55 to 59 as a percentage of the total male population."
+    }, 
+    "SH.CON.1524.FE.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Demographic and Health Surveys by ICF International.", 
+        "name": "Condom use, population ages 15-24, female (% of females ages 15-24)", 
+        "sourceNote": "Condom use is the percentage of the population ages 15-24 who used a condom at last intercourse in the last 12 months."
+    }, 
+    "SH.DTH.IMRT": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Estimates developed by the UN Inter-agency Group for Child Mortality Estimation (UNICEF, WHO, World Bank, UN DESA Population Division) at www.childmortality.org.", 
+        "name": "Number of infant deaths", 
+        "sourceNote": "Number of infants dying before reaching one year of age."
+    }, 
+    "SH.TBS.DTEC.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization, Global Tuberculosis Control Report.", 
+        "name": "Tuberculosis case detection rate (%, all forms)", 
+        "sourceNote": "Tuberculosis case detection rate (all forms) is the number of new and relapse tuberculosis cases notified to WHO in a given year, divided by WHO's estimate of the number of incident tuberculosis cases for the same year, expressed as a percentage. Estimates for all years are recalculated as new information becomes available and techniques are refined, so they may differ from those published previously."
+    }, 
+    "SH.STA.OW15.MA.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization", 
+        "name": "Prevalence of overweight, male (% of male population ages 15+)", 
+        "sourceNote": "Prevalence of overweight (% of population ages 15+), male"
+    }, 
+    "SE.ADT.LITR.MA.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "Literacy rate, adult male (% of males ages 15 and above)", 
+        "sourceNote": "Adult (15+) literacy rate (%). Male is the percentage of males age 15 and above who can, with understanding, read and write a short, simple statement on their everyday life. Generally, \u2018literacy\u2019 also encompasses \u2018numeracy\u2019, the ability to make simple arithmetic calculations. This indicator is calculated by dividing the number of male literates aged 15 years and over by the corresponding age group population and multiplying the result by 100. "
+    }, 
+    "SP.POP.7074.MA.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 70-74, male (% of male population)", 
+        "sourceNote": "Male population between the ages 70 to 74 as a percentage of the total male population."
+    }, 
+    "SP.POP.AG04.FE.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UN World Population Prospects for years up to 2009, and World Bank for 2010 onwards.", 
+        "name": "Age population, age 04, female, interpolated", 
+        "sourceNote": "Age population, age 04, female, interpolated"
+    }, 
+    "SP.DYN.TFRT.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "(1) United Nations Population Division. World Population Prospects, (2) United Nations Statistical Division. Population and Vital Statistics Repot (various years), (3) Census reports and other statistical publications from national statistical offices, (4) Eurostat: Demographic Statistics, (5) Secretariat of the Pacific Community: Statistics and Demography Programme, and (6) U.S. Census Bureau: International Database", 
+        "name": "Fertility rate, total (births per woman)", 
+        "sourceNote": "Total fertility rate represents the number of children that would be born to a woman if she were to live to the end of her childbearing years and bear children in accordance with current age-specific fertility rates."
+    }, 
+    "SP.POP.3034.FE.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 30-34, female (% of female population)", 
+        "sourceNote": "Female population between the ages 30 to 34 as a percentage of the total female population."
+    }, 
+    "SE.ADT.1524.LT.FM.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "Ratio of young literate females to males (% ages 15-24)", 
+        "sourceNote": "Gender parity index for youth literacy rate is the ratio of female youth literacy rate to male youth literacy rate. It is calculated by dividing the female value for the indicator by the male value for the indicator. A GPI equal to 1 indicates parity between females and males. In general, a value less than 1 indicates disparity in favor of males and a value greater than 1 indicates disparity in favor of females. "
+    }, 
+    "NY.GNP.PCAP.CD": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank national accounts data, and OECD National Accounts data files.", 
+        "name": "GNI per capita, Atlas method (current US$)", 
+        "sourceNote": "GNI per capita (formerly GNP per capita) is the gross national income, converted to U.S. dollars using the World Bank Atlas method, divided by the midyear population. GNI is the sum of value added by all resident producers plus any product taxes (less subsidies) not included in the valuation of output plus net receipts of primary income (compensation of employees and property income) from abroad. GNI, calculated in national currency, is usually converted to U.S. dollars at official exchange rates for comparisons across economies, although an alternative rate is used when the official exchange rate is judged to diverge by an exceptionally large margin from the rate actually applied in international transactions. To smooth fluctuations in prices and exchange rates, a special Atlas method of conversion is used by the World Bank. This applies a conversion factor that averages the exchange rate for a given year and the two preceding years, adjusted for differences in rates of inflation between the country, and through 2000, the G-5 countries (France, Germany, Japan, the United Kingdom, and the United States). From 2001, these countries include the Euro area, Japan, the United Kingdom, and the United States."
+    }, 
+    "SP.POP.0509.MA.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 5-9, male (% of male population)", 
+        "sourceNote": "Male population between the ages 5 to 9 as a percentage of the total male population."
+    }, 
+    "SP.POP.1564.MA.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "The United Nations Population Division's World Population Prospects.", 
+        "name": "Population ages 15-64, male (% of total)", 
+        "sourceNote": "Male population between the ages 15 to 64 is the number of males who could potentially be economically active. Population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship--except for refugees not permanently settled in the country of asylum, who are generally considered part of the population of the country of origin."
+    }, 
+    "SP.POP.7579.FE.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 75-79, female (% of female population)", 
+        "sourceNote": "Female population between the ages 75 to 79 as a percentage of the total female population."
+    }, 
+    "SH.MED.PHYS.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization, Global Atlas of the Health Workforce. For latest updates and metadata, see http://apps.who.int/globalatlas/.", 
+        "name": "Physicians (per 1,000 people)", 
+        "sourceNote": "Physicians include generalist and specialist medical practitioners."
+    }, 
+    "SH.STA.ORTH": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNICEF, State of the World's Children, Childinfo, and Demographic and Health Surveys by ICF International.", 
+        "name": "Diarrhea treatment (% of children under 5 who received ORS packet)", 
+        "sourceNote": "Percentage of children under age 5 with diarrhea in the two weeks preceding the survey who received oral rehydration salts (ORS packets or pre-packaged ORS fluids)."
+    }, 
+    "SH.STA.MALR": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "", 
+        "name": "Malaria cases reported", 
+        "sourceNote": "Reported cases of malaria are the sum of confirmed cases of malaria (confirmed by slide examination or RDT) and probable (unconfirmed) cases of malaria (cases that were not tested but treated as malaria). Predominant type of statistics: unadjusted.\n\n"
+    }, 
+    "SH.CON.AIDS.MA.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Demographic and Health Surveys from national sources.", 
+        "name": "Condom use with non regular partner, % adults(15-49), male", 
+        "sourceNote": "Condom use at last high-risk sex is the percentage of the population ages 15-49 who used a condom at last intercourse with a non-marital and non-cohabiting sexual partner in the last 12 months."
+    }, 
+    "SI.POV.NAHC": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank, Global Poverty Working Group. Data are based on World Bank's country poverty assessments and country Poverty Reduction Strategies.", 
+        "name": "Poverty headcount ratio at national poverty lines (% of population)", 
+        "sourceNote": "World Bank, Global Poverty Working Group. Data are compiled from official government sources or are computed by World Bank staff using national (i.e. country\u2013specific) poverty lines."
+    }, 
+    "SP.POP.1564.FE.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "The United Nations Population Division's World Population Prospects.", 
+        "name": "Population ages 15-64, female (% of total)", 
+        "sourceNote": "Female population between the ages 15 to 64 is the number of females who could potentially be economically active. Population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship--except for refugees not permanently settled in the country of asylum, who are generally considered part of the population of the country of origin."
+    }, 
+    "SP.POP.AG18.MA.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 18, male, interpolated", 
+        "sourceNote": "Age population, male refers to male population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SL.UEM.TOTL.MA.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Unemployment, male (% of male labor force) (modeled ILO estimate)", 
+        "sourceNote": "Unemployment refers to the share of the labor force that is without work but available for and seeking employment."
+    }, 
+    "SH.DTH.COMM.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Derived based on the data from WHO's World Health Statistics.", 
+        "name": "Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)", 
+        "sourceNote": "Cause of death refers to the share of all deaths for all ages by underlying causes. Communicable diseases and maternal, prenatal and nutrition conditions include infectious and parasitic diseases, respiratory infections, and nutritional deficiencies such as underweight and stunting."
+    }, 
+    "SH.IMM.POL3": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "WHO and UNICEF (http://www.who.int/immunization_monitoring/routine/en/).", 
+        "name": "Immunization, Pol3 (% of one-year-old children)", 
+        "sourceNote": "Child immunization rate, Polio is the percentage of children ages 12-23 months who received vaccinations before 12 months or at any time before the survey. A child is considered adequately immunized after three doses."
+    }, 
+    "SP.POP.AG17.MA.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 17, male, interpolated", 
+        "sourceNote": "Age population, male refers to male population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SP.POP.AG12.FE.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 12, female, interpolated", 
+        "sourceNote": "Age population, female refers to female population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SP.DYN.LE00.MA.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "(1) United Nations Population Division. World Population Prospects, (2) United Nations Statistical Division. Population and Vital Statistics Report (various years), (3) Census reports and other statistical publications from national statistical offices, (4) Eurostat: Demographic Statistics, (5) Secretariat of the Pacific Community: Statistics and Demography Programme, and (6) U.S. Census Bureau: International Database.", 
+        "name": "Life expectancy at birth, male (years)", 
+        "sourceNote": "Life expectancy at birth indicates the number of years a newborn infant would live if prevailing patterns of mortality at the time of its birth were to stay the same throughout its life."
+    }, 
+    "SP.POP.4044.MA.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 40-44, male (% of male population)", 
+        "sourceNote": "Male population between the ages 40 to 44 as a percentage of the total male population."
+    }, 
+    "SE.PRM.ENRR": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "School enrollment, primary (% gross)", 
+        "sourceNote": "Gross enrolment ratio. Primary. Total is the total enrollment in primary education, regardless of age, expressed as a percentage of the population of official primary education age. GER can exceed 100% due to the inclusion of over-aged and under-aged students because of early or late school entrance and grade repetition."
+    }, 
+    "SH.STA.ARIC.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNICEF, State of the World's Children, Childinfo, and Demographic and Health Surveys by ICF International.", 
+        "name": "ARI treatment (% of children under 5 taken to a health provider)", 
+        "sourceNote": "Children with acute respiratory infection (ARI) who are taken to a health provider refers to the percentage of children under age five with ARI in the last two weeks who were taken to an appropriate health provider, including hospital, health center, dispensary, village health worker, clinic, and private physician."
+    }, 
+    "SP.DYN.LE00.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Derived from male and female life expectancy at birth from sources such as: (1) United Nations Population Division. World Population Prospects, (2) United Nations Statistical Division. Population and Vital Statistics Report (various years), (3) Census reports and other statistical publications from national statistical offices, (4) Eurostat: Demographic Statistics, (5) Secretariat of the Pacific Community: Statistics and Demography Programme, and (6) U.S. Census Bureau: International Database.", 
+        "name": "Life expectancy at birth, total (years)", 
+        "sourceNote": "Life expectancy at birth indicates the number of years a newborn infant would live if prevailing patterns of mortality at the time of its birth were to stay the same throughout its life."
+    }, 
+    "SE.PRM.ENRR.FE": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "School enrollment, primary, female (% gross)", 
+        "sourceNote": "Gross enrolment ratio. Primary. Female is the total female enrollment in primary education, regardless of age, expressed as a percentage of the female population of official primary education age. GER can exceed 100% due to the inclusion of over-aged and under-aged students because of early or late school entrance and grade repetition."
+    }, 
+    "SH.FPL.SATI.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Demographic and Health Surveys.", 
+        "name": "Met need for contraception (% of married women ages 15-49)", 
+        "sourceNote": "Met need for contraception (% of married women ages 15-49)"
+    }, 
+    "SH.DYN.AIDS.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNAIDS estimates.", 
+        "name": "Prevalence of HIV, total (% of population ages 15-49)", 
+        "sourceNote": "Prevalence of HIV refers to the percentage of people ages 15-49 who are infected with HIV."
+    }, 
+    "SE.ADT.1524.LT.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "Literacy rate, youth total (% of people ages 15-24)", 
+        "sourceNote": "Youth (15-24) literacy rate (%). Total is the number of people age 15 to 24 years who can both read and write with understanding a short simple statement on their everyday life, divided by the population in that age group. Generally, \u2018literacy\u2019 also encompasses \u2018numeracy\u2019, the ability to make simple arithmetic calculations."
+    }, 
+    "SP.POP.DPND.YG": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and ICF International.", 
+        "name": "Age dependency ratio, young (% of working-age population)", 
+        "sourceNote": "Age dependency ratio, young, is the ratio of younger dependents--people younger than 15--to the working-age population--those ages 15-64. Data are shown as the proportion of dependents per 100 working-age population."
+    }, 
+    "SP.POP.DPND.OL": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and ICF International.", 
+        "name": "Age dependency ratio, old (% of working-age population)", 
+        "sourceNote": "Age dependency ratio, old, is the ratio of older dependents--people older than 64--to the working-age population--those ages 15-64. Data are shown as the proportion of dependents per 100 working-age population."
+    }, 
+    "SP.POP.0004.MA.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 0-4, male (% of male population)", 
+        "sourceNote": "Male population between the ages 0 to 4 as a percentage of the total male population."
+    }, 
+    "SH.DTH.INJR.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Derived based on the data from WHO's World Health Statistics.", 
+        "name": "Cause of death, by injury (% of total)", 
+        "sourceNote": "Cause of death refers to the share of all deaths for all ages by underlying causes. Injuries include unintentional and intentional injuries."
+    }, 
+    "SH.IMM.HIB3": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "WHO and UNICEF (http://www.who.int/immunization_monitoring/routine/en/", 
+        "name": "Immunization, Hib3 (% of children ages 12-23 months)", 
+        "sourceNote": "Child immunization measures the percentage of children ages 12-23 months who received vaccinations before 12 months or at any time before the survey. A child is considered adequately immunized against Hib3 after receiving three doses of Haemophilus influenzae type b vaccine."
+    }, 
+    "SH.XPD.OOPC.TO.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization National Health Account database (see http://apps.who.int/nha/database/DataExplorerRegime.aspx for the most recent updates).", 
+        "name": "Out-of-pocket health expenditure (% of total expenditure on health)", 
+        "sourceNote": "Out of pocket expenditure is any direct outlay by households, including gratuities and in-kind payments, to health practitioners and suppliers of pharmaceuticals, therapeutic appliances, and other goods and services whose primary intent is to contribute to the restoration or enhancement of the health status of individuals or population groups. It is a part of private health expenditure."
+    }, 
+    "SH.MED.NUMW.P3": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization, Global Atlas of the Health Workforce. For latest updates and metadata, see http://apps.who.int/globalatlas/.", 
+        "name": "Nurses and midwives (per 1,000 people)", 
+        "sourceNote": "Nurses and midwives include professional nurses, professional midwives, auxiliary nurses, auxiliary midwives, enrolled nurses, enrolled midwives and other associated personnel, such as dental nurses and primary care nurses."
+    }, 
+    "SP.DYN.IMRT.MA.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Estimates developed by the UN Inter-agency Group for Child Mortality Estimation (UNICEF, WHO, World Bank, UN DESA Population Division) at www.childmortality.org.", 
+        "name": "Mortality rate, infant, male (per 1,000 live births)", 
+        "sourceNote": "Infant mortality rate, male is the number of male infants dying before reaching one year of age, per 1,000 male live births in a given year."
+    }, 
+    "SP.POP.AG08.FE.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 08, female, interpolated", 
+        "sourceNote": "Age population, female refers to female population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SP.POP.DPND": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and ICF International.", 
+        "name": "Age dependency ratio (% of working-age population)", 
+        "sourceNote": "Age dependency ratio is the ratio of dependents--people younger than 15 or older than 64--to the working-age population--those ages 15-64. Data are shown as the proportion of dependents per 100 working-age population."
+    }, 
+    "SP.POP.0014.TO.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "The United Nations Population Division's World Population Prospects.", 
+        "name": "Population ages 0-14 (% of total)", 
+        "sourceNote": "Population, age 0-14 (% of total) is the population between the ages of 0 and 14 as a percentage of the total population."
+    }, 
+    "SH.HIV.ARTC.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNAIDS estimates.", 
+        "name": "Antiretroviral therapy coverage (% of people living with HIV)", 
+        "sourceNote": "Antiretroviral therapy coverage indicates the percentage of all people living with HIV who are receiving antiretroviral therapy."
+    }, 
+    "SP.POP.TOTL.MA.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "The United Nations Population Division's World Population Prospects.", 
+        "name": "Population, male (% of total)", 
+        "sourceNote": "Population, male (% of total) is the percentage of the population that is male."
+    }, 
+    "SE.ADT.1524.LT.MA.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "Literacy rate, youth male (% of males ages 15-24)", 
+        "sourceNote": "Youth (15-24) literacy rate (%). Male is the number of males age 15 to 24 years who can both read and write with understanding a short simple statement on their everyday life, divided by the male population in that age group. Generally, \u2018literacy\u2019 also encompasses \u2018numeracy\u2019, the ability to make simple arithmetic calculations."
+    }, 
+    "SP.POP.65UP.TO.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "The United Nations Population Division's World Population Prospects.", 
+        "name": "Population ages 65 and above (% of total)", 
+        "sourceNote": "Population ages 65 and above as a percentage of the total population. Population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship--except for refugees not permanently settled in the country of asylum, who are generally considered part of the population of the country of origin."
+    }, 
+    "SP.POP.AG06.FE.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 06, female, interpolated", 
+        "sourceNote": "Age population, female refers to female population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SP.POP.1014.MA.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 10-14, male (% of male population)", 
+        "sourceNote": "Male population between the ages 10 to 14 as a percentage of the total male population."
+    }, 
+    "SP.POP.AG05.MA.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UN World Population Prospects for years up to 2009, and World Bank for 2010 onwards.", 
+        "name": "Age population, age 05, male, interpolated", 
+        "sourceNote": "Age population, age 05, male, interpolated"
+    }, 
+    "SP.POP.1564.TO.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "The United Nations Population Division's World Population Prospects.", 
+        "name": "Population ages 15-64 (% of total)", 
+        "sourceNote": "Total population between the ages 15 to 64 is the number of people who could potentially be economically active. Population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship--except for refugees not permanently settled in the country of asylum, who are generally considered part of the population of the country of origin."
+    }, 
+    "SP.POP.AG08.MA.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 08, male, interpolated", 
+        "sourceNote": "Age population, male refers to male population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SE.PRM.ENRR.MA": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "School enrollment, primary, male (% gross)", 
+        "sourceNote": "Gross enrolment ratio. Primary. Male is the total male enrollment in primary education, regardless of age, expressed as a percentage of the male population of official primary education age. GER can exceed 100% due to the inclusion of over-aged and under-aged students because of early or late school entrance and grade repetition. "
+    }, 
+    "SP.POP.AG20.MA.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 20, male, interpolated", 
+        "sourceNote": "Age population, male refers to male population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SE.ADT.LITR.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "Literacy rate, adult total (% of people ages 15 and above)", 
+        "sourceNote": "Adult (15+) literacy rate (%). Total is the percentage of the population age 15 and above who can, with understanding, read and write a short, simple statement on their everyday life. Generally, \u2018literacy\u2019 also encompasses \u2018numeracy\u2019, the ability to make simple arithmetic calculations. This indicator is calculated by dividing the number of literates aged 15 years and over by the corresponding age group population and multiplying the result by 100. "
+    }, 
+    "SH.H2O.SAFE.RU.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "WHO/UNICEF Joint Monitoring Programme (JMP) for Water Supply and Sanitation (http://www.wssinfo.org/).", 
+        "name": "Improved water source, rural (% of rural population with access)", 
+        "sourceNote": "Access to an improved water source refers to the percentage of the population using an improved drinking water source. The improved drinking water source includes piped water on premises (piped household water connection located inside the user\u2019s dwelling, plot or yard), and other improved drinking water sources (public taps or standpipes, tube wells or boreholes, protected dug wells, protected springs, and rainwater collection)."
+    }, 
+    "SP.POP.2529.MA.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 25-29, male (% of male population)", 
+        "sourceNote": "Male population between the ages 25 to 29 as a percentage of the total male population."
+    }, 
+    "SP.POP.AG18.FE.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 18, female, interpolated", 
+        "sourceNote": "Age population, female refers to female population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SH.STA.ORCF.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNICEF, State of the World's Children, Childinfo, and Demographic and Health Surveys by ICF International.", 
+        "name": "Diarrhea treatment (% of children under 5 receiving oral rehydration and continued feeding)", 
+        "sourceNote": "Children with diarrhea who received oral rehydration and continued feeding refer to the percentage of children under age five with diarrhea in the two weeks prior to the survey who received either oral rehydration therapy or increased fluids, with continued feeding."
+    }, 
+    "SP.DYN.LE00.FE.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "(1) United Nations Population Division. World Population Prospects, (2) United Nations Statistical Division. Population and Vital Statistics Report (various years), (3) Census reports and other statistical publications from national statistical offices, (4) Eurostat: Demographic Statistics, (5) Secretariat of the Pacific Community: Statistics and Demography Programme, and (6) U.S. Census Bureau: International Database.", 
+        "name": "Life expectancy at birth, female (years)", 
+        "sourceNote": "Life expectancy at birth indicates the number of years a newborn infant would live if prevailing patterns of mortality at the time of its birth were to stay the same throughout its life."
+    }, 
+    "SP.POP.AG10.MA.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 10, male", 
+        "sourceNote": "Age population, male refers to male population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SH.STA.STNT.FE.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization, Global Database on Child Growth and Malnutrition. Country-level data are unadjusted data from national surveys, and thus may not be comparable across countries.", 
+        "name": "Malnutrition prevalence, height for age, female (% of children under 5)", 
+        "sourceNote": "Prevalence of child malnutrition is the percentage of children under age 5 whose height for age (stunting) is more than two standard deviations below the median for the international reference population ages 0-59 months. For children up to two years old height is measured by recumbent length. For older children height is measured by stature while standing. The data are based on the WHO's new child growth standards released in 2006."
+    }, 
+    "SP.DYN.CDRT.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "(1) United Nations Population Division. World Population Prospects, (2) United Nations Statistical Division. Population and Vital Statistics Report (various years), (3) Census reports and other statistical publications from national statistical offices, (4) Eurostat: Demographic Statistics, (5) Secretariat of the Pacific Community: Statistics and Demography Programme, and (6) U.S. Census Bureau: International Database.", 
+        "name": "Death rate, crude (per 1,000 people)", 
+        "sourceNote": "Crude death rate indicates the number of deaths occurring during the year, per 1,000 population estimated at midyear. Subtracting the crude death rate from the crude birth rate provides the rate of natural increase, which is equal to the rate of population change in the absence of migration."
+    }, 
+    "SH.TBS.CURE.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization, Global Tuberculosis Control Report.", 
+        "name": "Tuberculosis treatment success rate (% of new cases)", 
+        "sourceNote": "Tuberculosis treatment success rate is the percentage of all new tuberculosis cases (or new and relapse cases for some countries) registered under a national tuberculosis control programme in a given year that successfully completed treatment, with or without bacteriological evidence of success (\"cured\" and \"treatment completed\" respectively)."
+    }, 
+    "SP.POP.AG00.MA.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UN World Population Prospects for years up to 2009, and World Bank for 2010 onwards.", 
+        "name": "Age population, age 0, male, interpolated", 
+        "sourceNote": "Age population, age 0, male, interpolated"
+    }, 
+    "SP.POP.AG16.FE.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 16, female, interpolated", 
+        "sourceNote": "Age population, female refers to female population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SH.PRG.ARTC.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNAIDS estimates.", 
+        "name": "Antiretroviral therapy coverage (% of pregnant women living with HIV)", 
+        "sourceNote": "The percentage of pregnant women living with HIV who received the most effective antiretroviral regimens as recommended by WHO during the last 12 months to reduce mother-to-child transmission."
+    }, 
+    "SP.POP.AG19.MA.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 19, male, interpolated", 
+        "sourceNote": "Age population, male refers to male population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SP.POP.TOTL.MA.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Derived from data on total population and population, male (% of total). Population source: (1) United Nations Population Division. 2009. World Population Prospects: The 2008 Revision.  New York, United Nations, Department of Economic and Social Affairs (advanced Excel tables).  Available at http://esa.un.org/unpd/wpp2008/index.htm. (2) Census reports and other statistical publications from national statistical offices, (3) Eurostat: Demographic Statistics, (4) Secretariat of the Pacific Community: Statistics and Demography Programme, (5) U.S. Census Bureau: International Database, and (6) World bank estimates based on the data from the sources above, household surveys conducted by national agencies, Macro International, the U.S. Centers for Disease Control and Prevention, and refugees statistics from the United Nations High Commissioner for Refugees. Male population percentage source: United Nations Population Division. 2009. World Population Prospects: The 2008 Revision.  New York, United Nations, Department of Economic and Social Affairs (advanced Excel tables).  Available at http://esa.un.org/unpd/wpp2008/index.htm.", 
+        "name": "Population, male", 
+        "sourceNote": "Population, male refers to the total male population."
+    }, 
+    "SH.STA.DIAB.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "International Diabetes Federation, Diabetes Atlas.", 
+        "name": "Diabetes prevalence (% of population ages 20 to 79)", 
+        "sourceNote": "Diabetes prevalence refers to the percentage of people ages 20-79 who have type 1 or type 2 diabetes."
+    }, 
+    "SP.DYN.SMAM.FE": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Demographic and Health Surveys", 
+        "name": "Age at first marriage, female", 
+        "sourceNote": "Age at first marriage, female"
+    }, 
+    "SP.POP.0014.MA.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "The United Nations Population Division's World Population Prospects.", 
+        "name": "Population ages 0-14, male (% of total)", 
+        "sourceNote": "Male population between the ages 0 to 14 as a percentage of the total male population. Population is based on the de facto definition of population."
+    }, 
+    "SP.POP.AG17.FE.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 17, female, interpolated", 
+        "sourceNote": "Age population, female refers to female population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SP.DYN.AMRT.MA": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "(1) United Nations Population Division. World Population Prospects. New York, United Nations, Department of Economic and Social Affairs (advanced Excel tables). Available at http://esa.un.org/wpp/unpp/panel_population.htm, (2) University of California, Berkeley, and Max Planck Institute for Demographic Research. Human Mortality Database. [ www.mortality.org or www.humanmortality.de].", 
+        "name": "Mortality rate, adult, male (per 1,000 male adults)", 
+        "sourceNote": "Adult mortality rate is the probability of dying between the ages of 15 and 60--that is, the probability of a 15-year-old dying before reaching age 60, if subject to current age-specific mortality rates between those ages."
+    }, 
+    "SP.POP.3034.MA.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 30-34, male (% of male population)", 
+        "sourceNote": "Male population between the ages 30 to 34 as a percentage of the total male population."
+    }, 
+    "SP.URB.TOTL.IN.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "United Nations, World Urbanization Prospects.", 
+        "name": "Urban population (% of total)", 
+        "sourceNote": "Urban population refers to people living in urban areas as defined by national statistical offices. It is calculated using World Bank population estimates and urban ratios from the United Nations World Urbanization Prospects."
+    }, 
+    "SP.POP.65UP.FE.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "The United Nations Population Division's World Population Prospects.", 
+        "name": "Population ages 65 and above, female (% of total)", 
+        "sourceNote": "Female population 65 years of age or older as a percentage of the total female population. Population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship--except for refugees not permanently settled in the country of asylum, who are generally considered part of the population of the country of origin."
+    }, 
+    "SP.POP.AG21.MA.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 21, male, interpolated", 
+        "sourceNote": "Age population, male refers to male population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SP.POP.4044.FE.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 40-44, female (% of female population)", 
+        "sourceNote": "Female population between the ages 40 to 44 as a percentage of the total female population."
+    }, 
+    "SP.POP.AG09.MA.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 09, male, interpolated", 
+        "sourceNote": "Age population, male refers to male population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SH.DYN.AIDS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNAIDS estimates.", 
+        "name": "Adults (ages 15+) living with HIV", 
+        "sourceNote": "Adults living with HIV refers to the number of people ages 15-49 who are infected with HIV."
+    }, 
+    "SH.IMM.MEAS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "WHO and UNICEF (http://www.who.int/immunization/monitoring_surveillance/en/).", 
+        "name": "Immunization, measles (% of children ages 12-23 months)", 
+        "sourceNote": "Child immunization measures the percentage of children ages 12-23 months who received vaccinations before 12 months or at any time before the survey. A child is considered adequately immunized against measles after receiving one dose of vaccine."
+    }, 
+    "SH.MLR.TRET.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNICEF, State of the World's Children, Childinfo, and Demographic and Health Surveys by ICF International.", 
+        "name": "Children with fever receiving antimalarial drugs (% of children under age 5 with fever)", 
+        "sourceNote": "Malaria treatment refers to the percentage of children under age five who were ill with fever in the last two weeks and received any appropriate (locally defined) anti-malarial drugs."
+    }, 
+    "SH.STA.BRTW.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNICEF, State of the World's Children, Childinfo, and Demographic and Health Surveys by ICF International.", 
+        "name": "Low-birthweight babies (% of births)", 
+        "sourceNote": "Low-birthweight babies are newborns weighing less than 2,500 grams, with the measurement taken within the first hours of life, before significant postnatal weight loss has occurred."
+    }, 
+    "SP.POP.AG11.MA.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 11, male", 
+        "sourceNote": "Age population, male refers to male population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SP.POP.TOTL": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "(1) United Nations Population Division. World Population Prospects, (2) United Nations Statistical Division. Population and Vital Statistics Report  (various years), (3) Census reports and other statistical publications from national statistical offices, (4) Eurostat: Demographic Statistics, (5) Secretariat of the Pacific Community: Statistics and Demography Programme, and (6) U.S. Census Bureau: International Database.", 
+        "name": "Population, total", 
+        "sourceNote": "Total population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship--except for refugees not permanently settled in the country of asylum, who are generally considered part of the population of their country of origin. The values shown are midyear estimates."
+    }, 
+    "SH.MMR.RISK": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "WHO, UNICEF, UNFPA, The World Bank, and the United Nations Population Division. Trends in Maternal Mortality: 1990 to 2013. Geneva, World Health Organization, 2014", 
+        "name": "Lifetime risk of maternal death (1 in: rate varies by country)", 
+        "sourceNote": "Life time risk of maternal death is the probability that a 15-year-old female will die eventually from a maternal cause assuming that current levels of fertility and mortality (including maternal mortality) do not change in the future, taking into account competing causes of death. "
+    }, 
+    "SP.POP.4549.MA.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 45-49, male (% of male population)", 
+        "sourceNote": "Male population between the ages 45 to 49 as a percentage of the total male population."
+    }, 
+    "SP.POP.BRTH.MF": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank estimates based on the UN World Population Prospects.", 
+        "name": "Sex ratio at birth (females per 1,000 males)", 
+        "sourceNote": "Sex ratio at birth (females per 1,000 males)"
+    }, 
+    "SH.DYN.NMRT": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Estimates developed by the UN Inter-agency Group for Child Mortality Estimation (UNICEF, WHO, World Bank, UN DESA Population Division) at www.childmortality.org.", 
+        "name": "Mortality rate, neonatal (per 1,000 live births)", 
+        "sourceNote": "Neonatal mortality rate is the number of neonates dying before reaching 28 days of age, per 1,000 live births in a given year."
+    }, 
+    "SE.PRM.NENR.MA": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "School enrollment, primary, male (% net)", 
+        "sourceNote": "Net enrolment rate. Primary. Male is the ratio of male children of the official primary school age who are enrolled in primary school to the male population of the official primary school age."
+    }, 
+    "SP.POP.AG15.MA.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 15, male, interpolated", 
+        "sourceNote": "Age population, male refers to male population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SE.PRM.CMPT.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "Primary completion rate, total (% of relevant age group)", 
+        "sourceNote": "Primary completion rate is measured as the gross intake ratio to the last grade of primary education. It is calculated by taking the total number of students in the last grade of primary school, minus the number of repeaters in that grade, divided by the total number of children of official graduation age."
+    }, 
+    "SE.PRM.CMPT.MA.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "Primary completion rate, male (% of relevant age group)", 
+        "sourceNote": "Primary completion rate is measured as the gross intake ratio to the last grade of primary education. It is calculated by taking the total number of students in the last grade of primary school, minus the number of repeaters in that grade, divided by the total number of children of official graduation age."
+    }, 
+    "SP.POP.AG19.FE.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 19, female, interpolated", 
+        "sourceNote": "Age population, female refers to female population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SH.STA.MALN.MA.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization, Global Database on Child Growth and Malnutrition. Country-level data are unadjusted data from national surveys, and thus may not be comparable across countries.", 
+        "name": "Malnutrition prevalence, weight for age, male (% of children under 5)", 
+        "sourceNote": "Prevalence of child malnutrition is the percentage of children under age 5 whose weight for age is more than two standard deviations below the median for the international reference population ages 0-59 months. The data are based on the WHO's new child growth standards released in 2006."
+    }, 
+    "SP.POP.2024.MA.5Y": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates based on United Nations Population Division, World Population Prospects.", 
+        "name": "Population ages 20-24, male (% of male population)", 
+        "sourceNote": "Male population between the ages 20 to 24 as a percentage of the total male population."
+    }, 
+    "SP.POP.AG23.MA.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 23, male, interpolated", 
+        "sourceNote": "Age population, male refers to male population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SP.REG.BRTH.RU.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNICEF's State of the World's Children based mostly on household surveys and ministry of health data.", 
+        "name": "Completeness of birth registration, rural (%)", 
+        "sourceNote": "Completeness of birth registration is the percentage of children under age 5 whose births were registered at the time of the survey. The numerator of completeness of birth registration includes children whose birth certificate was seen by the interviewer or whose mother or caretaker says the birth has been registered."
+    }, 
+    "SP.DYN.IMRT.FE.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Estimates developed by the UN Inter-agency Group for Child Mortality Estimation (UNICEF, WHO, World Bank, UN DESA Population Division) at www.childmortality.org.", 
+        "name": "Mortality rate, infant, female (per 1,000 live births)", 
+        "sourceNote": "Infant mortality rate, female is the number of female infants dying before reaching one year of age, per 1,000 female live births in a given year."
+    }, 
+    "SH.XPD.PRIV.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization National Health Account database (see http://apps.who.int/nha/database/DataExplorerRegime.aspx for the most recent updates).", 
+        "name": "Health expenditure, private (% of GDP)", 
+        "sourceNote": "Private health expenditure includes direct household (out-of-pocket) spending, private insurance, charitable donations, and direct service payments by private corporations."
+    }, 
+    "SH.IMM.IDPT": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "WHO and UNICEF (http://www.who.int/immunization/monitoring_surveillance/en/).", 
+        "name": "Immunization, DPT (% of children ages 12-23 months)", 
+        "sourceNote": "Child immunization measures the percentage of children ages 12-23 months who received vaccinations before 12 months or at any time before the survey. A child is considered adequately immunized against diphtheria, pertussis (or whooping cough), and tetanus (DPT) after receiving three doses of vaccine."
+    }, 
+    "SH.STA.MALN.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization, Global Database on Child Growth and Malnutrition. Country-level data are unadjusted data from national surveys, and thus may not be comparable across countries. Adjusted, comparable data are available at http://www.who.int/nutgrowthdb/en. Aggregation is based on UNICEF, WHO, and the World Bank harmonized dataset (adjusted, comparable data) and methodology.", 
+        "name": "Malnutrition prevalence, weight for age (% of children under 5)", 
+        "sourceNote": "Prevalence of child malnutrition is the percentage of children under age 5 whose weight for age is more than two standard deviations below the median for the international reference population ages 0-59 months. The data are based on the WHO's new child growth standards released in 2006."
+    }, 
+    "SH.STA.WAST.FE.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization, Global Database on Child Growth and Malnutrition. Country-level data are unadjusted data from national surveys, and thus may not be comparable across countries.", 
+        "name": "Prevalence of wasting, female (% of children under 5)", 
+        "sourceNote": "Wasting prevalence is the proportion of children under five whose weight for height is more than two standard deviations below the median for the international reference population ages 0-59."
+    }, 
+    "SP.POP.AG09.FE.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 09, female, interpolated", 
+        "sourceNote": "Age population, female refers to female population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SH.HIV.1524.FE.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNAIDS estimates.", 
+        "name": "Prevalence of HIV, female (% ages 15-24)", 
+        "sourceNote": "Prevalence of HIV is the percentage of people who are infected with HIV. Youth rates are as a percentage of the relevant age group."
+    }, 
+    "SE.SEC.ENRR.MA": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "School enrollment, secondary, male (% gross)", 
+        "sourceNote": "Gross enrolment ratio. Secondary. All programmes. Male is the total male enrollment in secondary education, regardless of age, expressed as a percentage of the male population of official secondary education age. GER can exceed 100% due to the inclusion of over-aged and under-aged students because of early or late school entrance and grade repetition."
+    }, 
+    "SH.HIV.KNOW.MA.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Household surveys such as Demographic and Health Surveys and Multiple Indicator Cluster Surveys.  Largely compiled by UNICEF.", 
+        "name": "% of males ages 15-49 having comprehensive correct knowledge about HIV (2 prevent ways and reject 3 misconceptions)", 
+        "sourceNote": "Knowledge of HIV is the percentage of respondents who correctly identify the two major ways of preventing the sexual transmission of HIV (using condoms and limiting sex to one faithful, uninfected partner), who reject the two most common local misconceptions about HIV transmission, and who know that a healthy-looking person can have HIV."
+    }, 
+    "SH.DTH.MORT": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Estimates developed by the UN Inter-agency Group for Child Mortality Estimation (UNICEF, WHO, World Bank, UN DESA Population Division) at www.childmortality.org.", 
+        "name": "Number of under-five deaths", 
+        "sourceNote": "Number of children dying before reaching age five."
+    }, 
+    "SH.STA.OW15.FE.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Health Organization", 
+        "name": "Prevalence of overweight, female (% of female population ages 15+)", 
+        "sourceNote": "Prevalence of overweight (% of population ages 15+), female"
+    }, 
+    "SH.DTH.NMRT": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Estimates developed by the UN Inter-agency Group for Child Mortality Estimation (UNICEF, WHO, World Bank, UN DESA Population Division) at www.childmortality.org.", 
+        "name": "Number of neonatal deaths", 
+        "sourceNote": "Number of neonates dying before reaching 28 days of age."
+    }, 
+    "SP.DYN.WFRT": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "Demographic and Health Surveys by ICF International.", 
+        "name": "Wanted fertility rate (births per woman)", 
+        "sourceNote": "Wanted fertility rate is an estimate of what the total fertility rate would be if all unwanted births were avoided."
+    }, 
+    "SL.TLF.TOTL.FE.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Labor force, female (% of total labor force)", 
+        "sourceNote": "Female labor force as a percentage of the total show the extent to which women are active in the labor force. Labor force comprises people ages 15 and older who meet the International Labour Organization's definition of the economically active population."
+    }, 
+    "SH.HIV.ORPH": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNAIDS estimates.", 
+        "name": "Children orphaned by HIV/AIDS", 
+        "sourceNote": "Number of children orphaned by HIV/AIDS is the estimated number of children who have lost their mother or both parents to AIDS before age 15 since the epidemic began. Some of the orphaned children included in this cumulative total are no longer alive; others are no longer under age 15."
+    }, 
+    "SP.POP.AG21.FE.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 21, female, interpolated", 
+        "sourceNote": "Age population, female refers to female population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SP.POP.AG22.FE.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and Macro International.", 
+        "name": "Age population, age 22, female, interpolated", 
+        "sourceNote": "Age population, female refers to female population at the specified age level, as estimated by World Bank staff."
+    }, 
+    "SH.MMR.WAGE.ZS": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "United Nations, World's Women.", 
+        "name": "Maternal leave benefits (% of wages paid in covered period)", 
+        "sourceNote": "Maternal leave benefits (% of wages paid in covered period)"
+    }, 
+    "SE.PRM.NENR.FE": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "School enrollment, primary, female (% net)", 
+        "sourceNote": "Net enrolment rate. Primary. Female is the ratio of female children of the official primary school age who are enrolled in primary school to the female population of the official primary school age."
+    }, 
+    "SP.RUR.TOTL": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "The data on urban population shares used to estimate rural population come from the United Nations, World Urbanization Prospects. Total population figures are World Bank estimates.", 
+        "name": "Rural population", 
+        "sourceNote": "Rural population refers to people living in rural areas as defined by national statistical offices. It is calculated as the difference between total population and urban population."
+    }, 
+    "SP.POP.AG02.FE.IN": {
+        "source": "Health Nutrition and Population Statistics", 
+        "sourceOrganization": "UN World Population Prospects for years up to 2009, and World Bank for 2010 onwards.", 
+        "name": "Age population, age 02, female, interpolated", 
+        "sourceNote": "Age population, age 02, female, interpolated"
+    }
+}

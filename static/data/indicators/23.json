@@ -1,0 +1,1538 @@
+{
+    "DT.DOD.PRBL.CD.ST.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "180_T3_\u2026. Short-term", 
+        "sourceNote": ""
+    }, 
+    "DT.INP.DECT.03.YR.SA.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "104_T2_Interest payments on SDR allocations (3yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.PUBS.CD.05.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "117_T2_.. Principal (5yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.PUBS.CD.04.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "106_T2_.. Principal (4yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.PUBS.CD.07.09.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "052_T2_.. Interest (More than 6 to 9)", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.PUBS.CD.15.UP.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "151_T2_.. Interest (More than 15 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.PUBS.CD.05.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "116_T2_Public Sector External Debt 4 / * (5yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.PUBS.CD.10.12.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "062_T2_.. Principal (More than 9 to 12)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUMM.ST.AR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "202_T4_\u2026. Debt securities", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.PRVS.CD.04.06.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "042_T2_Publicly-Guaranteed Private Sector External Debt 5/ (More than 3 to 6)", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.PUBS.CD.00.03.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "029_T2_.. Principal (More than 0 to 3)", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.PUBS.CD.13.18.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "072_T2_Public Sector External Debt 4 / * (More than 12 to 18)", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.PUBS.CD.05.10.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "127_T2_Public Sector External Debt 4 / * (More than 5 to 10 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.DECT.CD.DC.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "252_T5_Domestic currency 6/", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUOO.ST.AR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "205_T4_\u2026. Other debt liabilities 7/ 8/", 
+        "sourceNote": ""
+    }, 
+    "DT.INR.DECT.04.06.MO.SA.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "048_T2_Interest receipts on SDR holdings (More than 3 to 6)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRVS.CD.T3.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "175_T3_Publicly-Guaranteed Private Sector External Debt", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.DECT.CD.07.09.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "057_T2_.. Principal (More than 6 to 9)", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.PRVS.CD.04.06.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "044_T2_.. Interest (More than 3 to 6)", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.PRVS.CD.10.15.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "142_T2_.. Principal (More than 10 to 15 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.DECT.CD.04.06.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "046_T2_.. Principal (More than 3 to 6)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PULO.ST.AR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "203_T4_\u2026. Loans", 
+        "sourceNote": ""
+    }, 
+    "DT.INR.DECT.00.03.MO.SA.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "037_T2_Interest receipts on SDR holdings (More than 0 to 3)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRMM.ST.AR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "220_T4_\u2026. Debt securities", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.PRVS.CD.04.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "109_T2_.. Principal (4yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.PUBS.CD.00.03.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "028_T2_Public Sector External Debt 4 / * (More than 0 to 3)", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.PUBS.CD.04.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "107_T2_.. Interest (4yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUBS.LT.TO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "206_T4_.. Long-term", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.DECT.CD.00.03.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "034_T2_Total (More than 0 to 3)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRBA.CD.ST.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "183_T3_\u2026. Short-term", 
+        "sourceNote": ""
+    }, 
+    "DT.INP.DECT.13.18.MO.SA.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "082_T2_Interest payments on SDR allocations (More than 12 to 18)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUOT.CD.LT.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "171_T3_\u2026. Long-term", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.PRVS.CD.05.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "120_T2_.. Principal (5yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.DECT.CD.10.12.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "067_T2_Total (More than 9 to 12)", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.DECT.CD.03.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "101_T2_.. Principal (3yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUBS.CD.AR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "014_T1_.. Public Sector External Debt", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRTC.LT.AR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "228_T4_\u2026. Trade credit and advances", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRBN.LT.AR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "226_T4_\u2026. Debt securities", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.DPPC.CD.DT.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "256_T5_Public and Publicly-Guaranteed Private Sector External Debt Position", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRDI.IL.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "231_T4_\u2026. Debt liabilities of direct investment enterprises to direct investors", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.PRVS.CD.15.UP.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "154_T2_.. Interest (More than 15 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.DECT.CD.04.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "111_T2_Total (4yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.DECT.CD.10.15.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "145_T2_.. Principal (More than 10 to 15 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.DECT.CD.13.18.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "080_T2_.. Interest (More than 12 to 18)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUTD.CD.ST.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "173_T3_\u2026. Short-term", 
+        "sourceNote": ""
+    }, 
+    "DT.INP.DECT.07.09.MO.SA.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "060_T2_Interest payments on SDR allocations (More than 6 to 9)", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.DECT.CD.13.18.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "078_T2_Total (More than 12 to 18)", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.DECT.CD.07.09.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "056_T2_Total (More than 6 to 9)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PSDR.LT.AR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "207_T4_\u2026. Special drawing rights (allocations) 9/", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.DECT.CD.04.06.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "047_T2_.. Interest (More than 3 to 6)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRVS.LT.TO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "224_T4_.. Long-term", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.DECT.CD.15.UP.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "156_T2_.. Principal (More than 15 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUBL.CD.LT.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "165_T3_\u2026. Long-term", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PCPU.LT.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "195_T3_\u2026. Long-term", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.PUBS.CD.05.10.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "129_T2_.. Interest (More than 5 to 10 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.PUBS.CD.07.09.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "050_T2_Public Sector External Debt 4 / * (More than 6 to 9)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.DPNG.CD.AR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "016_T1_.. Private Sector External Debt Not Publicly Guaranteed", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUBS.CD.ST.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "002_T1_.. Short-term", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.PRVS.CD.05.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "121_T2_.. Interest (5yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.PRVS.CD.19.24.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "086_T2_Publicly-Guaranteed Private Sector External Debt 5/ (More than 18 to 24)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRCD.LT.AR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "225_T4_\u2026. Currency and deposits 6/", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.PRVS.CD.15.UP.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "152_T2_Publicly-Guaranteed Private Sector External Debt 5/ (More than 15 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRMU.CD.LT.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "178_T3_\u2026. Long-term", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.DPNG.CD.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "007_T1_Private Sector External Debt Not Publicly Guaranteed 5/", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRVS.TO.T4.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "217_T4_Publicly Guaranteed Private Sector External Debt 5/", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.PUBS.CD.10.15.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "139_T2_.. Principal (More than 10 to 15 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.PRVS.CD.15.UP.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "153_T2_.. Principal (More than 15 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PROD.LT.AR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "229_T4_\u2026. Other debt liabilities 7/", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRFE.IL.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "233_T4_\u2026. Debt liabilities between fellow enterprises", 
+        "sourceNote": ""
+    }, 
+    "DT.INP.DECT.10.15.YR.SA.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "148_T2_Interest payments on SDR allocations (More than 10 to 15 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUBA.CD.ST.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "167_T3_\u2026. Short-term", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUBL.CD.ST.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "164_T3_\u2026. Short-term", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUBS.DS.ST.T4.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "244_T4_\u2026. Short-term", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.DECT.CD.10.15.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "146_T2_.. Interest (More than 10 to 15 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.PRVS.CD.00.03.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "032_T2_.. Principal (More than 0 to 3)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUBS.DS.LT.T4.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "245_T4_\u2026. Long-term", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUBS.DS.T4.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "243_T4_.. Public Sector External Debt", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRBA.CD.LT.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "184_T3_\u2026. Long-term", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.PUBS.CD.15.UP.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "149_T2_Public Sector External Debt 4 / * (More than 15 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.PUBS.CD.00.03.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "030_T2_.. Interest (More than 0 to 3)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRVS.AR.T4.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "239_T4_.. Publicly-Guaranteed Private Sector External Debt 11/", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUMU.CD.ST.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "161_T3_\u2026. Short-term", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.PRVS.CD.07.09.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "055_T2_.. Interest (More than 6 to 9)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRBL.CD.LT.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "181_T3_\u2026. Long-term", 
+        "sourceNote": ""
+    }, 
+    "DT.INR.DECT.05.10.YR.SA.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "136_T2_Interest receipts on SDR holdings (More than 5 to 10 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRVS.DS.LT.T4.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "248_T4_\u2026. Long-term", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.PRVS.CD.07.09.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "053_T2_Publicly-Guaranteed Private Sector External Debt 5/ (More than 6 to 9)", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.DECT.CD.03.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "102_T2_.. Interest (3yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PCPU.ST.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "194_T3_\u2026. Short-term", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRBL.CD.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "179_T3_.. Official bilateral creditors 4/", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.PRVS.CD.IQ.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "022_T2_.. Interest (immediate) 3/", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.PRVS.CD.05.10.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "130_T2_Publicly-Guaranteed Private Sector External Debt 5/ (More than 5 to 10 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.PRVS.CD.13.18.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "076_T2_.. Principal (More than 12 to 18)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUCD.ST.AR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "201_T4_\u2026. Currency and deposits 6/", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.DECT.15.UP.YR.SA.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "158_T2_SDR allocations (principal) (More than 15 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.DECT.CD.IQ.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "0095_T3_.. Principal  (immediate) 3/", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.PRVS.CD.05.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "119_T2_Publicly-Guaranteed Private Sector External Debt 5/ (5yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PROT.CD.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "185_T3_.. Other creditors", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.PUBS.CD.10.12.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "063_T2_.. Interest (More than 9 to 12)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUBS.PR.T4.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "237_T4_\u2026. Principal", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.DECT.CD.07.09.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "058_T2_.. Interest (More than 6 to 9)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRVS.IR.T4.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "241_T4_\u2026. Interest", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.DECT.CD.04.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "113_T2_.. Interest (4yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRAE.IL.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "232_T4_\u2026. Debt liabilities of direct investors to direct investment enterprises", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PROD.ST.AR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "223_T4_\u2026. Other debt liabilities 7/ 8/", 
+        "sourceNote": ""
+    }, 
+    "DT.INR.DECT.03.YR.SA.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "103_T2_Interest receipts on SDR holdings (3yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUBS.DI.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "213_T4_.. Direct investment: Intercompany lending 10/", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.DECT.CD.LT.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "012_T1_.. Long-term", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUMU.CD.LT.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "162_T3_\u2026. Long-term*", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PROT.CD.ST.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "186_T3_\u2026. Short-term", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.PRVS.CD.04.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "108_T2_Publicly-Guaranteed Private Sector External Debt 5/ (4yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRTC.ST.AR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "222_T4_\u2026. Trade credit and advances", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUAE.IL.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "215_T4_\u2026. Debt liabilities of direct investors to direct investment enterprises", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUBS.ST.AR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "200_T4_.. Short-term", 
+        "sourceNote": ""
+    }, 
+    "DT.INP.DECT.10.12.MO.SA.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "071_T2_Interest payments on SDR allocations (More than 9 to 12)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.DECT.CD.TO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "010_T1_Gross External Debt Position", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.DECT.CD.19.24.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "091_T2_.. Interest (More than 18 to 24)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.DECT.T4.AR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "234_T4_Total", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.DPNG.CD.ST.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "008_T1_.. Short-term", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PCPR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "196_T3_.. Publicly-Guaranteed Private Sector External Debt", 
+        "sourceNote": ""
+    }, 
+    "DT.INR.DECT.19.24.MO.SA.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "092_T2_Interest receipts on SDR holdings (More than 18 to 24)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRVS.CD.ST.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "005_T1_.. Short-term", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.PRVS.CD.00.03.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "033_T2_.. Interest (More than 0 to 3)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PCPR.ST.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "197_T3_\u2026. Short-term", 
+        "sourceNote": ""
+    }, 
+    "DT.INR.DECT.07.09.MO.SA.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "059_T2_Interest receipts on SDR holdings (More than 6 to 9)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUMU.CD.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "160_T3_.. Multilateral creditors", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUBS.CD.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "001_T1_Public Sector External Debt 3/", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.PUBS.CD.13.18.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "073_T2_.. Principal (More than 12 to 18)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.DECT.CD.AR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "013_T1_Arrears", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PCPR.LT.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "198_T3_\u2026. Long-term", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUOD.LT.AR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "212_T4_\u2026. Other debt liabilities 7/", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUFE.IL.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "216_T4_\u2026. Debt liabilities between fellow enterprises", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.DECT.CD.05.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "124_T2_.. Interest (5yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.PUBS.CD.05.10.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "128_T2_.. Principal (More than 5 to 10 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRVS.DI.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "230_T4_.. Direct Investment: Intercompany Lending 10/", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUOT.CD.ST.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "170_T3_\u2026. Short-term", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUBN.LT.AR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "209_T4_\u2026. Debt securities", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.PRVS.CD.IQ.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "020_T2_Publicly-Guaranteed Private Sector External Debt 5/ (immediate) 3/", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRMU.CD.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "176_T3_.. Multilateral creditors", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.PRVS.CD.03.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "099_T2_.. Interest (3yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.DECT.CD.13.18.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "079_T2_.. Principal (More than 12 to 18)", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.DECT.CD.IQ.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "0094_T3_Total Debt Service Payments (immediate) 3/", 
+        "sourceNote": ""
+    }, 
+    "DT.INR.DECT.10.12.MO.SA.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "070_T2_Interest receipts on SDR holdings (More than 9 to 12)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUBS.CD.LT.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "003_T1_.. Long-term *", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PROT.CD.LT.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "187_T3_\u2026. Long-term", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.PUBS.CD.19.24.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "083_T2_Public Sector External Debt 4 / * (More than 18 to 24)", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.DECT.CD.05.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "123_T2_.. Principal (5yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.DECT.CD.00.03.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "035_T2_.. Principal (More than 0 to 3)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRCD.ST.AR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "219_T4_\u2026. Currency and deposits 6/", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.DECT.CD.ST.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "011_T1_.. Short-term", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRVS.CD.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "004_T1_Publicly-Guaranteed Private Sector External Debt 4/", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.DECT.AR.T4.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "235_T4_Arrears", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.PRVS.CD.07.09.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "054_T2_.. Principal (More than 6 to 9)", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.PUBS.CD.04.06.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "040_T2_.. Principal (More than 3 to 6)", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.PUBS.CD.10.12.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "061_T2_Public Sector External Debt 4 / * (More than 9 to 12)", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.PUBS.CD.07.09.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "051_T2_.. Principal (More than 6 to 9)", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.PRVS.CD.04.06.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "043_T2_.. Principal (More than 3 to 6)", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.DECT.CD.03.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "100_T2_Total (3yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.PUBS.CD.03.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "094_T2_Public Sector External Debt 4 / * (3yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRVS.PR.T4.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "240_T4_\u2026. Principal", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.DECT.CD.FC.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "249_T5_Foreign currency 4/", 
+        "sourceNote": ""
+    }, 
+    "DT.INP.DECT.05.10.YR.SA.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "137_T2_Interest payments on SDR allocations (More than 5 to 10 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.DECT.CD.10.15.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "144_T2_Total (More than 10 to 15 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUTD.CD.LT.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "174_T3_\u2026. Long-term", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRVS.DS.T4.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "246_T4_.. Publicly-Guaranteed Private Sector External Debt", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.DECT.CD.10.12.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "068_T2_.. Principal (More than 9 to 12)", 
+        "sourceNote": ""
+    }, 
+    "DT.INP.DECT.05.YR.SA.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "126_T2_Interest payments on SDR allocations (5yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.PRVS.CD.05.10.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "131_T2_.. Principal (More than 5 to 10 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.DECT.CD.05.10.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "134_T2_.. Principal (More than 5 to 10 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.PUBS.CD.03.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "095_T2_.. Principal (3yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.DECT.CD.UC.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "255_T5_Unallocated", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRVS.DS.ST.T4.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "247_T4_\u2026. Short-term", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PCPU.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "193_T3_.. Public Sector External Debt", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.PUBS.CD.IQ.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "017_T2_Public Sector External Debt 4 / * (immediate) 3/", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.PUBS.CD.04.06.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "039_T2_Public Sector External Debt 4 / * (More than 3 to 6)", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.PRVS.CD.10.15.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "143_T2_.. Interest (More than 10 to 15 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.INR.DECT.IQ.SA.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "026_T2_Interest receipts on SDR holdings (immediate) 3/", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.PRVS.CD.10.12.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "064_T2_Publicly-Guaranteed Private Sector External Debt 5/ (More than 9 to 12)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRTD.CD.ST.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "189_T3_\u2026. Short-term", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.PUBS.CD.IQ.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "019_T2_.. Interest (immediate) 3/", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.PRVS.CD.05.10.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "132_T2_.. Interest (More than 5 to 10 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.PUBS.CD.15.UP.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "150_T2_.. Principal (More than 15 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.INR.DECT.05.YR.SA.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "125_T2_Interest receipts on SDR holdings (5yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.DECT.CD.05.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "122_T2_Total (5yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUBA.CD.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "166_T3_.. Deposit-taking Corporations, except the Central Bank, creditors", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.PRVS.CD.IQ.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "021_T2_.. Principal (immediate) 3/", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRTD.CD.LT.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "190_T3_\u2026. Long-term", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.DECT.CD.IQ.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "0096_T3_.. Interest (immediate) 3/", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.PRVS.CD.19.24.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "088_T2_.. Interest (More than 18 to 24)", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.DECT.CD.15.UP.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "157_T2_.. Interest (More than 15 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.DECT.CD.05.10.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "133_T2_Total (More than 5 to 10 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUTC.LT.AR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "211_T4_\u2026. Trade credit and advances", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRLO.LT.AR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "227_T4_\u2026. Loans", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.DECT.CD.15.UP.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "155_T2_Total (More than 15 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.PRVS.CD.19.24.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "087_T2_.. Principal (More than 18 to 24)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUDI.IL.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "214_T4_\u2026. Debt liabilities of direct investment enterprises to direct investors", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.DSTC.CD.FC.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "250_T5_.. Short-term", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUBS.IR.T4.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "238_T4_\u2026. Interest", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRTD.CD.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "188_T3_.. Debt securities' holders 5/", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.PUBS.CD.13.18.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "074_T2_.. Interest (More than 12 to 18)", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.DECT.CD.04.06.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "045_T2_Total (More than 3 to 6)", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.PRVS.CD.13.18.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "077_T2_.. Interest (More than 12 to 18)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.DPPC.CD.TO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "191_T3_Total", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUBS.CD.T3.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "159_T3_Public Sector External Debt", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.PUBS.CD.05.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "118_T2_.. Interest (5yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.DSTC.CD.DC.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "253_T5_.. Short-term", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUOT.CD.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "169_T3_.. Other creditors", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRVS.CD.AR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "015_T1_.. Publicly-Guaranteed Private Sector External Debt", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.DLXF.CD.DC.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "254_T5_.. Long-term", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRBA.CD.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "182_T3_.. Deposit-taking Corporations, except the Central Bank, creditors", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.PRVS.CD.03.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "097_T2_Publicly-Guaranteed Private Sector External Debt 5/ (3yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.PRVS.CD.13.18.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "075_T2_Publicly-Guaranteed Private Sector External Debt 5/ (More than 12 to 18)", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.DECT.CD.04.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "112_T2_.. Principal (4yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRLO.ST.AR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "221_T4_\u2026. Loans", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUTC.ST.AR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "204_T4_\u2026. Trade credit and advances", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.DECT.CD.10.12.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "069_T2_.. Interest (More than 9 to 12)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUTD.CD.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "172_T3_.. Debt securities' holders 5/", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.PRVS.CD.03.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "098_T2_.. Principal (3yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.PRVS.CD.10.12.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "065_T2_.. Principal (More than 9 to 12)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUBS.TO.T4.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "199_T4_Public Sector External Debt 4/", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.PUBS.CD.03.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "096_T2_.. Interest (3yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.PUBS.CD.10.15.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "138_T2_Public Sector External Debt 4 / * (More than 10 to 15 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.INP.DECT.04.YR.SA.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "115_T2_Interest payments on SDR allocations (4yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.INP.DECT.04.06.MO.SA.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "049_T2_Interest payments on SDR allocations (More than 3 to 6)", 
+        "sourceNote": ""
+    }, 
+    "DT.INP.DECT.IQ.SA.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "027_T2_Interest payments on SDR allocations (immediate) 3/", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PULO.LT.AR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "210_T4_\u2026. Loans", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUBA.CD.LT.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "168_T3_\u2026. Long-term", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRMU.CD.ST.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "177_T3_\u2026. Short-term", 
+        "sourceNote": ""
+    }, 
+    "DT.INP.DECT.00.03.MO.SA.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "038_T2_Interest payments on SDR allocations (More than 0 to 3)", 
+        "sourceNote": ""
+    }, 
+    "DT.INR.DECT.04.YR.SA.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "114_T2_Interest receipts on SDR holdings (4yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.DECT.CD.00.03.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "036_T2_.. Interest (More than 0 to 3)", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.PUBS.CD.IQ.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "018_T2_.. Principal (immediate) 3/", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.PUBS.CD.04.06.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "041_T2_.. Interest (More than 3 to 6)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUBL.CD.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "163_T3_.. Official bilateral creditors 4/", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.DECT.CD.19.24.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "090_T2_.. Principal (More than 18 to 24)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.DECT.DS.T4.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "242_T4_Debt Securities 12/", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.DECT.CD.19.24.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "089_T2_Total (More than 18 to 24)", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.DECT.CD.05.10.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "135_T2_.. Interest (More than 5 to 10 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRVS.CD.LT.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "006_T1_.. Long-term", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.PRVS.CD.00.03.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "031_T2_Publicly-Guaranteed Private Sector External Debt 5/ (More than 0 to 3)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.DPNG.CD.LT.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "009_T1_.. Long-term", 
+        "sourceNote": ""
+    }, 
+    "DT.INR.DECT.10.15.YR.SA.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "147_T2_Interest receipts on SDR holdings (More than 10 to 15 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PRVS.ST.AR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "218_T4_.. Short-term", 
+        "sourceNote": ""
+    }, 
+    "DT.AMT.PUBS.CD.19.24.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "084_T2_.. Principal (More than 18 to 24)", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.PRVS.CD.04.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "110_T2_.. Interest (4yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.PRVS.CD.10.15.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "141_T2_Publicly-Guaranteed Private Sector External Debt 5/ (More than 10 to 15 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PCCR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "192_T3_Paris Club member creditors 6/", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.PUBS.CD.10.15.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "140_T2_.. Interest (More than 10 to 15 yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.PRVS.CD.10.12.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "066_T2_.. Interest (More than 9 to 12)", 
+        "sourceNote": ""
+    }, 
+    "DT.INR.DECT.13.18.MO.SA.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "081_T2_Interest receipts on SDR holdings (More than 12 to 18)", 
+        "sourceNote": ""
+    }, 
+    "DT.TDS.PUBS.CD.04.YR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "105_T2_Public Sector External Debt 4 / * (4yrs)", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUCD.LT.AR.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "208_T4_\u2026. Currency and deposits 6/", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.PUBS.AR.T4.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "236_T4_.. Public Sector External Debt 11/", 
+        "sourceNote": ""
+    }, 
+    "DT.DOD.DLXF.CD.FC.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "251_T5_.. Long-term 5/", 
+        "sourceNote": ""
+    }, 
+    "DT.INT.PUBS.CD.19.24.MO.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "085_T2_.. Interest (More than 18 to 24)", 
+        "sourceNote": ""
+    }, 
+    "DT.INP.DECT.19.24.MO.SA.US": {
+        "source": "Quarterly External Debt Statistics/GDDS (New)", 
+        "sourceOrganization": "", 
+        "name": "093_T2_Interest payments on SDR allocations (More than 18 to 24)", 
+        "sourceNote": ""
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "5.51.01.08.primcomp": {
+        "source": "Statistical Capacity Indicators", 
+        "sourceOrganization": "World Bank", 
+        "name": "Primary completion", 
+        "sourceNote": "For assessment, look at 5 year interval starting 2 years before current year and count number of data points available."
+    }, 
+    "5.12.01.01.unesco": {
+        "source": "Statistical Capacity Indicators", 
+        "sourceOrganization": "World Bank", 
+        "name": "UNESCO reporting", 
+        "sourceNote": "It will be looked at the 4-year-period starting 2 years back from actual year (e.g. for 2012: Years 2007-10)."
+    }, 
+    "5.51.01.05.hiv": {
+        "source": "Statistical Capacity Indicators", 
+        "sourceOrganization": "World Bank", 
+        "name": "HIV/AIDS", 
+        "sourceNote": "For assessment, look at 3 year interval starting the year before current and check data availability."
+    }, 
+    "2.01.01.02.nabase": {
+        "source": "Statistical Capacity Indicators", 
+        "sourceOrganization": "World Bank", 
+        "name": "National accounts base year", 
+        "sourceNote": "It is being looked back 10 years starting the year before actual year."
+    }, 
+    "5.51.01.04.immun": {
+        "source": "Statistical Capacity Indicators", 
+        "sourceOrganization": "World Bank", 
+        "name": "Immunization", 
+        "sourceNote": "For assessment, look at 5 year interval starting 2 years before current year and count number of data points available."
+    }, 
+    "5.51.01.03.mortal": {
+        "source": "Statistical Capacity Indicators", 
+        "sourceOrganization": "World Bank", 
+        "name": "Child mortality", 
+        "sourceNote": "National or international estimate is available for reference year. Reference year is the year 2 years before current."
+    }, 
+    "3.11.01.01.popcen": {
+        "source": "Statistical Capacity Indicators", 
+        "sourceOrganization": "World Bank", 
+        "name": "Population census", 
+        "sourceNote": "Looking at 10 year interval starting the year before current and counting the number of population cenuses conducted."
+    }, 
+    "5.51.01.07.gender": {
+        "source": "Statistical Capacity Indicators", 
+        "sourceOrganization": "World Bank", 
+        "name": "Gender equality", 
+        "sourceNote": "For assessment, look at 5 year interval starting 2 years before current year and count number of data points available."
+    }, 
+    "5.13.01.01.hlthsurv": {
+        "source": "Statistical Capacity Indicators", 
+        "sourceOrganization": "World Bank", 
+        "name": "Health survey", 
+        "sourceNote": "Looking at 10 year interval starting the year before current and counting the number of health surveys conducted."
+    }, 
+    "2.04.01.01.excncpt": {
+        "source": "Statistical Capacity Indicators", 
+        "sourceOrganization": "World Bank", 
+        "name": "Balance of payments manual in use", 
+        "sourceNote": "Country has adopted either one of the two latest editions (BPM5 or BPM6)"
+    }, 
+    "5.51.01.01.poverty": {
+        "source": "Statistical Capacity Indicators", 
+        "sourceOrganization": "World Bank", 
+        "name": "Income poverty", 
+        "sourceNote": "For assessment, look at 10 year interval starting two years before current and count number of data points available."
+    }, 
+    "Practice": {
+        "source": "Statistical Capacity Indicators", 
+        "sourceOrganization": "World Bank", 
+        "name": "Methodology", 
+        "sourceNote": "('2.01.01.02.nabase' + '2.04.01.01.excncpt' + '5.04.01.01.exdebt' + '5.04.01.02.impexp' + '3.02.01.02.fscov' + '5.21.01.01.sdds' +  '5.12.01.01.unesco' +  '5.13.01.01.who' + '5.01.01.01.indust'+ '2.01.03.01.prcpbase')*10"
+    }, 
+    "3.02.01.02.fscov": {
+        "source": "Statistical Capacity Indicators", 
+        "sourceOrganization": "World Bank", 
+        "name": "Government finance accounting", 
+        "sourceNote": "Government finance data have been consolidated into one account capturing all central government's fiscal activities. Consolidated accounts for central government in place. "
+    }, 
+    "Collection": {
+        "source": "Statistical Capacity Indicators", 
+        "sourceOrganization": "World Bank", 
+        "name": "Source Data", 
+        "sourceNote": "('3.01.04.01.agcen' + '3.11.01.01.popcen' + '3.11.01.03.popreg' + '5.13.01.01.hlthsurv' + '5.14.01.01.povsurv' )*20"
+    }, 
+    "5.04.01.02.impexp": {
+        "source": "Statistical Capacity Indicators", 
+        "sourceOrganization": "World Bank", 
+        "name": "Import and export price indexes", 
+        "sourceNote": "Look 8 years back starting 3 years before current year"
+    }, 
+    "5.01.01.01.indust": {
+        "source": "Statistical Capacity Indicators", 
+        "sourceOrganization": "World Bank", 
+        "name": "Industrial production index", 
+        "sourceNote": "Look 8 years back starting 3 years before current year"
+    }, 
+    "3.11.01.03.popreg": {
+        "source": "Statistical Capacity Indicators", 
+        "sourceOrganization": "World Bank", 
+        "name": "Vital registration system coverage", 
+        "sourceNote": "There should be a complete vital registration system (birth and death) in place within the last 15 years."
+    }, 
+    "2.01.03.01.prcpbase": {
+        "source": "Statistical Capacity Indicators", 
+        "sourceOrganization": "World Bank", 
+        "name": "Consumer price index base year", 
+        "sourceNote": "It is being looked back 10 years starting the year before actual year."
+    }, 
+    "5.51.01.02.malnut": {
+        "source": "Statistical Capacity Indicators", 
+        "sourceOrganization": "World Bank", 
+        "name": "Child malnutrition", 
+        "sourceNote": "For assessment, look at 10 year interval starting two years before current and count number of data points available."
+    }, 
+    "5.51.01.09.water": {
+        "source": "Statistical Capacity Indicators", 
+        "sourceOrganization": "World Bank", 
+        "name": "Access to water", 
+        "sourceNote": "For assessment, look at 6 year interval starting 2 years before current year and count number of data points available."
+    }, 
+    "5.51.01.06.matern": {
+        "source": "Statistical Capacity Indicators", 
+        "sourceOrganization": "World Bank", 
+        "name": "Maternal health", 
+        "sourceNote": "For assessment, look at 10 year intervals starting two years before current and count number of data points available."
+    }, 
+    "3.01.04.01.agcen": {
+        "source": "Statistical Capacity Indicators", 
+        "sourceOrganization": "World Bank", 
+        "name": "Agricultural census", 
+        "sourceNote": "Looking at 10 year interval starting the year before current and counting the number of agricultural censuses conducted."
+    }, 
+    "5.04.01.01.exdebt": {
+        "source": "Statistical Capacity Indicators", 
+        "sourceOrganization": "World Bank", 
+        "name": "External debt reporting status", 
+        "sourceNote": "Actual or preliminary reporting status"
+    }, 
+    "5.51.01.10.gdp": {
+        "source": "Statistical Capacity Indicators", 
+        "sourceOrganization": "World Bank", 
+        "name": "Per capita GDP growth", 
+        "sourceNote": "For assessment look at 10 year interval starting the year before current."
+    }, 
+    "5.14.01.01.povsurv": {
+        "source": "Statistical Capacity Indicators", 
+        "sourceOrganization": "World Bank", 
+        "name": "Poverty survey", 
+        "sourceNote": "Looking at 10 year interval starting the year before current and counting the number of poverty surveys conducted."
+    }, 
+    "5.21.01.01.sdds": {
+        "source": "Statistical Capacity Indicators", 
+        "sourceOrganization": "World Bank", 
+        "name": "Special Data Dissemination Standard", 
+        "sourceNote": "Country has subscribed to SDDS"
+    }, 
+    "Availability": {
+        "source": "Statistical Capacity Indicators", 
+        "sourceOrganization": "World Bank", 
+        "name": "Periodicity & Timeliness", 
+        "sourceNote": "('5.51.01.01.poverty' + '5.51.01.02.malnut' + '5.51.01.03.mortal' + '5.51.01.04.immun' + '5.51.01.06.matern' + '5.51.01.08.primcomp' + '5.51.01.07.gender' + '5.51.01.10.gdp' + '5.51.01.09.water' + '5.51.01.05.hiv')*10"
+    }, 
+    "5.13.01.01.who": {
+        "source": "Statistical Capacity Indicators", 
+        "sourceOrganization": "World Bank", 
+        "name": "National immunization coverage", 
+        "sourceNote": "It will be looked at the 4 most recent years with data available. The average of WHO/UNICEF estimate and government (official) data needs to be <=1."
+    }
+}

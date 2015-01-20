@@ -1,0 +1,1370 @@
+{
+    "9.1.Unpaid.T60": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Unpaid Workers-Top 60 Percent (%), Male", 
+        "sourceNote": "Share of the male labor force (ages 15+) in the top 60 percent that works without pay"
+    }, 
+    "1.1.PGap.Vul4to10": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Vulnerable ($4-10 a day) Gap-Rural", 
+        "sourceNote": "The poverty gap captures the mean aggregate income or consumption shortfall relative to the vulnerable line across the entire population. It measures the total resources needed to bring all the poor to the level of the vulnerable line (averaged over the total population). "
+    }, 
+    "1.0.PSev.1.25usd": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Poverty Severity ($1.25 a day)", 
+        "sourceNote": "The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line"
+    }, 
+    "2.0.cov.Scie.pl_3.pub": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "Coverage: Science Proficiency Level 3, Public schools", 
+        "sourceNote": "The coverage rate is the average access rate of a given opportunity used in calculating the Human Opportunities Index (HOI). The coverage rate does not take into account inequality of access between different circumstance groups."
+    }, 
+    "1.2.PSev.Vul4to10": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Vulnerable ($4-10 a day) Severity-Urban", 
+        "sourceNote": "The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line"
+    }, 
+    "2.0.hoi.Ele": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "HOI: Electricity", 
+        "sourceNote": "The Human Opportunities Index (HOI) is an economic indicator that captures the degree of inequality of access to an essential service by different circumstance groups. This index takes into account the average access rate (the coverage) of a given opportunity (service) and the inequality of its distribution. The circumstances included in the HOI are the gender of the child, parents' education, household per capita income, number of siblings, presence of both parents in the household, gender of the household head, and urban or rural residence.An increase in the index can be related either to an increase in the coverage or to a more equal distribution of that service."
+    }, 
+    "1.0.PGap.Mid10to50": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Middle Class ($10-50 a day) Gap", 
+        "sourceNote": "The poverty gap captures the mean aggregate income or consumption shortfall relative to the $10/day line across the entire population. It measures the total resources needed to bring all the poor to the level of the $10 line (averaged over the total population). "
+    }, 
+    "4.1.stud.19a24": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: In School (19-24), Male", 
+        "sourceNote": "Share of the male population ages 19-24 that is in school and not employed."
+    }, 
+    "1.2.HCount.2.5usd": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Poverty Headcount ($2.50 a day)-Urban", 
+        "sourceNote": "The poverty headcount index measures the proportion of the population with daily per capita income below the poverty line."
+    }, 
+    "1.2.PGap.2.5usd": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Poverty Gap ($2.50 a day)-Urban", 
+        "sourceNote": "The poverty gap captures the mean aggregate income or consumption shortfall relative to the poverty line across the entire population. It measures the total resources needed to bring all the poor to the level of the poverty line (averaged over the total population). "
+    }, 
+    "4.1.nini.15a24": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: Neither in School Nor Working  (15-24), Male", 
+        "sourceNote": "Share of the male population ages 15-24 that is neither employed nor in school."
+    }, 
+    "1.2.PSev.2.5usd": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Poverty Severity ($2.50 a day)-Urban", 
+        "sourceNote": "The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line"
+    }, 
+    "3.0.Atkin.1": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Atkinson, A(1)", 
+        "sourceNote": "Atkinson (1970) proposed this class of inequality measures with  a weighting parameter \u03b5 which measures aversion to inequality. As \u03b5 rises, the index becomes more sensitive to transfers at the lower end of the distribution and less sensitive to transfers at the top. The limit case, \u03b5\u21920, the index reflects the Function of Rawls which only takes account of transfers to the very lowest income group; at the other extreme, when \u03b5=0, we obtain the linear utility function. This ranks distributions solely according to total income."
+    }, 
+    "4.0.nini.15a24": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: Neither in School Nor Working  (15-24)", 
+        "sourceNote": "Share of the population ages 15-24 that is neither employed nor in school."
+    }, 
+    "2.0.cov.Scie.pl_3.all": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "Coverage: Science Proficiency Level 3", 
+        "sourceNote": "The coverage rate is the average access rate of a given opportunity used in calculating the Human Opportunities Index (HOI). The coverage rate does not take into account inequality of access between different circumstance groups."
+    }, 
+    "3.0.Atkin.2": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Atkinson, A(2)", 
+        "sourceNote": "Atkinson (1970) proposed this class of inequality measures with  a weighting parameter \u03b5 which measures aversion to inequality. As \u03b5 rises, the index becomes more sensitive to transfers at the lower end of the distribution and less sensitive to transfers at the top. The limit case, \u03b5\u21920, the index reflects the Function of Rawls which only takes account of transfers to the very lowest income group; at the other extreme, when \u03b5=0, we obtain the linear utility function. This ranks distributions solely according to total income."
+    }, 
+    "3.0.Gini_nozero": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Gini Coefficient (No Zero Income)", 
+        "sourceNote": "The Gini coefficient is most common measure of inequality. It is based on the Lorenz curve, a cumulative frequency curve that compares the distribution of a specific variable (in this case, income) with the uniform distribution that represents equality. The Gini coefficient is bounded by 0 (indicating perfect equality of income) and 1, which means complete inequality. This calculation does not includes observations of 0 income."
+    }, 
+    "2.0.hoi.Wat": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "HOI: Water", 
+        "sourceNote": "The Human Opportunities Index (HOI) is an economic indicator that captures the degree of inequality of access to an essential service by different circumstance groups. This index takes into account the average access rate (the coverage) of a given opportunity (service) and the inequality of its distribution. The circumstances included in the HOI are the gender of the child, parents' education, household per capita income, number of siblings, presence of both parents in the household, gender of the household head, and urban or rural residence.An increase in the index can be related either to an increase in the coverage or to a more equal distribution of that service."
+    }, 
+    "9.1.Unemp.B40": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Unemployed-Bottom 40 Percent (%), Male", 
+        "sourceNote": "Share of the male labor force (ages 15+) in the bottom 40 percent that is unemployed"
+    }, 
+    "2.0.cov.Sch": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Coverage: School Enrollment", 
+        "sourceNote": "The coverage rate is the average access rate of a given opportunity used in calculating the Human Opportunities Index (HOI). The coverage rate does not take into account inequality of access between different circumstance groups."
+    }, 
+    "1.2.PGap.Vul4to10": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Vulnerable ($4-10 a day) Gap-Urban", 
+        "sourceNote": "The poverty gap captures the mean aggregate income or consumption shortfall relative to the vulnerable line across the entire population. It measures the total resources needed to bring all the poor to the level of the vulnerable line (averaged over the total population). "
+    }, 
+    "9.2.Unpaid.B40": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Unpaid Workers-Bottom 40 Percent (%), Female", 
+        "sourceNote": "Share of the female labor force (ages 15+) in the bottom 40 percent that works without pay"
+    }, 
+    "3.1.TheilInd1": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Theil Index, GE(1), Rural", 
+        "sourceNote": " The Theil index is part of a larger family of measures referred to as the General Entropy class. Compared to the Gini index, it has the advantage of being additive across different subgroups or regions in the country. However, it does not have a straightforward representation and lacks the appealing interpretation of the Gini coefficient. "
+    }, 
+    "2.0.hoi.San": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "HOI: Sanitation", 
+        "sourceNote": "The Human Opportunities Index (HOI) is an economic indicator that captures the degree of inequality of access to an essential service by different circumstance groups. This index takes into account the average access rate (the coverage) of a given opportunity (service) and the inequality of its distribution. The circumstances included in the HOI are the gender of the child, parents' education, household per capita income, number of siblings, presence of both parents in the household, gender of the household head, and urban or rural residence.An increase in the index can be related either to an increase in the coverage or to a more equal distribution of that service."
+    }, 
+    "1.0.HCount.2.5usd": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Poverty Headcount ($2.50 a day)", 
+        "sourceNote": "The poverty headcount index measures the proportion of the population with daily per capita income below the poverty line."
+    }, 
+    "9.0.Labor.T60": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Labor Force Participation Rate (%)-Top 60 Percent", 
+        "sourceNote": "Share of the population (ages 15+) in the Top 60 percent that is in the labor force"
+    }, 
+    "1.1.PSev.Mid10to50": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Middle Class ($10-50 a day) Severity-Rural", 
+        "sourceNote": "The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line"
+    }, 
+    "9.1.Labor.All": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Labor Force Participation Rate (%), Male", 
+        "sourceNote": "Share of the male population (ages 15+) that is in the labor force"
+    }, 
+    "1.1.HCount.Mid10to50": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Middle Class ($10-50 a day) Headcount-Rural", 
+        "sourceNote": "The poverty headcount index measures the proportion of the population with daily per capita income below the poverty line."
+    }, 
+    "5.0.AMeanIncGr.All": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank) and World Development Indicators", 
+        "name": "Annualized Mean Income Growth (2003-2012)", 
+        "sourceNote": "The official indicator to monitor shared prosperity is the growth in real per capita income (or consumption) of the bottom 40 percent of the income (or consumption) distribution in a country."
+    }, 
+    "1.2.PGap.1.25usd": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Poverty Gap ($1.25 a day)-Urban", 
+        "sourceNote": "The poverty gap captures the mean aggregate income or consumption shortfall relative to the poverty line across the entire population. It measures the total resources needed to bring all the poor to the level of the poverty line (averaged over the total population). "
+    }, 
+    "9.2.Employee.All": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Employees (%), Female", 
+        "sourceNote": "Share of the female labor force (ages 15+) that is a wage or salary worker"
+    }, 
+    "9.1.Employer.T60": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Employers-Top 60 Percent (%), Male", 
+        "sourceNote": "Share of the male labor force (ages 15+) in the top 60 percent that is an employer"
+    }, 
+    "1.1.HCount.Vul4to10": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Vulnerable ($4-10 a day) Headcount-Rural", 
+        "sourceNote": "The poverty headcount index measures the proportion of the population with daily per capita income below the poverty line."
+    }, 
+    "4.1.stud.15a18": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: In School (15-18), Male", 
+        "sourceNote": "Share of the male population ages 15-18 that is in school and not employed."
+    }, 
+    "3.0.MLongDev0": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Mean Log Deviation, GE(0)", 
+        "sourceNote": "The parameter \u03b1 in the GE class represents the weight given to distances between incomes at different parts of the income distribution, and can take any real value. For lower values of \u03b1, GE is more sensitive to changes in the lower tail of the distribution, and for higher values GE is more sensitive to changes that affect the upper tail. GE(1) is the Theil index."
+    }, 
+    "4.0.stud.19a24": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: In School (19-24)", 
+        "sourceNote": "Share of the population ages 19-24 that is in school and not employed."
+    }, 
+    "1.0.HCount.1.25usd": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Poverty Headcount ($1.25 a day)", 
+        "sourceNote": "The poverty headcount index measures the proportion of the population with daily per capita income below the poverty line."
+    }, 
+    "1.0.HCount.10usd": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Under Middle Class ($10 a day) Headcount", 
+        "sourceNote": "The poverty headcount index measures the proportion of the population with daily per capita income below the poverty line."
+    }, 
+    "4.1.work.19a24": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: Employed (19-24), Male", 
+        "sourceNote": "Share of the male population ages 19-24 that is employed and not in school."
+    }, 
+    "9.2.Unemp.B40": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Unemployed-Bottom 40 Percent (%), Female", 
+        "sourceNote": "Share of the female labor force (ages 15+) in the bottom 40 percent that is unemployed"
+    }, 
+    "9.1.Unemp.All": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Unemployed (%), Male", 
+        "sourceNote": "Share of the male labor force (ages 15+) that is unemployed"
+    }, 
+    "2.0.hoi.Math.pl_2.pub": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "HOI: Mathematics Proficiency Level 2, Public schools", 
+        "sourceNote": "The Human Opportunities Index (HOI) is an economic indicator that captures the degree of inequality of access to an essential service by different circumstance groups. This index takes into account the average access rate (the coverage) of a given opportunity (service) and the inequality of its distribution. The circumstances included in the HOI are the gender of the child, parents' education, region of school location, father's occupation, and a household wealth index based on assets.An increase in the index can be related either to an increase in the coverage or to a more equal distribution of that service."
+    }, 
+    "6.0.GDP_current": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "World Development Indicators (World Bank)", 
+        "name": "GDP (current US$)", 
+        "sourceNote": "GDP at purchaser's prices is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in current U.S. dollars. Dollar figures for GDP are converted from domestic currencies using single year official exchange rates. For a few countries where the official exchange rate does not reflect the rate effectively applied to actual foreign exchange transactions, an alternative conversion factor is used. "
+    }, 
+    "1.2.HCount.Mid10to50": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Middle Class ($10-50 a day) Headcount-Urban", 
+        "sourceNote": "The poverty headcount index measures the proportion of the population with daily per capita income below the poverty line."
+    }, 
+    "4.0.nini.15a18": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: Neither in School Nor Working  (15-18)", 
+        "sourceNote": "Share of the population ages 15-18 that is neither employed nor in school."
+    }, 
+    "2.0.cov.Read.pl_3.pub": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "Coverage: Reading Proficiency Level 3, Public schools", 
+        "sourceNote": "The coverage rate is the average access rate of a given opportunity used in calculating the Human Opportunities Index (HOI). The coverage rate does not take into account inequality of access between different circumstance groups."
+    }, 
+    "1.2.PGap.Poor4uds": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Poverty Gap ($4 a day)-Urban", 
+        "sourceNote": "The poverty gap captures the mean aggregate income or consumption shortfall relative to the poverty line across the entire population. It measures the total resources needed to bring all the poor to the level of the poverty line (averaged over the total population). "
+    }, 
+    "3.1.Gini": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Gini, Rural", 
+        "sourceNote": "The Gini coefficient is most common measure of inequality. It is based on the Lorenz curve, a cumulative frequency curve that compares the distribution of a specific variable (in this case, income) with the uniform distribution that represents equality. The Gini coefficient is bounded by 0 (indicating perfect equality of income) and 1, which means complete inequality. This calculation includes observations of 0 income."
+    }, 
+    "4.0.stud.15a18": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: In School (15-18)", 
+        "sourceNote": "Share of the population ages 15-18 that is in school and not employed."
+    }, 
+    "6.0.GDP_growth": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "World Development Indicators (World Bank)", 
+        "name": "GDP growth (annual %)", 
+        "sourceNote": "Annual percentage growth rate of GDP at market prices based on constant local currency. Aggregates are based on constant 2005 U.S. dollars. GDP is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources."
+    }, 
+    "1.1.PGap.1.25usd": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Poverty Gap ($1.25 a day)-Rural", 
+        "sourceNote": "The poverty gap captures the mean aggregate income or consumption shortfall relative to the poverty line across the entire population. It measures the total resources needed to bring all the poor to the level of the poverty line (averaged over the total population). "
+    }, 
+    "8.0.LIPI": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of LABLAC (CEDLAS and the World Bank).", 
+        "name": "Labor Income Poverty Index", 
+        "sourceNote": "The Labor Income Poverty Index (LIPI) uses only labor income to construct an index of poverty. Based on a reference period, the index calculates the population reporting labor income that is below the poverty line relative to a selected reference period"
+    }, 
+    "2.0.cov.Read.pl_2.pub": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "Coverage: Reading Proficiency Level 2, Public schools", 
+        "sourceNote": "The coverage rate is the average access rate of a given opportunity used in calculating the Human Opportunities Index (HOI). The coverage rate does not take into account inequality of access between different circumstance groups."
+    }, 
+    "1.1.PGap.Poor4uds": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Poverty Gap ($4 a day)-Rural", 
+        "sourceNote": "The poverty gap captures the mean aggregate income or consumption shortfall relative to the poverty line across the entire population. It measures the total resources needed to bring all the poor to the level of the poverty line (averaged over the total population). "
+    }, 
+    "9.1.Employer.B40": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Employers-Bottom 40 Percent (%), Male", 
+        "sourceNote": "Share of the male labor force (ages 15+) in the bottom 40 percent that is an employer"
+    }, 
+    "3.0.Rate75-25": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Rate 75/25", 
+        "sourceNote": "The decile dispersion ratio presents the ratio of the average income of the richest 25 percent by that of the poorest 25 percent. This ratio expresses the income of the top quantile as multiples of that of the poorest quantile. However, it ignores information about incomes in the middle of the income distribution and doesn\u2019t use information about the distribution of income within the top and bottom deciles or percentiles."
+    }, 
+    "9.0.Unpaid.B40": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Unpaid Workers-Bottom 40 Percent (%)", 
+        "sourceNote": "Share of the labor force (ages 15+) in the bottom 40 percent that works without pay"
+    }, 
+    "3.1.MLongDev0": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Mean Log Deviation, GE(0), Rural", 
+        "sourceNote": "The parameter \u03b1 in the GE class represents the weight given to distances between incomes at different parts of the income distribution, and can take any real value. For lower values of \u03b1, GE is more sensitive to changes in the lower tail of the distribution, and for higher values GE is more sensitive to changes that affect the upper tail. GE(1) is the Theil index."
+    }, 
+    "5.0.AMeanIncGr.B40": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank) and World Development Indicators", 
+        "name": "Annualized Mean Income Growth Bottom 40 Percent (2003-2012)", 
+        "sourceNote": "The indicator to monitor shared prosperity is the growth in real per capita income (or consumption) of the bottom 40 percent of the income (or consumption) distribution in a country."
+    }, 
+    "9.1.Labor.B40": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Labor Force Participation Rate (%)-Bottom 40 Percent, Male", 
+        "sourceNote": "Share of the male population (ages 15+) in the Bottom 40 percent that is in the labor force"
+    }, 
+    "2.0.hoi.Scie.pl_2.all": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "HOI: Science Proficiency Level 2", 
+        "sourceNote": "The Human Opportunities Index (HOI) is an economic indicator that captures the degree of inequality of access to an essential service by different circumstance groups. This index takes into account the average access rate (the coverage) of a given opportunity (service) and the inequality of its distribution. The circumstances included in the HOI are the gender of the child, parents' education, region of school location, father's occupation, and a household wealth index based on assets.An increase in the index can be related either to an increase in the coverage or to a more equal distribution of that service."
+    }, 
+    "9.2.SelfEmp.B40": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Self-Employed-Bottom 40 Percent (%), Female", 
+        "sourceNote": "Share of the female labor force (ages 15+) in the bottom 40 percent that is self-employed and not an employer"
+    }, 
+    "9.0.Labor.B40": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Labor Force Participation Rate (%)-Bottom 40 Percent", 
+        "sourceNote": "Share of the population (ages 15+) in the Bottom 40 percent that is in the labor force"
+    }, 
+    "9.2.Employer.B40": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Employers-Bottom 40 Percent (%), Female", 
+        "sourceNote": "Share of the female labor force (ages 15+) in the bottom 40 percent that is an employer"
+    }, 
+    "9.0.Employee.T60": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Employees-Top 60 Percent (%)", 
+        "sourceNote": "Share of the labor force (ages 15+) in the top 60 percent that is a wage or salary worker"
+    }, 
+    "4.1.stud.15a24": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: In School (15-24), Male", 
+        "sourceNote": "Share of the male population ages 15-24 that is in school and not employed."
+    }, 
+    "9.0.SelfEmp.B40": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Self-Employed-Bottom 40 Percent (%)", 
+        "sourceNote": "Share of the labor force (ages 15+) in the bottom 40 percent that is self-employed and not an employer"
+    }, 
+    "9.0.Labor.All": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Labor Force Participation Rate (%)", 
+        "sourceNote": "Share of the population (ages 15+) that is in the labor force"
+    }, 
+    "1.0.PGap.Vul4to10": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Vulnerable ($4-10 a day) Gap", 
+        "sourceNote": "The poverty gap captures the mean aggregate income or consumption shortfall relative to the vulnerable line across the entire population. It measures the total resources needed to bring all the poor to the level of the vulnerable line (averaged over the total population). "
+    }, 
+    "2.0.cov.Read.pl_3.prv": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "Coverage: Reading Proficiency Level 3, Private schools", 
+        "sourceNote": "The coverage rate is the average access rate of a given opportunity used in calculating the Human Opportunities Index (HOI). The coverage rate does not take into account inequality of access between different circumstance groups."
+    }, 
+    "9.0.Employer.T60": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Employers-Top 60 Percent (%)", 
+        "sourceNote": "Share of the labor force (ages 15+) in the top 60 percent that is an employer"
+    }, 
+    "2.0.hoi.C6G": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "HOI: Completing 6th grade on time ", 
+        "sourceNote": "The Human Opportunities Index (HOI) is an economic indicator that captures the degree of inequality of access to an essential service by different circumstance groups. This index takes into account the average access rate (the coverage) of a given opportunity (service) and the inequality of its distribution. The circumstances included in the HOI are the gender of the child, parents' education, household per capita income, number of siblings, presence of both parents in the household, gender of the household head, and urban or rural residence.An increase in the index can be related either to an increase in the coverage or to a more equal distribution of that service."
+    }, 
+    "2.0.cov.Math.pl_3.prv": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "Coverage: Mathematics Proficiency Level 3, Private schools", 
+        "sourceNote": "The coverage rate is the average access rate of a given opportunity used in calculating the Human Opportunities Index (HOI). The coverage rate does not take into account inequality of access between different circumstance groups."
+    }, 
+    "1.0.HCount.Ofcl": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of data from National Statistical Offices.", 
+        "name": "Official Moderate Poverty Rate-National", 
+        "sourceNote": "The poverty headcount index measures the proportion of the population with daily per capita income below the poverty line."
+    }, 
+    "9.0.Unemp.All": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Unemployed (%)", 
+        "sourceNote": "Share of the labor force (ages 15+) that is unemployed"
+    }, 
+    "6.0.Conspc": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab Tablulations of the World Development Indicators (World Bank).", 
+        "name": "Consumption per capita (2011 US$)", 
+        "sourceNote": "Consumption per capita is the market value of all goods and services, including durable products and payments and fees to governments to obtain permits and licenses, purchased by households. It excludes purchases of dwellings but includes imputed rent for owner-occupied dwellings. It also includes the expenditures of nonprofit institutions serving households, even when reported separately by the country."
+    }, 
+    "3.2.TheilInd1": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Theil Index, GE(1),Urban", 
+        "sourceNote": " The Theil index is part of a larger family of measures referred to as the General Entropy class. Compared to the Gini index, it has the advantage of being additive across different subgroups or regions in the country. However, it does not have a straightforward representation and lacks the appealing interpretation of the Gini coefficient. "
+    }, 
+    "3.0.Gini": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Gini Coefficient", 
+        "sourceNote": "The Gini coefficient is most common measure of inequality. It is based on the Lorenz curve, a cumulative frequency curve that compares the distribution of a specific variable (in this case, income) with the uniform distribution that represents equality. The Gini coefficient is bounded by 0 (indicating perfect equality of income) and 1, which means complete inequality. This calculation includes observations of 0 income."
+    }, 
+    "1.2.HCount.Ofcl": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of data from National Statistical Offices.", 
+        "name": "Official Moderate Poverty Rate-Urban", 
+        "sourceNote": "The poverty headcount index measures the proportion of the population with daily per capita income below the poverty line."
+    }, 
+    "5.2.AMeanIncGr.All": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank) and World Development Indicators", 
+        "name": "Annualized Mean Income Growth (2007-2012)", 
+        "sourceNote": "The indicator to monitor shared prosperity is the growth in real per capita income (or consumption) of the bottom 40 percent of the income (or consumption) distribution in a country."
+    }, 
+    "4.2.work.15a18": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: Employed (15-18), Female", 
+        "sourceNote": "Share of the female population ages 15-18 that is employed and not in school."
+    }, 
+    "9.2.SelfEmp.T60": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Self-Employed-Top 60 Percent (%), Female", 
+        "sourceNote": "Share of the female labor force (ages 15+) in the top 60 percent that is a self-employed and not an employer"
+    }, 
+    "2.0.cov.Read.pl_3.all": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "Coverage: Reading Proficiency Level 3", 
+        "sourceNote": "The coverage rate is the average access rate of a given opportunity used in calculating the Human Opportunities Index (HOI). The coverage rate does not take into account inequality of access between different circumstance groups."
+    }, 
+    "4.2.nini.15a24": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: Neither in School Nor Working  (15-24), Female", 
+        "sourceNote": "Share of the female population ages 15-24 that is neither employed nor in school."
+    }, 
+    "3.2.Gini": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "GINI, Urban", 
+        "sourceNote": "The Gini coefficient is most common measure of inequality. It is based on the Lorenz curve, a cumulative frequency curve that compares the distribution of a specific variable (in this case, income) with the uniform distribution that represents equality. The Gini coefficient is bounded by 0 (indicating perfect equality of income) and 1, which means complete inequality. This calculation includes observations of 0 income."
+    }, 
+    "2.0.hoi.Math.pl_3.prv": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "HOI: Mathematics Proficiency Level 3, Private schools", 
+        "sourceNote": "The Human Opportunities Index (HOI) is an economic indicator that captures the degree of inequality of access to an essential service by different circumstance groups. This index takes into account the average access rate (the coverage) of a given opportunity (service) and the inequality of its distribution. The circumstances included in the HOI are the gender of the child, parents' education, region of school location, father's occupation, and a household wealth index based on assets.An increase in the index can be related either to an increase in the coverage or to a more equal distribution of that service."
+    }, 
+    "3.0.GenEnt-1": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Generalized Entrophy, GE(-1)", 
+        "sourceNote": "The parameter \u03b1 in the GE class represents the weight given to distances between incomes at different parts of the income distribution, and can take any real value. For lower values of \u03b1, GE is more sensitive to changes in the lower tail of the distribution, and for higher values GE is more sensitive to changes that affect the upper tail. GE(1) is the Theil index."
+    }, 
+    "2.0.hoi.Scie.pl_3.prv": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "HOI: Science Proficiency Level 3, Private schools", 
+        "sourceNote": "The Human Opportunities Index (HOI) is an economic indicator that captures the degree of inequality of access to an essential service by different circumstance groups. This index takes into account the average access rate (the coverage) of a given opportunity (service) and the inequality of its distribution. The circumstances included in the HOI are the gender of the child, parents' education, region of school location, father's occupation, and a household wealth index based on assets.An increase in the index can be related either to an increase in the coverage or to a more equal distribution of that service."
+    }, 
+    "1.0.HCount.Mid10to50": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Middle Class ($10-50 a day) Headcount", 
+        "sourceNote": "The poverty headcount index measures the proportion of the population with daily per capita income below the poverty line."
+    }, 
+    "6.0.GDP_usd": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "World Development Indicators (World Bank)", 
+        "name": "GDP (constant 2005 US$)", 
+        "sourceNote": "GDP at purchaser's prices is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in constant 2005 U.S. dollars. Dollar figures for GDP are converted from domestic currencies using 2000 official exchange rates. For a few countries where the official exchange rate does not reflect the rate effectively applied to actual foreign exchange transactions, an alternative conversion factor is used. "
+    }, 
+    "9.1.Employee.All": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Employees (%), Male", 
+        "sourceNote": "Share of the male labor force (ages 15+) that is a wage or salary worker"
+    }, 
+    "4.0.studwork.15a18": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: In School and Employed (15-18)", 
+        "sourceNote": "Share of the population ages 15-18 that is in school and employed."
+    }, 
+    "1.2.HCount.Vul4to10": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Vulnerable ($4-10 a day) Headcount-Urban", 
+        "sourceNote": "The poverty headcount index measures the proportion of the population with daily per capita income below the poverty line."
+    }, 
+    "2.0.hoi.Scie.pl_2.pub": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "HOI: Science Proficiency Level 2, Public schools", 
+        "sourceNote": "The Human Opportunities Index (HOI) is an economic indicator that captures the degree of inequality of access to an essential service by different circumstance groups. This index takes into account the average access rate (the coverage) of a given opportunity (service) and the inequality of its distribution. The circumstances included in the HOI are the gender of the child, parents' education, region of school location, father's occupation, and a household wealth index based on assets.An increase in the index can be related either to an increase in the coverage or to a more equal distribution of that service."
+    }, 
+    "2.0.hoi.Read.pl_3.prv": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "HOI: Reading Proficiency Level 3, Private schools", 
+        "sourceNote": "The Human Opportunities Index (HOI) is an economic indicator that captures the degree of inequality of access to an essential service by different circumstance groups. This index takes into account the average access rate (the coverage) of a given opportunity (service) and the inequality of its distribution. The circumstances included in the HOI are the gender of the child, parents' education, region of school location, father's occupation, and a household wealth index based on assets.An increase in the index can be related either to an increase in the coverage or to a more equal distribution of that service."
+    }, 
+    "3.0.GenEnt2": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Generalized Entrophy, GE(2)", 
+        "sourceNote": "The parameter \u03b1 in the GE class represents the weight given to distances between incomes at different parts of the income distribution, and can take any real value. For lower values of \u03b1, GE is more sensitive to changes in the lower tail of the distribution, and for higher values GE is more sensitive to changes that affect the upper tail. GE(1) is the Theil index."
+    }, 
+    "2.0.cov.Scie.pl_3.prv": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "Coverage: Science Proficiency Level 3, Private schools", 
+        "sourceNote": "The coverage rate is the average access rate of a given opportunity used in calculating the Human Opportunities Index (HOI). The coverage rate does not take into account inequality of access between different circumstance groups."
+    }, 
+    "4.0.nini.19a24": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: Neither in School Nor Working  (19-24)", 
+        "sourceNote": "Share of the population ages 19-24 that is neither employed nor in school."
+    }, 
+    "1.1.PSev.Vul4to10": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Vulnerable ($4-10 a day) Severity-Rural", 
+        "sourceNote": "The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line"
+    }, 
+    "3.0.Rate90-10": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Rate 90/10", 
+        "sourceNote": "The decile dispersion ratio presents the ratio of the average income of the richest 10 percent by that of the poorest 10 percent. This ratio expresses the income of the top quantile as multiples of that of the poorest quantile. However, it ignores information about incomes in the middle of the income distribution and doesn\u2019t use information about the distribution of income within the top and bottom deciles or percentiles."
+    }, 
+    "2.0.cov.Math.pl_2.prv": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "Coverage: Mathematics Proficiency Level 2, Private schools", 
+        "sourceNote": "The coverage rate is the average access rate of a given opportunity used in calculating the Human Opportunities Index (HOI). The coverage rate does not take into account inequality of access between different circumstance groups."
+    }, 
+    "2.0.hoi.Sch": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "HOI: School Enrollment", 
+        "sourceNote": "The Human Opportunities Index (HOI) is an economic indicator that captures the degree of inequality of access to an essential service by different circumstance groups. This index takes into account the average access rate (the coverage) of a given opportunity (service) and the inequality of its distribution. The circumstances included in the HOI are the gender of the child, parents' education, household per capita income, number of siblings, presence of both parents in the household, gender of the household head, and urban or rural residence.An increase in the index can be related either to an increase in the coverage or to a more equal distribution of that service."
+    }, 
+    "9.0.SelfEmp.T60": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Self-Employed-Top 60 Percent (%)", 
+        "sourceNote": "Share of the labor force (ages 15+) in the top 60 percent that is a self-employed and not an employer"
+    }, 
+    "4.1.nini.15a18": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: Neither in School Nor Working  (15-18), Male", 
+        "sourceNote": "Share of the male population ages 15-18 that is neither employed nor in school."
+    }, 
+    "3.0.TheilInd1": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Theil Index, GE(1)", 
+        "sourceNote": " The Theil index is part of a larger family of measures referred to as the General Entropy class. Compared to the Gini index, it has the advantage of being additive across different subgroups or regions in the country. However, it does not have a straightforward representation and lacks the appealing interpretation of the Gini coefficient. "
+    }, 
+    "4.2.work.19a24": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: Employed (19-24), Female", 
+        "sourceNote": "Share of the female population ages 19-24 that is employed and not in school."
+    }, 
+    "4.0.work.15a24": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: Employed (15-24)", 
+        "sourceNote": "Share of the population ages 15-24 that is employed and not in school."
+    }, 
+    "2.0.hoi.Read.pl_2.all": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "HOI: Reading Proficiency Level 2", 
+        "sourceNote": "The Human Opportunities Index (HOI) is an economic indicator that captures the degree of inequality of access to an essential service by different circumstance groups. This index takes into account the average access rate (the coverage) of a given opportunity (service) and the inequality of its distribution. The circumstances included in the HOI are the gender of the child, parents' education, region of school location, father's occupation, and a household wealth index based on assets.An increase in the index can be related either to an increase in the coverage or to a more equal distribution of that service."
+    }, 
+    "1.0.PSev.10usd": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Under Middle Class ($10 a day) Severity", 
+        "sourceNote": "The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line"
+    }, 
+    "9.2.Employer.All": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Employers (%), Female", 
+        "sourceNote": "Share of the female labor force (ages 15+) that is an employer"
+    }, 
+    "2.0.hoi.Scie.pl_2.prv": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "HOI: Science Proficiency Level 2, Private schools", 
+        "sourceNote": "The Human Opportunities Index (HOI) is an economic indicator that captures the degree of inequality of access to an essential service by different circumstance groups. This index takes into account the average access rate (the coverage) of a given opportunity (service) and the inequality of its distribution. The circumstances included in the HOI are the gender of the child, parents' education, region of school location, father's occupation, and a household wealth index based on assets.An increase in the index can be related either to an increase in the coverage or to a more equal distribution of that service."
+    }, 
+    "1.1.HCount.2.5usd": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Poverty Headcount ($2.50 a day)-Rural", 
+        "sourceNote": "The poverty headcount index measures the proportion of the population with daily per capita income below the poverty line."
+    }, 
+    "9.1.Employee.T60": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Employees-Top 60 Percent (%), Male", 
+        "sourceNote": "Share of the male labor force (ages 15+) in the top 60 percent that is a wage or salary worker"
+    }, 
+    "2.0.hoi.Read.pl_3.pub": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "HOI: Reading Proficiency Level 3, Public schools", 
+        "sourceNote": "The Human Opportunities Index (HOI) is an economic indicator that captures the degree of inequality of access to an essential service by different circumstance groups. This index takes into account the average access rate (the coverage) of a given opportunity (service) and the inequality of its distribution. The circumstances included in the HOI are the gender of the child, parents' education, region of school location, father's occupation, and a household wealth index based on assets.An increase in the index can be related either to an increase in the coverage or to a more equal distribution of that service."
+    }, 
+    "2.0.hoi.Math.pl_2.prv": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "HOI: Mathematics Proficiency Level 2, Private schools", 
+        "sourceNote": "The Human Opportunities Index (HOI) is an economic indicator that captures the degree of inequality of access to an essential service by different circumstance groups. This index takes into account the average access rate (the coverage) of a given opportunity (service) and the inequality of its distribution. The circumstances included in the HOI are the gender of the child, parents' education, region of school location, father's occupation, and a household wealth index based on assets.An increase in the index can be related either to an increase in the coverage or to a more equal distribution of that service."
+    }, 
+    "2.0.cov.Cel": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Coverage: Mobile Phone", 
+        "sourceNote": "The coverage rate is the average access rate of a given opportunity used in calculating the Human Opportunities Index (HOI). The coverage rate does not take into account inequality of access between different circumstance groups."
+    }, 
+    "3.0.Atkin.0.5": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Atkinson, A(.5)", 
+        "sourceNote": "Atkinson (1970) proposed this class of inequality measures with  a weighting parameter \u03b5 which measures aversion to inequality. As \u03b5 rises, the index becomes more sensitive to transfers at the lower end of the distribution and less sensitive to transfers at the top. The limit case, \u03b5\u21920, the index reflects the Function of Rawls which only takes account of transfers to the very lowest income group; at the other extreme, when \u03b5=0, we obtain the linear utility function. This ranks distributions solely according to total income."
+    }, 
+    "4.1.studwork.15a18": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: In School and Employed (15-18), Male", 
+        "sourceNote": "Share of the male population ages 15-18 that is in school and employed."
+    }, 
+    "4.0.studwork.15a24": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: In School and Employed (15-24)", 
+        "sourceNote": "Share of the population ages 15-24 that is in school and employed."
+    }, 
+    "1.0.PSev.2.5usd": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Poverty Severity ($2.50 a day)", 
+        "sourceNote": "The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line"
+    }, 
+    "2.0.cov.Scie.pl_2.all": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "Coverage: Science Proficiency Level 2", 
+        "sourceNote": "The coverage rate is the average access rate of a given opportunity used in calculating the Human Opportunities Index (HOI). The coverage rate does not take into account inequality of access between different circumstance groups."
+    }, 
+    "6.0.GDPpc": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab Tablulations of the World Development Indicators (World Bank).", 
+        "name": "GDP per capita (2011 US$)", 
+        "sourceNote": "GDP per capita is gross domestic product divided by midyear population. GDP is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources."
+    }, 
+    "2.0.cov.Read.pl_2.prv": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "Coverage: Reading Proficiency Level 2, Private schools", 
+        "sourceNote": "The coverage rate is the average access rate of a given opportunity used in calculating the Human Opportunities Index (HOI). The coverage rate does not take into account inequality of access between different circumstance groups."
+    }, 
+    "1.2.PSev.1.25usd": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Poverty Severity ($1.25 a day)-Urban", 
+        "sourceNote": "The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line"
+    }, 
+    "9.1.Employer.All": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Employers (%), Male", 
+        "sourceNote": "Share of the male labor force (ages 15+) that is an employer"
+    }, 
+    "9.2.SelfEmp.All": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Self-Employed (%), Female", 
+        "sourceNote": "Share of the female labor force (ages 15+) that is self-employed and not an employer"
+    }, 
+    "1.1.PSev.2.5usd": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Poverty Severity ($2.50 a day)-Rural", 
+        "sourceNote": "The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line"
+    }, 
+    "1.1.HCount.Poor4uds": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Poverty Headcount ($4 a day)-Rural", 
+        "sourceNote": "The poverty headcount index measures the proportion of the population with daily per capita income below the poverty line."
+    }, 
+    "6.0.GNIpc": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab Tablulations of the World Development Indicators (World Bank).", 
+        "name": "GNI per capita (2011 US$)", 
+        "sourceNote": "GNI per capita is the gross national income, converted to U.S. dollars using the World Bank Atlas method, divided by the midyear population. GNI is the sum of value added by all resident producers plus any product taxes (less subsidies) not included in the valuation of output plus net receipts of primary income (compensation of employees and property income) from abroad. To smooth fluctuations in prices and exchange rates, a special Atlas method of conversion is used by the World Bank. This applies a conversion factor that averages the exchange rate for a given year and the two preceding years, adjusted for differences in rates of inflation between the country, and the Euro area, Japan, the United Kingdom, and the United States."
+    }, 
+    "4.1.work.15a24": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: Employed (15-24), Male", 
+        "sourceNote": "Share of the male population ages 15-24 that is employed and not in school."
+    }, 
+    "4.0.stud.15a24": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: In School (15-24)", 
+        "sourceNote": "Share of the population ages 15-24 that is in school and not employed."
+    }, 
+    "9.0.Unpaid.All": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Unpaid Workers (%)", 
+        "sourceNote": "Share of the labor force (ages 15+) that works without pay"
+    }, 
+    "4.2.studwork.19a24": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: In School and Employed (19-24), Female", 
+        "sourceNote": "Share of the female population ages 19-24 that is in school and employed."
+    }, 
+    "1.0.PGap.1.25usd": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Poverty Gap ($1.25 a day)", 
+        "sourceNote": "The poverty gap captures the mean aggregate income or consumption shortfall relative to the poverty line across the entire population. It measures the total resources needed to bring all the poor to the level of the poverty line (averaged over the total population). "
+    }, 
+    "4.1.nini.19a24": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: Neither in School Nor Working  (19-24), Male", 
+        "sourceNote": "Share of the male population ages 19-24 that is neither employed nor in school."
+    }, 
+    "1.0.PSev.Poor4uds": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Poverty Severity ($4 a day)", 
+        "sourceNote": "The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line"
+    }, 
+    "2.0.cov.Scie.pl_2.pub": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "Coverage: Science Proficiency Level 2, Public schools", 
+        "sourceNote": "The coverage rate is the average access rate of a given opportunity used in calculating the Human Opportunities Index (HOI). The coverage rate does not take into account inequality of access between different circumstance groups."
+    }, 
+    "9.1.Unemp.T60": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Unemployed-Top 60 Percent (%), Male", 
+        "sourceNote": "Share of the male labor force (ages 15+) in the top 60 percent that is unemployed"
+    }, 
+    "1.0.PSev.Mid10to50": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Middle Class ($10-50 a day)Severity", 
+        "sourceNote": "The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line"
+    }, 
+    "9.0.Unemp.T60": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Unemployed-Top 60 Percent (%)", 
+        "sourceNote": "Share of the labor force (ages 15+) in the top 60 percent that is unemployed"
+    }, 
+    "4.2.nini.19a24": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: Neither in School Nor Working  (19-24), Female", 
+        "sourceNote": "Share of the female population ages 19-24 that is neither employed nor in school."
+    }, 
+    "9.1.SelfEmp.All": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Self-Employed (%), Male", 
+        "sourceNote": "Share of the male labor force (ages 15+) that is self-employed and not an employer"
+    }, 
+    "1.1.PSev.1.25usd": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Poverty Severity ($1.25 a day)-Rural", 
+        "sourceNote": "The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line"
+    }, 
+    "9.1.Labor.T60": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Labor Force Participation Rate (%)-Top 60 Percent, Male", 
+        "sourceNote": "Share of the male population (ages 15+) in the Top 60 percent that is in the labor force"
+    }, 
+    "9.2.Unemp.T60": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Unemployed-Top 60 Percent (%), Female", 
+        "sourceNote": "Share of the female labor force (ages 15+) in the top 60 percent that is unemployed"
+    }, 
+    "9.2.Employee.T60": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Employees-Top 60 Percent (%), Female", 
+        "sourceNote": "Share of the female labor force (ages 15+) in the top 60 percent that is a wage or salary worker"
+    }, 
+    "2.0.cov.Scie.pl_2.prv": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "Coverage: Science Proficiency Level 2, Private schools", 
+        "sourceNote": "The coverage rate is the average access rate of a given opportunity used in calculating the Human Opportunities Index (HOI). The coverage rate does not take into account inequality of access between different circumstance groups."
+    }, 
+    "9.2.Labor.All": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Labor Force Participation Rate (%), Female", 
+        "sourceNote": "Share of the female population (ages 15+) that is in the labor force"
+    }, 
+    "9.2.Unpaid.T60": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Unpaid Workers-Top 60 Percent (%), Female", 
+        "sourceNote": "Share of the female labor force (ages 15+) in the top 60 percent that works without pay"
+    }, 
+    "9.2.Employer.T60": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Employers-Top 60 Percent (%), Female", 
+        "sourceNote": "Share of the female labor force (ages 15+) in the top 60 percent that is an employer"
+    }, 
+    "2.0.hoi.Read.pl_2.prv": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "HOI: Reading Proficiency Level 2, Private schools", 
+        "sourceNote": "The Human Opportunities Index (HOI) is an economic indicator that captures the degree of inequality of access to an essential service by different circumstance groups. This index takes into account the average access rate (the coverage) of a given opportunity (service) and the inequality of its distribution. The circumstances included in the HOI are the gender of the child, parents' education, region of school location, father's occupation, and a household wealth index based on assets.An increase in the index can be related either to an increase in the coverage or to a more equal distribution of that service."
+    }, 
+    "9.1.SelfEmp.T60": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Self-Employed-Top 60 Percent (%), Male", 
+        "sourceNote": "Share of the male labor force (ages 15+) in the top 60 percent that is a self-employed and not an employer"
+    }, 
+    "1.1.HCount.Ofcl": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of data from National Statistical Offices.", 
+        "name": "Official Moderate Poverty Rate- Rural", 
+        "sourceNote": "The poverty headcount index measures the proportion of the population with daily per capita income below the poverty line."
+    }, 
+    "1.2.PSev.Poor4uds": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Poverty Severity ($4 a day)-Urban", 
+        "sourceNote": "The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line"
+    }, 
+    "1.1.PGap.Mid10to50": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Middle Class ($10-50 a day) Gap-Rural", 
+        "sourceNote": "The poverty gap captures the mean aggregate income or consumption shortfall relative to the $10/day line across the entire population. It measures the total resources needed to bring all the poor to the level of the $10 line (averaged over the total population). "
+    }, 
+    "9.0.Unpaid.T60": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Unpaid Workers-Top 60 Percent (%)", 
+        "sourceNote": "Share of the labor force (ages 15+) in the top 60 percent that works without pay"
+    }, 
+    "1.0.PGap.2.5usd": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Poverty Gap ($2.50 a day)", 
+        "sourceNote": "The poverty gap captures the mean aggregate income or consumption shortfall relative to the poverty line across the entire population. It measures the total resources needed to bring all the poor to the level of the poverty line (averaged over the total population). "
+    }, 
+    "1.2.PGap.Mid10to50": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Middle Class ($10-50 a day) Gap-Urban", 
+        "sourceNote": "The poverty gap captures the mean aggregate income or consumption shortfall relative to the $10/day line across the entire population. It measures the total resources needed to bring all the poor to the level of the $10 line (averaged over the total population). "
+    }, 
+    "5.1.AMeanIncGr.B40": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank) and World Development Indicators", 
+        "name": "Annualized Mean Income Growth Bottom 40 Percent (2003-2007)", 
+        "sourceNote": "The indicator to monitor shared prosperity is the growth in real per capita income (or consumption) of the bottom 40 percent of the income (or consumption) distribution in a country."
+    }, 
+    "1.0.HCount.Vul4to10": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Vulnerable ($4-10 a day) Headcount", 
+        "sourceNote": "The poverty headcount index measures the proportion of the population with daily per capita income below the poverty line."
+    }, 
+    "9.2.Employee.B40": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Employees-Bottom 40 Percent (%), Female", 
+        "sourceNote": "Share of the female labor force (ages 15+) in the bottom 40 percent that is a wage or salary worker"
+    }, 
+    "4.2.nini.15a18": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: Neither in School Nor Working  (15-18), Female", 
+        "sourceNote": "Share of the female population ages 15-18 that is neither employed nor in school."
+    }, 
+    "9.0.Employer.All": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Employers (%)", 
+        "sourceNote": "Share of the labor force (ages 15+) that is an employer"
+    }, 
+    "2.0.hoi.Read.pl_3.all": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "HOI: Reading Proficiency Level 3", 
+        "sourceNote": "The Human Opportunities Index (HOI) is an economic indicator that captures the degree of inequality of access to an essential service by different circumstance groups. This index takes into account the average access rate (the coverage) of a given opportunity (service) and the inequality of its distribution. The circumstances included in the HOI are the gender of the child, parents' education, region of school location, father's occupation, and a household wealth index based on assets.An increase in the index can be related either to an increase in the coverage or to a more equal distribution of that service."
+    }, 
+    "2.0.hoi.Cel": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "HOI: Mobile Phone", 
+        "sourceNote": "The Human Opportunities Index (HOI) is an economic indicator that captures the degree of inequality of access to an essential service by different circumstance groups. This index takes into account the average access rate (the coverage) of a given opportunity (service) and the inequality of its distribution. The circumstances included in the HOI are the gender of the child, parents' education, household per capita income, number of siblings, presence of both parents in the household, gender of the household head, and urban or rural residence.An increase in the index can be related either to an increase in the coverage or to a more equal distribution of that service."
+    }, 
+    "9.0.Employer.B40": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Employers-Bottom 40 Percent (%)", 
+        "sourceNote": "Share of the labor force (ages 15+) in the bottom 40 percent that is an employer"
+    }, 
+    "4.2.studwork.15a24": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: In School and Employed (15-24), Female", 
+        "sourceNote": "Share of the female population ages 15-24 that is in school and employed."
+    }, 
+    "1.1.PSev.Poor4uds": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Poverty Severity ($4 a day)-Rural", 
+        "sourceNote": "The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line"
+    }, 
+    "4.2.work.15a24": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: Employed (15-24), Female", 
+        "sourceNote": "Share of the female population ages 15-24 that is employed and not in school."
+    }, 
+    "4.1.studwork.19a24": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: In School and Employed (19-24), Male", 
+        "sourceNote": "Share of the male population ages 19-24 that is in school and employed."
+    }, 
+    "4.0.studwork.19a24": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: In School and Employed (19-24)", 
+        "sourceNote": "Share of the population ages 19-24 that is in school and employed."
+    }, 
+    "4.2.stud.15a24": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: In School (15-24), Female", 
+        "sourceNote": "Share of the female population ages 15-24 that is in school and not employed."
+    }, 
+    "1.2.PSev.Mid10to50": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Middle Class ($10-50 a day) Severity-Urban", 
+        "sourceNote": "The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line"
+    }, 
+    "9.0.SelfEmp.All": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Self-Employed (%)", 
+        "sourceNote": "Share of the labor force (ages 15+) that is self-employed and not an employer"
+    }, 
+    "2.0.cov.Math.pl_2.pub": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "Coverage: Mathematics Proficiency Level 2, Public schools", 
+        "sourceNote": "The coverage rate is the average access rate of a given opportunity used in calculating the Human Opportunities Index (HOI). The coverage rate does not take into account inequality of access between different circumstance groups."
+    }, 
+    "1.0.PGap.Poor4uds": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Poverty Gap ($4 a day)", 
+        "sourceNote": "The poverty gap captures the mean aggregate income or consumption shortfall relative to the poverty line across the entire population. It measures the total resources needed to bring all the poor to the level of the poverty line (averaged over the total population). "
+    }, 
+    "2.0.hoi.Scie.pl_3.all": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "HOI: Science Proficiency Level 3", 
+        "sourceNote": "The Human Opportunities Index (HOI) is an economic indicator that captures the degree of inequality of access to an essential service by different circumstance groups. This index takes into account the average access rate (the coverage) of a given opportunity (service) and the inequality of its distribution. The circumstances included in the HOI are the gender of the child, parents' education, region of school location, father's occupation, and a household wealth index based on assets.An increase in the index can be related either to an increase in the coverage or to a more equal distribution of that service."
+    }, 
+    "9.0.Employee.B40": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Employees-Bottom 40 Percent (%)", 
+        "sourceNote": "Share of the labor force (ages 15+) in the bottom 40 percent that is a wage or salary worker"
+    }, 
+    "5.1.AMeanIncGr.All": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank) and World Development Indicators", 
+        "name": "Annualized Mean Income Growth (2003-2007)", 
+        "sourceNote": "The indicator to monitor shared prosperity is the growth in real per capita income (or consumption) of the bottom 40 percent of the income (or consumption) distribution in a country."
+    }, 
+    "1.0.PGap.10usd": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Under Middle Class ($10 a day) Gap", 
+        "sourceNote": "The poverty gap captures the mean aggregate income or consumption shortfall relative to the $10/day line across the entire population. It measures the total resources needed to bring all the poor to the level of the $10 line (averaged over the total population). "
+    }, 
+    "2.0.cov.Math.pl_2.all": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "Coverage: Mathematics Proficiency Level 2", 
+        "sourceNote": "The coverage rate is the average access rate of a given opportunity used in calculating the Human Opportunities Index (HOI). The coverage rate does not take into account inequality of access between different circumstance groups."
+    }, 
+    "4.0.work.15a18": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: Employed (15-18)", 
+        "sourceNote": "Share of the population ages 15-18 that is employed and not in school."
+    }, 
+    "2.0.hoi.Scie.pl_3.pub": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "HOI: Science Proficiency Level 3, Public schools", 
+        "sourceNote": "The Human Opportunities Index (HOI) is an economic indicator that captures the degree of inequality of access to an essential service by different circumstance groups. This index takes into account the average access rate (the coverage) of a given opportunity (service) and the inequality of its distribution. The circumstances included in the HOI are the gender of the child, parents' education, region of school location, father's occupation, and a household wealth index based on assets.An increase in the index can be related either to an increase in the coverage or to a more equal distribution of that service."
+    }, 
+    "1.1.HCount.1.25usd": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Poverty Headcount ($1.25 a day)-Rural", 
+        "sourceNote": "The poverty headcount index measures the proportion of the population with daily per capita income below the poverty line."
+    }, 
+    "2.0.cov.Wat": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Coverage: Water", 
+        "sourceNote": "The coverage rate is the average access rate of a given opportunity used in calculating the Human Opportunities Index (HOI). The coverage rate does not take into account inequality of access between different circumstance groups."
+    }, 
+    "9.2.Labor.B40": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Labor Force Participation Rate (%)-Bottom 40 Percent, Female", 
+        "sourceNote": "Share of the female population (ages 15+) in the Bottom 40 percent that is in the labor force"
+    }, 
+    "2.0.cov.Ele": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Coverage: Electricity", 
+        "sourceNote": "The coverage rate is the average access rate of a given opportunity used in calculating the Human Opportunities Index (HOI). The coverage rate does not take into account inequality of access between different circumstance groups."
+    }, 
+    "4.1.work.15a18": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: Employed (15-18), Male", 
+        "sourceNote": "Share of the male population ages 15-18 that is employed and not in school."
+    }, 
+    "1.0.HCount.Poor4uds": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Poverty Headcount ($4 a day)", 
+        "sourceNote": "The poverty headcount index measures the proportion of the population with daily per capita income below the poverty line."
+    }, 
+    "2.0.cov.Int": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Coverage: Internet ", 
+        "sourceNote": "The coverage rate is the average access rate of a given opportunity used in calculating the Human Opportunities Index (HOI). The coverage rate does not take into account inequality of access between different circumstance groups."
+    }, 
+    "3.0.IncShr.q5": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Income Share of Fifth Quintile", 
+        "sourceNote": "Share of household income held by the top quintile (80 - 100 percent)."
+    }, 
+    "5.2.AMeanIncGr.B40": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank) and World Development Indicators", 
+        "name": "Annualized Mean Income Growth Bottom 40 Percent (2007-2012)", 
+        "sourceNote": "The indicator to monitor shared prosperity is the growth in real per capita income (or consumption) of the bottom 40 percent of the income (or consumption) distribution in a country."
+    }, 
+    "9.2.Unpaid.All": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Unpaid Workers (%), Female", 
+        "sourceNote": "Share of the female labor force (ages 15+) that works without pay"
+    }, 
+    "9.2.Labor.T60": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Labor Force Participation Rate (%)-Top 60 Percent, Female", 
+        "sourceNote": "Share of the female population (ages 15+) in the Top 60 percent that is in the labor force"
+    }, 
+    "3.0.IncShr.q1": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Income Share of First Quintile", 
+        "sourceNote": "Share of household income held by the bottom quintile (0-20 percent)."
+    }, 
+    "3.0.IncShr.q2": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Income Share of Second Quintile", 
+        "sourceNote": "Share of household income held by the seocnd quintile (20 - 40 percent)."
+    }, 
+    "2.0.cov.Read.pl_2.all": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "Coverage: Reading Proficiency Level 2", 
+        "sourceNote": "The coverage rate is the average access rate of a given opportunity used in calculating the Human Opportunities Index (HOI). The coverage rate does not take into account inequality of access between different circumstance groups."
+    }, 
+    "2.0.hoi.Read.pl_2.pub": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "HOI: Reading Proficiency Level 2, Public schools", 
+        "sourceNote": "The Human Opportunities Index (HOI) is an economic indicator that captures the degree of inequality of access to an essential service by different circumstance groups. This index takes into account the average access rate (the coverage) of a given opportunity (service) and the inequality of its distribution. The circumstances included in the HOI are the gender of the child, parents' education, region of school location, father's occupation, and a household wealth index based on assets.An increase in the index can be related either to an increase in the coverage or to a more equal distribution of that service."
+    }, 
+    "2.0.cov.Math.pl_3.all": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "Coverage: Mathematics Proficiency Level 3", 
+        "sourceNote": "The coverage rate is the average access rate of a given opportunity used in calculating the Human Opportunities Index (HOI). The coverage rate does not take into account inequality of access between different circumstance groups."
+    }, 
+    "9.0.Unemp.B40": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Unemployed-Bottom 40 Percent (%)", 
+        "sourceNote": "Share of the labor force (ages 15+) in the bottom 40 percent that is unemployed"
+    }, 
+    "5.0.SPCI": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank) and World Development Indicators.", 
+        "name": "Shared Prosperity Convergence Indicator (SPCI)", 
+        "sourceNote": "The SPCI measures the gap between the Sen\u2019s Welfare Index (GDP per capita adjusted by income inequality) for any given country with respect to the average Sen\u2019s index of the top ten global performers. The SPCI is based on the Sen\u2019s Welfare Index (Sen 1976), which is calculated as the mean income (y) times one minus the Gini coefficient (G), that is, SPCI=y(G-1) The Sen\u2019s Welfare Index benchmark is 23,535 (equity-adjusted per capita GDP per year, PPP 2005), derived from the population-weighted average of the Sen\u2019s Welfare Index of the top ten countries in 2000 (Luxembourg, Qatar, Norway, Denmark, United States, Netherlands, Switzerland, Austria, Canada and Singapore)."
+    }, 
+    "2.0.cov.C6G": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Coverage: Completing 6th grade on time ", 
+        "sourceNote": "The coverage rate is the average access rate of a given opportunity used in calculating the Human Opportunities Index (HOI). The coverage rate does not take into account inequality of access between different circumstance groups."
+    }, 
+    "4.1.studwork.15a24": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: In School and Employed (15-24), Male", 
+        "sourceNote": "Share of the male population ages 15-24 that is in school and employed."
+    }, 
+    "4.2.stud.15a18": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: In School (15-18), Female", 
+        "sourceNote": "Share of the female population ages 15-18 that is in school and not employed."
+    }, 
+    "4.2.stud.19a24": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: In School (19-24), Female", 
+        "sourceNote": "Share of the female population ages 19-24 that is in school and not employed."
+    }, 
+    "9.2.Unemp.All": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Unemployed (%), Female", 
+        "sourceNote": "Share of the female labor force (ages 15+) that is unemployed"
+    }, 
+    "9.1.SelfEmp.B40": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Self-Employed-Bottom 40 Percent (%), Male", 
+        "sourceNote": "Share of the male labor force (ages 15+) in the bottom 40 percent that is self-employed and not an employer"
+    }, 
+    "4.2.studwork.15a18": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: In School and Employed (15-18), Female", 
+        "sourceNote": "Share of the female population ages 15-18 that is in school and employed."
+    }, 
+    "9.1.Unpaid.B40": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Unpaid Workers-Bottom 40 Percent (%), Male", 
+        "sourceNote": "Share of the male labor force (ages 15+) in the bottom 40 percent that works without pay"
+    }, 
+    "2.0.hoi.Math.pl_3.pub": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "HOI: Mathematics Proficiency Level 3, Public schools", 
+        "sourceNote": "The Human Opportunities Index (HOI) is an economic indicator that captures the degree of inequality of access to an essential service by different circumstance groups. This index takes into account the average access rate (the coverage) of a given opportunity (service) and the inequality of its distribution. The circumstances included in the HOI are the gender of the child, parents' education, region of school location, father's occupation, and a household wealth index based on assets.An increase in the index can be related either to an increase in the coverage or to a more equal distribution of that service."
+    }, 
+    "9.1.Employee.B40": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Employees-Bottom 40 Percent (%), Male", 
+        "sourceNote": "Share of the male labor force (ages 15+) in the bottom 40 percent that is a wage or salary worker"
+    }, 
+    "3.2.MLongDev0": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Mean Log Deviation, GE(0),Urban", 
+        "sourceNote": "The parameter \u03b1 in the GE class represents the weight given to distances between incomes at different parts of the income distribution, and can take any real value. For lower values of \u03b1, GE is more sensitive to changes in the lower tail of the distribution, and for higher values GE is more sensitive to changes that affect the upper tail. GE(1) is the Theil index."
+    }, 
+    "9.0.Employee.All": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Employees (%)", 
+        "sourceNote": "Share of the labor force (ages 15+) that is a wage or salary worker"
+    }, 
+    "1.2.HCount.Poor4uds": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Poverty Headcount ($4 a day)-Urban", 
+        "sourceNote": "The poverty headcount index measures the proportion of the population with daily per capita income below the poverty line."
+    }, 
+    "2.0.cov.San": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Coverage: Sanitation", 
+        "sourceNote": "The coverage rate is the average access rate of a given opportunity used in calculating the Human Opportunities Index (HOI). The coverage rate does not take into account inequality of access between different circumstance groups."
+    }, 
+    "2.0.hoi.Int": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "HOI: Internet ", 
+        "sourceNote": "The Human Opportunities Index (HOI) is an economic indicator that captures the degree of inequality of access to an essential service by different circumstance groups. This index takes into account the average access rate (the coverage) of a given opportunity (service) and the inequality of its distribution. The circumstances included in the HOI are the gender of the child, parents' education, household per capita income, number of siblings, presence of both parents in the household, gender of the household head, and urban or rural residence.An increase in the index can be related either to an increase in the coverage or to a more equal distribution of that service."
+    }, 
+    "1.1.PGap.2.5usd": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Poverty Gap ($2.50 a day)-Rural", 
+        "sourceNote": "The poverty gap captures the mean aggregate income or consumption shortfall relative to the poverty line across the entire population. It measures the total resources needed to bring all the poor to the level of the poverty line (averaged over the total population). "
+    }, 
+    "6.0.GDPpc_constant": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "NULWorld Development Indicators (World Bank)L", 
+        "name": "GDP per capita, PPP (constant 2011 international US$) ", 
+        "sourceNote": "GDP per capita based on purchasing power parity (PPP). PPP GDP is gross domestic product converted to international dollars using purchasing power parity rates. An international dollar has the same purchasing power over GDP as the U.S. dollar has in the United States. GDP at purchaser's prices is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in constant 2011 international dollars. "
+    }, 
+    "2.0.hoi.Math.pl_2.all": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "HOI: Mathematics Proficiency Level 2", 
+        "sourceNote": "The Human Opportunities Index (HOI) is an economic indicator that captures the degree of inequality of access to an essential service by different circumstance groups. This index takes into account the average access rate (the coverage) of a given opportunity (service) and the inequality of its distribution. The circumstances included in the HOI are the gender of the child, parents' education, region of school location, father's occupation, and a household wealth index based on assets.An increase in the index can be related either to an increase in the coverage or to a more equal distribution of that service."
+    }, 
+    "2.0.hoi.Math.pl_3.all": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "HOI: Mathematics Proficiency Level 3", 
+        "sourceNote": "The Human Opportunities Index (HOI) is an economic indicator that captures the degree of inequality of access to an essential service by different circumstance groups. This index takes into account the average access rate (the coverage) of a given opportunity (service) and the inequality of its distribution. The circumstances included in the HOI are the gender of the child, parents' education, region of school location, father's occupation, and a household wealth index based on assets.An increase in the index can be related either to an increase in the coverage or to a more equal distribution of that service."
+    }, 
+    "3.0.IncShr.q4": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Income Share of Fourth Quintile", 
+        "sourceNote": "Share of household income held by the fourth quintile (60 - 80 percent)."
+    }, 
+    "1.2.HCount.1.25usd": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Poverty Headcount ($1.25 a day)-Urban", 
+        "sourceNote": "The poverty headcount index measures the proportion of the population with daily per capita income below the poverty line."
+    }, 
+    "1.0.PSev.Vul4to10": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Vulnerable ($4-10 a day) Severity", 
+        "sourceNote": "The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line"
+    }, 
+    "3.0.IncShr.q3": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Income Share of Third Quintile", 
+        "sourceNote": "Share of household income held by the third quintile (40 - 60 percent)."
+    }, 
+    "2.0.cov.Math.pl_3.pub": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations using PISA Data.", 
+        "name": "Coverage: Mathematics Proficiency Level 3, Public schools", 
+        "sourceNote": "The coverage rate is the average access rate of a given opportunity used in calculating the Human Opportunities Index (HOI). The coverage rate does not take into account inequality of access between different circumstance groups."
+    }, 
+    "9.1.Unpaid.All": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank).", 
+        "name": "Unpaid Workers (%), Male", 
+        "sourceNote": "Share of the male labor force (ages 15+) that works without pay"
+    }, 
+    "4.0.work.19a24": {
+        "source": "LAC Equity Lab", 
+        "sourceOrganization": "LAC Equity Lab tabulations of SEDLAC (CEDLAS and the World Bank), based on \"Out of School and Out of Work: A Diagnostic of Ninis in Latin America\" by De Hoyos, Popova, and Rogers (2014, World Bank).", 
+        "name": "Youth: Employed (19-24)", 
+        "sourceNote": "Share of the population ages 19-24 that is employed and not in school."
+    }
+}

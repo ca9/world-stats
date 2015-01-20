@@ -1,0 +1,1112 @@
+{
+    "SL.EMP.WORK.FE.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Wage and salaried workers, female (% of females employed)", 
+        "sourceNote": "Wage and salaried workers (employees) are those workers who hold the type of jobs defined as \"paid employment jobs,\" where the incumbents hold explicit (written or oral) or implicit employment contracts that give them a basic remuneration that is not directly dependent upon the revenue of the unit for which they work."
+    }, 
+    "SL.TLF.PRIM.FE.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Labor force with primary education, female (% of female labor force)", 
+        "sourceNote": "Labor force with primary education is the proportion of the labor force that has a primary education, as a percentage of the total labor force."
+    }, 
+    "IC.BUS.NDNS.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank's Entrepreneurship Survey and database (http://econ.worldbank.org/research/entrepreneurship).", 
+        "name": "New business density (new registrations per 1,000 people ages 15-64)", 
+        "sourceNote": "New businesses registered are the number of new limited liability corporations registered in the calendar year."
+    }, 
+    "db_paid_vacation_20yr": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org).", 
+        "name": "Paid annual leave for a worker with 20 years of tenure (in working days)", 
+        "sourceNote": "Paid annual leave for a worker with 20 years of tenure (in working days)"
+    }, 
+    "IQ.CPA.PROT.XQ": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank Group, CPIA database (http://www.worldbank.org/ida).", 
+        "name": "CPIA social protection rating (1=low to 6=high)", 
+        "sourceNote": "Social protection and labor assess government policies in social protection and labor market regulations that reduce the risk of becoming poor, assist those who are poor to better manage further risks, and ensure a minimal level of welfare to all people."
+    }, 
+    "db_approve_1_dismiss": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org).", 
+        "name": "Third-party approval if 1 worker is dismissed?", 
+        "sourceNote": "Is third-party approval required if 1 worker is dismissed? (Yes=1; No=0)"
+    }, 
+    "NY.GDP.MKTP.KD.ZG": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank national accounts data, and OECD National Accounts data files.", 
+        "name": "GDP growth (annual %)", 
+        "sourceNote": "Annual percentage growth rate of GDP at market prices based on constant local currency. Aggregates are based on constant 2005 U.S. dollars. GDP is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources."
+    }, 
+    "SE.XPD.TOTL.GD.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "Public spending on education, total (% of GDP)", 
+        "sourceNote": "Public expenditure on education as % of GDP is the total public expenditure (current and capital) on education expressed as a percentage of the Gross Domestic Product (GDP) in a given year. Public expenditure on education includes government spending on educational institutions (both public and private), education administration, and transfers/subsidies for private entities (students/households and other privates entities)."
+    }, 
+    "SP.POP.TECH.RD.P6": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "United Nations Educational, Scientific, and Cultural Organization (UNESCO) Institute for Statistics.", 
+        "name": "Technicians in R&D (per million people)", 
+        "sourceNote": "Technicians in R&D and equivalent staff are people whose main tasks require technical knowledge and experience in engineering, physical and life sciences (technicians), or social sciences and humanities (equivalent staff). They participate in R&D by performing scientific and technical tasks involving the application of concepts and operational methods, normally under the supervision of researchers."
+    }, 
+    "SP.RUR.TOTL.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank Staff estimates based on United Nations, World Urbanization Prospects. ", 
+        "name": "Rural population (% of total population)", 
+        "sourceNote": "Rural population refers to people living in rural areas as defined by national statistical offices. It is calculated as the difference between total population and urban population."
+    }, 
+    "SL.EMP.VULN.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Vulnerable employment, total (% of total employment)", 
+        "sourceNote": "Vulnerable employment is unpaid family workers and own-account workers as a percentage of total employment."
+    }, 
+    "BM.TRF.PWKR.CD": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Monetary Fund, Balance of Payments Statistics Yearbook and data files.", 
+        "name": "Workers' remittances, payments (BoP, current US$)", 
+        "sourceNote": "Workers' remittances are current transfers by migrants who are employed or intend to remain employed for more than a year in another economy in which they are considered residents. Some developing countries classify workers' remittances as a factor income receipt (and thus as a component of GNI). The World Bank adheres to international guidelines in defining GNI, and its classification of workers' remittances may therefore differ from national practices. This item shows payments by the reporting country. Data are in current U.S. dollars."
+    }, 
+    "SI.POV.GINI": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "GINI index (World Bank estimate)", 
+        "sourceNote": "Gini index measures the extent to which the distribution of income or consumption expenditure among individuals or households within an economy deviates from a perfectly equal distribution. A Lorenz curve plots the cumulative percentages of total income received against the cumulative number of recipients, starting with the poorest individual or household. The Gini index measures the area between the Lorenz curve and a hypothetical line of absolute equality, expressed as a percentage of the maximum area under the line. Thus a Gini index of 0 represents perfect equality, while an index of 100 implies perfect inequality."
+    }, 
+    "eq_pay_eq_wk": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org).", 
+        "name": "Do legal provisions mandate equal pay for equal work (1=Yes, 0=No)?", 
+        "sourceNote": "Are there laws or constitutional provisions mandating equal pay between men and women for work of equal value? (1=Yes,0=No)"
+    }, 
+    "SP.POP.GROW": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "Derived from total population. Population source: (1) United Nations Population Division. World Population Prospects, (2) United Nations Statistical Division. Population and Vital Statistics Report (various years), (3) Census reports and other statistical publications from national statistical offices, (4) Eurostat: Demographic Statistics, (5) Secretariat of the Pacific Community: Statistics and Demography Programme, and (6) U.S. Census Bureau: International Database..", 
+        "name": "Population growth (annual %)", 
+        "sourceNote": "Population growth (annual %) is the exponential rate of growth of midyear population from year t-1 to t, expressed as a percentage. "
+    }, 
+    "db_priority_redundancies": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org).", 
+        "name": "Priority rules for redundancies?", 
+        "sourceNote": "Are there priority rules for redundancies? (Yes=1; No=0)"
+    }, 
+    "SL.UEM.TERT.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Unemployment with tertiary education (% of total unemployment)", 
+        "sourceNote": "Unemployment by level of educational attainment shows the unemployed by level of educational attainment, as a percentage of the unemployed. The levels of educational attainment accord with the International Standard Classification of Education 1997 of the United Nations Educational, Cultural, and Scientific Organization (UNESCO)."
+    }, 
+    "IS.ROD.PAVE.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Road Federation, World Road Statistics and electronic files, except where noted.", 
+        "name": "Roads, paved (% of total roads)", 
+        "sourceNote": "Paved roads are those surfaced with crushed stone (macadam) and hydrocarbon binder or bituminized agents, with concrete, or with cobblestones, as a percentage of all the country's roads, measured in length."
+    }, 
+    "EG.USE.ELEC.KH.PC": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp), Energy Statistics and Balances of Non-OECD Countries and Energy Statistics of OECD Countries.", 
+        "name": "Electric power consumption (kWh per capita)", 
+        "sourceNote": "Electric power consumption measures the production of power plants and combined heat and power plants less transmission, distribution, and transformation losses and own use by heat and power plants."
+    }, 
+    "TX.VAL.FUEL.ZS.UN": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank staff estimates from the Comtrade database maintained by the United Nations Statistics Division.", 
+        "name": "Fuel exports (% of merchandise exports)", 
+        "sourceNote": "Fuels comprise SITC section 3 (mineral fuels)."
+    }, 
+    "TX.VAL.TECH.MF.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "United Nations, Comtrade database.", 
+        "name": "High-technology exports (% of manufactured exports)", 
+        "sourceNote": "High-technology exports are products with high R&D intensity, such as in aerospace, computers, pharmaceuticals, scientific instruments, and electrical machinery."
+    }, 
+    "SL.UEM.TOTL.MA.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Unemployment, male (% of male labor force) (modeled ILO estimate)", 
+        "sourceNote": "Unemployment refers to the share of the labor force that is without work but available for and seeking employment."
+    }, 
+    "SL.TLF.TERT.MA.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Labor force with tertiary education, male (% of male labor force)", 
+        "sourceNote": "Labor force with tertiary education is the proportion of labor force that has a tertiary education, as a percentage of the total labor force."
+    }, 
+    "SE.SEC.ENRR": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "School enrollment, secondary (% gross)", 
+        "sourceNote": "Gross enrolment ratio. Secondary. All programmes. Total is the total enrollment in secondary education, regardless of age, expressed as a percentage of the population of official secondary education age. GER can exceed 100% due to the inclusion of over-aged and under-aged students because of early or late school entrance and grade repetition."
+    }, 
+    "SL.TLF.CACT.FE.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)", 
+        "sourceNote": "Labor force participation rate is the proportion of the population ages 15 and older that is economically active: all people who supply labor for the production of goods and services during a specified period."
+    }, 
+    "IT.PRT.NEWS.P3": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "United Nations Educational, Scientific, and Cultural Organization (UNESCO) Institute for Statistics.", 
+        "name": "Daily newspapers (per 1,000 people)", 
+        "sourceNote": "Daily newspapers refer to those published at least four times a week and calculated as average circulation (or copies printed) per 1,000 people."
+    }, 
+    "NV.AGR.TOTL.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank national accounts data, and OECD National Accounts data files.", 
+        "name": "Agriculture, value added (% of GDP)", 
+        "sourceNote": "Agriculture corresponds to ISIC divisions 1-5 and includes forestry, hunting, and fishing, as well as cultivation of crops and livestock production. Value added is the net output of a sector after adding up all outputs and subtracting intermediate inputs. It is calculated without making deductions for depreciation of fabricated assets or depletion and degradation of natural resources. The origin of value added is determined by the International Standard Industrial Classification (ISIC), revision 3. Note: For VAB countries, gross value added at factor cost is used as the denominator."
+    }, 
+    "IC.TAX.METG": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Enterprise Surveys (http://www.enterprisesurveys.org/).", 
+        "name": "Number of visits or required meetings with tax officials", 
+        "sourceNote": "\"Number of visits or required meetings with tax officials is the number of visits or required meetings with tax officials during the year.\n\""
+    }, 
+    "SL.UEM.TOTL.FE.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Unemployment, female (% of female labor force) (modeled ILO estimate)", 
+        "sourceNote": "Unemployment refers to the share of the labor force that is without work but available for and seeking employment."
+    }, 
+    "SL.UEM.1524.MA.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)", 
+        "sourceNote": "Youth unemployment refers to the share of the labor force ages 15-24 without work but available for and seeking employment."
+    }, 
+    "SH.DYN.AIDS.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "UNAIDS estimates.", 
+        "name": "Prevalence of HIV, total (% of population ages 15-49)", 
+        "sourceNote": "Prevalence of HIV refers to the percentage of people ages 15-49 who are infected with HIV."
+    }, 
+    "NY.GDP.PCAP.KD": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank national accounts data, and OECD National Accounts data files.", 
+        "name": "GDP per capita (constant 2005 US$)", 
+        "sourceNote": "GDP per capita is gross domestic product divided by midyear population. GDP is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in constant 2005 U.S. dollars."
+    }, 
+    "FB.AST.LOAN.CB.P3": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "Consultative Group to Assist the Poor and the World Bank Group\u2019s \"Financial Access 2010.\"", 
+        "name": "Loan accounts, commercial banks (per 1,000 adults)", 
+        "sourceNote": "Loan accounts at commercial banks include loans from banks to individuals, businesses, and others, including home mortgages, consumer loans, business loans, trade loans, student loans, emergency loans, agricultural loans, and the like. Commercial banks are banks with a full banking license. In some countries, the term \"universal banks\" or other terms may be used. Majority government- and state-owned banks are included in this category to the extent that they perform a broad set of retail banking functions and are regulated and supervised in the same manner as privately owned banks."
+    }, 
+    "NE.GDI.TOTL.KD.ZG": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank national accounts data, and OECD National Accounts data files.", 
+        "name": "Gross capital formation (annual % growth)", 
+        "sourceNote": "Annual growth rate of gross capital formation based on constant local currency. Aggregates are based on constant 2005 U.S. dollars. Gross capital formation (formerly gross domestic investment) consists of outlays on additions to the fixed assets of the economy plus net changes in the level of inventories. Fixed assets include land improvements (fences, ditches, drains, and so on); plant, machinery, and equipment purchases; and the construction of roads, railways, and the like, including schools, offices, hospitals, private residential dwellings, and commercial and industrial buildings. Inventories are stocks of goods held by firms to meet temporary or unexpected fluctuations in production or sales, and \"work in progress.\" According to the 1993 SNA, net acquisitions of valuables are also considered capital formation."
+    }, 
+    "SL.AGR.EMPL.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Employment in agriculture (% of total employment)", 
+        "sourceNote": "Employees are people who work for a public or private employer and receive remuneration in wages, salary, commission, tips, piece rates, or pay in kind. Agriculture corresponds to division 1 (ISIC revision 2) or tabulation categories A and B (ISIC revision 3) and includes hunting, forestry, and fishing."
+    }, 
+    "SL.EMP.SELF.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Self-employed, total (% of total employed)", 
+        "sourceNote": "Self employed workers are those workers who, working on their own account or with one or a few partners or in cooperative, hold the type of jobs defined as a \"self-employment jobs\" (i.e. jobs where the remuneration is directly dependent upon the profits derived from the goods and services produced). Self employed workers include three subcategories: employers, own-account workers, and members of producers' cooperatives."
+    }, 
+    "NE.EXP.GNFS.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank national accounts data, and OECD National Accounts data files.", 
+        "name": "Exports of goods and services (% of GDP)", 
+        "sourceNote": "Exports of goods and services represent the value of all goods and other market services provided to the rest of the world. They include the value of merchandise, freight, insurance, transport, travel, royalties, license fees, and other services, such as communication, construction, financial, information, business, personal, and government services. They exclude compensation of employees and investment income (formerly called factor services) and transfer payments."
+    }, 
+    "SL.EMP.VULN.FE.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Vulnerable employment, female (% of female employment)", 
+        "sourceNote": "Vulnerable employment is unpaid family workers and own-account workers as a percentage of total employment."
+    }, 
+    "IQ.CPA.FINS.XQ": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank Group, CPIA database (http://www.worldbank.org/ida).", 
+        "name": "CPIA financial sector rating (1=low to 6=high)", 
+        "sourceNote": "Financial sector assesses the structure of the financial sector and the policies and regulations that affect it."
+    }, 
+    "NV.IND.TOTL.KD.ZG": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank national accounts data, and OECD National Accounts data files.", 
+        "name": "Industry, value added (annual % growth)", 
+        "sourceNote": "Annual growth rate for industrial value added based on constant local currency. Aggregates are based on constant 2005 U.S. dollars. Industry corresponds to ISIC divisions 10-45 and includes manufacturing (ISIC divisions 15-37). It comprises value added in mining, manufacturing (also reported as a separate subgroup), construction, electricity, water, and gas. Value added is the net output of a sector after adding up all outputs and subtracting intermediate inputs. It is calculated without making deductions for depreciation of fabricated assets or depletion and degradation of natural resources. The origin of value added is determined by the International Standard Industrial Classification (ISIC), revision 3."
+    }, 
+    "SL.UEM.TERT.FE.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Unemployment with tertiary education, female (% of female unemployment)", 
+        "sourceNote": "Unemployment by level of educational attainment shows the unemployed by level of educational attainment, as a percentage of the unemployed. The levels of educational attainment accord with the International Standard Classification of Education 1997 of the United Nations Educational, Cultural, and Scientific Organization (UNESCO)."
+    }, 
+    "db_approvie_9_dismiss": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org).", 
+        "name": "Third-party approval if 9 workers are dismissed?", 
+        "sourceNote": "Is third-party approval required if 9 workers are dismissed? (Yes=1; No=0)"
+    }, 
+    "SP.POP.SCIE.RD.P6": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "United Nations Educational, Scientific, and Cultural Organization (UNESCO) Institute for Statistics.", 
+        "name": "Researchers in R&D (per million people)", 
+        "sourceNote": "Researchers in R&D are professionals engaged in the conception or creation of new knowledge, products, processes, methods, or systems and in the management of the projects concerned. Postgraduate PhD students (ISCED97 level 6) engaged in R&D are included."
+    }, 
+    "GB.XPD.RSDV.GD.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "United Nations Educational, Scientific, and Cultural Organization (UNESCO) Institute for Statistics.", 
+        "name": "Research and development expenditure (% of GDP)", 
+        "sourceNote": "Expenditures for research and development are current and capital expenditures (both public and private) on creative work undertaken systematically to increase knowledge, including knowledge of humanity, culture, and society, and the use of knowledge for new applications. R&D covers basic research, applied research, and experimental development."
+    }, 
+    "SL.EMP.VULN.MA.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Vulnerable employment, male (% of male employment)", 
+        "sourceNote": "Vulnerable employment is unpaid family workers and own-account workers as a percentage of total employment."
+    }, 
+    "SL.UEM.1524.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)", 
+        "sourceNote": "Youth unemployment refers to the share of the labor force ages 15-24 without work but available for and seeking employment."
+    }, 
+    "SL.EMP.UNMB.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, (http://laborsta.ilo.org/xls_data_E.html).", 
+        "name": "Union members (% of total paid employees)", 
+        "sourceNote": "Union members (% of total paid employees)"
+    }, 
+    "SL.TLF.TOTL.IN": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Labor force, total", 
+        "sourceNote": "Total labor force comprises people ages 15 and older who meet the International Labour Organization definition of the economically active population: all people who supply labor for the production of goods and services during a specified period. It includes both the employed and the unemployed. While national practices vary in the treatment of such groups as the armed forces and seasonal or part-time workers, in general the labor force includes the armed forces, the unemployed, and first-time job-seekers, but excludes homemakers and other unpaid caregivers and workers in the informal sector."
+    }, 
+    "SP.POP.1564.TO": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "The United Nations Population Division's World Population Prospects.", 
+        "name": "Population ages 15-64, total", 
+        "sourceNote": "Population ages 15-64, total"
+    }, 
+    "DB_ft_prohib_perm": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org).", 
+        "name": "Fixed-term contracts prohibited for permanent tasks?", 
+        "sourceNote": "Are fixed-term contracts prohibited for permanent tasks (Yes=1; No=0)"
+    }, 
+    "SP.POP.0014.TO": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "The United Nations Population Division's World Population Prospects.", 
+        "name": "Population ages 0-14, total", 
+        "sourceNote": "Population, age 0-14, female is the total population between the ages of 0 and 14."
+    }, 
+    "IQ.CPA.MACR.XQ": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank Group, CPIA database (http://www.worldbank.org/ida).", 
+        "name": "CPIA macroeconomic management rating (1=low to 6=high)", 
+        "sourceNote": "Macroeconomic management assesses the monetary, exchange rate, and aggregate demand policy framework."
+    }, 
+    "IC.CRD.INFO.XQ": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org/).", 
+        "name": "Depth of credit information index (0=low to 8=high)", 
+        "sourceNote": "Depth of credit information index measures rules affecting the scope, accessibility, and quality of credit information available through public or private credit registries. The index ranges from 0 to 8, with higher values indicating the availability of more credit information, from either a public registry or a private bureau, to facilitate lending decisions."
+    }, 
+    "IT.NET.BBND.P2": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Telecommunication Union, World Telecommunication/ICT Development Report and database, and World Bank estimates.", 
+        "name": "Fixed broadband Internet subscribers (per 100 people)", 
+        "sourceNote": "Fixed broadband Internet subscribers are the number of broadband subscribers with a digital subscriber line, cable modem, or other high-speed technology."
+    }, 
+    "SP.URB.TOTL": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank Staff estimates based on United Nations, World Urbanization Prospects. ", 
+        "name": "Urban population", 
+        "sourceNote": "Urban population refers to people living in urban areas as defined by national statistical offices. It is calculated using World Bank population estimates and urban ratios from the United Nations World Urbanization Prospects."
+    }, 
+    "IS.VEH.ROAD.K1": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Road Federation, World Road Statistics and data files.", 
+        "name": "Vehicles (per km of road)", 
+        "sourceNote": "Vehicles per kilometer of road include cars, buses, and freight vehicles but do not include two-wheelers. Roads refer to motorways, highways, main or national roads, secondary or regional roads, and other roads. A motorway is a road specially designed and built for motor traffic that separates the traffic flowing in opposite directions."
+    }, 
+    "SL.UEM.SECO.MA.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Unemployment with secondary education, male (% of male unemployment)", 
+        "sourceNote": "Unemployment by level of educational attainment shows the unemployed by level of educational attainment, as a percentage of the unemployed. The levels of educational attainment accord with the International Standard Classification of Education 1997 of the United Nations Educational, Cultural, and Scientific Organization (UNESCO)."
+    }, 
+    "NV.IND.TOTL.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank national accounts data, and OECD National Accounts data files.", 
+        "name": "Industry, value added (% of GDP)", 
+        "sourceNote": "Industry corresponds to ISIC divisions 10-45 and includes manufacturing (ISIC divisions 15-37). It comprises value added in mining, manufacturing (also reported as a separate subgroup), construction, electricity, water, and gas. Value added is the net output of a sector after adding up all outputs and subtracting intermediate inputs. It is calculated without making deductions for depreciation of fabricated assets or depletion and degradation of natural resources. The origin of value added is determined by the International Standard Industrial Classification (ISIC), revision 3. Note: For VAB countries, gross value added at factor cost is used as the denominator."
+    }, 
+    "FP.CPI.TOTL.ZG": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Monetary Fund, International Financial Statistics and data files.", 
+        "name": "Inflation, consumer prices (annual %)", 
+        "sourceNote": "Inflation as measured by the consumer price index reflects the annual percentage change in the cost to the average consumer of acquiring a basket of goods and services that may be fixed or changed at specified intervals, such as yearly. The Laspeyres formula is generally used."
+    }, 
+    "SM.POP.TOTL.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "United Nations Population Division, Trends in Total Migrant Stock: 2008 Revision.", 
+        "name": "International migrant stock (% of population)", 
+        "sourceNote": "International migrant stock is the number of people born in a country other than that in which they live. It also includes refugees. The data used to estimate the international migrant stock at a particular time are obtained mainly from population censuses. The estimates are derived from the data on foreign-born population--people who have residence in one country but were born in another country. When data on the foreign-born population are not available, data on foreign population--that is, people who are citizens of a country other than the country in which they reside--are used as estimates. After the breakup of the Soviet Union in 1991 people living in one of the newly independent countries who were born in another were classified as international migrants. Estimates of migrant stock in the newly independent states from 1990 on are based on the 1989 census of the Soviet Union. For countries with information on the international migrant stock for at least two points in time, interpolation or extrapolation was used to estimate the international migrant stock on July 1 of the reference years. For countries with only one observation, estimates for the reference years were derived using rates of change in the migrant stock in the years preceding or following the single observation available. A model was used to estimate migrants for countries that had no data."
+    }, 
+    "SP.ADO.TFRT": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "United Nations Population Division, World Population Prospects.", 
+        "name": "Adolescent fertility rate (births per 1,000 women ages 15-19)", 
+        "sourceNote": "Adolescent fertility rate is the number of births per 1,000 women ages 15-19."
+    }, 
+    "SL.IND.EMPL.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Employment in industry (% of total employment)", 
+        "sourceNote": "Employees are people who work for a public or private employer and receive remuneration in wages, salary, commission, tips, piece rates, or pay in kind. Industry corresponds to divisions 2-5 (ISIC revision 2) or tabulation categories C-F (ISIC revision 3) and includes mining and quarrying (including oil production), manufacturing, construction, and public utilities (electricity, gas, and water)."
+    }, 
+    "SL.TLF.TERT.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Labor force with tertiary education (% of total)", 
+        "sourceNote": "Labor force with tertiary education is the proportion of labor force that has a tertiary education, as a percentage of the total labor force."
+    }, 
+    "SL.EMP.MPYR.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "ILO Key Indicators of the Labour Market (KILM).", 
+        "name": "Employers, total (% of employment)", 
+        "sourceNote": "Employers refers are those workers who, working on their own account or with one or a few partners, hold the type of jobs defined as a \"self-employment jobs\" i.e. jobs where the remuneration is directly dependent upon the profits derived from the goods and services produced), and, in this capacity, have engaged, on a continuous basis, one or more persons to work for them as employee(s)."
+    }, 
+    "IT.MLT.MAIN.P2": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Telecommunication Union, World Telecommunication/ICT Development Report and database, and World Bank estimates.", 
+        "name": "Telephone lines (per 100 people)", 
+        "sourceNote": "Telephone lines are fixed telephone lines that connect a subscriber's terminal equipment to the public switched telephone network and that have a port on a telephone exchange. Integrated services digital network channels ands fixed wireless subscribers are included."
+    }, 
+    "SE.TER.ENRR.MA": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "School enrollment, tertiary, male (% gross)", 
+        "sourceNote": "Gross enrolment ratio. Tertiary (ISCED 5 and 6). Male is the total male enrollment in tertiary education (ISCED 5 and 6), regardless of age, expressed as a percentage of the total male population of the five-year age group following on from secondary school leaving."
+    }, 
+    "CM.MKT.LCAP.GD.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "Standard & Poor's, Global Stock Markets Factbook and supplemental S&P data.", 
+        "name": "Market capitalization of listed companies (% of GDP)", 
+        "sourceNote": "Market capitalization (also known as market value) is the share price times the number of shares outstanding. Listed domestic companies are the domestically incorporated companies listed on the country's stock exchanges at the end of the year. Listed companies does not include investment companies, mutual funds, or other collective investment vehicles."
+    }, 
+    "db_notify_1_dismiss": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org).", 
+        "name": "Third-party notification if 1 worker is dismissed?", 
+        "sourceNote": "Is third-party notification  required if 1 worker is dismissed? (Yes=1; No=0)"
+    }, 
+    "db_prem_night_wk": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org).", 
+        "name": "Premium for night work (% of hourly pay) in case of continuous operations", 
+        "sourceNote": "Is there a required premium for night work (% of hourly pay) in case of continuous operations? (Yes=1; No=0)"
+    }, 
+    "NV.IND.TOTL.KD": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank national accounts data, and OECD National Accounts data files.", 
+        "name": "Industry, value added (constant 2005 US$)", 
+        "sourceNote": "Industry corresponds to ISIC divisions 10-45 and includes manufacturing (ISIC divisions 15-37). It comprises value added in mining, manufacturing (also reported as a separate subgroup), construction, electricity, water, and gas. Value added is the net output of a sector after adding up all outputs and subtracting intermediate inputs. It is calculated without making deductions for depreciation of fabricated assets or depletion and degradation of natural resources. The origin of value added is determined by the International Standard Industrial Classification (ISIC), revision 3. Data are in constant 2005 U.S. dollars."
+    }, 
+    "NV.AGR.TOTL.KD.ZG": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank national accounts data, and OECD National Accounts data files.", 
+        "name": "Agriculture, value added (annual % growth)", 
+        "sourceNote": "Annual growth rate for agricultural value added based on constant local currency. Aggregates are based on constant 2005 U.S. dollars. Agriculture corresponds to ISIC divisions 1-5 and includes forestry, hunting, and fishing, as well as cultivation of crops and livestock production. Value added is the net output of a sector after adding up all outputs and subtracting intermediate inputs. It is calculated without making deductions for depreciation of fabricated assets or depletion and degradation of natural resources. The origin of value added is determined by the International Standard Industrial Classification (ISIC), revision 3."
+    }, 
+    "BM.KLT.DINV.GD.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.", 
+        "name": "Foreign direct investment, net outflows (% of GDP)", 
+        "sourceNote": "Foreign direct investment are the net inflows of investment to acquire a lasting management interest (10 percent or more of voting stock) in an enterprise operating in an economy other than that of the investor. It is the sum of equity capital, reinvestment of earnings, other long-term capital, and short-term capital as shown in the balance of payments. This series shows net outflows of investment from the reporting economy to the rest of the world and is divided by GDP."
+    }, 
+    "SE.ADT.1524.LT.FE.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "Literacy rate, youth female (% of females ages 15-24)", 
+        "sourceNote": "Youth (15-24) literacy rate (%). Female is the number of females age 15 to 24 years who can both read and write with understanding a short simple statement on their everyday life, divided by the female population in that age group. Generally, \u2018literacy\u2019 also encompasses \u2018numeracy\u2019, the ability to make simple arithmetic calculations."
+    }, 
+    "SE.TER.ENRR.FE": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "School enrollment, tertiary, female (% gross)", 
+        "sourceNote": "Gross enrolment ratio. Tertiary (ISCED 5 and 6). Female is the total female enrollment in tertiary education (ISCED 5 and 6), regardless of age, expressed as a percentage of the total female population of the five-year age group following on from secondary school leaving. "
+    }, 
+    "TX.VAL.MRCH.XD.WD": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "United Nations Conference on Trade and Development, Handbook of Statistics and data files, and International Monetary Fund, International Financial Statistics.", 
+        "name": "Export value index (2000 = 100)", 
+        "sourceNote": "Export values are the current value of exports (f.o.b.) converted to U.S. dollars and expressed as a percentage of the average for the base period (2000). UNCTAD's export value indexes are reported for most economies. For selected economies for which UNCTAD does not publish data, the export value indexes are derived from export volume indexes (line 72) and corresponding unit value indexes of exports (line 74) in the IMF's International Financial Statistics."
+    }, 
+    "SE.SEC.ENRR.FE": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "School enrollment, secondary, female (% gross)", 
+        "sourceNote": "Gross enrolment ratio. Secondary. All programmes. Female is the total female enrollment in secondary education, regardless of age, expressed as a percentage of the female population of official secondary education age. GER can exceed 100% due to the inclusion of over-aged and under-aged students because of early or late school entrance and grade repetition."
+    }, 
+    "SL.UEM.SECO.FE.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Unemployment with secondary education, female (% of female unemployment)", 
+        "sourceNote": "Unemployment by level of educational attainment shows the unemployed by level of educational attainment, as a percentage of the unemployed. The levels of educational attainment accord with the International Standard Classification of Education 1997 of the United Nations Educational, Cultural, and Scientific Organization (UNESCO)."
+    }, 
+    "SL.MNF.WAGE.FM": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour market (KILM).", 
+        "name": "Ratio of female to male wages in manufacturing (%)", 
+        "sourceNote": "Ratio of female to male wages in manufacturing refers to female to male wages and salaries in manufacturing."
+    }, 
+    "TM.VAL.ICTG.ZS.UN": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "United Nations Conference on Trade and Development's UNCTADstat database at http://unctadstat.unctad.org/ReportFolders/reportFolders.aspx.", 
+        "name": "ICT goods imports (% total goods imports)", 
+        "sourceNote": "Information and communication technology goods imports include telecommunications, audio and video, computer and related equipment; electronic components; and other information and communication technology goods. Software is excluded."
+    }, 
+    "SE.ADT.1524.LT.MA.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "Literacy rate, youth male (% of males ages 15-24)", 
+        "sourceNote": "Youth (15-24) literacy rate (%). Male is the number of males age 15 to 24 years who can both read and write with understanding a short simple statement on their everyday life, divided by the male population in that age group. Generally, \u2018literacy\u2019 also encompasses \u2018numeracy\u2019, the ability to make simple arithmetic calculations."
+    }, 
+    "db_max_hr_day": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org).", 
+        "name": "Maximum working days per week", 
+        "sourceNote": "Maximum working days per week"
+    }, 
+    "IC.PRP.DURS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org/).", 
+        "name": "Time required to register property (days)", 
+        "sourceNote": "Time required to register property is the number of calendar days needed for businesses to secure rights to property."
+    }, 
+    "FB.AST.LOAN.MF.P3": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "Consultative Group to Assist the Poor and the World Bank Group\u2019s \"Financial Access 2010.\"", 
+        "name": "Loan accounts, microfinance institutions (per 1,000 adults)", 
+        "sourceNote": "Microfinance institutions are institutions whose primary business model is to lend to (and possibly take deposits from) the poor, often using specialized methodologies such as group lending. The data collected using this institutional classification necessarily understate the scale of microfinance because many banks, cooperatives, and specialized state-owned institutions provide microfinance services as part of their activities."
+    }, 
+    "NE.IMP.GNFS.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank national accounts data, and OECD National Accounts data files.", 
+        "name": "Imports of goods and services (% of GDP)", 
+        "sourceNote": "Imports of goods and services represent the value of all goods and other market services received from the rest of the world. They include the value of merchandise, freight, insurance, transport, travel, royalties, license fees, and other services, such as communication, construction, financial, information, business, personal, and government services. They exclude compensation of employees and investment income (formerly called factor services) and transfer payments."
+    }, 
+    "NE.EXP.GNFS.KD.ZG": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank national accounts data, and OECD National Accounts data files.", 
+        "name": "Exports of goods and services (annual % growth)", 
+        "sourceNote": "Annual growth rate of exports of goods and services based on constant local currency. Aggregates are based on constant 2005 U.S. dollars. Exports of goods and services represent the value of all goods and other market services provided to the rest of the world. They include the value of merchandise, freight, insurance, transport, travel, royalties, license fees, and other services, such as communication, construction, financial, information, business, personal, and government services. They exclude compensation of employees and investment income (formerly called factor services) and transfer payments."
+    }, 
+    "EG.ELC.ACCS.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Sustainable Energy for All (SE4ALL) database from World Bank, Global Electrification database.", 
+        "name": "Access to electricity (% of population)", 
+        "sourceNote": "Access to electricity is the percentage of population with access to electricity."
+    }, 
+    "SE.TER.ENRR": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "School enrollment, tertiary (% gross)", 
+        "sourceNote": "Gross enrolment ratio. Tertiary (ISCED 5 and 6). Total is the total enrollment in tertiary education (ISCED 5 and 6), regardless of age, expressed as a percentage of the total population of the five-year age group following on from secondary school leaving. "
+    }, 
+    "SH.MMR.RISK.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "WHO, UNICEF, UNFPA, The World Bank, and the United Nations Population Division. Trends in Maternal Mortality: 1990 to 2013. Geneva, World Health Organization, 2014", 
+        "name": "Lifetime risk of maternal death (%)", 
+        "sourceNote": "Life time risk of maternal death is the probability that a 15-year-old female will die eventually from a maternal cause assuming that current levels of fertility and mortality (including maternal mortality) do not change in the future, taking into account competing causes of death. "
+    }, 
+    "db_sev_pay_5yr": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org).", 
+        "name": "Severance pay for redundancy dismissal (for a worker with 5 years of tenure, in salary weeks)", 
+        "sourceNote": "Severance pay for redundancy dismissal (for a worker with 5 years of tenure, in salary weeks)"
+    }, 
+    "SL.TLF.SECO.FE.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Labor force with secondary education, female (% of female labor force)", 
+        "sourceNote": "Labor force with secondary education is the proportion of the labor force that has a secondary education, as a percentage of the total labor force."
+    }, 
+    "SL.UEM.1524.FE.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)", 
+        "sourceNote": "Youth unemployment refers to the share of the labor force ages 15-24 without work but available for and seeking employment."
+    }, 
+    "IC.CRD.PUBL.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org/).", 
+        "name": "Public credit registry coverage (% of adults)", 
+        "sourceNote": "Public credit registry coverage reports the number of individuals and firms listed in a public credit registry with current information on repayment history, unpaid debts, or credit outstanding. The number is expressed as a percentage of the adult population."
+    }, 
+    "db_paid_vacation_5yr": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org).", 
+        "name": "Paid annual leave for a worker with 5 years of tenure (in working days)", 
+        "sourceNote": "Paid annual leave for a worker with 5 years of tenure (in working days)"
+    }, 
+    "FS.AST.DOMS.GD.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Monetary Fund, International Financial Statistics and data files, and World Bank and OECD GDP estimates.", 
+        "name": "Domestic credit provided by financial sector (% of GDP)", 
+        "sourceNote": "Domestic credit provided by the financial sector includes all credit to various sectors on a gross basis, with the exception of credit to the central government, which is net. The financial sector includes monetary authorities and deposit money banks, as well as other financial corporations where data are available (including corporations that do not accept transferable deposits but do incur such liabilities as time and savings deposits). Examples of other financial corporations are finance and leasing companies, money lenders, insurance corporations, pension funds, and foreign exchange companies."
+    }, 
+    "SE.ENR.TERT.FM.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "United Nations Educational, Scientific, and Cultural Organization (UNESCO) Institute for Statistics.", 
+        "name": "Ratio of female to male tertiary enrollment (%)", 
+        "sourceNote": "Ratio of female to male tertiary enrollment is the percentage of men to women enrolled at tertiary level in public and private schools."
+    }, 
+    "SL.EMP.WORK.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Wage and salaried workers, total (% of total employed)", 
+        "sourceNote": "Wage and salaried workers (employees) are those workers who hold the type of jobs defined as \"paid employment jobs,\" where the incumbents hold explicit (written or oral) or implicit employment contracts that give them a basic remuneration that is not directly dependent upon the revenue of the unit for which they work."
+    }, 
+    "SL.EMP.MPYR.MA.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "ILO Key Indicators of the Labour Market (KILM).", 
+        "name": "Employers, male (% of employment)", 
+        "sourceNote": "Employers refers are those workers who, working on their own account or with one or a few partners, hold the type of jobs defined as a \"self-employment jobs\" i.e. jobs where the remuneration is directly dependent upon the profits derived from the goods and services produced), and, in this capacity, have engaged, on a continuous basis, one or more persons to work for them as employee(s)."
+    }, 
+    "SL.FAM.WORK.MA.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Contributing family workers, male (% of males employed)", 
+        "sourceNote": "Contributing family workers are those workers who hold \"self-employment jobs\" as own-account workers in a market-oriented establishment operated by a related person living in the same household."
+    }, 
+    "SL.TLF.CACT.MA.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)", 
+        "sourceNote": "Labor force participation rate is the proportion of the population ages 15 and older that is economically active: all people who supply labor for the production of goods and services during a specified period."
+    }, 
+    "SL.GDP.PCAP.EM.KD": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "GDP per person employed (constant 1990 PPP $)", 
+        "sourceNote": "GDP per person employed is gross domestic product (GDP) divided by total employment in the economy. Purchasing power parity (PPP) GDP is GDP converted to 1990 constant international dollars using PPP rates. An international dollar has the same purchasing power over GDP that a U.S. dollar has in the United States."
+    }, 
+    "EA.PRD.AGRI.KD": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "Derived from World Bank national accounts files and Food and Agriculture Organization, Production Yearbook and data files.", 
+        "name": "Agriculture value added per worker (constant 2005 US$)", 
+        "sourceNote": "Agriculture value added per worker is a measure of agricultural productivity. Value added in agriculture measures the output of the agricultural sector (ISIC divisions 1-5) less the value of intermediate inputs. Agriculture comprises value added from forestry, hunting, and fishing as well as cultivation of crops and livestock production. Data are in constant 2005 U.S. dollars."
+    }, 
+    "SE.ADT.LITR.FE.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "Literacy rate, adult female (% of females ages 15 and above)", 
+        "sourceNote": "Adult (15+) literacy rate (%). Female is the percentage of females age 15 and above who can, with understanding, read and write a short, simple statement on their everyday life. Generally, \u2018literacy\u2019 also encompasses \u2018numeracy\u2019, the ability to make simple arithmetic calculations. This indicator is calculated by dividing the number of female literates aged 15 years and over by the corresponding age group population and multiplying the result by 100. "
+    }, 
+    "IC.FRM.DURS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Enterprise Surveys (http://www.enterprisesurveys.org/).", 
+        "name": "Time required to obtain an operating license (days)", 
+        "sourceNote": "Time required to obtain operating license is the average wait to obtain an operating license from the day the establishment applied for it to the day it was granted."
+    }, 
+    "IC.BUS.EASE.XQ": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org/).", 
+        "name": "Ease of doing business index (1=most business-friendly regulations)", 
+        "sourceNote": "Ease of doing business ranks economies from 1 to 189, with first place being the best. A high ranking (a low numerical rank) means that the regulatory environment is conducive to business operation. The index averages the country's percentile rankings on 10 topics covered in the World Bank's Doing Business. The ranking on each topic is the simple average of the percentile rankings on its component indicators."
+    }, 
+    "SP.POP.1564.TO.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "The United Nations Population Division's World Population Prospects.", 
+        "name": "Population ages 15-64 (% of total)", 
+        "sourceNote": "Total population between the ages 15 to 64 is the number of people who could potentially be economically active. Population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship--except for refugees not permanently settled in the country of asylum, who are generally considered part of the population of the country of origin."
+    }, 
+    "SL.TLF.SECO.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Labor force with secondary education (% of total)", 
+        "sourceNote": "Labor force with secondary education is the proportion of the labor force that has a secondary education, as a percentage of the total labor force."
+    }, 
+    "SL.EMP.TOTL": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Total employment, total (ages 15+)", 
+        "sourceNote": "Total employment shows the total number employed ages 15 and over."
+    }, 
+    "SI.POV.DDAY": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are from the Luxembourg Income Study database. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Poverty headcount ratio at $1.25 a day (PPP) (% of population)", 
+        "sourceNote": "Population below $1.25 a day is the percentage of the population living on less than $1.25 a day at 2005 international prices. As a result of revisions in PPP exchange rates, poverty rates for individual countries cannot be compared with poverty rates reported in earlier editions."
+    }, 
+    "SE.ADT.LITR.MA.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "Literacy rate, adult male (% of males ages 15 and above)", 
+        "sourceNote": "Adult (15+) literacy rate (%). Male is the percentage of males age 15 and above who can, with understanding, read and write a short, simple statement on their everyday life. Generally, \u2018literacy\u2019 also encompasses \u2018numeracy\u2019, the ability to make simple arithmetic calculations. This indicator is calculated by dividing the number of male literates aged 15 years and over by the corresponding age group population and multiplying the result by 100. "
+    }, 
+    "IQ.CPA.SOCI.XQ": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank Group, CPIA database (http://www.worldbank.org/ida).", 
+        "name": "CPIA policies for social inclusion/equity cluster average (1=low to 6=high)", 
+        "sourceNote": "The policies for social inclusion and equity cluster includes gender equality, equity of public resource use, building human resources, social protection and labor, and policies and institutions for environmental sustainability."
+    }, 
+    "SL.UEM.TERT.MA.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Unemployment with tertiary education, male (% of male unemployment)", 
+        "sourceNote": "Unemployment by level of educational attainment shows the unemployed by level of educational attainment, as a percentage of the unemployed. The levels of educational attainment accord with the International Standard Classification of Education 1997 of the United Nations Educational, Cultural, and Scientific Organization (UNESCO)."
+    }, 
+    "SP.DYN.TFRT.IN": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "(1) United Nations Population Division. World Population Prospects, (2) United Nations Statistical Division. Population and Vital Statistics Repot (various years), (3) Census reports and other statistical publications from national statistical offices, (4) Eurostat: Demographic Statistics, (5) Secretariat of the Pacific Community: Statistics and Demography Programme, and (6) U.S. Census Bureau: International Database", 
+        "name": "Fertility rate, total (births per woman)", 
+        "sourceNote": "Total fertility rate represents the number of children that would be born to a woman if she were to live to the end of her childbearing years and bear children in accordance with current age-specific fertility rates."
+    }, 
+    "SE.PRM.CMPT.FE.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "Primary completion rate, female (% of relevant age group)", 
+        "sourceNote": "Primary completion rate is measured as the gross intake ratio to the last grade of primary education. It is calculated by taking the total number of students in the last grade of primary school, minus the number of repeaters in that grade, divided by the total number of children of official graduation age."
+    }, 
+    "SE.PRM.ENRR.MA": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "School enrollment, primary, male (% gross)", 
+        "sourceNote": "Gross enrolment ratio. Primary. Male is the total male enrollment in primary education, regardless of age, expressed as a percentage of the male population of official primary education age. GER can exceed 100% due to the inclusion of over-aged and under-aged students because of early or late school entrance and grade repetition. "
+    }, 
+    "IC.LGL.DURS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org/).", 
+        "name": "Time required to enforce a contract (days)", 
+        "sourceNote": "Time required to enforce a contract is the number of calendar days from the filing of the lawsuit in court until the final determination and, in appropriate cases, payment."
+    }, 
+    "SL.TLF.CACT.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)", 
+        "sourceNote": "Labor force participation rate is the proportion of the population ages 15 and older that is economically active: all people who supply labor for the production of goods and services during a specified period."
+    }, 
+    "GC.TAX.TOTL.GD.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.", 
+        "name": "Tax revenue (% of GDP)", 
+        "sourceNote": "Tax revenue refers to compulsory transfers to the central government for public purposes. Certain compulsory transfers such as fines, penalties, and most social security contributions are excluded. Refunds and corrections of erroneously collected tax revenue are treated as negative revenue."
+    }, 
+    "SL.SRV.EMPL.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Employment in services (% of total employment)", 
+        "sourceNote": "Employees are people who work for a public or private employer and receive remuneration in wages, salary, commission, tips, piece rates, or pay in kind. Services correspond to divisions 6-9 (ISIC revision 2) or tabulation categories G-P (ISIC revision 3) and include wholesale and retail trade and restaurants and hotels; transport, storage, and communications; financing, insurance, real estate, and business services; and community, social, and personal services."
+    }, 
+    "NV.IND.MANF.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank national accounts data, and OECD National Accounts data files.", 
+        "name": "Manufacturing, value added (% of GDP)", 
+        "sourceNote": "Manufacturing refers to industries belonging to ISIC divisions 15-37. Value added is the net output of a sector after adding up all outputs and subtracting intermediate inputs. It is calculated without making deductions for depreciation of fabricated assets or depletion and degradation of natural resources. The origin of value added is determined by the International Standard Industrial Classification (ISIC), revision 3. Note: For VAB countries, gross value added at factor cost is used as the denominator."
+    }, 
+    "SL.EMP.MPYR.FE.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "ILO Key Indicators of the Labour Market (KILM).", 
+        "name": "Employers, female (% of employment)", 
+        "sourceNote": "Employers refers are those workers who, working on their own account or with one or a few partners, hold the type of jobs defined as a \"self-employment jobs\" i.e. jobs where the remuneration is directly dependent upon the profits derived from the goods and services produced), and, in this capacity, have engaged, on a continuous basis, one or more persons to work for them as employee(s)."
+    }, 
+    "db_prem_wkend": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org).", 
+        "name": "Premium for work on weekly rest day (% of hourly pay) in case of continuous operations", 
+        "sourceNote": "Is there a required premium for work on weekly rest day (% of hourly pay) in case of continuous operations? (Yes=1; No=0)"
+    }, 
+    "BX.KLT.DINV.WD.GD.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.", 
+        "name": "Foreign direct investment, net inflows (% of GDP)", 
+        "sourceNote": "Foreign direct investment are the net inflows of investment to acquire a lasting management interest (10 percent or more of voting stock) in an enterprise operating in an economy other than that of the investor. It is the sum of equity capital, reinvestment of earnings, other long-term capital, and short-term capital as shown in the balance of payments. This series shows net inflows (new investment inflows less disinvestment) in the reporting economy from foreign investors, and is divided by GDP."
+    }, 
+    "IS.AIR.DPRT": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Civil Aviation Organization, Civil Aviation Statistics of the World and ICAO staff estimates.", 
+        "name": "Air transport, registered carrier departures worldwide", 
+        "sourceNote": "Registered carrier departures worldwide are domestic takeoffs and takeoffs abroad of air carriers registered in the country."
+    }, 
+    "SL.EMP.SELF.MA.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Self-employed, male (% of males employed)", 
+        "sourceNote": "Self employed workers are those workers who, working on their own account or with one or a few partners or in cooperative, hold the type of jobs defined as a \"self-employment jobs\" (i.e. jobs where the remuneration is directly dependent upon the profits derived from the goods and services produced). Self employed workers include three subcategories: employers, own-account workers, and members of producers' cooperatives."
+    }, 
+    "SE.PRM.ENRR": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "School enrollment, primary (% gross)", 
+        "sourceNote": "Gross enrolment ratio. Primary. Total is the total enrollment in primary education, regardless of age, expressed as a percentage of the population of official primary education age. GER can exceed 100% due to the inclusion of over-aged and under-aged students because of early or late school entrance and grade repetition."
+    }, 
+    "NV.IND.MANF.KD.ZG": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank national accounts data, and OECD National Accounts data files.", 
+        "name": "Manufacturing, value added (annual % growth)", 
+        "sourceNote": "Annual growth rate for manufacturing value added based on constant local currency. Aggregates are based on constant 2005 U.S. dollars. Manufacturing refers to industries belonging to ISIC divisions 15-37. Value added is the net output of a sector after adding up all outputs and subtracting intermediate inputs. It is calculated without making deductions for depreciation of fabricated assets or depletion and degradation of natural resources. The origin of value added is determined by the International Standard Industrial Classification (ISIC), revision 3."
+    }, 
+    "SE.PRM.ENRR.FE": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "School enrollment, primary, female (% gross)", 
+        "sourceNote": "Gross enrolment ratio. Primary. Female is the total female enrollment in primary education, regardless of age, expressed as a percentage of the female population of official primary education age. GER can exceed 100% due to the inclusion of over-aged and under-aged students because of early or late school entrance and grade repetition."
+    }, 
+    "IQ.CPA.PROP.XQ": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank Group, CPIA database (http://www.worldbank.org/ida).", 
+        "name": "CPIA property rights and rule-based governance rating (1=low to 6=high)", 
+        "sourceNote": "Property rights and rule-based governance assess the extent to which private economic activity is facilitated by an effective legal system and rule-based governance structure in which property and contract rights are reliably respected and enforced."
+    }, 
+    "IC.FRM.CORR.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Enterprise Surveys (http://www.enterprisesurveys.org/).", 
+        "name": "Informal payments to public officials (% of firms)", 
+        "sourceNote": "Informal payments to public officials are the percentage of firms expected to make informal payments to public officials to \"get things done\" with regard to customs, taxes, licenses, regulations, services, and the like."
+    }, 
+    "SE.ADT.1524.LT.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "Literacy rate, youth total (% of people ages 15-24)", 
+        "sourceNote": "Youth (15-24) literacy rate (%). Total is the number of people age 15 to 24 years who can both read and write with understanding a short simple statement on their everyday life, divided by the population in that age group. Generally, \u2018literacy\u2019 also encompasses \u2018numeracy\u2019, the ability to make simple arithmetic calculations."
+    }, 
+    "db_retrain_before_fire": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org).", 
+        "name": "Retraining or reassignment obligation before redundancy?", 
+        "sourceNote": "Is retraining or reassignment obligation before redundancy? (Yes=1; No=0)"
+    }, 
+    "IQ.CPA.ECON.XQ": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank Group, CPIA database (http://www.worldbank.org/ida).", 
+        "name": "CPIA economic management cluster average (1=low to 6=high)", 
+        "sourceNote": "The economic management cluster includes macroeconomic management, fiscal policy, and debt policy."
+    }, 
+    "SP.POP.DPND": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank staff estimates from various sources including census reports, the United Nations Population Division's World Population Prospects, national statistical offices, household surveys conducted by national agencies, and ICF International.", 
+        "name": "Age dependency ratio (% of working-age population)", 
+        "sourceNote": "Age dependency ratio is the ratio of dependents--people younger than 15 or older than 64--to the working-age population--those ages 15-64. Data are shown as the proportion of dependents per 100 working-age population."
+    }, 
+    "SP.POP.0014.TO.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "The United Nations Population Division's World Population Prospects.", 
+        "name": "Population ages 0-14 (% of total)", 
+        "sourceNote": "Population, age 0-14 (% of total) is the population between the ages of 0 and 14 as a percentage of the total population."
+    }, 
+    "NY.GDP.PCAP.PP.KD": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, International Comparison Program database.", 
+        "name": "GDP per capita, PPP (constant 2011 international $)", 
+        "sourceNote": "GDP per capita based on purchasing power parity (PPP). PPP GDP is gross domestic product converted to international dollars using purchasing power parity rates. An international dollar has the same purchasing power over GDP as the U.S. dollar has in the United States. GDP at purchaser's prices is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in constant 2011 international dollars."
+    }, 
+    "SP.POP.65UP.TO.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "The United Nations Population Division's World Population Prospects.", 
+        "name": "Population ages 65 and above (% of total)", 
+        "sourceNote": "Population ages 65 and above as a percentage of the total population. Population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship--except for refugees not permanently settled in the country of asylum, who are generally considered part of the population of the country of origin."
+    }, 
+    "NE.GDI.FPRV.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank national accounts data, and OECD National Accounts data files.", 
+        "name": "Gross fixed capital formation, private sector (% of GDP)", 
+        "sourceNote": "Private investment covers gross outlays by the private sector (including private nonprofit agencies) on additions to its fixed domestic assets."
+    }, 
+    "DB_mw_19apprentice": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org).", 
+        "name": "Minimum wage for a 19-year old worker or an apprentice (US$/month)", 
+        "sourceNote": "Minimum wage for a 19-year old worker or an apprentice (US$/month)"
+    }, 
+    "NE.GDI.TOTL.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank national accounts data, and OECD National Accounts data files.", 
+        "name": "Gross capital formation (% of GDP)", 
+        "sourceNote": "Gross capital formation (formerly gross domestic investment) consists of outlays on additions to the fixed assets of the economy plus net changes in the level of inventories. Fixed assets include land improvements (fences, ditches, drains, and so on); plant, machinery, and equipment purchases; and the construction of roads, railways, and the like, including schools, offices, hospitals, private residential dwellings, and commercial and industrial buildings. Inventories are stocks of goods held by firms to meet temporary or unexpected fluctuations in production or sales, and \"work in progress.\" According to the 1993 SNA, net acquisitions of valuables are also considered capital formation."
+    }, 
+    "IS.ROD.DNST.K2": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Road Federation, World Road Statistics and electronic files, except where noted.", 
+        "name": "Road density (km of road per 100 sq. km of land area)", 
+        "sourceNote": "Road density is the ratio of the length of the country's total road network to the country's land area. The road network includes all roads in the country: motorways, highways, main or national roads, secondary or regional roads, and other urban and rural roads."
+    }, 
+    "IC.TAX.DURS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org/).", 
+        "name": "Time to prepare and pay taxes (hours)", 
+        "sourceNote": "Time to prepare and pay taxes is the time, in hours per year, it takes to prepare, file, and pay (or withhold) three major types of taxes: the corporate income tax, the value added or sales tax, and labor taxes, including payroll taxes and social security contributions."
+    }, 
+    "SE.ADT.LITR.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "Literacy rate, adult total (% of people ages 15 and above)", 
+        "sourceNote": "Adult (15+) literacy rate (%). Total is the percentage of the population age 15 and above who can, with understanding, read and write a short, simple statement on their everyday life. Generally, \u2018literacy\u2019 also encompasses \u2018numeracy\u2019, the ability to make simple arithmetic calculations. This indicator is calculated by dividing the number of literates aged 15 years and over by the corresponding age group population and multiplying the result by 100. "
+    }, 
+    "Off_shore_financial_centers": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Monetary Fund.", 
+        "name": "Countries categorized as offshore financial centers by the IMF and the Financial Stability Forum (FSF)", 
+        "sourceNote": "Countries categorized as offshore financial centers by the IMF and the Financial Stability Forum (FSF)."
+    }, 
+    "SL.EMP.WORK.MA.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Wage and salary workers, male (% of males employed)", 
+        "sourceNote": "Wage and salaried workers (employees) are those workers who hold the type of jobs defined as \"paid employment jobs,\" where the incumbents hold explicit (written or oral) or implicit employment contracts that give them a basic remuneration that is not directly dependent upon the revenue of the unit for which they work."
+    }, 
+    "SL.EMP.SELF.FE.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Self-employed, female (% of females employed)", 
+        "sourceNote": "Self employed workers are those workers who, working on their own account or with one or a few partners or in cooperative, hold the type of jobs defined as a \"self-employment jobs\" (i.e. jobs where the remuneration is directly dependent upon the profits derived from the goods and services produced). Self employed workers include three subcategories: employers, own-account workers, and members of producers' cooperatives."
+    }, 
+    "SP.DYN.LE00.FE.IN": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "(1) United Nations Population Division. World Population Prospects, (2) United Nations Statistical Division. Population and Vital Statistics Report (various years), (3) Census reports and other statistical publications from national statistical offices, (4) Eurostat: Demographic Statistics, (5) Secretariat of the Pacific Community: Statistics and Demography Programme, and (6) U.S. Census Bureau: International Database.", 
+        "name": "Life expectancy at birth, female (years)", 
+        "sourceNote": "Life expectancy at birth indicates the number of years a newborn infant would live if prevailing patterns of mortality at the time of its birth were to stay the same throughout its life."
+    }, 
+    "SL.FAM.WORK.FE.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Contributing family workers, female (% of females employed)", 
+        "sourceNote": "Contributing family workers are those workers who hold  \u2018self-employment jobs\u2019 as own-account workers in a market-oriented establishment operated by a related person living in the same household."
+    }, 
+    "SL.TLF.TERT.FE.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Labor force with tertiary education, female (% of female labor force)", 
+        "sourceNote": "Labor force with tertiary education is the proportion of labor force that has a tertiary education, as a percentage of the total labor force."
+    }, 
+    "SP.URB.TOTL.IN.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "United Nations, World Urbanization Prospects.", 
+        "name": "Urban population (% of total)", 
+        "sourceNote": "Urban population refers to people living in urban areas as defined by national statistical offices. It is calculated using World Bank population estimates and urban ratios from the United Nations World Urbanization Prospects."
+    }, 
+    "IT.CEL.SETS.P2": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Telecommunication Union, World Telecommunication/ICT Development Report and database, and World Bank estimates.", 
+        "name": "Mobile cellular subscriptions (per 100 people)", 
+        "sourceNote": "Mobile cellular telephone subscriptions are subscriptions to a public mobile telephone service using cellular technology, which provide access to the public switched telephone network. Post-paid and prepaid subscriptions are included."
+    }, 
+    "EN.POP.DNST": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "Food and Agriculture Organization and World Bank population estimates.", 
+        "name": "Population density (people per sq. km of land area)", 
+        "sourceNote": "Population density is midyear population divided by land area in square kilometers. Population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship--except for refugees not permanently settled in the country of asylum, who are generally considered part of the population of their country of origin. Land area is a country's total area, excluding area under inland water bodies, national claims to continental shelf, and exclusive economic zones. In most cases the definition of inland water bodies includes major rivers and lakes."
+    }, 
+    "FP.CPI.TOTL": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Monetary Fund, International Financial Statistics and data files.", 
+        "name": "Consumer price index (2010 = 100)", 
+        "sourceNote": "Consumer price index reflects changes in the cost to the average consumer of acquiring a basket of goods and services that may be fixed or changed at specified intervals, such as yearly. The Laspeyres formula is generally used."
+    }, 
+    "NV.IND.MANF.KD": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank national accounts data, and OECD National Accounts data files.", 
+        "name": "Manufacturing, value added (constant 2005 US$)", 
+        "sourceNote": "Manufacturing refers to industries belonging to ISIC divisions 15-37. Value added is the net output of a sector after adding up all outputs and subtracting intermediate inputs. It is calculated without making deductions for depreciation of fabricated assets or depletion and degradation of natural resources. The origin of value added is determined by the International Standard Industrial Classification (ISIC), revision 3. Data are expressed constant 2005 U.S. dollars."
+    }, 
+    "IT.NET.USER.P2": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Telecommunication Union, World Telecommunication/ICT Development Report and database, and World Bank estimates.", 
+        "name": "Internet users (per 100 people)", 
+        "sourceNote": "Internet users are people with access to the worldwide network."
+    }, 
+    "IC.BUS.NREG": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank's Entrepreneurship Survey and database (http://econ.worldbank.org/research/entrepreneurship).", 
+        "name": "New businesses registered (number)", 
+        "sourceNote": "New businesses registered are the number of new limited liability corporations registered in the calendar year."
+    }, 
+    "IQ.CPA.GNDR.XQ": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank Group, CPIA database (http://www.worldbank.org/ida).", 
+        "name": "CPIA gender equality rating (1=low to 6=high)", 
+        "sourceNote": "Gender equality assesses the extent to which the country has installed institutions and programs to enforce laws and policies that promote equal access for men and women in education, health, the economy, and protection under law."
+    }, 
+    "SP.POP.65UP.TO": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank staff estimates using the World Bank's population and the United Nations Population Division's World Population Prospects. The World Bank's population estimates are from various sources including the United Nations Population Division's World Population Prospects; census reports and statistical publications from national statistical offices; household surveys conducted by national agencies, Macro International, and the U.S. Conters for Disease Control and Prevention; Eurostat's Demographic Statistics; Secretariat of the Pacific Community, Statistics and Demography Programme; and U.S. Bureau of the Census, International Data Base.", 
+        "name": "Population ages 65 and above, total", 
+        "sourceNote": "Total population 65 years of age or older. Population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship--except for refugees not permanently settled in the country of asylum, who are generally considered part of the population of the country of origin."
+    }, 
+    "SP.POP.TOTL": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "(1) United Nations Population Division. World Population Prospects, (2) United Nations Statistical Division. Population and Vital Statistics Report  (various years), (3) Census reports and other statistical publications from national statistical offices, (4) Eurostat: Demographic Statistics, (5) Secretariat of the Pacific Community: Statistics and Demography Programme, and (6) U.S. Census Bureau: International Database.", 
+        "name": "Population, total", 
+        "sourceNote": "Total population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship--except for refugees not permanently settled in the country of asylum, who are generally considered part of the population of their country of origin. The values shown are midyear estimates."
+    }, 
+    "db_sev_pau_20yr": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org).", 
+        "name": "Weeks of severance pay for redundancy of experienced workers", 
+        "sourceNote": "Severance pay for redundancy dismissal (for a worker with 20 years of tenure, in salary weeks)"
+    }, 
+    "GC.TAX.YPKG.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Monetary Fund, Government Finance Statistics Yearbook and data files.", 
+        "name": "Taxes on income, profits and capital gains (% of total taxes)", 
+        "sourceNote": "Taxes on income, profits, and capital gains are levied on the actual or presumptive net income of individuals, on the profits of corporations and enterprises, and on capital gains, whether realized or not, on land, securities, and other assets. Intragovernmental payments are eliminated in consolidation."
+    }, 
+    "db_notify_9_dismiss": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org).", 
+        "name": "Third-party notification if 9 workers are dismissed?", 
+        "sourceNote": "Is third-party notification required if 9 workers are dismissed? (Yes=1; No=0)"
+    }, 
+    "IC.ISV.DURS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org/).", 
+        "name": "Time to resolve insolvency (years)", 
+        "sourceNote": "Time to resolve insolvency is the number of years from the filing for insolvency in court until the resolution of distressed assets."
+    }, 
+    "SL.UEM.TOTL.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Unemployment, total (% of total labor force) (modeled ILO estimate)", 
+        "sourceNote": "Unemployment refers to the share of the labor force that is without work but available for and seeking employment."
+    }, 
+    "SE.PRM.CMPT.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "Primary completion rate, total (% of relevant age group)", 
+        "sourceNote": "Primary completion rate is measured as the gross intake ratio to the last grade of primary education. It is calculated by taking the total number of students in the last grade of primary school, minus the number of repeaters in that grade, divided by the total number of children of official graduation age."
+    }, 
+    "SE.PRM.CMPT.MA.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "Primary completion rate, male (% of relevant age group)", 
+        "sourceNote": "Primary completion rate is measured as the gross intake ratio to the last grade of primary education. It is calculated by taking the total number of students in the last grade of primary school, minus the number of repeaters in that grade, divided by the total number of children of official graduation age."
+    }, 
+    "FS.AST.PRVT.GD.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Monetary Fund, International Financial Statistics and data files, and World Bank and OECD GDP estimates.", 
+        "name": "Domestic credit to private sector (% of GDP)", 
+        "sourceNote": "Domestic credit to private sector refers to financial resources provided to the private sector by financial corporations, such as through loans, purchases of nonequity securities, and trade credits and other accounts receivable, that establish a claim for repayment. For some countries these claims include credit to public enterprises. The financial corporations include monetary authorities and deposit money banks, as well as other financial corporations where data are available (including corporations that do not accept transferable deposits but do incur such liabilities as time and savings deposits). Examples of other financial corporations are finance and leasing companies, money lenders, insurance corporations, pension funds, and foreign exchange companies."
+    }, 
+    "IC.REG.DURS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org/).", 
+        "name": "Time required to start a business (days)", 
+        "sourceNote": "Time required to start a business is the number of calendar days needed to complete the procedures to legally operate a business. If a procedure can be speeded up at additional cost, the fastest procedure, independent of cost, is chosen."
+    }, 
+    "SL.UEM.SECO.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Unemployment with secondary education (% of total unemployment)", 
+        "sourceNote": "Unemployment by level of educational attainment shows the unemployed by level of educational attainment, as a percentage of the unemployed. The levels of educational attainment accord with the International Standard Classification of Education 1997 of the United Nations Educational, Cultural, and Scientific Organization (UNESCO)."
+    }, 
+    "db_notice_20yr": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org).", 
+        "name": "Notice period for redundancy dismissal (for a worker with 20 years of tenure, in salary weeks)", 
+        "sourceNote": "Notice period for redundancy dismissal (for a worker with 20 years of tenure, in salary weeks)"
+    }, 
+    "SL.FAM.WORK.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Contributing family workers, total (% of total employed)", 
+        "sourceNote": "Contributing family workers are those workers who hold \"self-employment jobs\" as own-account workers in a market-oriented establishment operated by a related person living in the same household."
+    }, 
+    "SE.ENR.SECO.FM.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "United Nations Educational, Scientific, and Cultural Organization (UNESCO) Institute for Statistics.", 
+        "name": "Ratio of female to male secondary enrollment (%)", 
+        "sourceNote": "Ratio of female to male secondary enrollment is the percentage of girls to boys enrolled at secondary level in public and private schools."
+    }, 
+    "SL.TLF.PRIM.MA.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Labor force with primary education, male (% of male labor force)", 
+        "sourceNote": "Labor force with primary education is the proportion of the labor force that has a primary education, as a percentage of the total labor force."
+    }, 
+    "db_mw_val": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org).", 
+        "name": "Ratio of minimum wage to value added per worker", 
+        "sourceNote": "Ratio of minimum wage to value added per worker."
+    }, 
+    "BX.TRF.PWKR.CD": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Monetary Fund, Balance of Payments Statistics Yearbook and data files.", 
+        "name": "Personal transfers, receipts (BoP, current US$)", 
+        "sourceNote": "Personal transfers consist of all current transfers in cash or in kind made or received by resident households to or from nonresident households. Personal transfers thus include all current transfers between resident and nonresident individuals. Data are in current U.S. dollars."
+    }, 
+    "NV.AGR.TOTL.KD": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank national accounts data, and OECD National Accounts data files.", 
+        "name": "Agriculture, value added (constant 2005 US$)", 
+        "sourceNote": "Agriculture corresponds to ISIC divisions 1-5 and includes forestry, hunting, and fishing, as well as cultivation of crops and livestock production. Value added is the net output of a sector after adding up all outputs and subtracting intermediate inputs. It is calculated without making deductions for depreciation of fabricated assets or depletion and degradation of natural resources. The origin of value added is determined by the International Standard Industrial Classification (ISIC), revision 3. Data are in constant 2005 U.S. dollars."
+    }, 
+    "IC.CRD.PRVT.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org/).", 
+        "name": "Private credit bureau coverage (% of adults)", 
+        "sourceNote": "Private credit bureau coverage reports the number of individuals or firms listed by a private credit bureau with current information on repayment history, unpaid debts, or credit outstanding. The number is expressed as a percentage of the adult population."
+    }, 
+    "SE.SEC.ENRR.MA": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "School enrollment, secondary, male (% gross)", 
+        "sourceNote": "Gross enrolment ratio. Secondary. All programmes. Male is the total male enrollment in secondary education, regardless of age, expressed as a percentage of the male population of official secondary education age. GER can exceed 100% due to the inclusion of over-aged and under-aged students because of early or late school entrance and grade repetition."
+    }, 
+    "TX.QTY.MRCH.XD.WD": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "United Nations Conference on Trade and Development, Handbook of Statistics and data files, and International Monetary Fund, International Financial Statistics.", 
+        "name": "Export volume index (2000 = 100)", 
+        "sourceNote": "Export volume indexes are derived from UNCTAD's volume index series and are the ratio of the export value indexes to the corresponding unit value indexes. Unit value indexes are based on data reported by countries that demonstrate consistency under UNCTAD quality controls, supplemented by UNCTAD\u2019s estimates using the previous year\u2019s trade values at the Standard International Trade Classification three-digit level as weights. To improve data coverage, especially for the latest periods, UNCTAD constructs a set of average prices indexes at the three-digit product classification of the Standard International Trade Classification revision 3 using UNCTAD\u2019s Commodity Price Statistics, interna\u00adtional and national sources, and UNCTAD secretariat estimates and calculates unit value indexes at the country level using the current year\u2019s trade values as weights. For economies for which UNCTAD does not publish data, the export volume indexes (lines 72) in the IMF's International Financial Statistics are used."
+    }, 
+    "SL.TLF.PRIM.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Labor force with primary education (% of total)", 
+        "sourceNote": "Labor force with primary education is the proportion of the labor force that has a primary education, as a percentage of the total labor force."
+    }, 
+    "SP.DYN.LE00.MA.IN": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "(1) United Nations Population Division. World Population Prospects, (2) United Nations Statistical Division. Population and Vital Statistics Report (various years), (3) Census reports and other statistical publications from national statistical offices, (4) Eurostat: Demographic Statistics, (5) Secretariat of the Pacific Community: Statistics and Demography Programme, and (6) U.S. Census Bureau: International Database.", 
+        "name": "Life expectancy at birth, male (years)", 
+        "sourceNote": "Life expectancy at birth indicates the number of years a newborn infant would live if prevailing patterns of mortality at the time of its birth were to stay the same throughout its life."
+    }, 
+    "IC.TAX.PAYM": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org/).", 
+        "name": "Tax payments (number)", 
+        "sourceNote": "Tax payments by businesses are the total number of taxes paid by businesses, including electronic filing. The tax is counted as paid once a year even if payments are more frequent."
+    }, 
+    "SP.RUR.TOTL": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "The data on urban population shares used to estimate rural population come from the United Nations, World Urbanization Prospects. Total population figures are World Bank estimates.", 
+        "name": "Rural population", 
+        "sourceNote": "Rural population refers to people living in rural areas as defined by national statistical offices. It is calculated as the difference between total population and urban population."
+    }, 
+    "SL.TLF.SECO.MA.ZS": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Labor force with secondary education, male (% of male labor force)", 
+        "sourceNote": "Labor force with secondary education is the proportion of the labor force that has a secondary education, as a percentage of the total labor force."
+    }, 
+    "SI.POV.2DAY": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are from the Luxembourg Income Study database. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Poverty headcount ratio at $2 a day (PPP) (% of population)", 
+        "sourceNote": "Population below $2 a day is the percentage of the population living on less than $2.00 a day at 2005 international prices. As a result of revisions in PPP exchange rates, poverty rates for individual countries cannot be compared with poverty rates reported in earlier editions."
+    }, 
+    "db_notice_5yr": {
+        "source": "Jobs for Knowledge Platform", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org).", 
+        "name": "Notice period for redundancy dismissal (for a worker with 5 years of tenure, in salary weeks)", 
+        "sourceNote": "Notice period for redundancy dismissal (for a worker with 5 years of tenure, in salary weeks)"
+    }
+}

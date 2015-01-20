@@ -1,0 +1,782 @@
+{
+    "SH.MLR.NETS.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "UNICEF, State of the World's Children, Childinfo, and Demographic and Health Surveys by ICF International.", 
+        "name": "Use of insecticide-treated bed nets (% of under-5 population)", 
+        "sourceNote": "Use of insecticide-treated bed nets refers to the percentage of children under age five who slept under an insecticide-treated bednet to prevent malaria."
+    }, 
+    "TM.TAX.CLTH.CD.LD": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "United Nations Conference on Trade and Development, World Trade Organization, and International Trade Center. Data are available online at: www.mdg-trade.org.", 
+        "name": "Average tariffs imposed by developed countries on clothing products from least developed countries (%)", 
+        "sourceNote": "It is the average tariffs imposed by developed countries on subsets of selected items (agricultural products, textile and clothing exports) that are deemed to be of interest to developing countries. For the purpose of calculating this indicator, Japan in Asia, Canada and the United States in North America, Australia and New Zealand in Oceania and Iceland, Norway, Switzerland and the EU (25 countries included since 2004) in Europe are considered \u201cdeveloped\u201d regions or areas, following the common accepted practice used for MDG indicators. Developing countries are those not listed as developed or transition countries. The list of least developed countries (LDCs) has been agreed by the General Assembly, on the recommendation of the Committee for Development Policy, Economic and Social Council. Agricultural, clothing and textile groups follow the definition in WTO agreements based on the Harmonized System 1992, transposed to current versions by WTO Secretariat. Agricultural products correspond to Harmonized System 1992, chapters 01 to 24 less fish and fish products (chap. 03); in addition to parts of chapters 29, 33, 35, 38, 41, 43, 50 to 53. Textile is mainly covered in chapters 50 to 60. The bulk of clothing products are found in chapters 61-63.\n"
+    }, 
+    "SH.STA.BRTC.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "UNICEF, State of the World's Children, Childinfo, and Demographic and Health Surveys by ICF International.", 
+        "name": "Births attended by skilled health staff (% of total)", 
+        "sourceNote": "Births attended by skilled health staff are the percentage of deliveries attended by personnel trained to give the necessary supervision, care, and advice to women during pregnancy, labor, and the postpartum period; to conduct deliveries on their own; and to care for newborns."
+    }, 
+    "DT.HPC.MDRI.PV": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Bank, Economic Policy and Debt Department.", 
+        "name": "Debt relief delivered in full under MDRI initiative, cumulative US$ in end-2008 NPV terms", 
+        "sourceNote": "Debt relief delivered in full under MDRI initiative is the net present value of debt relief from International Development Association, International Monetary Fund, African Development Fund, and Inter-American Development Bank and delivered to countries having reached the HIPC completion point converted to end-2010 terms."
+    }, 
+    "NE.TRD.GNFS.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Bank national accounts data, and OECD National Accounts data files.", 
+        "name": "Trade (% of GDP)", 
+        "sourceNote": "Trade is the sum of exports and imports of goods and services measured as a share of gross domestic product."
+    }, 
+    "SP.UWT.TFRT": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Household surveys, including Demographic and Health Surveys by ICF International and Multiple Indicator Cluster Surveys by UNICEF.", 
+        "name": "Unmet need for contraception (% of married women ages 15-49)", 
+        "sourceNote": "Unmet need for contraception is the percentage of fertile, married women of reproductive age who do not want to become pregnant and are not using contraception."
+    }, 
+    "DC.ODA.SOCL.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Development Assistance Committee of the Organisation for Economic Co-operation and Development, Geographical Distribution of Financial Flows to Developing Countries, Development Co-operation Report, and International Development Statistics database. Data are available online at: www.oecd.org/dac/stats/idsonline.", 
+        "name": "Bilateral, sector-allocable ODA to basic social services (% of bilateral ODA commitments)", 
+        "sourceNote": "Bilateral official development assistance (ODA) commitments are firm obligations, expressed in writing and backed by the necessary funds, undertaken by official bilateral donors to provide specified assistance to a recipient country or a multilateral organization. Bilateral commitments are recorded in the full amount of expected transfer, irrespective of the time required for completing disbursements. Total sector-allocable aid is the sum of aid that can be assigned to specific sectors or multisector activities. Basic social services consists of, primary education, basic life skills for youth and adults and early childhood education, basic health care, basic health infrastructure, basic nutrition, infectious disease control, health education and health personnel development, population policy and administrative management, reproductive health care, family planning, sexually transmitted disease (STD) control including HIV/AIDS, personnel development (population & reproductive health), basic drinking water supply and basic sanitation, and multi-sector aid for basic social services."
+    }, 
+    "SE.PRM.PRSL.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "Persistence to last grade of primary, total (% of cohort)", 
+        "sourceNote": "Survival rate to last grade of primary. Total is the share of children enrolled in the first grade of primary school who eventually reach the last grade of primary. The estimate is calculated on the basis of the reconstructed cohort method, which uses data on enrolment and repeaters for two consecutive years."
+    }, 
+    "EG.USE.COMM.GD.PP.KD": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "International Energy Agency (IEA Statistics \u00a9 OECD/IEA, http://www.iea.org/stats/index.asp), and World Bank PPP data.", 
+        "name": "Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)", 
+        "sourceNote": "Energy use per PPP GDP is the kilogram of oil equivalent of energy use per constant PPP GDP. Energy use refers to use of primary energy before transformation to other end-use fuels, which is equal to indigenous production plus imports and stock changes, minus exports and fuels supplied to ships and aircraft engaged in international transport. PPP GDP is gross domestic product converted to 2011 constant international dollars using purchasing power parity rates. An international dollar has the same purchasing power over GDP as a U.S. dollar has in the United States."
+    }, 
+    "SH.HIV.KNOW.FE.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Household surveys such as Demographic and Health Surveys and Multiple Indicator Cluster Surveys.  Largely compiled by UNICEF.", 
+        "name": "% of females ages 15-49 having comprehensive correct knowledge about HIV (2 prevent ways and reject 3 misconceptions)", 
+        "sourceNote": "Knowledge of HIV is the percentage of respondents who correctly identify the two major ways of preventing the sexual transmission of HIV (using condoms and limiting sex to one faithful, uninfected partner), who reject the two most common local misconceptions about HIV transmission, and who know that a healthy-looking person can have HIV."
+    }, 
+    "SI.POV.GAPS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are from the Luxembourg Income Study database. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Poverty gap at $1.25 a day (PPP) (%)", 
+        "sourceNote": "Poverty gap is the mean shortfall from the poverty line (counting the nonpoor as having zero shortfall), expressed as a percentage of the poverty line. This measure reflects the depth of poverty as well as its incidence."
+    }, 
+    "DT.ODA.ALLD.CD": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Development Assistance Committee of the Organisation for Economic Co-operation and Development, Geographical Distribution of Financial Flows to Developing Countries, Development Co-operation Report, and International Development Statistics database. Data are available online at: www.oecd.org/dac/stats/idsonline.", 
+        "name": "Net official development assistance and official aid received (current US$)", 
+        "sourceNote": "Net official development assistance (ODA) consists of disbursements of loans made on concessional terms (net of repayments of principal) and grants by official agencies of the members of the Development Assistance Committee (DAC), by multilateral institutions, and by non-DAC countries to promote economic development and welfare in countries and territories in the DAC list of ODA recipients. It includes loans with a grant element of at least 25 percent (calculated at a rate of discount of 10 percent). Net official aid refers to aid flows (net of repayments) from official donors to countries and territories in part II of the DAC list of recipients: more advanced countries of Central and Eastern Europe, the countries of the former Soviet Union, and certain advanced developing countries and territories. Official aid is provided under terms and conditions similar to those for ODA. Part II of the DAC List was abolished in 2005. The collection of data on official aid and other resource flows to Part II countries ended with 2004 data. Data are in current U.S. dollars."
+    }, 
+    "SH.IMM.MEAS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "WHO and UNICEF (http://www.who.int/immunization/monitoring_surveillance/en/).", 
+        "name": "Immunization, measles (% of children ages 12-23 months)", 
+        "sourceNote": "Child immunization measures the percentage of children ages 12-23 months who received vaccinations before 12 months or at any time before the survey. A child is considered adequately immunized against measles after receiving one dose of vaccine."
+    }, 
+    "NY.GNP.ATLS.CD": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Bank", 
+        "name": "GNI, Atlas method (current US$)", 
+        "sourceNote": "GNI, Atlas method (current US$)"
+    }, 
+    "SH.DYN.MORT": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Estimates developed by the UN Inter-agency Group for Child Mortality Estimation (UNICEF, WHO, World Bank, UN DESA Population Division) at www.childmortality.org.", 
+        "name": "Mortality rate, under-5 (per 1,000 live births)", 
+        "sourceNote": "Under-five mortality rate is the probability per 1,000 that a newborn baby will die before reaching age five, if subject to age-specific mortality rates of the specified year."
+    }, 
+    "NE.GDI.TOTL.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Bank national accounts data, and OECD National Accounts data files.", 
+        "name": "Gross capital formation (% of GDP)", 
+        "sourceNote": "Gross capital formation (formerly gross domestic investment) consists of outlays on additions to the fixed assets of the economy plus net changes in the level of inventories. Fixed assets include land improvements (fences, ditches, drains, and so on); plant, machinery, and equipment purchases; and the construction of roads, railways, and the like, including schools, offices, hospitals, private residential dwellings, and commercial and industrial buildings. Inventories are stocks of goods held by firms to meet temporary or unexpected fluctuations in production or sales, and \"work in progress.\" According to the 1993 SNA, net acquisitions of valuables are also considered capital formation."
+    }, 
+    "SE.PRM.TENR": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "Adjusted net enrollment rate, primary (% of primary school age children)\n", 
+        "sourceNote": "Adjusted net enrollment is the number of pupils of the school-age group for primary education, enrolled either in primary or secondary education, expressed as a percentage of the total population in that age group."
+    }, 
+    "SI.POV.RUHC": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Bank, Global Poverty Working Group. Data are based on World Bank's country poverty assessments and country Poverty Reduction Strategies.", 
+        "name": "Rural poverty headcount ratio at national poverty lines (% of rural population)", 
+        "sourceNote": "World Bank, Global Poverty Working Group. Data are compiled from official government sources or are computed by World Bank staff using national (i.e. country\u2013specific) poverty lines."
+    }, 
+    "NY.AGR.SUBS.GD.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Organisation for Economic Co-operation and Development, Producer and Consumer Support Estimates database. Available online at www.oecd.org/tad/support/psecse.", 
+        "name": "Agricultural support estimate (% of GDP)", 
+        "sourceNote": "Agriculture support is the annual monetary value of all gross transfers from taxpayers and consumers, both domestic and foreign (in the form of subsidies arising from policy measures that support agriculture), net of the associated budgetary receipts, regardless of their objectives and impacts on farm production and income, or consumption of farm products."
+    }, 
+    "SH.TBS.INCD": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Health Organization, Global Tuberculosis Report.", 
+        "name": "Incidence of tuberculosis (per 100,000 people)", 
+        "sourceNote": "Incidence of tuberculosis is the estimated number of new pulmonary, smear positive, and extra-pulmonary tuberculosis cases. Incidence includes patients with HIV."
+    }, 
+    "AG.LND.FRST.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Food and Agriculture Organization, electronic files and web site.", 
+        "name": "Forest area (% of land area)", 
+        "sourceNote": "Forest area is land under natural or planted stands of trees of at least 5 meters in situ, whether productive or not, and excludes tree stands in agricultural production systems (for example, in fruit plantations and agroforestry systems) and trees in urban parks and gardens."
+    }, 
+    "SP.DYN.IMRT.IN": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Estimates developed by the UN Inter-agency Group for Child Mortality Estimation (UNICEF, WHO, World Bank, UN DESA Population Division) at www.childmortality.org.", 
+        "name": "Mortality rate, infant (per 1,000 live births)", 
+        "sourceNote": "Infant mortality rate is the number of infants dying before reaching one year of age, per 1,000 live births in a given year."
+    }, 
+    "SL.EMP.1524.SP.MA.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)", 
+        "sourceNote": "Employment to population ratio is the proportion of a country's population that is employed. Ages 15-24 are generally considered the youth population."
+    }, 
+    "SL.EMP.SELF.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Self-employed, total (% of total employed)", 
+        "sourceNote": "Self employed workers are those workers who, working on their own account or with one or a few partners or in cooperative, hold the type of jobs defined as a \"self-employment jobs\" (i.e. jobs where the remuneration is directly dependent upon the profits derived from the goods and services produced). Self employed workers include three subcategories: employers, own-account workers, and members of producers' cooperatives."
+    }, 
+    "SL.EMP.VULN.FE.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Vulnerable employment, female (% of female employment)", 
+        "sourceNote": "Vulnerable employment is unpaid family workers and own-account workers as a percentage of total employment."
+    }, 
+    "SH.TBS.MORT": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Health Organization, Global Tuberculosis Report.", 
+        "name": "Tuberculosis death rate (per 100,000 people)", 
+        "sourceNote": "Tuberculosis death rate is the estimated number of deaths from tuberculosis among HIV-negative people, expressed as the rate per 100,000 population.  Estimates for all years are recalculated as new information becomes available and techniques are refined, so they may differ from those published previously."
+    }, 
+    "SH.CON.1524.MA.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Demographic and Health Surveys by ICF International.", 
+        "name": "Condom use, population ages 15-24, male (% of males ages 15-24)", 
+        "sourceNote": "Condom use is the percentage of the population ages 15-24 who used a condom at last intercourse in the last 12 months."
+    }, 
+    "SL.EMP.VULN.MA.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Vulnerable employment, male (% of male employment)", 
+        "sourceNote": "Vulnerable employment is unpaid family workers and own-account workers as a percentage of total employment."
+    }, 
+    "EN.ATM.CO2E.KT": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Carbon Dioxide Information Analysis Center, Environmental Sciences Division, Oak Ridge National Laboratory, Tennessee, United States.", 
+        "name": "CO2 emissions (kt)", 
+        "sourceNote": "Carbon dioxide emissions are those stemming from the burning of fossil fuels and the manufacture of cement. They include carbon dioxide produced during consumption of solid, liquid, and gas fuels and gas flaring."
+    }, 
+    "SI.POV.URHC": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Bank, Global Poverty Working Group. Data are based on World Bank's country poverty assessments and country Poverty Reduction Strategies.", 
+        "name": "Urban poverty headcount ratio at national poverty lines (% of urban population)", 
+        "sourceNote": "World Bank, Global Poverty Working Group. Data are compiled from official government sources or are computed by World Bank staff using national (i.e. country\u2013specific) poverty lines."
+    }, 
+    "DT.HPC.COMR.PV": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Bank, Economic Policy and Debt Department.", 
+        "name": "Debt relief committed under HIPC initiative, cumulative US$ in end-2008 NPV terms", 
+        "sourceNote": "Debt relief is committed as of the decision point (assuming full participation of creditors) under the enhanced HIPC Initiative. It is calculated as the amount needed to bring the net present value (NPV) of the country's debt level to the thresholds established by the HIPC Initiative (150 percent of exports or in certain cases 250 percent of fiscal revenues). Topping-up assistance and assistance provided under the original HIPC Initiative were committed in net present value terms as of the decision point and are converted to end-20109 terms."
+    }, 
+    "DT.ODA.ODAT.CD": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Development Assistance Committee of the Organisation for Economic Co-operation and Development, Geographical Distribution of Financial Flows to Developing Countries, Development Co-operation Report, and International Development Statistics database. Data are available online at: www.oecd.org/dac/stats/idsonline.", 
+        "name": "Net official development assistance received (current US$)", 
+        "sourceNote": "Net official development assistance (ODA) consists of disbursements of loans made on concessional terms (net of repayments of principal) and grants by official agencies of the members of the Development Assistance Committee (DAC), by multilateral institutions, and by non-DAC countries to promote economic development and welfare in countries and territories in the DAC list of ODA recipients. It includes loans with a grant element of at least 25 percent (calculated at a rate of discount of 10 percent). Data are in current U.S. dollars."
+    }, 
+    "DC.ODA.TOTL.CD": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Development Assistance Committee of the Organisation for Economic Co-operation and Development, Geographical Distribution of Financial Flows to Developing Countries, Development Co-operation Report, and International Development Statistics database. Data are available online at: www.oecd.org/dac/stats/idsonline.", 
+        "name": "Net ODA provided, total (current US$)", 
+        "sourceNote": "Net Official development assistance (ODA) comprises grants or loans to developing countries and territories on the OECD/DAC list of aid recipients that are undertaken by the official sector with promotion of economic development and welfare as the main objective and at concessional financial terms."
+    }, 
+    "SE.PRM.NENR": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "School enrollment, primary (% net)", 
+        "sourceNote": "Net enrolment rate. Primary. Total is the ratio of children of the official primary school age who are enrolled in primary school to the total population of the official primary school age."
+    }, 
+    "DT.ODA.ODAT.GN.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Development Assistance Committee of the Organisation for Economic Co-operation and Development, Geographical Distribution of Financial Flows to Developing Countries, Development Co-operation Report, and International Development Statistics database. Data are available online at: www.oecd.org/dac/stats/idsonline. World Bank GNI estimates are used for the denominator.", 
+        "name": "Net ODA received (% of GNI)", 
+        "sourceNote": "Net official development assistance (ODA) consists of disbursements of loans made on concessional terms (net of repayments of principal) and grants by official agencies of the members of the Development Assistance Committee (DAC), by multilateral institutions, and by non-DAC countries to promote economic development and welfare in countries and territories in the DAC list of ODA recipients. It includes loans with a grant element of at least 25 percent (calculated at a rate of discount of 10 percent)."
+    }, 
+    "IT.CEL.SETS.P2": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "International Telecommunication Union, World Telecommunication/ICT Development Report and database, and World Bank estimates.", 
+        "name": "Mobile cellular subscriptions (per 100 people)", 
+        "sourceNote": "Mobile cellular telephone subscriptions are subscriptions to a public mobile telephone service using cellular technology, which provide access to the public switched telephone network. Post-paid and prepaid subscriptions are included."
+    }, 
+    "SP.ADO.TFRT": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "United Nations Population Division, World Population Prospects.", 
+        "name": "Adolescent fertility rate (births per 1,000 women ages 15-19)", 
+        "sourceNote": "Adolescent fertility rate is the number of births per 1,000 women ages 15-19."
+    }, 
+    "SE.ENR.ORPH": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "United Nations Children's Fund (UNICEF) (UN MDG site).", 
+        "name": "Ratio of school attendance of orphans to school attendance of non-orphans ages 10-14", 
+        "sourceNote": "Ratio of school attendance of orphans to school attendance of non orphans is the ratio of school attendance of orphans to school attendance of non orphans ages 10-14."
+    }, 
+    "DT.HPC.STTS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Bank, Economic Policy and Debt Department.", 
+        "name": "Status under enhanced HIPC initiative", 
+        "sourceNote": "Indicator shows the status of heavily indebted poor countries country under the enhanced HIPC initiative. Heavily indebted poor countries reach HIPC decision point if they have a track record of macroeconomic stability, have prepared an Interim Poverty Reduction Strategy through a participatory process, and have cleared or reached an agreement on a process to clear, the outstanding arrears to multilateral creditors. The amount of debt relief necessary to bring countries\u2019 debt indicators to HIPC thresholds is calculated, and countries begin receiving debt relief. Heavily indebted poor countries reach HIPC completion point if they maintain macroeconomic stability under a Poverty Reduction and Growth Facility (PRGF) supported program, carry out key structural and social reforms agreed on at the decision point, and implement satisfactorily Poverty Reduction Strategy for one year. Debt relief is then provided irrevocably by the country\u2019s creditors."
+    }, 
+    "IT.MLT.MAIN.P2": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "International Telecommunication Union, World Telecommunication/ICT Development Report and database, and World Bank estimates.", 
+        "name": "Telephone lines (per 100 people)", 
+        "sourceNote": "Telephone lines are fixed telephone lines that connect a subscriber's terminal equipment to the public switched telephone network and that have a port on a telephone exchange. Integrated services digital network channels ands fixed wireless subscribers are included."
+    }, 
+    "SH.H2O.SAFE.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "WHO/UNICEF Joint Monitoring Programme (JMP) for Water Supply and Sanitation (http://www.wssinfo.org/).", 
+        "name": "Improved water source (% of population with access)", 
+        "sourceNote": "Access to an improved water source refers to the percentage of the population using an improved drinking water source. The improved drinking water source includes piped water on premises (piped household water connection located inside the user\u2019s dwelling, plot or yard), and other improved drinking water sources (public taps or standpipes, tube wells or boreholes, protected dug wells, protected springs, and rainwater collection)."
+    }, 
+    "SL.EMP.VULN.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Vulnerable employment, total (% of total employment)", 
+        "sourceNote": "Vulnerable employment is unpaid family workers and own-account workers as a percentage of total employment."
+    }, 
+    "SN.ITK.DEFC.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Food and Agriculture Organization, The State of Food Insecurity in the World (http://www.fao.org/publications/sofi/food-security-indicators/en/).", 
+        "name": "Prevalence of undernourishment (% of population)", 
+        "sourceNote": "Population below minimum level of dietary energy consumption (also referred to as prevalence of undernourishment) shows the percentage of the population whose food intake is insufficient to meet dietary energy requirements continuously. Data showing as 2.5 signifies a prevalence of undernourishment below 2.5%."
+    }, 
+    "SH.CON.1524.FE.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Demographic and Health Surveys by ICF International.", 
+        "name": "Condom use, population ages 15-24, female (% of females ages 15-24)", 
+        "sourceNote": "Condom use is the percentage of the population ages 15-24 who used a condom at last intercourse in the last 12 months."
+    }, 
+    "SE.ADT.1524.LT.FE.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "Literacy rate, youth female (% of females ages 15-24)", 
+        "sourceNote": "Youth (15-24) literacy rate (%). Female is the number of females age 15 to 24 years who can both read and write with understanding a short simple statement on their everyday life, divided by the female population in that age group. Generally, \u2018literacy\u2019 also encompasses \u2018numeracy\u2019, the ability to make simple arithmetic calculations."
+    }, 
+    "SE.PRM.PRSL.MA.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "Persistence to last grade of primary, male (% of cohort)", 
+        "sourceNote": "Survival rate to last grade of primary. Male is the share of male children enrolled in the first grade of primary school who eventually reach the last grade of primary. The estimate is calculated on the basis of the reconstructed cohort method, which uses data on enrolment and repeaters for two consecutive years."
+    }, 
+    "DT.ODA.ODAT.PC.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Development Assistance Committee of the Organisation for Economic Co-operation and Development, Geographical Distribution of Financial Flows to Developing Countries, Development Co-operation Report, and International Development Statistics database. Data are available online at: www.oecd.org/dac/stats/idsonline. World Bank population estimates are used for the denominator.", 
+        "name": "Net ODA received per capita (current US$)", 
+        "sourceNote": "Net official development assistance (ODA) per capita consists of disbursements of loans made on concessional terms (net of repayments of principal) and grants by official agencies of the members of the Development Assistance Committee (DAC), by multilateral institutions, and by non-DAC countries to promote economic development and welfare in countries and territories in the DAC list of ODA recipients; and is calculated by dividing net ODA received by the midyear population estimate. It includes loans with a grant element of at least 25 percent (calculated at a rate of discount of 10 percent)."
+    }, 
+    "EN.ATM.CO2E.PP.GD": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Carbon Dioxide Information Analysis Center, Environmental Sciences Division, Oak Ridge National Laboratory, Tennessee, United States.", 
+        "name": "CO2 emissions (kg per PPP $ of GDP)", 
+        "sourceNote": "Carbon dioxide emissions are those stemming from the burning of fossil fuels and the manufacture of cement. They include carbon dioxide produced during consumption of solid, liquid, and gas fuels and gas flaring."
+    }, 
+    "SH.HIV.1524.KW.FE.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Household surveys such as Demographic and Health Surveys and Multiple Indicator Cluster Surveys.  Largely compiled by UNICEF.", 
+        "name": "Comprehensive correct knowledge of HIV/AIDS, ages 15-24, female (2 prevent ways and reject 3 misconceptions)", 
+        "sourceNote": "The percent of female respondents ages 15-24 who correctly identify the two major ways of preventing the sexual transmission of HIV (using condoms and limiting sex to one faithful, uninfected partner), who reject the two most common local misconceptions about HIV transmission, and who know that a healthy-looking person can have HIV."
+    }, 
+    "SP.DYN.CONU.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Household surveys, including Demographic and Health Surveys by Macro International and Multiple Indicator Cluster Surveys by UNICEF.", 
+        "name": "Contraceptive prevalence (% of women ages 15-49)", 
+        "sourceNote": "Contraceptive prevalence rate is the percentage of women who are practicing, or whose sexual partners are practicing, any form of contraception. It is usually measured for married women ages 15-49 only."
+    }, 
+    "SH.HIV.1524.MA.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "UNAIDS estimates.", 
+        "name": "Prevalence of HIV, male (% ages 15-24)", 
+        "sourceNote": "Prevalence of HIV is the percentage of people who are infected with HIV. Youth rates are as a percentage of the relevant age group."
+    }, 
+    "SE.PRM.PRSL.FE.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "Persistence to last grade of primary, female (% of cohort)", 
+        "sourceNote": "Survival rate to last grade of primary. Female is the share of female children enrolled in the first grade of primary school who eventually reach the last grade of primary. The estimate is calculated on the basis of the reconstructed cohort method, which uses data on enrolment and repeaters for two consecutive years."
+    }, 
+    "SL.EMP.TOTL.SP.FE.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Employment to population ratio, 15+, female (%) (modeled ILO estimate)", 
+        "sourceNote": "Employment to population ratio is the proportion of a country's population that is employed. Ages 15 and older are generally considered the working-age population."
+    }, 
+    "SH.STA.MMRT": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "WHO, UNICEF, UNFPA, The World Bank, and the United Nations Population Division. Trends in Maternal Mortality: 1990 to 2013. Geneva, World Health Organization, 2014", 
+        "name": "Maternal mortality ratio (modeled estimate, per 100,000 live births)", 
+        "sourceNote": "Maternal mortality ratio is the number of women who die from pregnancy-related causes while pregnant or within 42 days of pregnancy termination per 100,000 live births. The data are estimated with a regression model using information on the proportion of maternal deaths among non-AIDS deaths in women ages 15-49, fertility, birth attendants, and GDP."
+    }, 
+    "SH.CON.AIDS.FE.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Demographic and Health Surveys from national sources.", 
+        "name": "Condom use with non regular partner, % adults(15-49), female", 
+        "sourceNote": "Condom use at last high-risk sex is the percentage of the population ages 15-49 who used a condom at last intercourse with a non-marital and non-cohabiting sexual partner in the last 12 months."
+    }, 
+    "SI.POV.URGP": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Bank, Global Poverty Working Group. Data are based on World Bank's country poverty assessments and country Poverty Reduction Strategies.", 
+        "name": "Urban poverty gap at national poverty lines (%)", 
+        "sourceNote": "World Bank, Global Poverty Working Group. Data are compiled from official government sources or are computed by World Bank staff using national (i.e. country\u2013specific) poverty lines."
+    }, 
+    "SL.EMP.INSV.FE.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Share of women employed in the nonagricultural sector (% of total nonagricultural employment)", 
+        "sourceNote": "Share of women employed in the nonagricultural sector is the share of female workers in the nonagricultural sector (industry and services), expressed as a percentage of total employment in the nonagricultural sector. Industry includes mining and quarrying (including oil production), manufacturing, construction, electricity, gas, and water, corresponding to divisions 2-5 (ISIC revision 2) or tabulation categories C-F (ISIC revision 3). Services include wholesale and retail trade and restaurants and hotels; transport, storage, and communications; financing, insurance, real estate, and business services; and community, social, and personal services-corresponding to divisions 6-9 (ISIC revision 2) or tabulation categories G-P (ISIC revision 3)."
+    }, 
+    "SH.STA.ANV4.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "UNICEF, State of the World's Children, Childinfo, and Demographic and Health Surveys by Macro International. ", 
+        "name": "Pregnant women receiving prenatal care of at least four visits (% of pregnant women)", 
+        "sourceNote": "Pregnant women receiving prenatal care, at least four times, are the percentage of women attended at least four times during pregnancy by skilled health personnel for reasons related to pregnancy."
+    }, 
+    "SI.POV.RUGP": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Bank, Global Poverty Working Group. Data are based on World Bank's country poverty assessments and country Poverty Reduction Strategies.", 
+        "name": "Rural poverty gap at national poverty lines (%)", 
+        "sourceNote": "World Bank, Global Poverty Working Group. Data are compiled from official government sources or are computed by World Bank staff using national (i.e. country\u2013specific) poverty lines."
+    }, 
+    "ER.LND.PTLD.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "United Nations Environmental Program and the World Conservation Monitoring Centre, as compiled by the World Resources Institute, based on data from national authorities, national legislation and international agreements.", 
+        "name": "Terrestrial protected areas (% of total land area)", 
+        "sourceNote": "Terrestrial protected areas are totally or partially protected areas of at least 1,000 hectares that are designated by national authorities as scientific reserves with limited public access, national parks, natural monuments, nature reserves or wildlife sanctuaries, protected landscapes, and areas managed mainly for sustainable use. Marine areas, unclassified areas, littoral (intertidal) areas, and sites protected under local or provincial law are excluded."
+    }, 
+    "DT.TDS.DPPF.XP.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Debt service (PPG and IMF only, % of exports of goods, services and primary income)", 
+        "sourceNote": "Debt service is the sum of principle repayments and interest actually paid in currency, goods, or services. This series differs from the standard debt to exports series. It covers only long-term public and publicly guaranteed debt and repayments (repurchases and charges) to the IMF. Data for Heavily Indebted Poor Countries (HIPC) are from HIPC Initiative's Status of Implementation Report."
+    }, 
+    "SH.HIV.1524.KW.MA.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Household surveys such as Demographic and Health Surveys and Multiple Indicator Cluster Surveys.  Largely compiled by UNICEF.", 
+        "name": "Comprehensive correct knowledge of HIV/AIDS, ages 15-24, male (2 prevent ways and reject 3 misconceptions)", 
+        "sourceNote": "The percent of male respondents ages 15-24 who correctly identify the two major ways of preventing the sexual transmission of HIV (using condoms and limiting sex to one faithful, uninfected partner), who reject the two most common local misconceptions about HIV transmission, and who know that a healthy-looking person can have HIV."
+    }, 
+    "SE.ENR.TERT.FM.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "United Nations Educational, Scientific, and Cultural Organization (UNESCO) Institute for Statistics.", 
+        "name": "Ratio of female to male tertiary enrollment (%)", 
+        "sourceNote": "Ratio of female to male tertiary enrollment is the percentage of men to women enrolled at tertiary level in public and private schools."
+    }, 
+    "SL.EMP.1524.SP.FE.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Employment to population ratio, ages 15-24, female (%) (modeled ILO estimate)", 
+        "sourceNote": "Employment to population ratio is the proportion of a country's population that is employed. Ages 15-24 are generally considered the youth population."
+    }, 
+    "DC.ODA.TOTL.GN.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Development Assistance Committee of the Organisation for Economic Co-operation and Development, Geographical Distribution of Financial Flows to Developing Countries, Development Co-operation Report, and International Development Statistics database. Data are available online at: www.oecd.org/dac/stats/idsonline.", 
+        "name": "Net ODA provided, total (% of GNI)", 
+        "sourceNote": "Net Official development assistance (ODA) comprises grants or loans to developing countries and territories on the OECD/DAC list of aid recipients that are undertaken by the official sector with promotion of economic development and welfare as the main objective and at concessional financial terms. It is shown as a share of donors' GNI."
+    }, 
+    "SL.EMP.SELF.FE.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Self-employed, female (% of females employed)", 
+        "sourceNote": "Self employed workers are those workers who, working on their own account or with one or a few partners or in cooperative, hold the type of jobs defined as a \"self-employment jobs\" (i.e. jobs where the remuneration is directly dependent upon the profits derived from the goods and services produced). Self employed workers include three subcategories: employers, own-account workers, and members of producers' cooperatives."
+    }, 
+    "SL.FAM.WORK.MA.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Contributing family workers, male (% of males employed)", 
+        "sourceNote": "Contributing family workers are those workers who hold \"self-employment jobs\" as own-account workers in a market-oriented establishment operated by a related person living in the same household."
+    }, 
+    "SL.GDP.PCAP.EM.KD": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "GDP per person employed (constant 1990 PPP $)", 
+        "sourceNote": "GDP per person employed is gross domestic product (GDP) divided by total employment in the economy. Purchasing power parity (PPP) GDP is GDP converted to 1990 constant international dollars using PPP rates. An international dollar has the same purchasing power over GDP that a U.S. dollar has in the United States."
+    }, 
+    "SH.STA.ANVC.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "UNICEF, State of the World's Children, Childinfo, and Demographic and Health Surveys by ICF International.", 
+        "name": "Pregnant women receiving prenatal care (%)", 
+        "sourceNote": "Pregnant women receiving prenatal care are the percentage of women attended at least once during pregnancy by skilled health personnel for reasons related to pregnancy."
+    }, 
+    "PA.NUS.PRVT.PP": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Bank, International Comparison Program database.", 
+        "name": "PPP conversion factor, private consumption (LCU per international $)", 
+        "sourceNote": "Purchasing power parity conversion factor is the number of units of a country's currency required to buy the same amounts of goods and services in the domestic market as U.S. dollar would buy in the United States. This conversion factor is for private consumption (i.e., household final consumption expenditure). For most economies PPP figures are extrapolated from the 2011 International Comparison Program (ICP) benchmark estimates or imputed using a statistical model based on the 2011 ICP. For 47 high- and upper middle-income economies conversion factors are provided by Eurostat and the Organisation for Economic Co-operation and Development (OECD)."
+    }, 
+    "EN.POP.SLUM.UR.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "UN HABITAT, retrieved from the United Nation's Millennium Development Goals database. Data are available at : http://mdgs.un.org/", 
+        "name": "Population living in slums, (% of urban population)", 
+        "sourceNote": "The Proportion of urban population living in slums is the proportion of urban population living in slum households. A slum household is defined as a group of individuals living under the same roof lacking one or more of the following conditions: access to improved water, access to improved sanitation, sufficient-living area, and durability of housing. \n"
+    }, 
+    "SL.EMP.1524.SP.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Employment to population ratio, ages 15-24, total (%) (modeled ILO estimate)", 
+        "sourceNote": "Employment to population ratio is the proportion of a country's population that is employed. Ages 15-24 are generally considered the youth population."
+    }, 
+    "TM.TAX.CLTH.CD.DV": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "United Nations Conference on Trade and Development, World Trade Organization, and International Trade Center. Data are available online at: www.mdg-trade.org.", 
+        "name": "Average tariffs imposed by developed countries on clothing products from developing countries (%)", 
+        "sourceNote": "It is the average tariffs imposed by developed countries on subsets of selected items (agricultural products, textile and clothing exports) that are deemed to be of interest to developing countries. For the purpose of calculating this indicator, Japan in Asia, Canada and the United States in North America, Australia and New Zealand in Oceania and Iceland, Norway, Switzerland and the EU (25 countries included since 2004) in Europe are considered \u201cdeveloped\u201d regions or areas, following the common accepted practice used for MDG indicators. Developing countries are those not listed as developed or transition countries. The list of least developed countries (LDCs) has been agreed by the General Assembly, on the recommendation of the Committee for Development Policy, Economic and Social Council. Agricultural, clothing and textile groups follow the definition in WTO agreements based on the Harmonized System 1992, transposed to current versions by WTO Secretariat. Agricultural products correspond to Harmonized System 1992, chapters 01 to 24 less fish and fish products (chap. 03); in addition to parts of chapters 29, 33, 35, 38, 41, 43, 50 to 53. Textile is mainly covered in chapters 50 to 60. The bulk of clothing products are found in chapters 61-63.\n"
+    }, 
+    "SE.ENR.PRIM.FM.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "United Nations Educational, Scientific, and Cultural Organization (UNESCO) Institute for Statistics.", 
+        "name": "Ratio of female to male primary enrollment (%)", 
+        "sourceNote": "Ratio of female to male primary enrollment is the percentage of girls to boys enrolled at primary level in public and private schools."
+    }, 
+    "DT.TDS.DECT.EX.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Bank, International Debt Statistics.", 
+        "name": "Total debt service (% of exports of goods, services and primary income)", 
+        "sourceNote": "Total debt service is the sum of principal repayments and interest actually paid in currency, goods, or services on long-term debt, interest paid on short-term debt, and repayments (repurchases and charges) to the IMF."
+    }, 
+    "SH.TBS.DTEC.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Health Organization, Global Tuberculosis Control Report.", 
+        "name": "Tuberculosis case detection rate (%, all forms)", 
+        "sourceNote": "Tuberculosis case detection rate (all forms) is the number of new and relapse tuberculosis cases notified to WHO in a given year, divided by WHO's estimate of the number of incident tuberculosis cases for the same year, expressed as a percentage. Estimates for all years are recalculated as new information becomes available and techniques are refined, so they may differ from those published previously."
+    }, 
+    "SI.POV.DDAY": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are from the Luxembourg Income Study database. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Poverty headcount ratio at $1.25 a day (PPP) (% of population)", 
+        "sourceNote": "Population below $1.25 a day is the percentage of the population living on less than $1.25 a day at 2005 international prices. As a result of revisions in PPP exchange rates, poverty rates for individual countries cannot be compared with poverty rates reported in earlier editions."
+    }, 
+    "SP.DYN.TFRT.IN": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "(1) United Nations Population Division. World Population Prospects, (2) United Nations Statistical Division. Population and Vital Statistics Repot (various years), (3) Census reports and other statistical publications from national statistical offices, (4) Eurostat: Demographic Statistics, (5) Secretariat of the Pacific Community: Statistics and Demography Programme, and (6) U.S. Census Bureau: International Database", 
+        "name": "Fertility rate, total (births per woman)", 
+        "sourceNote": "Total fertility rate represents the number of children that would be born to a woman if she were to live to the end of her childbearing years and bear children in accordance with current age-specific fertility rates."
+    }, 
+    "ER.H2O.INTR.PC": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Food and Agriculture Organization, AQUASTAT data.", 
+        "name": "Renewable internal freshwater resources per capita (cubic meters)", 
+        "sourceNote": "Renewable internal freshwater resources flows refer to internal renewable resources (internal river flows and groundwater from rainfall) in the country. Renewable internal freshwater resources per capita are calculated using the World Bank's population estimates."
+    }, 
+    "EN.ATM.CO2E.PC": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Carbon Dioxide Information Analysis Center, Environmental Sciences Division, Oak Ridge National Laboratory, Tennessee, United States.", 
+        "name": "CO2 emissions (metric tons per capita)", 
+        "sourceNote": "Carbon dioxide emissions are those stemming from the burning of fossil fuels and the manufacture of cement. They include carbon dioxide produced during consumption of solid, liquid, and gas fuels and gas flaring."
+    }, 
+    "NY.GNP.PCAP.CD": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Bank national accounts data, and OECD National Accounts data files.", 
+        "name": "GNI per capita, Atlas method (current US$)", 
+        "sourceNote": "GNI per capita (formerly GNP per capita) is the gross national income, converted to U.S. dollars using the World Bank Atlas method, divided by the midyear population. GNI is the sum of value added by all resident producers plus any product taxes (less subsidies) not included in the valuation of output plus net receipts of primary income (compensation of employees and property income) from abroad. GNI, calculated in national currency, is usually converted to U.S. dollars at official exchange rates for comparisons across economies, although an alternative rate is used when the official exchange rate is judged to diverge by an exceptionally large margin from the rate actually applied in international transactions. To smooth fluctuations in prices and exchange rates, a special Atlas method of conversion is used by the World Bank. This applies a conversion factor that averages the exchange rate for a given year and the two preceding years, adjusted for differences in rates of inflation between the country, and through 2000, the G-5 countries (France, Germany, Japan, the United Kingdom, and the United States). From 2001, these countries include the Euro area, Japan, the United Kingdom, and the United States."
+    }, 
+    "ER.H2O.FWTL.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Food and Agriculture Organization, AQUASTAT data.", 
+        "name": "Annual freshwater withdrawals, total (% of internal resources)", 
+        "sourceNote": "Annual freshwater withdrawals refer to total water withdrawals, not counting evaporation losses from storage basins. Withdrawals also include water from desalination plants in countries where they are a significant source. Withdrawals can exceed 100 percent of total renewable resources where extraction from nonrenewable aquifers or desalination plants is considerable or where there is significant water reuse. Withdrawals for agriculture and industry are total withdrawals for irrigation and livestock production and for direct industrial use (including withdrawals for cooling thermoelectric plants). Withdrawals for domestic uses include drinking water, municipal use or supply, and use for public services, commercial establishments, and homes. Data are for the most recent year available for 1987-2002."
+    }, 
+    "SI.POV.GAP2": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are from the Luxembourg Income Study database. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Poverty gap at $2 a day (PPP) (%)", 
+        "sourceNote": "Poverty gap is the mean shortfall from the poverty line (counting the nonpoor as having zero shortfall), expressed as a percentage of the poverty line. This measure reflects the depth of poverty as well as its incidence."
+    }, 
+    "SH.STA.MALR": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "", 
+        "name": "Malaria cases reported", 
+        "sourceNote": "Reported cases of malaria are the sum of confirmed cases of malaria (confirmed by slide examination or RDT) and probable (unconfirmed) cases of malaria (cases that were not tested but treated as malaria). Predominant type of statistics: unadjusted.\n\n"
+    }, 
+    "SH.CON.AIDS.MA.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Demographic and Health Surveys from national sources.", 
+        "name": "Condom use with non regular partner, % adults(15-49), male", 
+        "sourceNote": "Condom use at last high-risk sex is the percentage of the population ages 15-49 who used a condom at last intercourse with a non-marital and non-cohabiting sexual partner in the last 12 months."
+    }, 
+    "DC.ODA.TOTL.KD": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Development Assistance Committee of the Organisation for Economic Co-operation and Development, Geographical Distribution of Financial Flows to Developing Countries, Development Co-operation Report, and International Development Statistics database. Data are available online at: www.oecd.org/dac/stats/idsonline.", 
+        "name": "Net ODA provided, total (constant 2008 US$)", 
+        "sourceNote": "Net Official development assistance (ODA) comprises grants or loans to developing countries and territories on the OECD/DAC list of aid recipients that are undertaken by the official sector with promotion of economic development and welfare as the main objective and at concessional financial terms. Data are in constant 2009 U.S. dollars."
+    }, 
+    "SI.POV.NAHC": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Bank, Global Poverty Working Group. Data are based on World Bank's country poverty assessments and country Poverty Reduction Strategies.", 
+        "name": "Poverty headcount ratio at national poverty lines (% of population)", 
+        "sourceNote": "World Bank, Global Poverty Working Group. Data are compiled from official government sources or are computed by World Bank staff using national (i.e. country\u2013specific) poverty lines."
+    }, 
+    "TM.TAX.AGRI.CD.LD": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "United Nations Conference on Trade and Development, World Trade Organization, and International Trade Center. Data are available online at: www.mdg-trade.org.", 
+        "name": "Average tariffs imposed by developed countries on agricultural products from least developed countries (%)", 
+        "sourceNote": "It is the average tariffs imposed by developed countries on subsets of selected items (agricultural products, textile and clothing exports) that are deemed to be of interest to developing countries. For the purpose of calculating this indicator, Japan in Asia, Canada and the United States in North America, Australia and New Zealand in Oceania and Iceland, Norway, Switzerland and the EU (25 countries included since 2004) in Europe are considered \u201cdeveloped\u201d regions or areas, following the common accepted practice used for MDG indicators. Developing countries are those not listed as developed or transition countries. The list of least developed countries (LDCs) has been agreed by the General Assembly, on the recommendation of the Committee for Development Policy, Economic and Social Council. Agricultural, clothing and textile groups follow the definition in WTO agreements based on the Harmonized System 1992, transposed to current versions by WTO Secretariat. Agricultural products correspond to Harmonized System 1992, chapters 01 to 24 less fish and fish products (chap. 03); in addition to parts of chapters 29, 33, 35, 38, 41, 43, 50 to 53. Textile is mainly covered in chapters 50 to 60. The bulk of clothing products are found in chapters 61-63."
+    }, 
+    "SL.EMP.SELF.MA.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Self-employed, male (% of males employed)", 
+        "sourceNote": "Self employed workers are those workers who, working on their own account or with one or a few partners or in cooperative, hold the type of jobs defined as a \"self-employment jobs\" (i.e. jobs where the remuneration is directly dependent upon the profits derived from the goods and services produced). Self employed workers include three subcategories: employers, own-account workers, and members of producers' cooperatives."
+    }, 
+    "SP.POP.2DAY.TO": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are from the Luxembourg Income Study database. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Number of people living on less than $2.00 a day (PPP)", 
+        "sourceNote": "Number of people living on less than $2.00 a day (PPP) is the population living on less than $2.00 a day at 2005 international prices."
+    }, 
+    "SH.STA.ARIC.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "UNICEF, State of the World's Children, Childinfo, and Demographic and Health Surveys by ICF International.", 
+        "name": "ARI treatment (% of children under 5 taken to a health provider)", 
+        "sourceNote": "Children with acute respiratory infection (ARI) who are taken to a health provider refers to the percentage of children under age five with ARI in the last two weeks who were taken to an appropriate health provider, including hospital, health center, dispensary, village health worker, clinic, and private physician."
+    }, 
+    "SP.DYN.LE00.IN": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Derived from male and female life expectancy at birth from sources such as: (1) United Nations Population Division. World Population Prospects, (2) United Nations Statistical Division. Population and Vital Statistics Report (various years), (3) Census reports and other statistical publications from national statistical offices, (4) Eurostat: Demographic Statistics, (5) Secretariat of the Pacific Community: Statistics and Demography Programme, and (6) U.S. Census Bureau: International Database.", 
+        "name": "Life expectancy at birth, total (years)", 
+        "sourceNote": "Life expectancy at birth indicates the number of years a newborn infant would live if prevailing patterns of mortality at the time of its birth were to stay the same throughout its life."
+    }, 
+    "SH.DYN.AIDS.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "UNAIDS estimates.", 
+        "name": "Prevalence of HIV, total (% of population ages 15-49)", 
+        "sourceNote": "Prevalence of HIV refers to the percentage of people ages 15-49 who are infected with HIV."
+    }, 
+    "SE.ADT.1524.LT.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "Literacy rate, youth total (% of people ages 15-24)", 
+        "sourceNote": "Youth (15-24) literacy rate (%). Total is the number of people age 15 to 24 years who can both read and write with understanding a short simple statement on their everyday life, divided by the population in that age group. Generally, \u2018literacy\u2019 also encompasses \u2018numeracy\u2019, the ability to make simple arithmetic calculations."
+    }, 
+    "SL.FAM.WORK.FE.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Contributing family workers, female (% of females employed)", 
+        "sourceNote": "Contributing family workers are those workers who hold  \u2018self-employment jobs\u2019 as own-account workers in a market-oriented establishment operated by a related person living in the same household."
+    }, 
+    "SH.STA.ACSN": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "WHO/UNICEF Joint Monitoring Programme (JMP) for Water Supply and Sanitation (http://www.wssinfo.org/).", 
+        "name": "Improved sanitation facilities (% of population with access)", 
+        "sourceNote": "Access to improved sanitation facilities refers to the percentage of the population using improved sanitation facilities. The improved sanitation facilities include flush/pour flush (to piped sewer system, septic tank, pit latrine), ventilated improved pit (VIP) latrine, pit latrine with slab, and composting toilet."
+    }, 
+    "SH.HIV.ARTC.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "UNAIDS estimates.", 
+        "name": "Antiretroviral therapy coverage (% of people living with HIV)", 
+        "sourceNote": "Antiretroviral therapy coverage indicates the percentage of all people living with HIV who are receiving antiretroviral therapy."
+    }, 
+    "SP.POP.DDAY.TO": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are from the Luxembourg Income Study database. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Number of people living on less than $1.25 a day (PPP)", 
+        "sourceNote": "Number of people living on less than $1.25 a day (PPP) is the population living on less than $1.25 a day at 2005 international prices."
+    }, 
+    "SE.ADT.1524.LT.MA.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "Literacy rate, youth male (% of males ages 15-24)", 
+        "sourceNote": "Youth (15-24) literacy rate (%). Male is the number of males age 15 to 24 years who can both read and write with understanding a short simple statement on their everyday life, divided by the male population in that age group. Generally, \u2018literacy\u2019 also encompasses \u2018numeracy\u2019, the ability to make simple arithmetic calculations."
+    }, 
+    "SE.ENR.PRSC.FM.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "United Nations Educational, Scientific, and Cultural Organization (UNESCO) Institute for Statistics.", 
+        "name": "Ratio of girls to boys in primary and secondary education (%)", 
+        "sourceNote": "Ratio of girls to boys in primary and secondary education is the percentage of girls to boys enrolled at primary and secondary levels in public and private schools."
+    }, 
+    "SL.EMP.TOTL.SP.MA.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Employment to population ratio, 15+, male (%) (modeled ILO estimate)", 
+        "sourceNote": "Employment to population ratio is the proportion of a country's population that is employed. Ages 15 and older are generally considered the working-age population."
+    }, 
+    "SG.GEN.PARL.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Inter-Parliamentary Union (IPU) (www.ipu.org)", 
+        "name": "Proportion of seats held by women in national parliaments (%)", 
+        "sourceNote": "Women in parliaments are the percentage of parliamentary seats in a single or lower chamber held by women."
+    }, 
+    "SE.ADT.LITR.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "Literacy rate, adult total (% of people ages 15 and above)", 
+        "sourceNote": "Adult (15+) literacy rate (%). Total is the percentage of the population age 15 and above who can, with understanding, read and write a short, simple statement on their everyday life. Generally, \u2018literacy\u2019 also encompasses \u2018numeracy\u2019, the ability to make simple arithmetic calculations. This indicator is calculated by dividing the number of literates aged 15 years and over by the corresponding age group population and multiplying the result by 100. "
+    }, 
+    "DC.ODA.UNTD.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Development Assistance Committee of the Organisation for Economic Co-operation and Development, Geographical Distribution of Financial Flows to Developing Countries, Development Co-operation Report, and International Development Statistics database. Data are available online at: www.oecd.org/dac/stats/idsonline.", 
+        "name": "Bilateral ODA commitments that is untied (% of bilateral ODA commitments)", 
+        "sourceNote": "Bilateral official development assistance (ODA) commitments are firm obligations, expressed in writing and backed by the necessary funds, undertaken by official bilateral donors to provide specified assistance to a recipient country or a multilateral organization. Bilateral commitments are recorded in the full amount of expected transfer, irrespective of the time required for completing disbursements. Untied bilateral official development assistance is assistance from country to country for which the associated goods and services may be fully and freely procured in substantially all countries."
+    }, 
+    "SE.ENR.PRSC.FM.ZS.GL": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Bank staff estimates", 
+        "name": "Ratio of girls to boys in primary and secondary education (%), path to goal", 
+        "sourceNote": "This indicator is created for the use of DDP chart. Values are linear growth \"path\" to achieving the goal by 2015, given the initial value around 1990."
+    }, 
+    "SI.DST.FRST.20": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are from the Luxembourg Income Study database. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Income share held by lowest 20%", 
+        "sourceNote": "Percentage share of income or consumption is the share that accrues to subgroups of population indicated by deciles or quintiles. Percentage shares by quintile may not sum to 100 because of rounding."
+    }, 
+    "TM.MRC.NOTX.LD.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "United Nations Conference on Trade and Development, World Trade Organization, and International Trade Center. Data are available online at: www.mdg-trade.org.", 
+        "name": "Goods (excluding arms) admitted free of tariffs from least developed countries (% total merchandise imports excluding arms)", 
+        "sourceNote": "It is the proportion of duty free imports (excluding arms) into developed countries from developing and least developed countries. For the purpose of calculating this indicator, Japan in Asia, Canada and the United States in North America, Australia and New Zealand in Oceania and Iceland, Norway, Switzerland and the EU (25 countries included since 2004) in Europe are considered \u201cdeveloped\u201d regions or areas, following the common accepted practice used for MDG indicators. Developing countries are those not listed as developed or transition countries. The list of least developed countries (LDCs) has been agreed by the General Assembly, on the recommendation of the Committee for Development Policy, Economic and Social Council."
+    }, 
+    "DC.ODA.TLDC.CD": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Development Assistance Committee of the Organisation for Economic Co-operation and Development, Geographical Distribution of Financial Flows to Developing Countries, Development Co-operation Report, and International Development Statistics database. Data are available online at: www.oecd.org/dac/stats/idsonline.", 
+        "name": "Net ODA provided, to the least developed countries (current US$)", 
+        "sourceNote": "Net Official development assistance (ODA) comprises grants or loans to developing countries and territories on the OECD/DAC list of aid recipients that are undertaken by the official sector with promotion of economic development and welfare as the main objective and at concessional financial terms. The list of least developed countries (LDCs) has been agreed by the General Assembly, on the recommendation of the Committee for Development Policy, Economic and Social Council."
+    }, 
+    "SH.TBS.CURE.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Health Organization, Global Tuberculosis Control Report.", 
+        "name": "Tuberculosis treatment success rate (% of new cases)", 
+        "sourceNote": "Tuberculosis treatment success rate is the percentage of all new tuberculosis cases (or new and relapse cases for some countries) registered under a national tuberculosis control programme in a given year that successfully completed treatment, with or without bacteriological evidence of success (\"cured\" and \"treatment completed\" respectively)."
+    }, 
+    "DC.ODA.TLDC.GN.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Development Assistance Committee of the Organisation for Economic Co-operation and Development, Geographical Distribution of Financial Flows to Developing Countries, Development Co-operation Report, and International Development Statistics database. Data are available online at: www.oecd.org/dac/stats/idsonline.", 
+        "name": "Net ODA provided to the least developed countries (% of GNI)", 
+        "sourceNote": "Net Official development assistance (ODA) comprises grants or loans to developing countries and territories on the OECD/DAC list of aid recipients that are undertaken by the official sector with promotion of economic development and welfare as the main objective and at concessional financial terms. The list of least developed countries (LDCs) has been agreed by the General Assembly, on the recommendation of the Committee for Development Policy, Economic and Social Council. Series is shown as a share of donors' GNI."
+    }, 
+    "ER.MRN.PTMR.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "United Nations Environmental Program and the World Conservation Monitoring Centre, as compiled by the World Resources Institute, based on data from national authorities, national legislation and international agreements.", 
+        "name": "Marine protected areas (% of territorial waters)", 
+        "sourceNote": "Marine protected areas are areas of intertidal or subtidal terrain--and overlying water and associated flora and fauna and historical and cultural features--that have been reserved by law or other effective means to protect part or all of the enclosed environment."
+    }, 
+    "AG.LND.FRST.K2": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Food and Agriculture Organization, electronic files and web site.", 
+        "name": "Forest area (sq. km)", 
+        "sourceNote": "Forest area is land under natural or planted stands of trees of at least 5 meters in situ, whether productive or not, and excludes tree stands in agricultural production systems (for example, in fruit plantations and agroforestry systems) and trees in urban parks and gardens."
+    }, 
+    "TM.TAX.TXTL.CD.LD": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "United Nations Conference on Trade and Development, World Trade Organization, and International Trade Center. Data are available online at: www.mdg-trade.org.", 
+        "name": "Average tariffs imposed by developed countries on textile products from least developed countries (%)", 
+        "sourceNote": "It is the average tariffs imposed by developed countries on subsets of selected items (agricultural products, textile and clothing exports) that are deemed to be of interest to developing countries. For the purpose of calculating this indicator, Japan in Asia, Canada and the United States in North America, Australia and New Zealand in Oceania and Iceland, Norway, Switzerland and the EU (25 countries included since 2004) in Europe are considered \u201cdeveloped\u201d regions or areas, following the common accepted practice used for MDG indicators. Developing countries are those not listed as developed or transition countries. The list of least developed countries (LDCs) has been agreed by the General Assembly, on the recommendation of the Committee for Development Policy, Economic and Social Council. Agricultural, clothing and textile groups follow the definition in WTO agreements based on the Harmonized System 1992, transposed to current versions by WTO Secretariat. Agricultural products correspond to Harmonized System 1992, chapters 01 to 24 less fish and fish products (chap. 03); in addition to parts of chapters 29, 33, 35, 38, 41, 43, 50 to 53. Textile is mainly covered in chapters 50 to 60. The bulk of clothing products are found in chapters 61-63.\n"
+    }, 
+    "IT.NET.USER.P2": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "International Telecommunication Union, World Telecommunication/ICT Development Report and database, and World Bank estimates.", 
+        "name": "Internet users (per 100 people)", 
+        "sourceNote": "Internet users are people with access to the worldwide network."
+    }, 
+    "SH.MLR.TRET.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "UNICEF, State of the World's Children, Childinfo, and Demographic and Health Surveys by ICF International.", 
+        "name": "Children with fever receiving antimalarial drugs (% of children under age 5 with fever)", 
+        "sourceNote": "Malaria treatment refers to the percentage of children under age five who were ill with fever in the last two weeks and received any appropriate (locally defined) anti-malarial drugs."
+    }, 
+    "TM.TAX.TXTL.CD.DV": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "United Nations Conference on Trade and Development, World Trade Organization, and International Trade Center. Data are available online at: www.mdg-trade.org.", 
+        "name": "Average tariffs imposed by developed countries on textile products from developing countries (%)", 
+        "sourceNote": "It is the average tariffs imposed by developed countries on subsets of selected items (agricultural products, textile and clothing exports) that are deemed to be of interest to developing countries. For the purpose of calculating this indicator, Japan in Asia, Canada and the United States in North America, Australia and New Zealand in Oceania and Iceland, Norway, Switzerland and the EU (25 countries included since 2004) in Europe are considered \u201cdeveloped\u201d regions or areas, following the common accepted practice used for MDG indicators. Developing countries are those not listed as developed or transition countries. The list of least developed countries (LDCs) has been agreed by the General Assembly, on the recommendation of the Committee for Development Policy, Economic and Social Council. Agricultural, clothing and textile groups follow the definition in WTO agreements based on the Harmonized System 1992, transposed to current versions by WTO Secretariat. Agricultural products correspond to Harmonized System 1992, chapters 01 to 24 less fish and fish products (chap. 03); in addition to parts of chapters 29, 33, 35, 38, 41, 43, 50 to 53. Textile is mainly covered in chapters 50 to 60. The bulk of clothing products are found in chapters 61-63.\n"
+    }, 
+    "SP.POP.TOTL": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "(1) United Nations Population Division. World Population Prospects, (2) United Nations Statistical Division. Population and Vital Statistics Report  (various years), (3) Census reports and other statistical publications from national statistical offices, (4) Eurostat: Demographic Statistics, (5) Secretariat of the Pacific Community: Statistics and Demography Programme, and (6) U.S. Census Bureau: International Database.", 
+        "name": "Population, total", 
+        "sourceNote": "Total population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship--except for refugees not permanently settled in the country of asylum, who are generally considered part of the population of their country of origin. The values shown are midyear estimates."
+    }, 
+    "SL.EMP.TOTL.SP.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Employment to population ratio, 15+, total (%) (modeled ILO estimate)", 
+        "sourceNote": "Employment to population ratio is the proportion of a country's population that is employed. Ages 15 and older are generally considered the working-age population."
+    }, 
+    "SE.PRM.CMPT.ZS.GL": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Bank staff estimates", 
+        "name": "Primary completion rate, total (% of relevant age group), path to goal", 
+        "sourceNote": "This indicator is created for the use of DDP chart. Values are linear growth \"path\" to achieving the goal by 2015, given the initial value around 1990."
+    }, 
+    "TM.TAX.AGRI.CD.DV": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "United Nations Conference on Trade and Development, World Trade Organization, and International Trade Center. Data are available online at: www.mdg-trade.org.", 
+        "name": "Average tariffs imposed by developed countries on agricultural products from developing countries (%)", 
+        "sourceNote": "It is the average tariffs imposed by developed countries on subsets of selected items (agricultural products, textile and clothing exports) that are deemed to be of interest to developing countries. For the purpose of calculating this indicator, Japan in Asia, Canada and the United States in North America, Australia and New Zealand in Oceania and Iceland, Norway, Switzerland and the EU (25 countries included since 2004) in Europe are considered \u201cdeveloped\u201d regions or areas, following the common accepted practice used for MDG indicators. Developing countries are those not listed as developed or transition countries. The list of least developed countries (LDCs) has been agreed by the General Assembly, on the recommendation of the Committee for Development Policy, Economic and Social Council. Agricultural, clothing and textile groups follow the definition in WTO agreements based on the Harmonized System 1992, transposed to current versions by WTO Secretariat. Agricultural products correspond to Harmonized System 1992, chapters 01 to 24 less fish and fish products (chap. 03); in addition to parts of chapters 29, 33, 35, 38, 41, 43, 50 to 53. Textile is mainly covered in chapters 50 to 60. The bulk of clothing products are found in chapters 61-63.\n"
+    }, 
+    "SE.PRM.CMPT.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "UNESCO Institute for Statistics", 
+        "name": "Primary completion rate, total (% of relevant age group)", 
+        "sourceNote": "Primary completion rate is measured as the gross intake ratio to the last grade of primary education. It is calculated by taking the total number of students in the last grade of primary school, minus the number of repeaters in that grade, divided by the total number of children of official graduation age."
+    }, 
+    "PA.NUS.PPP": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Bank, International Comparison Program database.", 
+        "name": "PPP conversion factor, GDP (LCU per international $)", 
+        "sourceNote": "Purchasing power parity conversion factor is the number of units of a country's currency required to buy the same amounts of goods and services in the domestic market as U.S. dollar would buy in the United States. This conversion factor is for GDP. For most economies PPP figures are extrapolated from the 2011 International Comparison Program (ICP) benchmark estimates or imputed using a statistical model based on the 2011 ICP. For 47 high- and upper middle-income economies conversion factors are provided by Eurostat and the Organisation for Economic Co-operation and Development (OECD)."
+    }, 
+    "SE.ENR.SECO.FM.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "United Nations Educational, Scientific, and Cultural Organization (UNESCO) Institute for Statistics.", 
+        "name": "Ratio of female to male secondary enrollment (%)", 
+        "sourceNote": "Ratio of female to male secondary enrollment is the percentage of girls to boys enrolled at secondary level in public and private schools."
+    }, 
+    "TM.MRC.NOTX.DV.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "United Nations Conference on Trade and Development, World Trade Organization, and International Trade Center. Data are available online at: www.mdg-trade.org.", 
+        "name": "Goods (excluding arms) admitted free of tariffs from developing countries (% total merchandise imports excluding arms)", 
+        "sourceNote": "It is the proportion of duty free imports (excluding arms) into developed countries from developing and least developed countries. For the purpose of calculating this indicator, Japan in Asia, Canada and the United States in North America, Australia and New Zealand in Oceania and Iceland, Norway, Switzerland and the EU (25 countries included since 2004) in Europe are considered \u201cdeveloped\u201d regions or areas, following the common accepted practice used for MDG indicators. Developing countries are those not listed as developed or transition countries. The list of least developed countries (LDCs) has been agreed by the General Assembly, on the recommendation of the Committee for Development Policy, Economic and Social Council. "
+    }, 
+    "SI.POV.NAGP": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Bank, Global Poverty Working Group. Data are based on World Bank's country poverty assessments and country Poverty Reduction Strategies.", 
+        "name": "Poverty gap at national poverty lines (%)", 
+        "sourceNote": "World Bank, Global Poverty Working Group. Data are compiled from official government sources or are computed by World Bank staff using national (i.e. country\u2013specific) poverty lines."
+    }, 
+    "SH.STA.MALN.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Health Organization, Global Database on Child Growth and Malnutrition. Country-level data are unadjusted data from national surveys, and thus may not be comparable across countries. Adjusted, comparable data are available at http://www.who.int/nutgrowthdb/en. Aggregation is based on UNICEF, WHO, and the World Bank harmonized dataset (adjusted, comparable data) and methodology.", 
+        "name": "Malnutrition prevalence, weight for age (% of children under 5)", 
+        "sourceNote": "Prevalence of child malnutrition is the percentage of children under age 5 whose weight for age is more than two standard deviations below the median for the international reference population ages 0-59 months. The data are based on the WHO's new child growth standards released in 2006."
+    }, 
+    "SH.HIV.1524.FE.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "UNAIDS estimates.", 
+        "name": "Prevalence of HIV, female (% ages 15-24)", 
+        "sourceNote": "Prevalence of HIV is the percentage of people who are infected with HIV. Youth rates are as a percentage of the relevant age group."
+    }, 
+    "SH.HIV.KNOW.MA.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "Household surveys such as Demographic and Health Surveys and Multiple Indicator Cluster Surveys.  Largely compiled by UNICEF.", 
+        "name": "% of males ages 15-49 having comprehensive correct knowledge about HIV (2 prevent ways and reject 3 misconceptions)", 
+        "sourceNote": "Knowledge of HIV is the percentage of respondents who correctly identify the two major ways of preventing the sexual transmission of HIV (using condoms and limiting sex to one faithful, uninfected partner), who reject the two most common local misconceptions about HIV transmission, and who know that a healthy-looking person can have HIV."
+    }, 
+    "SL.FAM.WORK.ZS": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "International Labour Organization, Key Indicators of the Labour Market database.", 
+        "name": "Contributing family workers, total (% of total employed)", 
+        "sourceNote": "Contributing family workers are those workers who hold \"self-employment jobs\" as own-account workers in a market-oriented establishment operated by a related person living in the same household."
+    }, 
+    "SI.POV.2DAY": {
+        "source": "Millennium Development Goals", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are from the Luxembourg Income Study database. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Poverty headcount ratio at $2 a day (PPP) (% of population)", 
+        "sourceNote": "Population below $2 a day is the percentage of the population living on less than $2.00 a day at 2005 international prices. As a result of revisions in PPP exchange rates, poverty rates for individual countries cannot be compared with poverty rates reported in earlier editions."
+    }
+}

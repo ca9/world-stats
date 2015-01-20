@@ -1,0 +1,374 @@
+{
+    "NEGDISTKBCD": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "Change in Inventories, current US$, millions", 
+        "sourceNote": "Inventories are stocks of goods held by firms to meet temporary or unexpected fluctuations in production or sales, and \"work in progress.\" Data is in current US$, millions"
+    }, 
+    "NEGDETOTTKN": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "", 
+        "name": "Gross Domestic Expenditure (GDE) (real local currency units, various base years)", 
+        "sourceNote": ""
+    }, 
+    "NYGDPMKTPKDZ": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "The World Bank", 
+        "name": "Annual percentage growth rate of GDP at market prices based on constant 2010 US Dollars.", 
+        "sourceNote": "GDP is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources."
+    }, 
+    "NYGDPDISCCN": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "GDP Discrepancy, current LCU, millions", 
+        "sourceNote": "A statistical discrepancy usually arises when the GDP components are estimated independently by industrial origin and by expenditure categories. This item represents the discrepancy in the use of resources (i.e., the estimate of GDP by expenditure categories). Data are in current LCU millions."
+    }, 
+    "NEGDISTKBCN": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "Change in Inventories, current LCU, millions", 
+        "sourceNote": "Inventories are stocks of goods held by firms to meet temporary or unexpected fluctuations in production or sales, and \"work in progress.\" Data is in curent LCU, millions."
+    }, 
+    "TOT": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on Datastream data.", 
+        "name": "Terms of Trade", 
+        "sourceNote": "The terms of trade effect equals capacity to import less exports of goods and services."
+    }, 
+    "NYGDPDISCKN": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "GDP Discrepancy, constant LCU, millions", 
+        "sourceNote": "A statistical discrepancy usually arises when the GDP components are estimated independently by industrial origin and by expenditure categories. This item represents the discrepancy in the use of resources (i.e., the estimate of GDP by expenditure categories). Data are in constant LCU millions. The base year varies by country."
+    }, 
+    "GDPPCKN": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "", 
+        "name": "Real GDP per Capita (real local currency units, various base years)", 
+        "sourceNote": ""
+    }, 
+    "NEIMPGNFSKN": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "Imports GNFS, constant LCU, millions", 
+        "sourceNote": "Imports of goods and services represent the value of all goods and other market services received from the rest of the world. They include the value of merchandise, freight, insurance, transport, travel, royalties, license fees, and other services, such as communication, construction, financial, information, business, personal, and government services. They exclude compensation of employees and investment income (formerly called factor services) and transfer payments. Data are in constant LCU, millions. The base year varies by country."
+    }, 
+    "BXGSRGNFSCD": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "IMF, International Finance Statistics", 
+        "name": "Exports GNFS, BOP, current US$, millions", 
+        "sourceNote": "Exports of goods and services represent the value of all goods and other market services provided to the rest of the world. They include the value of merchandise, freight, insurance, transport, travel, royalties, license fees, and other services, such as communication, construction, financial, information, business, personal, and government services. They exclude compensation of employees and investment income (formerly called factor services) and transfer payments. Data are in current US$, millions."
+    }, 
+    "GGBALOVRLCD": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Economic Outlook data.", 
+        "name": "General Govt. Balance, current US$, millions", 
+        "sourceNote": "General government balance is the net balance of federal, state and local receipts minus outlays. Data is presented in current US$ millions."
+    }, 
+    "NECONGOVTKN": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "Government Consumption, constant LCU, millions", 
+        "sourceNote": "Government consumption (formerly general government consumption) includes all government current expenditures for purchases of goods and services (including compensation of employees). It also includes most expenditures on national defense and security, but excludes government military expenditures that are part of government capital formation. Data are in constant LCU, millions. The base year varies by country."
+    }, 
+    "GDPPCKD": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "GDP per Capita, constant US$, millions", 
+        "sourceNote": "GDP per capita is gross domestic product divided by midyear population. GDP at purchaser's prices is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in constant US$. The base year is 2005."
+    }, 
+    "NEIMPGNFSKD": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "Imports GNFS, constant US$, millions", 
+        "sourceNote": "Imports of goods and services represent the value of all goods and other market services received from the rest of the world. They include the value of merchandise, freight, insurance, transport, travel, royalties, license fees, and other services, such as communication, construction, financial, information, business, personal, and government services. They exclude compensation of employees and investment income (formerly called factor services) and transfer payments. Data are in constant US$, millions.  The base year is 2005."
+    }, 
+    "NECONGOVTKD": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "Government Consumption, constant US$, millions", 
+        "sourceNote": "Government consumption (formerly general government consumption) includes all government current expenditures for purchases of goods and services (including compensation of employees). It also includes most expenditures on national defense and security, but excludes government military expenditures that are part of government capital formation. Data are in constant US$, millions.  The base year is 2005."
+    }, 
+    "NEGDIKSTKKN": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "", 
+        "name": "Estimated Capital stock (real local currency units, various base years)", 
+        "sourceNote": ""
+    }, 
+    "NEIMPGNFSXD": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "", 
+        "name": "Imports, GNFS (implicit price deflator constant 2005 USD)", 
+        "sourceNote": ""
+    }, 
+    "NECONGOVTXD": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "", 
+        "name": "Government Consumption (implicit price deflator constant 2005 USD)", 
+        "sourceNote": ""
+    }, 
+    "NECONGOVTCD": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "Government Consumption, current US$, millions", 
+        "sourceNote": "Government consumption (formerly general government consumption) includes all government current expenditures for purchases of goods and services (including compensation of employees). It also includes most expenditures on national defense and security, but excludes government military expenditures that are part of government capital formation. Data are in current US$, millions"
+    }, 
+    "NEIMPGNFSXN": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "Imports GNFS deflator, LCU", 
+        "sourceNote": "The Imports GNFS implicit deflator is the ratio of  Imports GNFS in current local currency to Imports GNFS in constant local currency. The base year varies by country."
+    }, 
+    "PANUSATLS": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "DEC exchange rate (LCU per US$)", 
+        "sourceNote": "Exchange rate refers to the exchange rate determined by the Development Economics Group through the Atlas Method, which is an alternative rate used to smooth fluctuations in prices and exchange rates by a special method of conversion used by the World Bank. This applies a conversion factor that averages the exchange rate for a given year and the two preceding years, adjusted for differences in rates of inflation between the country, and through 2000, the G-5 countries (France, Germany, Japan, the United Kingdom, and the United States). From 2001, these countries include the Euro area, Japan, the United Kingdom, and the United States."
+    }, 
+    "NECONGOVTXN": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "Government Consumption deflator, LCU", 
+        "sourceNote": "The Government Consumption implicit deflator is the ratio of  Government Consumption in current local currency to  Government Consumption in constant local currency. The base year varies by country."
+    }, 
+    "NECONGOVTCN": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "Government Consumption, current LCU, millions", 
+        "sourceNote": "Government consumption (formerly general government consumption) includes all government current expenditures for purchases of goods and services (including compensation of employees). It also includes most expenditures on national defense and security, but excludes government military expenditures that are part of government capital formation. Data are in current LCU, millions"
+    }, 
+    "NEGDIFTOTCN": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "Fixed Investment, current LCU, millions", 
+        "sourceNote": "Fixed investment includes land improvements (fences, ditches, drains, and so on); plant, machinery, and equipment purchases; and the construction of roads, railways, and the like, including schools, offices, hospitals, private residential dwellings, and commercial and industrial buildings. According to the 1993 SNA, net acquisitions of valuables are also considered capital formation. Data are in current LCU millions."
+    }, 
+    "NEGDIFTOTXN": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "Fixed Investment deflator, LCU", 
+        "sourceNote": "The Fixed Investment implicit deflator is the ratio of Fixed Investment  in current local currency to Fixed Investment in constant local currency. The base year varies by country."
+    }, 
+    "NECONPRVTCN": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "Private Consumption, current LCU, millions", 
+        "sourceNote": "Private Consumption is the market value of all goods and services, including durable products (such as cars, washing machines, and home computers), purchased by households. It excludes purchases of dwellings but includes imputed rent for owner-occupied dwellings. It also includes payments and fees to governments to obtain permits and licenses. Here, household consumption expenditure includes the expenditures of nonprofit institutions serving households, even when reported separately by the country. Data are in current LCU, millions."
+    }, 
+    "NEEXPGNFSCN": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "Exports GNFS, current LCU, millions", 
+        "sourceNote": "Exports of goods and services represent the value of all goods and other market services provided to the rest of the world. They include the value of merchandise, freight, insurance, transport, travel, royalties, license fees, and other services, such as communication, construction, financial, information, business, personal, and government services. They exclude compensation of employees and investment income (formerly called factor services) and transfer payments. Data are in current LCU, millions."
+    }, 
+    "NEGDIFTOTCD": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "Fixed Investment, current US$, millions", 
+        "sourceNote": "Fixed investment includes land improvements (fences, ditches, drains, and so on); plant, machinery, and equipment purchases; and the construction of roads, railways, and the like, including schools, offices, hospitals, private residential dwellings, and commercial and industrial buildings. According to the 1993 SNA, net acquisitions of valuables are also considered capital formation. Data are in current US$ millions."
+    }, 
+    "NEGDIFTOTXD": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "", 
+        "name": "Gross Fixed Investment (implicit price deflator constant 2005 USD)", 
+        "sourceNote": ""
+    }, 
+    "NEEXPGNFSCD": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "Exports GNFS, current US$, millions", 
+        "sourceNote": "Exports of goods and services represent the value of all goods and other market services provided to the rest of the world. They include the value of merchandise, freight, insurance, transport, travel, royalties, license fees, and other services, such as communication, construction, financial, information, business, personal, and government services. They exclude compensation of employees and investment income (formerly called factor services) and transfer payments. Data are in current US$, millions."
+    }, 
+    "NECONPRVTCD": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "Private Consumption, current US$, millions", 
+        "sourceNote": "Private Consumption is the market value of all goods and services, including durable products (such as cars, washing machines, and home computers), purchased by households. It excludes purchases of dwellings but includes imputed rent for owner-occupied dwellings. It also includes payments and fees to governments to obtain permits and licenses. Here, household consumption expenditure includes the expenditures of nonprofit institutions serving households, even when reported separately by the country. Data are in current US$, millions."
+    }, 
+    "PANEUATLS": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "", 
+        "name": "LCU: Euro", 
+        "sourceNote": ""
+    }, 
+    "NYGDPMKTPXD": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "", 
+        "name": "GDP (implicit price deflator contant 2005 USD)", 
+        "sourceNote": ""
+    }, 
+    "NEGDIFTOTKD": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "Fixed Investment, constant US$, millions", 
+        "sourceNote": "Fixed investment includes land improvements (fences, ditches, drains, and so on); plant, machinery, and equipment purchases; and the construction of roads, railways, and the like, including schools, offices, hospitals, private residential dwellings, and commercial and industrial buildings. According to the 1993 SNA, net acquisitions of valuables are also considered capital formation. Data are in constant US$ millions.  The base year is 2005."
+    }, 
+    "NEEXPGNFSKD": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "Exports GNFS, constant US$, millions", 
+        "sourceNote": "Exports of goods and services represent the value of all goods and other market services provided to the rest of the world. They include the value of merchandise, freight, insurance, transport, travel, royalties, license fees, and other services, such as communication, construction, financial, information, business, personal, and government services. They exclude compensation of employees and investment income (formerly called factor services) and transfer payments. Data are in constant US$, millions.  The base year is 2005."
+    }, 
+    "NYGDPMKTPCN": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "GDP, current LCU, millions", 
+        "sourceNote": "GDP at purchaser's prices is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in current LCU millions."
+    }, 
+    "NECONPRVTKD": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "Private Consumption, constant US$, millions", 
+        "sourceNote": "Private Consumption is the market value of all goods and services, including durable products (such as cars, washing machines, and home computers), purchased by households. It excludes purchases of dwellings but includes imputed rent for owner-occupied dwellings. It also includes payments and fees to governments to obtain permits and licenses. Here, household consumption expenditure includes the expenditures of nonprofit institutions serving households, even when reported separately by the country. Data are in constant US$, millions.  The base year is 2005."
+    }, 
+    "NEGDIFTOTKN": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "Fixed Investment, constant LCU, millions", 
+        "sourceNote": "Fixed investment includes land improvements (fences, ditches, drains, and so on); plant, machinery, and equipment purchases; and the construction of roads, railways, and the like, including schools, offices, hospitals, private residential dwellings, and commercial and industrial buildings. According to the 1993 SNA, net acquisitions of valuables are also considered capital formation. Data are in constant LCU millions. The base year varies by country."
+    }, 
+    "NYGDPMKTPXN": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "GDP deflator, LCU", 
+        "sourceNote": "The GDP implicit deflator is the ratio of GDP in current local currency to GDP in constant local currency. The base year varies by country."
+    }, 
+    "NYGDPMKTPCD": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "GDP, current US$, millions", 
+        "sourceNote": "GDP at purchaser's prices is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in current US$ millions."
+    }, 
+    "NECONPRVTKN": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "Private Consumption, constant LCU, millions", 
+        "sourceNote": "Private Consumption is the market value of all goods and services, including durable products (such as cars, washing machines, and home computers), purchased by households. It excludes purchases of dwellings but includes imputed rent for owner-occupied dwellings. It also includes payments and fees to governments to obtain permits and licenses. Here, household consumption expenditure includes the expenditures of nonprofit institutions serving households, even when reported separately by the country. Data are in constant LCU, millions. The base year varies by country."
+    }, 
+    "GGBALOVRLCD_": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Economic Outlook data.", 
+        "name": "General Govt. Balance, %GDP", 
+        "sourceNote": "General government balance is the net balance of federal, state and local receipts minus outlays. Data is presented as a % of GDP."
+    }, 
+    "NEEXPGNFSXD": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "", 
+        "name": "Exports, GNFS (implicit price deflator constant 2005 USD)", 
+        "sourceNote": ""
+    }, 
+    "NYGDPMKTPKD": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "GDP, constant US$, millions", 
+        "sourceNote": "GDP at purchaser's prices is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in constant US$ millions.  The base year is 2005."
+    }, 
+    "NEEXPGNFSKN": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "Exports GNFS, constant LCU, millions", 
+        "sourceNote": "Exports of goods and services represent the value of all goods and other market services provided to the rest of the world. They include the value of merchandise, freight, insurance, transport, travel, royalties, license fees, and other services, such as communication, construction, financial, information, business, personal, and government services. They exclude compensation of employees and investment income (formerly called factor services) and transfer payments. Data are in constant LCU, millions."
+    }, 
+    "NEGDIKSTKKD": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "", 
+        "name": "Estimated Capital stock (real 2005 USD)", 
+        "sourceNote": ""
+    }, 
+    "NEEXPGNFSXN": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "Exports GNFS deflator, LCU", 
+        "sourceNote": "The Exports GNFS implicit deflator is the ratio of  Exports GNFS in current local currency to Exports GNFS in constant local currency. The base year varies by country."
+    }, 
+    "NYGDPMKTPKN": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "GDP, constant LCU, millions", 
+        "sourceNote": "GDP at purchaser's prices is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in constant LCU millions. The base year varies by country."
+    }, 
+    "BNOTHCACD": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "IMF, International Finance Statistics", 
+        "name": "Net Exports Other, BOP, current US$, millions", 
+        "sourceNote": "Other Net exports provided by residents to nonresidents cover merchanting and other trade-related services; operational leasing services; and miscellaneous business, professional, and technical services."
+    }, 
+    "BNCABFUNDCD_": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "IMF, International Finance Statistics", 
+        "name": "Current Account Balance, %GDP", 
+        "sourceNote": "Current account balance is the sum of net exports of goods, services, net income, and net current transfers. Data is presented as a share of nominal GDP.\n"
+    }, 
+    "NYGDPDISCCD": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "GDP Discrepancy, current US$, millions", 
+        "sourceNote": "A statistical discrepancy usually arises when the GDP components are estimated independently by industrial origin and by expenditure categories. This item represents the discrepancy in the use of resources (i.e., the estimate of GDP by expenditure categories). Data are in current US$ millions."
+    }, 
+    "NYGDPPOTLKD": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "GDP Potential, constant US$, millions", 
+        "sourceNote": "Potential GDP is the estimated level of total output when the economy is operating at natural rate of unemployment, presented in constant US$, millions. The base year is 2005."
+    }, 
+    "NECONPRVTXN": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "Private Consumption deflator, LCU", 
+        "sourceNote": "The Private Consumption implicit deflator is the ratio of  Private Consumption in current local currency to  Private Consumption in constant local currency. The base year varies by country."
+    }, 
+    "NEGDETOTTKD": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "", 
+        "name": "Gross Domestic Expenditure (GDE) (real 2005 USD)", 
+        "sourceNote": ""
+    }, 
+    "NYGDPDISCKD": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "GDP Discrepancy, constant US$, millions", 
+        "sourceNote": "A statistical discrepancy usually arises when the GDP components are estimated independently by industrial origin and by expenditure categories. This item represents the discrepancy in the use of resources (i.e., the estimate of GDP by expenditure categories). Data are in constant US$ millions.  The base year is 2005."
+    }, 
+    "BNCABFUNDCD": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "IMF, International Finance Statistics", 
+        "name": "Current Account Balance, current US$, millions", 
+        "sourceNote": "Current account balance is the sum of net exports of goods, services, net income, and net current transfers. Data is in current US$ millions\n"
+    }, 
+    "NECONPRVTXD": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "", 
+        "name": "Private Consumption (implicit price deflator contant 2005 USD)", 
+        "sourceNote": ""
+    }, 
+    "NYGDPPOTLKN": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "", 
+        "name": "Estimated Potential GDP (real local currency units, various base years)", 
+        "sourceNote": ""
+    }, 
+    "NEIMPGNFSCD": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "Imports GNFS, current US$, millions", 
+        "sourceNote": "Imports of goods and services represent the value of all goods and other market services received from the rest of the world. They include the value of merchandise, freight, insurance, transport, travel, royalties, license fees, and other services, such as communication, construction, financial, information, business, personal, and government services. They exclude compensation of employees and investment income (formerly called factor services) and transfer payments. Data are in current US$, millions."
+    }, 
+    "NEGDISTKBKN": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "Change in Inventories, constant LCU, millions", 
+        "sourceNote": "Inventories are stocks of goods held by firms to meet temporary or unexpected fluctuations in production or sales, and \"work in progress.\" Data is in constant LCU, millions. The base year varies by country."
+    }, 
+    "NEIMPGNFSCN": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "Imports GNFS, current LCU, millions", 
+        "sourceNote": "Imports of goods and services represent the value of all goods and other market services received from the rest of the world. They include the value of merchandise, freight, insurance, transport, travel, royalties, license fees, and other services, such as communication, construction, financial, information, business, personal, and government services. They exclude compensation of employees and investment income (formerly called factor services) and transfer payments. Data are in current LCU, millions."
+    }, 
+    "NEGDISTKBKD": {
+        "source": "GEP Economic Prospects", 
+        "sourceOrganization": "World Bank staff calculations based on World Development Indicators data.", 
+        "name": "Change in Inventories, constant US$, millions", 
+        "sourceNote": "Inventories are stocks of goods held by firms to meet temporary or unexpected fluctuations in production or sales, and \"work in progress.\" Data is in constant US$ millions.  The base year is 2005."
+    }
+}

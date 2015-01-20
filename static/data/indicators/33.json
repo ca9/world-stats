@@ -1,0 +1,332 @@
+{
+    "FB.CBK.BRWR.P3": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "International Monetary Fund, Financial Access Survey.", 
+        "name": "Borrowers from commercial banks (per 1,000 adults)", 
+        "sourceNote": "Borrowers from commercial banks are the reported number of resident customers that are nonfinancial corporations (public and private) and households who obtained loans from commercial banks and other banks functioning as commercial banks. For many countries data cover the total number of loan accounts due to lack of information on loan account holders."
+    }, 
+    "FIN14_FM": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Enterprise Surveys", 
+        "name": "Percent of SMEs who have a female senior manager with an outstanding loan or line of credit (5-99 employees)", 
+        "sourceNote": "Denotes the percentage of small (5-19 employees) or medium (20-99 employees) enterprises, having a female senior manager, with a loan or line of credit from a regulated financial institution at the time of the survey. "
+    }, 
+    "FIN14_FO": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Enterprise Surveys", 
+        "name": "Percent of female-owned SMEs with an outstanding loan or line of credit (5-99 employees)", 
+        "sourceNote": "Denotes the percentage of female-owned, small (5-19 employees) or medium (20-99 employees) enterprises with a loan or line of credit from a regulated financial institution at the time of the survey. "
+    }, 
+    "WP11623_4.1": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Global Findex Database", 
+        "name": "Account at a formal financial institution (% age 15+)", 
+        "sourceNote": "Adults with an account (self or together with someone else) at a bank, credit union, another financial institution (e.g., cooperatives, microfinance institutions) or the post office (if applicable) including respondents who reported having a debit card (% age 15+)"
+    }, 
+    "WP11648.9": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Global Findex Database", 
+        "name": "Saved at a financial institution in the past year, income quintiles III, IV, and V (highest)  (% age 15+)", 
+        "sourceNote": "Adults who saved or set aside any money in the past 12 months using an account at a bank, credit union or another financial institution (e.g., cooperatives) or microfinance institution (% in the third, fourth, and fifth (highest) income quintiles (41st-100th percentile), age 15+)"
+    }, 
+    "FB.CBK.BRCH.P5": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "International Monetary Fund, Financial Access Survey.", 
+        "name": "Commercial bank branches (per 100,000 adults)", 
+        "sourceNote": "Commercial bank branches are retail locations of resident commercial banks and other resident banks that function as commercial banks that provide financial services to customers and are physically separated from the main office but not organized as legally separated subsidiaries."
+    }, 
+    "FB.ATM.TOTL.K2": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "IMF FAS", 
+        "name": "Automated teller machines (ATMs) (per 1,000 sq km)", 
+        "sourceNote": "Denotes the total number of ATMs for every 1,000 squared kilometers. Calculated as (number of ATMs)*1,000/land area of the reporting country in square kilometers. "
+    }, 
+    "FB.CBK.DPTR.P3": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "International Monetary Fund, Financial Access Survey.", 
+        "name": "Depositors with commercial banks (per 1,000 adults)", 
+        "sourceNote": "Depositors with commercial banks are the reported number of deposit account holders at commercial banks and other resident banks functioning as commercial banks  that are resident nonfinancial corporations (public and private) and households. For many countries data cover the total number of deposit accounts due to lack of information on account holders. The major types of deposits are checking accounts, savings accounts, and time deposits."
+    }, 
+    "FB.CBK.BRCH.K2": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "IMF FAS", 
+        "name": "Commercial bank branches (per 1000 sq km)", 
+        "sourceNote": "Denotes the number of branches of commercial banks for every 1,000 squared kilometers in the reporting country.  Calculated as (number of institutions + number of branches)*1,000/land area of the reporting country in square kilometers. "
+    }, 
+    "FIN15_FO": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Enterprise Surveys", 
+        "name": "Percent of female-owned SMEs with an account at a formal financial institution (5-99 employees)", 
+        "sourceNote": "Denotes the percentage of female-owned, small (5-19 employees) or medium (20-99 employees) enterprises with a checking or savings account. "
+    }, 
+    "FB.CBK.DPST.P3": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "IMF FAS", 
+        "name": "Number of deposit accounts with commercial banks per 1,000 adults", 
+        "sourceNote": "Denotes the total number of deposit account holders that are resident nonfinancial corporations (public and private) and households in commercial banks for every 1,000 adults in the reporting country. Calculated as (number of depositors)*1,000/adult population in the reporting country. "
+    }, 
+    "FIN15_FM": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Enterprise Surveys", 
+        "name": "Percent of SMEs who have a female senior manager with an account at a formal financial institution (5-99 employees)", 
+        "sourceNote": "Denotes the percentage of small (5-19 employees) or medium (20-99 employees) enterprises, having a female senior manager, with a checking or savings account. "
+    }, 
+    "FB.SME.LOAN.ZS": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "IMF FAS", 
+        "name": "SME loan accounts with commercial banks (% of loan accounts by non-financial corporations with commercial banks)", 
+        "sourceNote": "Denotes the total number of loans obtained by SMEs from a commercial bank as a fraction of the total loans obtained by non-financial corporations from commercial banks. Calculated as: (number of loan accounts by SMEs with commercial banks)/(number of loan accounts with commercial banks - number of loan accounts by households with commercial banks).  "
+    }, 
+    "FIN14_MEDIUM": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Enterprise Surveys", 
+        "name": "Percent of medium enterprises with an outstanding loan or line of credit (20-99  employees)", 
+        "sourceNote": "Denotes the percentage of medium (20-99 employees) enterprises with a loan or line of credit from a regulated financial institution at the time of the survey. "
+    }, 
+    "FB.CBK.LOAN.P3": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "IMF FAS", 
+        "name": "Loan accounts with commercial banks per 1,000 adults", 
+        "sourceNote": "Denotes the total number of loan accounts that are obtained by resident nonfinancial corporations (public and private) and households from commercial banks for every 1,000 adults in the reporting country. Calculated as: (number of loan accounts*1,000)/adult population in the reporting country. "
+    }, 
+    "WP11651.3": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Global Findex Database", 
+        "name": "Loan from a financial institution in the past year, female (% age 15+)", 
+        "sourceNote": "Adults who borrowed any money in the past 12 months from a bank, credit union or another financial institution (e.g., cooperatives) or microfinance institution (% female, age 15+)"
+    }, 
+    "FIN15_SME": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Enterprise Surveys", 
+        "name": "Percent of SMEs with an account at a formal financial institution (5-99 employees)", 
+        "sourceNote": "Denotes the percentage of small (5-19 employees) or medium (20-99 employees) enterprises with a checking or savings account."
+    }, 
+    "FIN14_LARGE": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "", 
+        "name": "Percent of large enterprises with an outstanding loan or line of credit (100+ employees)", 
+        "sourceNote": ""
+    }, 
+    "WP11651.4": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Global Findex Database", 
+        "name": "Loan from a financial institution in the past year, young adults (% ages 15-24)", 
+        "sourceNote": "Adults who borrowed any money in the past 12 months from a bank, credit union or another financial institution (e.g., cooperatives) or microfinance institution (% ages 15-24)"
+    }, 
+    "WP11623_4.10": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Global Findex Database", 
+        "name": "Account at a formal financial institution, rural (% age 15+)", 
+        "sourceNote": "Adults with an account (self or together with someone else) at a bank, credit union, another financial institution (e.g., cooperatives, microfinance institutions) or the post office (if applicable) including respondents who reported having a debit card (% living in an urban area, age 15+ )"
+    }, 
+    "WP11623_4.11": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Global Findex Database", 
+        "name": "Account at a formal financial institution, urban (% age 15+)", 
+        "sourceNote": "Adults with an account (self or together with someone else) at a bank, credit union, another financial institution (e.g., cooperatives, microfinance institutions) or the post office (if applicable) including respondents who reported having a debit card (% living in a rural area, age 15+)"
+    }, 
+    "FB.ATM.TOTL.P5": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "International Monetary Fund, Financial Access Survey.", 
+        "name": "Automated teller machines (ATMs) (per 100,000 adults)", 
+        "sourceNote": "Automated teller machines are computerized telecommunications devices that provide clients of a financial institution with access to financial transactions in a public place."
+    }, 
+    "WP11651.8": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Global Findex Database", 
+        "name": "Loan from a financial institution in the past year, income quintiles I (lowest) and II (% age 15+)", 
+        "sourceNote": "Adults who borrowed any money in the past 12 months from a bank, credit union or another financial institution (e.g., cooperatives) or microfinance institution (% in the first (lowest) and second income quintiles (0-40th percentile), age 15+)"
+    }, 
+    "WP11651.9": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Global Findex Database", 
+        "name": "Loan from a financial institution in the past year, income quintiles III, IV, and V (highest)  (% age 15+)", 
+        "sourceNote": "Adults who borrowed any money in the past 12 months from a bank, credit union or another financial institution (e.g., cooperatives) or microfinance institution (% in the third, fourth, and fifth (highest) income quintiles (41st-100th percentile), age 15+)"
+    }, 
+    "FIN15_LARGE": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Enterprise Surveys", 
+        "name": "Percent of large enterprises with an account at a formal financial institution (100+ employees)", 
+        "sourceNote": "Denotes the percentage of large (100+ employees) enterprises with a checking or savings account. "
+    }, 
+    "WP11651.5": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Global Findex Database", 
+        "name": "Loan from a financial institution in the past year, older adults (% age 25+)", 
+        "sourceNote": "Adults who borrowed any money in the past 12 months from a bank, credit union or another financial institution (e.g., cooperatives) or microfinance institution (% age 25+)"
+    }, 
+    "WP11651.2": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Global Findex Database", 
+        "name": "Loan from a financial institution in the past year, male (% age 15+)", 
+        "sourceNote": "Adults who borrowed any money in the past 12 months from a bank, credit union or another financial institution (e.g., cooperatives) or microfinance institution (% male, age 15+)"
+    }, 
+    "FB.SME.DPTR.ZS": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "IMF FAS", 
+        "name": "SME depositors with commercial banks (% of non-financial corporation depositors with commercial banks): ", 
+        "sourceNote": "Denotes the total number of SMEs that have a deposit account in a commercial bank, as a fraction of total non-financial corporation depositors in the reporting country. Calculated as: (number of SME depositors with commercial banks)/(number of depositors with commercial banks - number of household depositors with commercial banks). "
+    }, 
+    "WP11648.3": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Global Findex Database", 
+        "name": "Saved at a financial institution in the past year, female (% age 15+)", 
+        "sourceNote": "Adults who saved or set aside any money in the past 12 months using an account at a bank, credit union or another financial institution (e.g., cooperatives) or microfinance institution (% female, age 15+)"
+    }, 
+    "WP11623_4.8": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Global Findex Database", 
+        "name": "Account at a formal financial institution, income, bottom 40% (% age 15+)", 
+        "sourceNote": "Adults with an account (self or together with someone else) at a bank, credit union, another financial institution (e.g., cooperatives, microfinance institutions) or the post office (if applicable) including respondents who reported having a debit card (% in the first (lowest) and second income quintiles (0-40th percentile), age 15+)"
+    }, 
+    "WP11623_4.9": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Global Findex Database", 
+        "name": "Account at a formal financial institution, income quintiles III, IV, and V (highest)  (% age 15+)", 
+        "sourceNote": "Adults with an account (self or together with someone else) at a bank, credit union, another financial institution (e.g., cooperatives, microfinance institutions) or the post office (if applicable) including respondents who reported having a debit card (% in the third, fourth, and fifth (highest) income quintiles (41st-100th percentile), age 15+)"
+    }, 
+    "WP11623_4.4": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Global Findex Database", 
+        "name": "Account at a formal financial institution, young adults (% ages 15-24)", 
+        "sourceNote": "Adults with an account (self or together with someone else) at a bank, credit union, another financial institution (e.g., cooperatives, microfinance institutions) or the post office (if applicable) including respondents who reported having a debit card (% ages 15-24)"
+    }, 
+    "WP11623_4.5": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Global Findex Database", 
+        "name": "Account at a formal financial institution, older adults (% age 25+)", 
+        "sourceNote": "Adults with an account (self or together with someone else) at a bank, credit union, another financial institution (e.g., cooperatives, microfinance institutions) or the post office (if applicable) including respondents who reported having a debit card (% age 25+)"
+    }, 
+    "WP11623_4.2": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Global Findex.", 
+        "name": "Account at a formal financial institution, male (% age 15+)", 
+        "sourceNote": "Account at a formal financial institution, male (% age 15+)"
+    }, 
+    "WP11623_4.3": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Global Findex.", 
+        "name": "Account at a formal financial institution, female (% age 15+)", 
+        "sourceNote": "Account at a formal financial institution, female (% age 15+)"
+    }, 
+    "WP11651.1": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Global Findex Database", 
+        "name": "Loan from a financial institution in the past year (% age 15+)", 
+        "sourceNote": "Adults who borrowed any money in the past 12 months from a bank, credit union or another financial institution (e.g., cooperatives) or microfinance institution (% age 15+)"
+    }, 
+    "FIN14_MM": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Enterprise Surveys", 
+        "name": "Percent of SMEs who have a male senior manager with an outstanding loan or line of credit (5-99 employees)", 
+        "sourceNote": "Denotes the percentage of small (5-19 employees) or medium (20-99 employees) enterprises, having a male senior manager, with a loan or line of credit from a regulated financial institution at the time of the survey. "
+    }, 
+    "WP11648.4": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Global Findex Database", 
+        "name": "Saved at a financial institution in the past year, young adults (% ages 15-24)", 
+        "sourceNote": "Adults who saved or set aside any money in the past 12 months using an account at a bank, credit union or another financial institution (e.g., cooperatives) or microfinance institution (% ages 15-24)"
+    }, 
+    "WP11648.5": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Global Findex Database", 
+        "name": "Saved at a financial institution in the past year, older adults (% age 25+)", 
+        "sourceNote": "Adults who saved or set aside any money in the past 12 months using an account at a bank, credit union or another financial institution (e.g., cooperatives) or microfinance institution (% age 25+)"
+    }, 
+    "WP11648.1": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Global Findex Database", 
+        "name": "Saved at a financial institution in the past year (% age 15+)", 
+        "sourceNote": "Adults who saved or set aside any money in the past 12 months using an account at a bank, credit union or another financial institution (e.g., cooperatives) or microfinance institution (% age 15+)"
+    }, 
+    "WP11648.2": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Global Findex Database", 
+        "name": "Saved at a financial institution in the past year, male (% age 15+)", 
+        "sourceNote": "Adults who saved or set aside any money in the past 12 months using an account at a bank, credit union or another financial institution (e.g., cooperatives) or microfinance institution (% male, age 15+)"
+    }, 
+    "FIN14_SMALL": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Enterprise Surveys", 
+        "name": "Percent of small enterprises with an outstanding loan or line of credit (5-19 employees)", 
+        "sourceNote": "Denotes the percentage of small (5-19 employees) enterprises with a loan or line of credit from a regulated financial institution at the time of the survey. "
+    }, 
+    "WP11651.10": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Global Findex Database", 
+        "name": "Loan from a financial institution in the past year, rural (% age 15+)", 
+        "sourceNote": "Adults who borrowed any money in the past 12 months from a bank, credit union or another financial institution (e.g., cooperatives) or microfinance institution (% living in an urban area, age 15+ )"
+    }, 
+    "FIN14_SME": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Enterprise Surveys", 
+        "name": "Percent of SMEs with an outstanding loan or line of credit (5-99 employees)", 
+        "sourceNote": "Denotes the percentage of small (5-19 employees) or medium (20-99 employees) enterprises with a loan or line of credit from a regulated financial institution at the time of the survey. "
+    }, 
+    "FIN14_MO": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Enterprise Surveys", 
+        "name": "Percent of male-owned SMEs with an outstanding loan or line of credit (5-99 employees)", 
+        "sourceNote": "Denotes the percentage of male-owned, small (5-19 employees) or medium (20-99 employees) enterprises with a loan or line of credit from a regulated financial institution at the time of the survey. "
+    }, 
+    "WP11648.8": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Global Findex Database", 
+        "name": "Saved at a financial institution in the past year, income quintiles I (lowest) and II (% age 15+)", 
+        "sourceNote": "Adults who saved or set aside any money in the past 12 months using an account at a bank, credit union or another financial institution (e.g., cooperatives) or microfinance institution (% in the first (lowest) and second income quintiles (0-40th percentile), age 15+)"
+    }, 
+    "FIN15_MEDIUM": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Enterprise Surveys", 
+        "name": "Percent of medium enterprises with an account at a formal financial institution (20-99 employees)", 
+        "sourceNote": "Denotes the percentage of medium (20-99 employees) enterprises with a checking or savings account. "
+    }, 
+    "FIN15_SMALL": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Enterprise Surveys", 
+        "name": "Percent of small enterprises with an account at a formal financial institution (5-19 employees)", 
+        "sourceNote": "Denotes the percentage of small (5-19 employees) enterprises with a checking or savings account. "
+    }, 
+    "WP11648.10": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Global Findex Database", 
+        "name": "Saved at a financial institution in the past year, rural (% age 15+)", 
+        "sourceNote": "Adults who saved or set aside any money in the past 12 months using an account at a bank, credit union or another financial institution (e.g., cooperatives) or microfinance institution (% living in an urban area, age 15+ )"
+    }, 
+    "WP11651.11": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Global Findex Database", 
+        "name": "Loan from a financial institution in the past year, urban (% age 15+)", 
+        "sourceNote": "Adults who borrowed any money in the past 12 months from a bank, credit union or another financial institution (e.g., cooperatives) or microfinance institution (% living in a rural area, age 15+)"
+    }, 
+    "WP11648.11": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Global Findex Database", 
+        "name": "Saved at a financial institution in the past year, urban (% age 15+)", 
+        "sourceNote": "Adults who saved or set aside any money in the past 12 months using an account at a bank, credit union or another financial institution (e.g., cooperatives) or microfinance institution (% living in a rural area, age 15+)"
+    }, 
+    "FIN15_MO": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Enterprise Surveys", 
+        "name": "Percent of male-owned SMEs with an account at a formal financial institution (5-99 employees)", 
+        "sourceNote": "Denotes the percentage of male-owned small (5-19 employees) or medium (20-99 employees) enterprises with a checking or savings account. "
+    }, 
+    "FB.SME.BRWR.ZS": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "IMF FAS", 
+        "name": "SME borrowers with commercial banks (% of non-financial corporation borrowers with commercial banks)", 
+        "sourceNote": "Denotes the total number of SMEs that obtained a loan in a commercial bank as a fraction of total non-financial corporation borrowers. Calculated as: (number of SME borrowers with commercial banks)/(number of borrowers with commercial banks - number of household borrowers with commercial banks). "
+    }, 
+    "FIN15_MM": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "Enterprise Surveys", 
+        "name": "Percent of SMEs who have a male senior manager with an account at a formal financial institution (5-99 employees)", 
+        "sourceNote": "Denotes the percentage of small (5-19 employees) or medium (20-99 employees) enterprises, having a male senior manager, with a checking or savings account. "
+    }, 
+    "FB.SME.DPST.ZS": {
+        "source": "G20 Basic Set of Financial Inclusion Indicators", 
+        "sourceOrganization": "IMF FAS", 
+        "name": "SME deposit accounts with commercial banks (% of deposit accounts by non-financial corporations with commercial banks)", 
+        "sourceNote": "Denotes the total number of deposit accounts in commercial banks held by SMEs as a fraction of the total number of deposit accounts in commercial banks held by non-financial corporations. Calculated as: (number of deposit accounts by SMEs with commercial banks)/(number of deposit accounts with commercial banks - number of deposit accounts by households with commercial banks). "
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "SI.POV.URHC": {
+        "source": "Povstats", 
+        "sourceOrganization": "World Bank, Global Poverty Working Group. Data are based on World Bank's country poverty assessments and country Poverty Reduction Strategies.", 
+        "name": "Urban poverty headcount ratio at national poverty lines (% of urban population)", 
+        "sourceNote": "World Bank, Global Poverty Working Group. Data are compiled from official government sources or are computed by World Bank staff using national (i.e. country\u2013specific) poverty lines."
+    }, 
+    "SI.DST.10TH.10": {
+        "source": "Povstats", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are from the Luxembourg Income Study database. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Income share held by highest 10%", 
+        "sourceNote": "Percentage share of income or consumption is the share that accrues to subgroups of population indicated by deciles or quintiles."
+    }, 
+    "SI.POV.NOP25": {
+        "source": "Povstats", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Number of poor at $2.5 a day (PPP) (millions)", 
+        "sourceNote": "The number of people (millions) living on less than $2.5 a day (PPP) "
+    }, 
+    "SI.DST.FRST.20": {
+        "source": "Povstats", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are from the Luxembourg Income Study database. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Income share held by lowest 20%", 
+        "sourceNote": "Percentage share of income or consumption is the share that accrues to subgroups of population indicated by deciles or quintiles. Percentage shares by quintile may not sum to 100 because of rounding."
+    }, 
+    "SI.DST.05TH.20": {
+        "source": "Povstats", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are from the Luxembourg Income Study database. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Income share held by highest 20%", 
+        "sourceNote": "Percentage share of income or consumption is the share that accrues to subgroups of population indicated by deciles or quintiles. Percentage shares by quintile may not sum to 100 because of rounding."
+    }, 
+    "SI.POV.GINI": {
+        "source": "Povstats", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "GINI index (World Bank estimate)", 
+        "sourceNote": "Gini index measures the extent to which the distribution of income or consumption expenditure among individuals or households within an economy deviates from a perfectly equal distribution. A Lorenz curve plots the cumulative percentages of total income received against the cumulative number of recipients, starting with the poorest individual or household. The Gini index measures the area between the Lorenz curve and a hypothetical line of absolute equality, expressed as a percentage of the maximum area under the line. Thus a Gini index of 0 represents perfect equality, while an index of 100 implies perfect inequality."
+    }, 
+    "SI.POV.DDAY": {
+        "source": "Povstats", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are from the Luxembourg Income Study database. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Poverty headcount ratio at $1.25 a day (PPP) (% of population)", 
+        "sourceNote": "Population below $1.25 a day is the percentage of the population living on less than $1.25 a day at 2005 international prices. As a result of revisions in PPP exchange rates, poverty rates for individual countries cannot be compared with poverty rates reported in earlier editions."
+    }, 
+    "SI.POV.RUHC": {
+        "source": "Povstats", 
+        "sourceOrganization": "World Bank, Global Poverty Working Group. Data are based on World Bank's country poverty assessments and country Poverty Reduction Strategies.", 
+        "name": "Rural poverty headcount ratio at national poverty lines (% of rural population)", 
+        "sourceNote": "World Bank, Global Poverty Working Group. Data are compiled from official government sources or are computed by World Bank staff using national (i.e. country\u2013specific) poverty lines."
+    }, 
+    "SI.POV.25DAY": {
+        "source": "Povstats", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Poverty headcount ratio at $2.5 a day (PPP) (% of population)", 
+        "sourceNote": "Population below $2.5 a day is the percentage of the population living on less than $2.5 a day at 2005 international prices. "
+    }, 
+    "SI.POV.5DAY": {
+        "source": "Povstats", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Poverty headcount ratio at $5 a day (PPP) (% of population)", 
+        "sourceNote": "Population below $5 a day is the percentage of the population living on less than $5 a day at 2005 international prices. "
+    }, 
+    "SI.DST.03RD.20": {
+        "source": "Povstats", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are from the Luxembourg Income Study database. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Income share held by third 20%", 
+        "sourceNote": "Percentage share of income or consumption is the share that accrues to subgroups of population indicated by deciles or quintiles. Percentage shares by quintile may not sum to 100 because of rounding."
+    }, 
+    "SI.POV.GAP4": {
+        "source": "Povstats", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Poverty gap at $4 a day (PPP) (%)", 
+        "sourceNote": "The mean shortfall from the $4 a day poverty line (counting the nonpoor as having zero shortfall), expressed as a percentage of the poverty line. This measure reflects the depth of poverty as well as its incidence."
+    }, 
+    "SI.POV.GAP5": {
+        "source": "Povstats", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Poverty gap at $5 a day (PPP) (%)", 
+        "sourceNote": "The mean shortfall from the $5 a day poverty line (counting the nonpoor as having zero shortfall), expressed as a percentage of the poverty line. This measure reflects the depth of poverty as well as its incidence."
+    }, 
+    "SI.POV.GAP2": {
+        "source": "Povstats", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are from the Luxembourg Income Study database. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Poverty gap at $2 a day (PPP) (%)", 
+        "sourceNote": "Poverty gap is the mean shortfall from the poverty line (counting the nonpoor as having zero shortfall), expressed as a percentage of the poverty line. This measure reflects the depth of poverty as well as its incidence."
+    }, 
+    "SI.DST.02ND.20": {
+        "source": "Povstats", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are from the Luxembourg Income Study database. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Income share held by second 20%", 
+        "sourceNote": "Percentage share of income or consumption is the share that accrues to subgroups of population indicated by deciles or quintiles. Percentage shares by quintile may not sum to 100 because of rounding."
+    }, 
+    "SI.POV.NAHC": {
+        "source": "Povstats", 
+        "sourceOrganization": "World Bank, Global Poverty Working Group. Data are based on World Bank's country poverty assessments and country Poverty Reduction Strategies.", 
+        "name": "Poverty headcount ratio at national poverty lines (% of population)", 
+        "sourceNote": "World Bank, Global Poverty Working Group. Data are compiled from official government sources or are computed by World Bank staff using national (i.e. country\u2013specific) poverty lines."
+    }, 
+    "SI.POV.4DAY": {
+        "source": "Povstats", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Poverty headcount ratio at $4 a day (PPP) (% of population)", 
+        "sourceNote": "Population below $4 a day is the percentage of the population living on less than $4 a day at 2005 international prices. "
+    }, 
+    "SI.DST.FRST.10": {
+        "source": "Povstats", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are from the Luxembourg Income Study database. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Income share held by lowest 10%", 
+        "sourceNote": "Percentage share of income or consumption is the share that accrues to subgroups of population indicated by deciles or quintiles."
+    }, 
+    "SI.POV.GAP25": {
+        "source": "Povstats", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Poverty gap at $2.5 a day (PPP) (%)", 
+        "sourceNote": "The mean shortfall from the $2.5 a day poverty line (counting the nonpoor as having zero shortfall), expressed as a percentage of the poverty line. This measure reflects the depth of poverty as well as its incidence."
+    }, 
+    "SI.POV.GAPS": {
+        "source": "Povstats", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are from the Luxembourg Income Study database. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Poverty gap at $1.25 a day (PPP) (%)", 
+        "sourceNote": "Poverty gap is the mean shortfall from the poverty line (counting the nonpoor as having zero shortfall), expressed as a percentage of the poverty line. This measure reflects the depth of poverty as well as its incidence."
+    }, 
+    "SI.POV.URGP": {
+        "source": "Povstats", 
+        "sourceOrganization": "World Bank, Global Poverty Working Group. Data are based on World Bank's country poverty assessments and country Poverty Reduction Strategies.", 
+        "name": "Urban poverty gap at national poverty lines (%)", 
+        "sourceNote": "World Bank, Global Poverty Working Group. Data are compiled from official government sources or are computed by World Bank staff using national (i.e. country\u2013specific) poverty lines."
+    }, 
+    "SI.POV.NOP2": {
+        "source": "Povstats", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Number of poor at $2 a day (PPP) (millions)", 
+        "sourceNote": "The number of people (millions) living on less than $2 a day (PPP) "
+    }, 
+    "SI.POV.NOP1": {
+        "source": "Povstats", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Number of poor at $1.25 a day (PPP) (millions)", 
+        "sourceNote": "The number of people (millions) living on less than $1.25 a day (PPP) "
+    }, 
+    "SI.DST.04TH.20": {
+        "source": "Povstats", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are from the Luxembourg Income Study database. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Income share held by fourth 20%", 
+        "sourceNote": "Percentage share of income or consumption is the share that accrues to subgroups of population indicated by deciles or quintiles. Percentage shares by quintile may not sum to 100 because of rounding."
+    }, 
+    "SI.POV.NAGP": {
+        "source": "Povstats", 
+        "sourceOrganization": "World Bank, Global Poverty Working Group. Data are based on World Bank's country poverty assessments and country Poverty Reduction Strategies.", 
+        "name": "Poverty gap at national poverty lines (%)", 
+        "sourceNote": "World Bank, Global Poverty Working Group. Data are compiled from official government sources or are computed by World Bank staff using national (i.e. country\u2013specific) poverty lines."
+    }, 
+    "SI.POV.NOP5": {
+        "source": "Povstats", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Number of poor at $5 a day (PPP) (millions)", 
+        "sourceNote": "The number of people (millions) living on less than $5 a day (PPP) "
+    }, 
+    "SI.POV.NOP4": {
+        "source": "Povstats", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Number of poor at $4 a day (PPP) (millions)", 
+        "sourceNote": "The number of people (millions) livinge on less than $4 a day (PPP) "
+    }, 
+    "SP.POP.TOTL": {
+        "source": "Povstats", 
+        "sourceOrganization": "(1) United Nations Population Division. World Population Prospects, (2) United Nations Statistical Division. Population and Vital Statistics Report  (various years), (3) Census reports and other statistical publications from national statistical offices, (4) Eurostat: Demographic Statistics, (5) Secretariat of the Pacific Community: Statistics and Demography Programme, and (6) U.S. Census Bureau: International Database.", 
+        "name": "Population, total", 
+        "sourceNote": "Total population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship--except for refugees not permanently settled in the country of asylum, who are generally considered part of the population of their country of origin. The values shown are midyear estimates."
+    }, 
+    "SI.POV.RUGP": {
+        "source": "Povstats", 
+        "sourceOrganization": "World Bank, Global Poverty Working Group. Data are based on World Bank's country poverty assessments and country Poverty Reduction Strategies.", 
+        "name": "Rural poverty gap at national poverty lines (%)", 
+        "sourceNote": "World Bank, Global Poverty Working Group. Data are compiled from official government sources or are computed by World Bank staff using national (i.e. country\u2013specific) poverty lines."
+    }, 
+    "SI.POV.2DAY": {
+        "source": "Povstats", 
+        "sourceOrganization": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are from the Luxembourg Income Study database. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).", 
+        "name": "Poverty headcount ratio at $2 a day (PPP) (% of population)", 
+        "sourceNote": "Population below $2 a day is the percentage of the population living on less than $2.00 a day at 2005 international prices. As a result of revisions in PPP exchange rates, poverty rates for individual countries cannot be compared with poverty rates reported in earlier editions."
+    }
+}

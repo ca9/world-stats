@@ -1,0 +1,1052 @@
+{
+    "KIGRAINS": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Agr: Food: Grains, 2000=100, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KIRAW_MATERIAL": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Agr: Raw materials, 2000=100, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KSOYBEAN_MEAL": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Soybean meal, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "IOTHERRAWMAT": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Agr: Raw:2 Oth raw materials, 2000=100, current$", 
+        "sourceNote": "Other raw materials index includes cotton, natural rubber and tobacco."
+    }, 
+    "PLMKRNL_OIL": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "ISTA Mielke GmbH, Oil World; US Department of Agriculture; World Bank.", 
+        "name": "Palmkernal oil, $/mt, current$", 
+        "sourceNote": "Palmkernel Oil (Malaysia), c.I.f. Rotterdam"
+    }, 
+    "WHEAT_US_HRW": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Bloomberg; US Department of Agriculture; World Bank.", 
+        "name": "Wheat, US, HRW, $/mt, current$", 
+        "sourceNote": "Wheat (US), no. 1, hard red winter, ordinary protein, export price delivered at the US Gulf port for prompt or 30 days shipment"
+    }, 
+    "IBEVERAGES": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Agr: Beverages, 2000=100, current$", 
+        "sourceNote": "Beverages index includes cocoa, coffee and tea."
+    }, 
+    "KINONFUEL": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Non-energy commodities, 2000=100, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "FISH_MEAL": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "ISTA Mielke GmbH, Oil World; US Department of Agriculture; World Bank.", 
+        "name": "Fishmeal, $/mt, current$", 
+        "sourceNote": "Fishmeal (any origin), 64-65%,  c&f Bremen, estimates based on wholesale price, beginning 2004; previously c&f Hamburg"
+    }, 
+    "KRICE_05": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Rice, Thailand, 5%, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "TIN": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Platts Metals Week, Engineering and Mining Journal; Thomson Reuters Datastream; World Bank.", 
+        "name": "Tin, cents/kg, current$", 
+        "sourceNote": "Tin (LME), refined, 99.85% purity, settlement price"
+    }, 
+    "MUV": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "MUV 2000=100", 
+        "sourceNote": ""
+    }, 
+    "IFOOD": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Agr: Food, 2000=100, current$", 
+        "sourceNote": "Food index includes fats and oils, grains and other food items."
+    }, 
+    "SUGAR_US": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Bloomberg, World Bank.", 
+        "name": "Sugar, US, cents/kg, current$", 
+        "sourceNote": "Sugar (US), nearby futures contract, c.i.f. "
+    }, 
+    "KPALM_OIL": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Palm oil, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "RUBBER1_TSR20": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "", 
+        "name": "Rubber, TSR20, cents/kg, current$", 
+        "sourceNote": ""
+    }, 
+    "SHRIMP_MEX": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "US Department of Commerce, NOAA, Fishery Market News; World Bank.", 
+        "name": "Shrimp, Mexico, cents/kg, current$", 
+        "sourceNote": "Shrimp , (Mexico), west coast, frozen, white, No. 1,  shell-on, headless, 26 to 30 count per pound, wholesale price at New York"
+    }, 
+    "TOBAC_US": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "US Department of Agriculture, World Bank.", 
+        "name": "Tobacco, $/mt, current$", 
+        "sourceNote": "Tobacco (any origin), unmanufactured, general import , cif, US"
+    }, 
+    "CRUDE_WTI": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Bloomberg; World Bank.", 
+        "name": "Crude oil, WTI, $/bbl, current$", 
+        "sourceNote": "Crude oil, West Texas Intermediate (WTI) 40` API, f.o.b. Midland Texas, spot price"
+    }, 
+    "KTSP": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "TSP, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "BANANA_EU": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Sopisco News; Union of Banana-Exporting Countries (UPEB); Food and Agricultural Organization; US Bureau of Labor Statistics; World Bank.", 
+        "name": "Bananas, EU, $/mt, current$", 
+        "sourceNote": "Bananas (Central & South America), major brands, c.i.f. Hamburg"
+    }, 
+    "KPLYWOOD": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Plywood, cents/sheets, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KSORGHUM": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Sorghum, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "COPRA": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "ISTA Mielke GmbH, Oil World; US Department of Agriculture; World Bank.", 
+        "name": "Copra, $/mt, current$", 
+        "sourceNote": "Copra (Philippines/Indonesia), bulk, c.i.f. N.W. Europe"
+    }, 
+    "KZINC": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Zinc, cents/kg, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KSTL_JP_WIROD": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Steel wire rod, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KCOPRA": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Copra, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "TEA_KOLKATA": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "International Tea Committee; Tea Board of India; Tea Broker's Association of London; World Bank.", 
+        "name": "Tea, Kokata auctions, cents/kg, current$", 
+        "sourceNote": "Tea (Kolkata auctions), leaf, include excise duty, arithmetic average of weekly quotes."
+    }, 
+    "KBEEF": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Meat, beef, cents/kg, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "MAIZE": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "US Department of Agriculture; World Bank.", 
+        "name": "Maize, $/mt, current$", 
+        "sourceNote": "Maize (US), no. 2, yellow, f.o.b. US Gulf ports"
+    }, 
+    "RICE_A1": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "US Department of Agricuture; World Bank.", 
+        "name": "Rice, Thai, A1.Special, $/mt, current$", 
+        "sourceNote": "Rice (Thailand), 100% broken, A.1 Super from 2006 onwards, government standard, f.o.b. Bangkok; prior to 2006, A1 Special, a slightly lower grade than A1 Super."
+    }, 
+    "KNGAS_US": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Natural gas, US, $/mmbtu, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "SUGAR_EU": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "International Monetary Fund; World Bank.", 
+        "name": "Sugar, EU, cents/kg, current$", 
+        "sourceNote": "Sugar (EU), European Union negotiated import price for raw unpackaged sugar from African, Caribbean and Pacific (ACP) under Lome Conventions, c.I.f. European ports"
+    }, 
+    "KLOGS_CMR": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Logs, Cameroon, $/cum, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "PLYWOOD": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Japan Lumber Journal; International Tropical Timber Organization; Nikkei Newsletter on Commodities; World Bank.", 
+        "name": "Plywood, cents/sheets, current$", 
+        "sourceNote": "Plywood (Africa and Southeast Asia), Lauan, 3-ply, extra, 91 cm x 182 cm x 4 mm,  wholesale price, spot Tokyo"
+    }, 
+    "SILVER": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Platts Metasl Week; Australian Minerals Economics Pty, Ltd., Silver World Supply & Demand, Thomson Reuters Datastream; World Bank.", 
+        "name": "Silver, cents/toz, current$", 
+        "sourceNote": "Silver (Handy & Harman), 99.9% grade refined, New York"
+    }, 
+    "KCRUDE_WTI": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Crude oil, WTI, $/bbl, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "ITIMBER": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Agr: Raw:1 Timber, 2000=100, current$", 
+        "sourceNote": "Timber index includes tropical hard logs and sawnwood."
+    }, 
+    "KRUBBER1_TSR20": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "", 
+        "name": "Rubber, TSR20, cents/kg, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "NGAS_US": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Thomson Reuters Datastream; The Wall Street Journal; World Bank.", 
+        "name": "Natural gas, US, $/mmbtu, current$", 
+        "sourceNote": "Natural Gas (U.S.), spot price at Henry Hub, Louisiana"
+    }, 
+    "KLEAD": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Lead, cents/kg, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KTEA_COLOMBO": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Tea, Colombo auctions, cents/kg, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KRICE_25": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Rice, Thailand, 25%, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "IFATS_OILS": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Agr: Food: Fats and oils, 2000=100, current$", 
+        "sourceNote": "Fats and oils index includes coconut oil, groundnut oil, palm oil, soybeans, soybean oil and soybean meal."
+    }, 
+    "KTOBAC_US": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Tobacco, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "RICE_25": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "US Department of Agricuture; World Bank.", 
+        "name": "Rice, Thailand, 25%, $/mt, current$", 
+        "sourceNote": "Rice (Thailand), 25% broken, WR, milled indicative survey price, government standard, f.o.b. Bangkok"
+    }, 
+    "KWHEAT_CANADI": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Wheat, Canada, $/mtv, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "STL_JP_REBAR": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Japan Metal Bulletin, World Bank.", 
+        "name": "Steel, rebar, $/mt, current$", 
+        "sourceNote": "Rebar (concrete Reinforcing bars) (Japan) producers' export contracts (3 to 12 months terms) fob mainly to Asia"
+    }, 
+    "NICKEL": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Platts Metals Week, Thomson Reuters Datastream; World Bank.", 
+        "name": "Nickel, $/mt, current$", 
+        "sourceNote": "Nickel (LME), cathodes, minimum 99.8% purity, settlement price beginning 2005; previously cash price"
+    }, 
+    "TSP": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Fertilizer Week; Fertilizer International; World Bank.", 
+        "name": "TSP, $/mt, current$", 
+        "sourceNote": "TSP (triple superphosphate), up to September 2006 bulk, spot, f.o.b. US Gulf; from October 2006 onwards Tunisian, granular, f.o.b."
+    }, 
+    "SOYBEAN_OIL": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "ISTA Mielke GmbH, Oil World; US Department of Agriculture; World Bank.", 
+        "name": "Soybean oil, $/mt, current$", 
+        "sourceNote": "Soybean oil (Any origin), crude, f.o.b. ex-mill Netherlands"
+    }, 
+    "RICE_05": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "US Department of Agricuture; World Bank.", 
+        "name": "Rice, Thailand, 5%, $/mt, current$", 
+        "sourceNote": "Rice (Thailand), 5% broken, white rice (WR), milled, indicative price based on  weekly surveys of export transactions, government standard, f.o.b. Bangkok"
+    }, 
+    "KIOTHERFOOD": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Agr: Food: Other food, 2000=100, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KNGAS_JP": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Natural gas LNG, $/mmbtu, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KSOYBEANS": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Soybeans, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "BANANA_US": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Sopisco News; Union of Banana-Exporting Countries (UPEB); Food and Agricultural Organization; US Bureau of Labor Statistics; World Bank.", 
+        "name": "Bananas, US, $/mt, current$", 
+        "sourceNote": "Bananas (Central & South America), major brands, US import price, free on truck (f.o.t.) US Gulf ports"
+    }, 
+    "KNICKEL": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Nickel, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "IRON_ORE_SPOT": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "", 
+        "name": "Iron ore, $/dmt, current$", 
+        "sourceNote": ""
+    }, 
+    "KIBEVERAGES": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Agr: Beverages, 2000=100, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KCOCOA": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Cocoa, cents/kg, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KIRON_ORE": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Iron ore, cents/dmtu, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "LOGS_CMR": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "International Tropical Timber Organization; Marches Tropicaux et Mediterraneens; World Bank.", 
+        "name": "Logs, Cameroon, $/cum, current$", 
+        "sourceNote": "Logs (West Africa), sapele, high quality (loyal and marchand), 80 centimeter or more, f.o.b. Douala, Cameroon beginning January 1996; previously of unspecified dimension"
+    }, 
+    "CRUDE_DUBAI": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Bloomberg; World Bank.", 
+        "name": "Crude oil, Dubai, $/bbl, current$", 
+        "sourceNote": "Crude oil, Dubai Fateh 32` API, f.o.b. Dubai, spot price"
+    }, 
+    "IRON_ORE": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Vale; CVRD; UNCTAD; World Bank.", 
+        "name": "Iron ore, cents/dmtu, current$", 
+        "sourceNote": "Iron ore (Brazil), VALE (formerly CVRD) Carajas sinter feed, contract price, f.o.b. Ponta da Madeira.  Unit dry metric ton unit (dmtu) stands for mt 1% Fe-unit.  Prior to year 2010 annual contract prices."
+    }, 
+    "NGAS_JP": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Gas Intelligence; World Bank.", 
+        "name": "Natural gas LNG, $/mmbtu, current$", 
+        "sourceNote": "Natural gas LNG (Japan), import price, cif, recent two months' averages are estimates."
+    }, 
+    "KSTL_JP_HROLL": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Steel hr coilsheet, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KWHEAT_US_SRW": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Wheat, US, SRW, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "STL_JP_WIROD": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Japan Metal Bulletin, World Bank.", 
+        "name": "Steel wire rod, $/mt, current$", 
+        "sourceNote": "Wire ord (Japan) producers' export contracts (3 to 12 months terms) fob mainly to Asia"
+    }, 
+    "STL_JP_CROLL": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Japan Metal Bulletin, World Bank.", 
+        "name": "Steel cr coilsheet, $/mt, current$", 
+        "sourceNote": "Cold-rolled coil/sheet (Japan) producers' export contracts (3 to 12 months terms) fob mainly to Asia"
+    }, 
+    "KCOFFEE_ARABIC": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Coffee, Arabica, cents/kg, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "IMETMIN": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Metals and minerals, 2000=100, current$", 
+        "sourceNote": "Metals and minerals index includes aluminum, copper, iron ore, lead, nickle, tin and zinc."
+    }, 
+    "COFFEE_ARABIC": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "International Coffee Organization; Thomson Reuters Datastream; Complete Coffee Coverage; World Bank.", 
+        "name": "Coffee, Arabica, cents/kg, current$", 
+        "sourceNote": "Coffee (ICO), International Coffee Organization indicator price, other mild Arabicas, average New York and Bremen/Hamburg markets, ex-dock"
+    }, 
+    "KCOCONUT_OIL": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Coconut oil, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "BEEF": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Meat & Livestock Australia, Meat and Livestock Weekly; The National Provisioner; US Department of Agriculture;  World Bank.", 
+        "name": "Meat, beef, cents/kg, current$", 
+        "sourceNote": "Meat, beef (Australia/New Zealand), chucks and cow forequarters, frozen boneless, 85% chemical lean, c.i.f. U.S. port (East Coast), ex-dock, beginning November 2002; previously cow forequarters"
+    }, 
+    "KSUGAR_WLD": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Sugar, world, cents/kg, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "PHOSROCK": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Fertilizer Week; Fertilizer International; World Bank.", 
+        "name": "Phosphate rock, $/mt, current$", 
+        "sourceNote": "Phosphate rock (Morocco), 70% BPL, contract, f.a.s. Casablanca"
+    }, 
+    "LOGS_MYS": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "International Tropical Timber Organization; Mokuzai Shikyo Geppo; World Bank.", 
+        "name": "Logs, Malaysia, $/cum, current$", 
+        "sourceNote": "Logs (Malaysia), meranti, Sarawak, sale price charged by importers, Tokyo beginning February 1993; previously average of Sabah and Sarawak weighted by Japanese import volumes"
+    }, 
+    "TEA_COLOMBO": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "International Tea Committee; Sri Lanka Tea Board; Tea Broker's Association of London; World Bank.", 
+        "name": "Tea, Colombo auctions, cents/kg, current$", 
+        "sourceNote": "Tea (Colombo auctions), Sri Lankan origin, all tea, arithmetic average of weekly quotes."
+    }, 
+    "COCOA": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "International Cocoa Organization Secretariat; World Bank.", 
+        "name": "Cocoa, cents/kg, current$", 
+        "sourceNote": "Cocoa (ICCO), International Cocoa Organization daily price, average of  the first three positions on the terminal markets of New York and London, nearest three future trading months."
+    }, 
+    "IAGRICULTURE": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Agriculture, 2000=100, current$", 
+        "sourceNote": "Agriculture index includes beverages, food and agricultural raw materials."
+    }, 
+    "SAWNWD_MYS": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "International Tropical Timber Market Report; Tropical Timbers; World Bank.", 
+        "name": "Sawnwood, Malaysia, $/cum, current$", 
+        "sourceNote": "Sawnwood (Malaysia), dark red seraya/meranti, select and better quality, average 7 to 8 inches; length average 12 to 14 inches; thickness 1 to 2 inch(es);  kiln dry, c. & f. UK ports, with 5% agents commission including premium for products of certified sustainable forest beginning January 2005; previously excluding the premium"
+    }, 
+    "KTEA_KOLKATA": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Tea, Kokata auctions, cents/kg, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KTEA_AVG": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Tea, auctions (3) average, cents/kg, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KIOTHERRAWMAT": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Agr: Raw:2 Other raw materials, 2000=100, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "STL_JP_HROLL": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Japan Metal Bulletin, World Bank.", 
+        "name": "Steel hr coilsheet, $/mt, current$", 
+        "sourceNote": "Hot-rolled coil/sheet (Japan) producers' export contracts (3 to 12 months terms) fob mainly to Asia"
+    }, 
+    "KPHOSROCK": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Phosphate rock, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KSILVER": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Silver, cents/toz, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KUREA_EE_BULK": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "", 
+        "name": "Urea, E. Europe, bulk, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "SOYBEANS": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "ISTA Mielke GmbH, Oil World; US Department of Agriculture; World Bank.", 
+        "name": "Soybeans, $/mt, current$", 
+        "sourceNote": "Soybeans (US), c.i.f. Rotterdam"
+    }, 
+    "KCOFFEE_ROBUS": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Coffee, Robusta, cents/kg, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KRICE_05_VNM": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "", 
+        "name": "Rice, Vietnamese, 5%, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "UREA_EE_BULK": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Fertilizer Week; Fertilizer International; World Bank.", 
+        "name": "Urea, E. Europe, bulk, $/mt, current$", 
+        "sourceNote": "Urea, (Black Sea), bulk, spot,  f.o.b. Black Sea (primarily Yuzhnyy) beginning July 1991; for 1985-91 (June) f.o.b. Eastern Europe"
+    }, 
+    "KWHEAT_US_HRW": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Wheat, US, HRW, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KMAIZE": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Maize, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KIMETMIN": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Metals and minerals, 2000=100, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KSAWNWD_MYS": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Sawnwood, Malaysia, $/cum, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "CRUDE_BRENT": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Bloomberg; World Bank.", 
+        "name": "Crude oil, Brendt, $/bbl, current$", 
+        "sourceNote": "Crude oil, U.K. Brent 38` API, f.o.b. U.K ports, spot price"
+    }, 
+    "KSAWNWD_CMR": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Sawnwood, Cameroon, $/cum, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KSUGAR_US": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Sugar, US, cents/kg, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "RUBBER1_MYSG": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Singapore Commodity Exchange Ltd (SICOM); Bloomberg; Rubber Association of Singapore Commodity Exchange (RASCE); International Rubber Study Group; Asian Wall Street Journal; World Bank.", 
+        "name": "Rubber, Singapore, cents/kg, current$", 
+        "sourceNote": "Rubber (Asia), RSS3 grade, Singapore Commodity Exchange Ltd (SICOM) nearby contract beginning 2004; during 2000 to 2003, Singapore RSS1; previously Malaysia RSS1"
+    }, 
+    "ORANGE": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "INTERFEL, Fel Actualite hebdo; FRuiTrop; Marche Europeens Des Fruits et Legumes; World Bank.", 
+        "name": "Oranges, $/mt, current$", 
+        "sourceNote": "Oranges (Mediterranean exporters) navel, EEC indicative import price, c.i.f. Paris"
+    }, 
+    "KIRON_ORE_SPOT": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "", 
+        "name": "Iron ore, $/dmt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "COCONUT_OIL": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "ISTA Mielke GmbH, Oil World; US Department of Agriculture; World Bank.", 
+        "name": "Coconut oil, $/mt, current$", 
+        "sourceNote": "Coconut oil (Philippines/Indonesia), bulk, c.i.f. Rotterdam"
+    }, 
+    "KIENERGY": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Energy, 2000=100, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KCOTTON_A_INDX": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Cotton, A Index, cents/kg, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KGRNUT_OIL": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Groundnut oil, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KTIN": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Tin, cents/kg, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KNGAS_EUR": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Natural gas, Europe, $/mmbtu, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "IGRAINS": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Agr: Food: Grains, 2000=100, current$", 
+        "sourceNote": "Grains index includes barley, maize, rice and wheat."
+    }, 
+    "KPLMKRNL_OIL": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Palmkernal oil, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "TEA_MOMBASA": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "International Tea Committee; African Tea Brokers Ltd.; Tea Broker's Association of London; World Bank.", 
+        "name": "Tea, Mombasa auctions, cents/kg, current$", 
+        "sourceNote": "Tea (Mombasa/Nairobi auctions), African origin, all tea, arithmetic average of weekly quotes."
+    }, 
+    "KLOGS_MYS": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Logs, Malaysia, $/cum, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KRICE_A1": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Rice, Thai, A1.Special, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "IENERGY": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Energy, 2000=100, current$", 
+        "sourceNote": "Energy index, a Laspeyres Index with fixed weights based on 2002-2004 average developing countries export values, for coal, crude oil and natural gas."
+    }, 
+    "KCOAL_AUS": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Coal, Australia, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KDAP": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "DAP, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "TEA_AVG": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Tea, acutions (3) average, cents/kg, current$", 
+        "sourceNote": "Tea , average three auctions, arithmetic average of quotations at Kolkata, Colombo and Mombasa/Nairobi."
+    }, 
+    "LEAD": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Platts Metals Week, Engineering and Mining Journal; Thomson Reuters Datastream; World Bank.", 
+        "name": "Lead, cents/kg, current$", 
+        "sourceNote": "Lead (LME), refined, 99.97% purity, settlement price"
+    }, 
+    "KRUBBER1_MYSG": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Rubber, Singapore, cents/kg, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KORANGE": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Oranges, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KGOLD": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Gold, $/toz, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "SOYBEAN_MEAL": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "ISTA Mielke GmbH, Oil World; US Department of Agriculture; World Bank.", 
+        "name": "Soybean meal, $/mt, current$", 
+        "sourceNote": "Soybean meal (any origin), Argentine 45/46% extraction, c.i.f. Rotterdam beginning 1990; previously US 44%"
+    }, 
+    "KIFOOD": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Agr: Food, 2000=100, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "SAWNWD_CMR": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "International Tropical Timber Organization; Marches Tropicaux et Mediterraneens; World Bank.", 
+        "name": "Sawnwood, Cameroon, $/cum, current$", 
+        "sourceNote": "Sawnwood (Cameroon), sapele, width 6 inches or more, length 6 feet or more, f.a.s. Cameroonian ports"
+    }, 
+    "KCRUDE_PETRO": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Crude oil, avg, spot, $/bbl, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KPOTASH": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Potassium Chloride, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "GRNUT_OIL": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "ISTA Mielke GmbH, Oil World; US Department of Agriculture; World Bank.", 
+        "name": "Groundnut oil, $/mt, current$", 
+        "sourceNote": "Groundnut oil (any origin), c.i.f. Rotterdam"
+    }, 
+    "KIAGRICULTURE": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Agriculture, 2000=100, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "ZINC": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Platts Metals Week, Engineering and Mining Journal; Thomson Reuters Datastream; World Bank.", 
+        "name": "Zinc, cents/kg, current$", 
+        "sourceNote": "Zinc (LME), high grade, minimum 99.95% purity, settlement price beginning April 1990; previously special high grade, minimum 99.995%, cash prices "
+    }, 
+    "GOLD": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Platts Metals Week; International Monetary Fund, International Financial Statistics; Shearson Lehman Brothers, Metal Market Weekly Review; Thomson Reuters Datastream; World Bank.", 
+        "name": "Gold, $/toz, current$", 
+        "sourceNote": "Gold (UK), 99.5% fine, London afternoon fixing, average of daily rates"
+    }, 
+    "IFERTILIZERS": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Fertilizers, 2000=100, current$", 
+        "sourceNote": "Fertilizers index includes natural phosphate rock, phosphate, potassium and nitrogenous products."
+    }, 
+    "IMETMIN_DV100": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Base Metals, 2000=100, current$", 
+        "sourceNote": "Base Metals index includes aluminum, copper, lead, nickle, tin and zinc, excludes iron ore."
+    }, 
+    "KBANANA_US": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Bananas, US, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "IOTHERFOOD": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Agr: Food: Other food, 2000=100, current$", 
+        "sourceNote": "Other food index includes bananas, beef, chicken meat, oranges and sugar."
+    }, 
+    "WHEAT_CANADI": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Canadian Grain Commission; Thomson Reuters Datastream; World Bank.", 
+        "name": "Wheat, Canada, $/mt, current$", 
+        "sourceNote": "Wheat (Canada), no. 1, Western Red Spring (CWRS), in store, St. Lawrence, export price"
+    }, 
+    "COFFEE_ROBUS": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "International Coffee Organization; Thomson Reuters Datastream; World Bank.", 
+        "name": "Coffee, Robusta, cents/kg, current$", 
+        "sourceNote": "Coffee (ICO), International Coffee Organization indicator price, Robustas, average New York and Le Havre/Marseilles markets, ex-dock"
+    }, 
+    "SUGAR_WLD": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "International Sugar Organization; Thomson Reuters Datastream; World Bank.", 
+        "name": "Sugar, world, cents/kg, current$", 
+        "sourceNote": "Sugar (world), International Sugar Agreement (ISA) daily price, raw,  f.o.b. and stowed at greater Caribbean ports"
+    }, 
+    "KSTL_JP_REBAR": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Steel, rebar, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KCRUDE_BRENT": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Crude oil, Brendt, $/bbl, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "WHEAT_US_SRW": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "US Department of Agriculture; World Bank.", 
+        "name": "Wheat, US, SRW, $/mt, current$", 
+        "sourceNote": "Wheat (US), no. 2, soft red winter, export price delivered at the US Gulf port for prompt or 30 days shipment"
+    }, 
+    "KCHICKEN": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Meat, chicken, cents/kg, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KFISH_MEAL": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Fishmeal, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "COTTON_A_INDX": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Cotton Outlook; International Cotton Advisory Committee; Liverpool Cotton Services Ltd.; World Bank.", 
+        "name": "Cotton, A Index, cents/kg, current$", 
+        "sourceNote": "Cotton (Cotton Outlook \"CotlookA index\"), middling 1-3/32 inch, traded in Far East, C/F beginning 2006; previously Northern Europe, c.i.f."
+    }, 
+    "DAP": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Fertilizer Week; Fertilizer International; World Bank.", 
+        "name": "DAP, $/mt, current$", 
+        "sourceNote": "DAP (diammonium phosphate), standard size, bulk, spot, f.o.b. US Gulf"
+    }, 
+    "BARLEY": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Bloomberg; World Bank.", 
+        "name": "Barley, $/mt, current$", 
+        "sourceNote": "Barley (Canada), feed, Western No. 1, Winnipeg Commodity Exchange, spot, wholesale farmers' price"
+    }, 
+    "RICE_05_VNM": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "", 
+        "name": "Rice, Vietnamese, 5%, $/mt, current$", 
+        "sourceNote": ""
+    }, 
+    "KSHRIMP_MEX": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Shrimp, Mexico, cents/kg, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KTEA_MOMBASA": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Tea, Mombasa auctions, cents/kg, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "COPPER": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Platts Metals Week, Engineering and Mining Journal; Thomson Reuters Datastream; World Bank.", 
+        "name": "Copper, $/mt, current$", 
+        "sourceNote": "Copper (LME), grade A, minimum 99.9935% purity, cathodes and wire bar shapes, settlement price"
+    }, 
+    "KCRUDE_DUBAI": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Crude oil, Dubai, $/bbl, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KITIMBER": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Agr: Raw:1 Timber, 2000=100, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KCOPPER": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Copper, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KWOODPULP": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Woodpulp, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "POTASH": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Fertilizer Week; Fertilizer International; World Bank.", 
+        "name": "Potassium Chloride, $/mt, current$", 
+        "sourceNote": "Potassium chloride (muriate of potash), standard grade, spot, f.o.b.  Vancouver"
+    }, 
+    "KIFERTILIZERS": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Fertilizers, 2000=100, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "CRUDE_PETRO": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Crude oil, avg, spot, $/bbl, current$", 
+        "sourceNote": "Crude oil, average spot price of Brent, Dubai and West Texas  Intermediate, equally weighed"
+    }, 
+    "INONFUEL": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Non-energy commodities, 2000=100, current$", 
+        "sourceNote": "Non-energy index, a Laspeyres Index with fixed weights based on 2002-2004 average developing countries export values, for 34 commodities contain in the agriculture, fertilizer, and metals and minerals indices."
+    }, 
+    "COAL_AUS": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Coal Week International; Coal Week; World Bank.", 
+        "name": "Coal, Australia, $/mt, current$", 
+        "sourceNote": "Coal (Australia), thermal, f.o.b. piers, Newcastle/Port Kembla, 6,300 kcal/kg (11,340 btu/lb), less than 0.8%, sulfur 13% ash beginning January 2002; previously 6,667 kcal/kg (12,000 btu/lb), less than 1.0% sulfur, 14%  ash"
+    }, 
+    "KLAMB": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Meat, sheep, cents/kg, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "SORGHUM": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "US Department of Agriculture; World Bank.", 
+        "name": "Sorghum, $/mt, current$", 
+        "sourceNote": "Sorghum (US), no. 2 milo yellow, f.o.b. Gulf ports"
+    }, 
+    "CHICKEN": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "US Department of Agriculture; Bloomberg; World Bank.", 
+        "name": "Meat, chicken, cents/kg, current$", 
+        "sourceNote": "Meat, sheep (New Zealand), frozen whole carcasses Prime Medium (PM) wholesale, Smithfield, London  beginning January 2006; previously Prime Light (PL)"
+    }, 
+    "LAMB": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Meat Trade Journal; World Bank.", 
+        "name": "Meat, sheep, cents/kg, current$", 
+        "sourceNote": "Meat, chicken (US), broiler/fryer, whole birds, 2-1/2 to 3 pounds, USDA grade \"A\", ice-packed, Georgia Dock preliminary weighted average, wholesale"
+    }, 
+    "KSTL_JP_CROLL": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Steel cr coilsheet, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "ALUMINUM": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Platts Metals Week, Thomson Reuters Datastream; World Bank.", 
+        "name": "Aluminum, $/mt, current$", 
+        "sourceNote": "Aluminum (LME) London Metal Exchange, unalloyed primary ingots, high grade, minimum 99.7% purity, settlement price beginning 2005; previously cash price"
+    }, 
+    "KBARLEY": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Barley, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "NGAS_EUR": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Gas Intelligence; World Bank.", 
+        "name": "Natural gas, Europe, $/mmbtu, current$", 
+        "sourceNote": "Natural Gas (Europe), average import border price, including UK.  As of April 2010 includes a spot price component.  Between June 2000 - March 2010 excludes UK"
+    }, 
+    "PALM_OIL": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "ISTA Mielke GmbH, Oil World; US Department of Agriculture; World Bank.", 
+        "name": "Palm oil, $/mt, current$", 
+        "sourceNote": "Palm oil (Malaysia), 5% bulk, c.i.f. N. W. Europe"
+    }, 
+    "KIMETMIN_DV100": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Base Metals, 2000=100, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KSOYBEAN_OIL": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Soybean oil, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "WOODPULP": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "Statistisches Bundesamt, Germany; Allman Manadsstatistik, Sweden; World Bank.", 
+        "name": "Woodpulp, $/mt, current$", 
+        "sourceNote": "Woodpulp (Sweden), softwood, sulphate, bleached, air-dry weight, c.i.f.  North Sea ports"
+    }, 
+    "KALUMINUM": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Aluminum, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KIFATS_OILS": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Agr: Food: Fats and oils, 2000=100, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "KSUGAR_EU": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Sugar, EU, cents/kg, constant 2000$", 
+        "sourceNote": ""
+    }, 
+    "IRAW_MATERIAL": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Agr: Raw materials, 2000=100, current$", 
+        "sourceNote": "Agricultural raw materials index includes timber and other raw materials."
+    }, 
+    "KBANANA_EU": {
+        "source": "Global Economic Monitor (GEM) Commodities", 
+        "sourceOrganization": "World Bank.", 
+        "name": "Bananas, EU, $/mt, constant 2000$", 
+        "sourceNote": ""
+    }
+}

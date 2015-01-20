@@ -8,4 +8,3 @@ def get_values(indicator_data):
 
 def regress(dep, factors):
     tosend = set(dep).intersection(set(factors))
-    

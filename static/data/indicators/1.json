@@ -1,0 +1,242 @@
+{
+    "IC.CRD.INFO.XQ": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org/).", 
+        "name": "Depth of credit information index (0=low to 8=high)", 
+        "sourceNote": "Depth of credit information index measures rules affecting the scope, accessibility, and quality of credit information available through public or private credit registries. The index ranges from 0 to 8, with higher values indicating the availability of more credit information, from either a public registry or a private bureau, to facilitate lending decisions."
+    }, 
+    "IC.TAX.DURS": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org/).", 
+        "name": "Time to prepare and pay taxes (hours)", 
+        "sourceNote": "Time to prepare and pay taxes is the time, in hours per year, it takes to prepare, file, and pay (or withhold) three major types of taxes: the corporate income tax, the value added or sales tax, and labor taxes, including payroll taxes and social security contributions."
+    }, 
+    "IC.EC.TIME": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/EnforcingContracts/).", 
+        "name": "Time required to enforce a contract (days)", 
+        "sourceNote": "This indicator tracks the time required to resolve a sale of goods dispute in local courts. The number of calendar days is recorded from the moment a plaintiff files a lawsuit until payment is made. This includes both the days when actions take place and the waiting periods between. The data are collected through studying the codes of civil procedure and other court regulations as well as surveying local litigation lawyers (and, in a quarter of the countries, judges as well). \nSource: World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/EnforcingContracts).\n"
+    }, 
+    "IC.IMP.DOCS": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org/).", 
+        "name": "Documents to import (number)", 
+        "sourceNote": "All documents required per shipment to import goods are recorded. It is assumed that the contract has already been agreed upon and signed by both parties. Documents required for clearance by government ministries, customs authorities, port and container terminal authorities, health and technical control agencies and banks are taken into account. Since payment is by letter of credit, all documents required by banks for the issuance or securing of a letter of credit are also taken into account. Documents that are renewed annually and that do not require renewal per shipment (for example, an annual tax clearance certificate) are not included."
+    }, 
+    "IC.GE.TIME": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/GettingElectricity)", 
+        "name": "Time required to connect to electricity (days)", 
+        "sourceNote": "This indicator tracks the time (in calendar days) required for a business to obtain a permanent electricity connection and supply for a warehouse. To ensure that data are comparable across economies, a standard case study in which an entrepreneur seeks to connect a newly built warehouse for cold meat storage to electricity was used. Data are collected from the electricity distribution utility, then completed and verified by independent professionals such as electricians, electrical engineers, electrical contractors, and construction companies.\n"
+    }, 
+    "IC.LIC.TIME": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/DealingLicenses)", 
+        "name": "Time required to build a warehouse (days)", 
+        "sourceNote": "The time (in calendar days) required to build a warehouse\u2014including obtaining necessary licenses and permits, completing required notifications and inspections, and obtaining utility connections\u2014is measured by this indicator. Information is collected from experts in construction licensing\u2014including architects, construction lawyers, construction firms, utility service providers, and public officials who deal with building regulations. If a procedure can be accelerated legally for an additional cost, the fastest procedure is chosen. To make the data comparable across economies, several assumptions about the business, the warehouse project, and the procedures are used.\n"
+    }, 
+    "IC.LIC.NUM": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/DealingLicenses)", 
+        "name": "Procedures required to build a warehouse (number)", 
+        "sourceNote": "The number of procedures required for a business in the construction industry to build a standardized warehouse is recorded by this indicator. Steps may include: (1) submitting all relevant documents and obtaining all necessary clearances, licenses, permits, and certificates; (2) completing all required notifications and receiving all necessary inspections; (3) obtaining utility connections for electricity, water, sewerage, and phone services; and (4) registering the warehouse after its completion (if required for use as collateral or for transfer of warehouse). Interactions between company employees are not counted as procedures. \nSource: ."
+    }, 
+    "IC.BUS.EASE.XQ": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org/).", 
+        "name": "Ease of doing business index (1=most business-friendly regulations)", 
+        "sourceNote": "Ease of doing business ranks economies from 1 to 189, with first place being the best. A high ranking (a low numerical rank) means that the regulatory environment is conducive to business operation. The index averages the country's percentile rankings on 10 topics covered in the World Bank's Doing Business. The ranking on each topic is the simple average of the percentile rankings on its component indicators."
+    }, 
+    "IC.EXP.DOCS": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org/).", 
+        "name": "Documents to export (number)", 
+        "sourceNote": "All documents required per shipment to export goods are recorded. It is assumed that the contract has already been agreed upon and signed by both parties. Documents required for clearance by government ministries, customs authorities, port and container terminal authorities, health and technical control agencies and banks are taken into account. Since payment is by letter of credit, all documents required by banks for the issuance or securing of a letter of credit are also taken into account. Documents that are renewed annually and that do not require renewal per shipment (for example, an annual tax clearance certificate) are not included."
+    }, 
+    "IC.PI.DIR": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/ProtectingInvestors/).", 
+        "name": "Extent of director liability index (0 to 10)", 
+        "sourceNote": "To help gauge investor protection, the extent of director liability index measures liability for self-dealing. The index ranges from 0 (little to no liability) to 10 (greater liability). The data are from a survey of corporate lawyers and are based on securities regulations, company laws and court rules of evidence.\nSource: World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/ProtectingInvestors/)"
+    }, 
+    "IC.EXP.TIME.EXP": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/TradingAcrossBorders/).", 
+        "name": "Trade: Time to export (day)", 
+        "sourceNote": "This indicator calculates the average number of days it takes to comply with all procedures required to export goods. Local freight forwarders, shipping lines, customs brokers, port officials, and banks provide information on the time to complete each procedure.\nSource: World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/TradingAcrossBorders/)."
+    }, 
+    "IC.EXP.DOCS.IMP": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/TradingAcrossBorders/).", 
+        "name": "Trade: Documents to import (number)", 
+        "sourceNote": "All documents required to import a standardized shipment of goods by ocean transport\u2014from the vessel\u2019s arrival at a port of entry to the cargo\u2019s delivery to a warehouse\u2014are recorded by this indicator. Local freight forwarders, shipping lines, customs brokers, port officials, and banks provide information on required documents.\nSource: World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/TradingAcrossBorders/)."
+    }, 
+    "IC.LGL.CRED.XQ": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org/).", 
+        "name": "Strength of legal rights index (0=weak to 12=strong)", 
+        "sourceNote": "Strength of legal rights index measures the degree to which collateral and bankruptcy laws protect the rights of borrowers and lenders and thus facilitate lending. The index ranges from 0 to 12, with higher scores indicating that these laws are better designed to expand access to credit."
+    }, 
+    "IC.EC.PROC": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/EnforcingContracts/).", 
+        "name": "Procedures required to enforce a contract (number)", 
+        "sourceNote": "This indicator measures the number of procedures required to resolve a sale of goods dispute in local courts. It includes steps to file the case, to go through the trial and judgment, and to enforce the judgment. The data are collected through studying the codes of civil procedure and other court regulations as well as surveying local litigation lawyers (and, in a quarter of the countries, judges as well). Source: World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/EnforcingContracts)."
+    }, 
+    "IC.PI.SHAR": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/ProtectingInvestors/).", 
+        "name": "Ease of shareholder suits index (0 to 10) ", 
+        "sourceNote": "To help gauge investor protection, the ease of shareholder suits index measures shareholders\u2019 ability to sue officers and directors for misconduct . The index ranges from 0 (little to no ability to file suit) to 10 (greater ability to file suit). The data are from a survey of corporate lawyers and are based on securities regulations, company laws and court rules of evidence.\nSource: World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/ProtectingInvestors/)"
+    }, 
+    "IC.RP.TIME": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/RegisteringProperty/).", 
+        "name": "Time required to register property (days)", 
+        "sourceNote": "This indicator records the number of calendar days required for a business (buyer) to purchase a property from another business (seller) and register it legally so that the buyer can use the property as collateral or sell it to another business. Information is provided by local property lawyers, notaries, and property registries. \n Source: World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/RegisteringProperty)."
+    }, 
+    "IC.ISV.DURS": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org/).", 
+        "name": "Time to resolve insolvency (years)", 
+        "sourceNote": "Time to resolve insolvency is the number of years from the filing for insolvency in court until the resolution of distressed assets."
+    }, 
+    "IC.DCP.TIME": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/DealingLicenses/).", 
+        "name": "Time required to build a warehouse (days)", 
+        "sourceNote": "The time (in calendar days) required to build a warehouse\u2014including obtaining necessary licenses and permits, completing required notifications and inspections, and obtaining utility connections\u2014is measured by this indicator. Information is collected from experts in construction licensing. If a procedure can be accelerated legally for an additional cost, the fastest procedure is chosen. \nSource: World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/DealingLicenses)."
+    }, 
+    "IC.REG.PROC": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org/).", 
+        "name": "Start-up procedures to register a business (number)", 
+        "sourceNote": "Start-up procedures are those required to start a business, including interactions to obtain necessary permits and licenses and to complete all inscriptions, verifications, and notifications to start operations. Data are for businesses with specific characteristics of ownership, size, and type of production."
+    }, 
+    "IC.REG.DURS": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org/).", 
+        "name": "Time required to start a business (days)", 
+        "sourceNote": "Time required to start a business is the number of calendar days needed to complete the procedures to legally operate a business. If a procedure can be speeded up at additional cost, the fastest procedure, independent of cost, is chosen."
+    }, 
+    "IC.TAX.TOTL.CP.ZS": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org/).", 
+        "name": "Total tax rate (% of commercial profits)", 
+        "sourceNote": "Total tax rate measures the amount of taxes and mandatory contributions payable by businesses after accounting for allowable deductions and exemptions as a share of commercial profits. Taxes withheld (such as personal income tax) or collected and remitted to tax authorities (such as value added taxes, sales taxes or goods and service taxes) are excluded."
+    }, 
+    "IC.TAX.PAYM": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org/).", 
+        "name": "Tax payments (number)", 
+        "sourceNote": "Tax payments by businesses are the total number of taxes paid by businesses, including electronic filing. The tax is counted as paid once a year even if payments are more frequent."
+    }, 
+    "IC.PI.INV": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/ProtectingInvestors/).", 
+        "name": "Strength of investor protection index (0 to 10)", 
+        "sourceNote": "The strength of investor protection index is an average of 3 indices--the extent of disclosure index, the extent of director liability index, and the ease of shareholder suit index. The index ranges from 0 (little to no investor protection) to 10 (greater investor protection). The data are from a survey of corporate lawyers and are based on securities regulations, company laws and court rules of evidence.\nSource: World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/ProtectingInvestors/)"
+    }, 
+    "IC.EXP.COST.IMP": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/TradingAcrossBorders/).", 
+        "name": "Trade: Cost to import (US$ per container)", 
+        "sourceNote": "This indicator calculates the cost of importing a standardized shipment of goods by ocean transport\u2014from the vessel\u2019s arrival at a port of entry to the cargo\u2019s delivery to a warehouse\u2014expressed in U.S. dollars per container. Local freight forwarders, shipping lines, customs brokers, port officials, and banks provide information on the cost of each import procedure.\nSource: World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/TradingAcrossBorders/)."
+    }, 
+    "IC.GE.NUM": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/GettingElectricity)", 
+        "name": "Procedures required to connect to electricity (number)", 
+        "sourceNote": "This indicator records the number of procedures required for a business to obtain a permanent electricity connection and supply for a warehouse. To ensure that data are comparable across economies, a standard case study in which an entrepreneur seeks to connect a newly built warehouse for cold meat storage to electricity was used. Data are collected from the electricity distribution utility, then completed and verified by independent professionals such as electricians, electrical engineers, electrical contractors, and construction companies.\n"
+    }, 
+    "IC.RP.PROC": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/RegisteringProperty/).", 
+        "name": "Procedures required to register property (number)", 
+        "sourceNote": "This indicator records the number of steps required for a business (buyer) to purchase a property from another business (seller) and register it legally so that the buyer can use the property as collateral or sell it to another business. Information is provided by local property lawyers, notaries, and property registries. \nSource: World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/RegisteringProperty)."
+    }, 
+    "IC.REG.CAP": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/StartingBusiness/).", 
+        "name": "Minimum paid-in capital required to start a business (% of income per capita)", 
+        "sourceNote": "The paid-in minimum capital requirement reflects the amount that an entrepreneur needs to deposit in a bank or with a notary to legally start a business. It is recorded as a percentage of the economy\u2019s income per capita. \nSource: World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/StartingBusiness).\n"
+    }, 
+    "IC.ISV.COST": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/ClosingBusiness/).", 
+        "name": "Resolving insolvency: cost (% of estate)", 
+        "sourceNote": "The cost of the proceedings, recorded as a percentage of the estate\u2019s value, is calculated on the basis of survey responses by insolvency practitioners. It includes court fees as well as fees of insolvency practitioners, independent assessors, lawyers, and accountants. Respondents provide cost estimates from among the following options: less than 2%, 2\u20135%, 5\u20138%, 8\u201311%, 11\u201318%, 18\u201325%, 25\u201333%, 33\u201350%, 50\u201375%, and more than 75% of the value of the business estate.  \nSource: World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/ClosingBusiness)."
+    }, 
+    "IC.RP.COST": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/RegisteringProperty/).", 
+        "name": "Cost to register property (% of property value)", 
+        "sourceNote": "This indicator calculates the cost required for a business to register property expressed as a percentage of the property value, assuming a property value of 50 times income per capita. The cost includes fees, transfer taxes, stamp duties, and any other payment to the property registry, notaries, public agencies or lawyers. Information is provided by local property lawyers, notaries, and property registries. \nSource: World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/RegisteringProperty)."
+    }, 
+    "IC.CRD.PRVT.ZS": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org/).", 
+        "name": "Private credit bureau coverage (% of adults)", 
+        "sourceNote": "Private credit bureau coverage reports the number of individuals or firms listed by a private credit bureau with current information on repayment history, unpaid debts, or credit outstanding. The number is expressed as a percentage of the adult population."
+    }, 
+    "IC.EXP.TIME.IMP": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/TradingAcrossBorders/).", 
+        "name": "Trade: Time to import (days)", 
+        "sourceNote": "This indicator calculates the average number of days it takes to comply with all procedures required to import goods\u2014from the vessel\u2019s arrival at a port of entry to the cargo\u2019s delivery to a warehouse.  Local freight forwarders, shipping lines, customs brokers, port officials, and banks provide information on the time to complete each procedure.\nSource: World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/TradingAcrossBorders/)."
+    }, 
+    "IC.DCP.PROC": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/DealingLicenses/).", 
+        "name": "Procedures required to build a warehouse (number)", 
+        "sourceNote": "The number of procedures required for a business in the construction industry to build a standardized warehouse is recorded by this indicator. Steps may include: (1) submitting relevant documents and obtaining necessary clearances, licenses, permits, and certificates; (2) completing required notifications and receiving necessary inspections; (3) obtaining utility connections for electricity, water, sewerage, and phone services; and (4) registering the warehouse after its completion. Interactions between company employees are not counted as procedures. \nSource: World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/DealingLicenses)."
+    }, 
+    "IC.CRD.PUBL.ZS": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business project (http://www.doingbusiness.org/).", 
+        "name": "Public credit registry coverage (% of adults)", 
+        "sourceNote": "Public credit registry coverage reports the number of individuals and firms listed in a public credit registry with current information on repayment history, unpaid debts, or credit outstanding. The number is expressed as a percentage of the adult population."
+    }, 
+    "IC.ISV.RECRT": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/ClosingBusiness/).", 
+        "name": "Resolving insolvency: recovery rate (cents on the dollar)", 
+        "sourceNote": "The recovery rate calculates how many cents on the dollar claimants (creditors, tax authorities, and employees) recover from an insolvent firm. Information comes from local insolvency practitioners, laws and regulations as well as public information on bankruptcy systems. The recovery rate for economies with \u201cno practice\u201d (i.e., fewer than 5 cases a year over the past 5 years) is 0. \nSource: World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/ClosingBusiness)."
+    }, 
+    "IC.DCP.COST": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/DealingLicenses/).", 
+        "name": "Cost to build a warehouse (% of income per capita)", 
+        "sourceNote": "The cost for a business in the construction industry to build a standardized warehouse is recorded by this indicator and expressed as a percentage of the gross national income (GNI) per capita. Only official costs are recorded. The building code, information from local experts, and specific regulations and fee schedules are used as sources for costs.\nSource: World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/DealingLicenses)."
+    }, 
+    "IC.EXP.COST.EXP": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/TradingAcrossBorders/).", 
+        "name": "Trade: Cost to export (US$ per container)", 
+        "sourceNote": "This indicator calculates the cost of exporting a standardized shipment of goods by ocean transport, expressed in U.S. dollars per container. Local freight forwarders, shipping lines, customs brokers, port officials, and banks provide information on the cost of each export procedure.\nSource: World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/TradingAcrossBorders/)."
+    }, 
+    "IC.EC.COST": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/EnforcingContracts/).", 
+        "name": "Cost to enforce a contract (% of claim) ", 
+        "sourceNote": "This indicator records the cost to resolve a sale of goods dispute in local courts. It is expressed as a percentage of the claim, which is assumed to be equivalent to 200% of income per capita. No bribes are recorded. Three types of costs are recorded: court costs (including expert fees), enforcement costs, and average attorney fees. The data are collected through studying the codes of civil procedure and other court regulations as well as surveying local litigation lawyers (and, in a quarter of the countries, judges as well). Source: World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/EnforcingContracts)."
+    }, 
+    "IC.REG.COST": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/StartingBusiness/).", 
+        "name": "Cost to start a business (% of income per capita)", 
+        "sourceNote": "The official cost to start a business legally is measured by this indicator and expressed a  percentage of the economy's income per capita. It includes all official fees and fees for legal or professional services if such services are required by law. In all cases, the cost excludes bribes.\nSource: World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/StartingBusiness)."
+    }, 
+    "IC.GE.COST": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/GettingElectricity)", 
+        "name": "Cost to get electricity(% of income per capita)", 
+        "sourceNote": "Cost to obtain an electricity connection (% of income per capita) "
+    }, 
+    "IC.PI.DISCL": {
+        "source": "Doing Business", 
+        "sourceOrganization": "World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/ProtectingInvestors/).", 
+        "name": "Extent of disclosure index (0 to 10)", 
+        "sourceNote": "To help gauage investor protection, the extent of disclosure index measures the transparency of corporations\u2019 related-party transactions. The index ranges from 0 (little to no transparency) to 10 (greater transparency). The data are from a survey of corporate lawyers and are based on securities regulations, company laws and court rules of evidence.\nSource: World Bank, Doing Business Project (http://www.doingbusiness.org/ExploreTopics/ProtectingInvestors/)"
+    }
+}

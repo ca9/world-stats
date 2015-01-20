@@ -1,0 +1,146 @@
+{
+    "PV.NO.SRC": {
+        "source": "Worldwide Governance Indicators", 
+        "sourceOrganization": "Worldwide Governance Indicators, The World Bank", 
+        "name": "Political Stability and Absence of Violence/Terrorism: Number of Sources", 
+        "sourceNote": "Political Stability and Absence of Violence/Terrorism captures perceptions of the likelihood that the government will be destabilized or overthrown by unconstitutional or violent means, including politically-motivated violence and terrorism."
+    }, 
+    "GE.STD.ERR": {
+        "source": "Worldwide Governance Indicators", 
+        "sourceOrganization": "Worldwide Governance Indicators, The World Bank", 
+        "name": "Government Effectiveness: Standard Error", 
+        "sourceNote": "Government Effectiveness captures perceptions of the quality of public services, the quality of the civil service and the degree of its independence from political pressures, the quality of policy formulation and implementation, and the credibility of the government's commitment to such policies."
+    }, 
+    "RQ.PER.RNK": {
+        "source": "Worldwide Governance Indicators", 
+        "sourceOrganization": "Worldwide Governance Indicators, The World Bank", 
+        "name": "Regulatory Quality: Percentile Rank", 
+        "sourceNote": "Regulatory Quality captures perceptions of the ability of the government to formulate and implement sound policies and regulations that permit and promote private sector development."
+    }, 
+    "VA.EST": {
+        "source": "Worldwide Governance Indicators", 
+        "sourceOrganization": "Worldwide Governance Indicators, The World Bank", 
+        "name": "Voice and Accountability: Estimate", 
+        "sourceNote": "Voice and Accountability captures perceptions of the extent to which a country's citizens are able to participate in selecting their government, as well as freedom of expression, freedom of association, and a free media."
+    }, 
+    "CC.NO.SRC": {
+        "source": "Worldwide Governance Indicators", 
+        "sourceOrganization": "Worldwide Governance Indicators, The World Bank", 
+        "name": "Control of Corruption: Number of Sources", 
+        "sourceNote": "Control of Corruption captures perceptions of the extent to which public power is exercised for private gain, including both petty and grand forms of corruption, as well as \"capture\" of the state by elites and private interests. "
+    }, 
+    "RQ.EST": {
+        "source": "Worldwide Governance Indicators", 
+        "sourceOrganization": "Worldwide Governance Indicators, The World Bank", 
+        "name": "Regulatory Quality: Estimate", 
+        "sourceNote": "Regulatory Quality captures perceptions of the ability of the government to formulate and implement sound policies and regulations that permit and promote private sector development."
+    }, 
+    "RQ.STD.ERR": {
+        "source": "Worldwide Governance Indicators", 
+        "sourceOrganization": "Worldwide Governance Indicators, The World Bank", 
+        "name": "Regulatory Quality: Standard Error", 
+        "sourceNote": "Regulatory Quality captures perceptions of the ability of the government to formulate and implement sound policies and regulations that permit and promote private sector development."
+    }, 
+    "CC.PER.RNK": {
+        "source": "Worldwide Governance Indicators", 
+        "sourceOrganization": "Worldwide Governance Indicators, The World Bank", 
+        "name": "Control of Corruption: Percentile Rank", 
+        "sourceNote": "Control of Corruption captures perceptions of the extent to which public power is exercised for private gain, including both petty and grand forms of corruption, as well as \"capture\" of the state by elites and private interests. "
+    }, 
+    "GE.PER.RNK": {
+        "source": "Worldwide Governance Indicators", 
+        "sourceOrganization": "Worldwide Governance Indicators, The World Bank", 
+        "name": "Government Effectiveness: Percentile Rank", 
+        "sourceNote": "Government Effectiveness captures perceptions of the quality of public services, the quality of the civil service and the degree of its independence from political pressures, the quality of policy formulation and implementation, and the credibility of the government's commitment to such policies."
+    }, 
+    "PV.STD.ERR": {
+        "source": "Worldwide Governance Indicators", 
+        "sourceOrganization": "Worldwide Governance Indicators, The World Bank", 
+        "name": "Political Stability and Absence of Violence/Terrorism: Standard Error", 
+        "sourceNote": "Political Stability and Absence of Violence/Terrorism captures perceptions of the likelihood that the government will be destabilized or overthrown by unconstitutional or violent means, including politically-motivated violence and terrorism."
+    }, 
+    "PV.PER.RNK": {
+        "source": "Worldwide Governance Indicators", 
+        "sourceOrganization": "Worldwide Governance Indicators, The World Bank", 
+        "name": "Political Stability and Absence of Violence/Terrorism: Percentile Rank", 
+        "sourceNote": "Political Stability and Absence of Violence/Terrorism captures perceptions of the likelihood that the government will be destabilized or overthrown by unconstitutional or violent means, including politically-motivated violence and terrorism."
+    }, 
+    "VA.PER.RNK": {
+        "source": "Worldwide Governance Indicators", 
+        "sourceOrganization": "Worldwide Governance Indicators, The World Bank", 
+        "name": "Voice and Accountability: Percentile Rank", 
+        "sourceNote": "Voice and Accountability captures perceptions of the extent to which a country's citizens are able to participate in selecting their government, as well as freedom of expression, freedom of association, and a free media."
+    }, 
+    "RQ.NO.SRC": {
+        "source": "Worldwide Governance Indicators", 
+        "sourceOrganization": "Worldwide Governance Indicators, The World Bank", 
+        "name": "Regulatory Quality: Number of Sources", 
+        "sourceNote": "Regulatory Quality captures perceptions of the ability of the government to formulate and implement sound policies and regulations that permit and promote private sector development."
+    }, 
+    "RL.EST": {
+        "source": "Worldwide Governance Indicators", 
+        "sourceOrganization": "Worldwide Governance Indicators, The World Bank", 
+        "name": "Rule of Law: Estimate", 
+        "sourceNote": "Rule of Law captures perceptions of the extent to which agents have confidence in and abide by the rules of society, and in particular the quality of contract enforcement, property rights, the police, and the courts, as well as the likelihood of crime and violence."
+    }, 
+    "VA.STD.ERR": {
+        "source": "Worldwide Governance Indicators", 
+        "sourceOrganization": "Worldwide Governance Indicators, The World Bank", 
+        "name": "Voice and Accountability: Standard Error", 
+        "sourceNote": "Voice and Accountability captures perceptions of the extent to which a country's citizens are able to participate in selecting their government, as well as freedom of expression, freedom of association, and a free media."
+    }, 
+    "CC.EST": {
+        "source": "Worldwide Governance Indicators", 
+        "sourceOrganization": "Worldwide Governance Indicators, The World Bank", 
+        "name": "Control of Corruption: Estimate", 
+        "sourceNote": "Control of Corruption captures perceptions of the extent to which public power is exercised for private gain, including both petty and grand forms of corruption, as well as \"\"capture\"\" of the state by elites and private interests. \nEstimate gives the country's score on the aggregate indicator, in units of a standard normal distribution, i.e. ranging from approximately -2.5 to 2.5."
+    }, 
+    "VA.NO.SRC": {
+        "source": "Worldwide Governance Indicators", 
+        "sourceOrganization": "Worldwide Governance Indicators, The World Bank", 
+        "name": "Voice and Accountability: Number of Sources", 
+        "sourceNote": "Voice and Accountability captures perceptions of the extent to which a country's citizens are able to participate in selecting their government, as well as freedom of expression, freedom of association, and a free media."
+    }, 
+    "GE.NO.SRC": {
+        "source": "Worldwide Governance Indicators", 
+        "sourceOrganization": "Worldwide Governance Indicators, The World Bank", 
+        "name": "Government Effectiveness: Number of Sources", 
+        "sourceNote": "Government Effectiveness captures perceptions of the quality of public services, the quality of the civil service and the degree of its independence from political pressures, the quality of policy formulation and implementation, and the credibility of the government's commitment to such policies."
+    }, 
+    "RL.STD.ERR": {
+        "source": "Worldwide Governance Indicators", 
+        "sourceOrganization": "Worldwide Governance Indicators, The World Bank", 
+        "name": "Rule of Law: Standard Error", 
+        "sourceNote": "Rule of Law captures perceptions of the extent to which agents have confidence in and abide by the rules of society, and in particular the quality of contract enforcement, property rights, the police, and the courts, as well as the likelihood of crime and violence."
+    }, 
+    "RL.NO.SRC": {
+        "source": "Worldwide Governance Indicators", 
+        "sourceOrganization": "Worldwide Governance Indicators, The World Bank", 
+        "name": "Rule of Law: Number of Sources", 
+        "sourceNote": "Rule of Law captures perceptions of the extent to which agents have confidence in and abide by the rules of society, and in particular the quality of contract enforcement, property rights, the police, and the courts, as well as the likelihood of crime and violence."
+    }, 
+    "CC.STD.ERR": {
+        "source": "Worldwide Governance Indicators", 
+        "sourceOrganization": "Worldwide Governance Indicators, The World Bank", 
+        "name": "Control of Corruption: Standard Error", 
+        "sourceNote": "Control of Corruption captures perceptions of the extent to which public power is exercised for private gain, including both petty and grand forms of corruption, as well as \"capture\" of the state by elites and private interests. "
+    }, 
+    "PV.EST": {
+        "source": "Worldwide Governance Indicators", 
+        "sourceOrganization": "Worldwide Governance Indicators, The World Bank", 
+        "name": "Political Stability and Absence of Violence/Terrorism: Estimate", 
+        "sourceNote": "Political Stability and Absence of Violence/Terrorism captures perceptions of the likelihood that the government will be destabilized or overthrown by unconstitutional or violent means, including politically-motivated violence and terrorism."
+    }, 
+    "GE.EST": {
+        "source": "Worldwide Governance Indicators", 
+        "sourceOrganization": "Worldwide Governance Indicators, The World Bank", 
+        "name": "Government Effectiveness: Estimate", 
+        "sourceNote": "Government Effectiveness captures perceptions of the quality of public services, the quality of the civil service and the degree of its independence from political pressures, the quality of policy formulation and implementation, and the credibility of the government's commitment to such policies."
+    }, 
+    "RL.PER.RNK": {
+        "source": "Worldwide Governance Indicators", 
+        "sourceOrganization": "Worldwide Governance Indicators, The World Bank", 
+        "name": "Rule of Law: Percentile Rank", 
+        "sourceNote": "Rule of Law captures perceptions of the extent to which agents have confidence in and abide by the rules of society, and in particular the quality of contract enforcement, property rights, the police, and the courts, as well as the likelihood of crime and violence."
+    }
+}

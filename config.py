@@ -6,6 +6,7 @@ DEBUG = True
 # Define the application directory
 import os
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
+APP_STATIC = os.path.join(BASE_DIR, 'static')
 
 # Application threads. A common general assumption is
 # using 2 per available processor cores - to handle

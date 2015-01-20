@@ -1,0 +1,20 @@
+{
+    "SI.POV.URHC": {
+        "source": "Subnational Poverty", 
+        "sourceOrganization": "World Bank, Global Poverty Working Group. Data are based on World Bank's country poverty assessments and country Poverty Reduction Strategies.", 
+        "name": "Urban poverty headcount ratio at national poverty lines (% of urban population)", 
+        "sourceNote": "World Bank, Global Poverty Working Group. Data are compiled from official government sources or are computed by World Bank staff using national (i.e. country\u2013specific) poverty lines."
+    }, 
+    "SI.POV.RUHC": {
+        "source": "Subnational Poverty", 
+        "sourceOrganization": "World Bank, Global Poverty Working Group. Data are based on World Bank's country poverty assessments and country Poverty Reduction Strategies.", 
+        "name": "Rural poverty headcount ratio at national poverty lines (% of rural population)", 
+        "sourceNote": "World Bank, Global Poverty Working Group. Data are compiled from official government sources or are computed by World Bank staff using national (i.e. country\u2013specific) poverty lines."
+    }, 
+    "SI.POV.NAHC": {
+        "source": "Subnational Poverty", 
+        "sourceOrganization": "World Bank, Global Poverty Working Group. Data are based on World Bank's country poverty assessments and country Poverty Reduction Strategies.", 
+        "name": "Poverty headcount ratio at national poverty lines (% of population)", 
+        "sourceNote": "World Bank, Global Poverty Working Group. Data are compiled from official government sources or are computed by World Bank staff using national (i.e. country\u2013specific) poverty lines."
+    }
+}
