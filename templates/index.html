@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" ng-app>
+<html lang="en" ng-app="chooseApp">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -39,7 +39,7 @@
             <h2> World Bank Data through R </h2>
         </div>
 
-        <div class="content" id="choose">
+        <div class="content" id="choose" ng-controller="chooseController">
             <h2 id="choice" class="content-subhead"> Choose your data </h2>
             <p>
                 Pick from 15200 indicators on the World Bank API here.
@@ -48,9 +48,18 @@
             <p>
             <div class="pure-control-group">
                 <form class="pure-form pure-form-aligned" id="choiceForm">
-                        <label for="name"> Number of Indicators </label> &nbsp;&nbsp;
+                        <label for="numIndsIn"> Number of Indicators </label> &nbsp;&nbsp;
                         <input ng-init="numInds = 2;" ng-model="numInds" id="numIndsIn" type="range" class="pure-u-2" min="2" max="10" />
                         &nbsp; {{ numInds|angular }}
+
+                        <div ng-repeat="n in range(1, numInds)">
+                            <label for="ind-{{ n|angular }}"> Indicator {{ n|angular }} &nbsp;&nbsp; </label>
+                            <select>
+                                <option> 1 </option>
+                                <option> 2 </option>
+                            </select>
+                        </div>
+
                  </form>
             </div>
             </p>
