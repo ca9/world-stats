@@ -49,7 +49,9 @@
             <div class="pure-control-group">
                 <form class="pure-form pure-form-aligned" id="choiceForm">
                         <label for="numIndsIn"> Number of Indicators </label> &nbsp;&nbsp;
-                        <input ng-init="numInds = 2;" ng-model="numInds" id="numIndsIn" type="range" class="pure-u-2" min="2" max="10" />
+                        <input ng-init="numInds = 2;" ng-model="numInds" id="numIndsIn" type="range" class="pure-u-2" min="2" max="10"
+                                ng-change="updateInds(numInds)" />
+
                         &nbsp; {{ numInds|angular }}
 
                         <div ng-repeat="n in range(1, numInds)">
