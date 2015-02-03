@@ -55,6 +55,8 @@ chooseApp.controller('chooseController', function($scope, categories_factory) {
         console.log(numInds);
     }
 
+
+
 });
 
 

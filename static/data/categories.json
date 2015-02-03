@@ -1,37 +1,142 @@
-{
-    "Exporter Dynamics Database: Country-Year": 30, 
-    "Health Nutrition and Population Statistics by Wealth Quintile": 39, 
-    "Wealth accounting": 43, 
-    "Worldwide Governance Indicators": 3, 
-    "Sustainable Energy for All": 35, 
-    "Health Nutrition and Population Statistics": 16, 
-    "Country Policy and Institutional Assessment (CPIA) ": 31, 
-    "GEP Economic Prospects": 27, 
-    "Quarterly Public Sector Debt": 20, 
-    "Global Economic Monitor (GEM) Commodities": 21, 
-    "Country Partnership Strategy for India ": 41, 
-    "Subnational Poverty": 38, 
-    "Gender Statistics": 14, 
-    "Global Findex ( Global Financial Inclusion database)": 28, 
-    "Jobs for Knowledge Platform": 25, 
-    "Education Statistics": 12, 
-    "Global Partnership for Education": 34, 
-    "Africa Development Indicators": 11, 
-    "International Debt Statistics": 6, 
-    "G20 Basic Set of Financial Inclusion Indicators": 33, 
-    "Quarterly External Debt Statistics/GDDS (New)": 23, 
-    "Subnational Malnutrition Database": 5, 
-    "Global Financial Development": 32, 
-    "Povstats": 24, 
-    "Statistical Capacity Indicators": 36, 
-    "LAC Equity Lab": 37, 
-    "Enterprise Surveys": 13, 
-    "Doing Business": 1, 
-    "Millennium Development Goals": 19, 
-    "Corporate Scorecard": 26, 
-    "Global Social Protection": 29, 
-    "Quarterly External Debt Statistics/SDDS (New)": 22, 
-    "World Development Indicators": 2, 
-    "International Development Association - Results Measurement System": 18, 
-    "Global Economic Monitor": 15
-}
+[
+    {
+        "cat_id": 30,
+        "cat_name": "Exporter Dynamics Database: Country-Year"
+    },
+    {
+        "cat_id": 39,
+        "cat_name": "Health Nutrition and Population Statistics by Wealth Quintile"
+    },
+    {
+        "cat_id": 43,
+        "cat_name": "Wealth accounting"
+    },
+    {
+        "cat_id": 3,
+        "cat_name": "Worldwide Governance Indicators"
+    },
+    {
+        "cat_id": 35,
+        "cat_name": "Sustainable Energy for All"
+    },
+    {
+        "cat_id": 14,
+        "cat_name": "Gender Statistics"
+    },
+    {
+        "cat_id": 31,
+        "cat_name": "Country Policy and Institutional Assessment (CPIA) "
+    },
+    {
+        "cat_id": 26,
+        "cat_name": "Corporate Scorecard"
+    },
+    {
+        "cat_id": 28,
+        "cat_name": "Global Findex ( Global Financial Inclusion database)"
+    },
+    {
+        "cat_id": 21,
+        "cat_name": "Global Economic Monitor (GEM) Commodities"
+    },
+    {
+        "cat_id": 41,
+        "cat_name": "Country Partnership Strategy for India "
+    },
+    {
+        "cat_id": 16,
+        "cat_name": "Health Nutrition and Population Statistics"
+    },
+    {
+        "cat_id": 20,
+        "cat_name": "Quarterly Public Sector Debt"
+    },
+    {
+        "cat_id": 25,
+        "cat_name": "Jobs for Knowledge Platform"
+    },
+    {
+        "cat_id": 12,
+        "cat_name": "Education Statistics"
+    },
+    {
+        "cat_id": 34,
+        "cat_name": "Global Partnership for Education"
+    },
+    {
+        "cat_id": 11,
+        "cat_name": "Africa Development Indicators"
+    },
+    {
+        "cat_id": 6,
+        "cat_name": "International Debt Statistics"
+    },
+    {
+        "cat_id": 18,
+        "cat_name": "International Development Association - Results Measurement System"
+    },
+    {
+        "cat_id": 23,
+        "cat_name": "Quarterly External Debt Statistics/GDDS (New)"
+    },
+    {
+        "cat_id": 5,
+        "cat_name": "Subnational Malnutrition Database"
+    },
+    {
+        "cat_id": 32,
+        "cat_name": "Global Financial Development"
+    },
+    {
+        "cat_id": 24,
+        "cat_name": "Povstats"
+    },
+    {
+        "cat_id": 36,
+        "cat_name": "Statistical Capacity Indicators"
+    },
+    {
+        "cat_id": 37,
+        "cat_name": "LAC Equity Lab"
+    },
+    {
+        "cat_id": 13,
+        "cat_name": "Enterprise Surveys"
+    },
+    {
+        "cat_id": 1,
+        "cat_name": "Doing Business"
+    },
+    {
+        "cat_id": 38,
+        "cat_name": "Subnational Poverty"
+    },
+    {
+        "cat_id": 27,
+        "cat_name": "GEP Economic Prospects"
+    },
+    {
+        "cat_id": 29,
+        "cat_name": "Global Social Protection"
+    },
+    {
+        "cat_id": 22,
+        "cat_name": "Quarterly External Debt Statistics/SDDS (New)"
+    },
+    {
+        "cat_id": 2,
+        "cat_name": "World Development Indicators"
+    },
+    {
+        "cat_id": 33,
+        "cat_name": "G20 Basic Set of Financial Inclusion Indicators"
+    },
+    {
+        "cat_id": 19,
+        "cat_name": "Millennium Development Goals"
+    },
+    {
+        "cat_id": 15,
+        "cat_name": "Global Economic Monitor"
+    }
+]

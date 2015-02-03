@@ -48,20 +48,24 @@
             <p>
             <div class="pure-control-group">
                 <form class="pure-form pure-form-aligned" id="choiceForm">
+                    <fieldset>
                         <label for="numIndsIn"> Number of Indicators </label> &nbsp;&nbsp;
                         <input ng-init="numInds = 2;" ng-model="numInds" id="numIndsIn" type="range" class="pure-u-2" min="2" max="10"
                                 ng-change="updateInds(numInds)" />
 
                         &nbsp; {{ numInds|angular }}
+                        </fieldset>
+                 </form>
 
-                        <div ng-repeat="n in range(1, numInds)">
-                            <label for="ind-{{ n|angular }}"> Indicator {{ n|angular }} &nbsp;&nbsp; </label>
+                 <form class="pure-form">
+                     <fieldset ng-repeat="n in range(1, numInds)">
+                         <h2 class="content-subhead"> Indicator {{ n|angular }} </h2>
+                         <label for="ind-{{ n|angular }}"> Category &nbsp;&nbsp; </label>
                             <select>
-                                <option> 1 </option>
-                                <option> 2 </option>
+                                <option ng-repeat="item in categories | orderBy: 'cat_id'"> {{ item.cat_id|angular }}. {{ item.cat_name|angular }} </option>
                             </select>
-                        </div>
-
+                         <p><a class="pure-button" href="#"> Fetch Data! </a></p>
+                        </fieldset>
                  </form>
             </div>
             </p>
