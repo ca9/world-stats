@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="chooseApp">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
+  <title>WorlData</title>
+
+  <!-- CSS  -->
+  <link href="static/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="static/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+</head>
+
+<body ng-controller="chooseController">
+    <header>
+        <ul id="nav-mobile" class="side-nav fixed">
+              <li class="logo indigo-text"><a id="logo-container" class="brand-logo" href="#">worlData</a></li>
+              <li><a class="waves-effect waves-teal" href="#">Collect</a></li>
+              <li><a class="waves-effect waves-teal" href="#">Study</a></li>
+              <li><a class="waves-effect waves-teal" href="#">Analyze</a></li>
+        </ul>
+        <nav class="top-nav teal">
+            <div class="container">
+                <div class="nav-wrapper center">
+                    <a class="page-title">WorlData</a>
+                    <a class="button-collapse top-nav full right valign" data-activates="nav-mobile" href="#">
+                        <i class="mdi-navigation-menu medium"></i>
+                    </a>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+    <div class="container">
+        <div class="section">
+            <div class="card blue-grey darken-1">
+                <div class="card-content white-text">
+                  <span class="card-title">Choose</span>
+                    <p>
+                        Welcome to Worl(D)ata. Use the following slider to pick the number of economic variables from the World Bank API that you wish to examine.
+                    </p>
+                </div>
+                <div class="card-action">
+                    <div class="row" style="display: inline">
+                      <div class="col s10 center">
+                        <p class="range-field">
+                        <input ng-init="numInds = 2;" ng-model="numInds" id="numIndsIn" type="range" min="2" max="10" ng-change="updateInds(numInds)" />
+                        </p>
+                        </div>
+                      <div class="col s2 center"> <a class="btn-floating btn-large waves-effect waves-light red white-text">
+                            <b>{{ numInds|angular }}</b>
+                      </a></div>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="card" ng-repeat="n in range(1, numInds)">
+                <div class="card-content">
+                  <span class="card-title grey-text">Indicator {{ n|angular }}</span>
+                    <div class="row valign-wrapper">
+                    <p class="col s5 valign">
+                        <select ng-model="dataVariables[n]['cat']" ng-change="getIndicator(dataVariables[n]['cat'], this)">
+                            <option class="grey-text" value="" disabled selected> Category {{ n|angular }} </option>
+                            <option ng-repeat="item in categories | orderBy: 'cat_id'" value={{ item.cat_id|angular }}> {{ item.cat_id|angular }}. {{ item.cat_name|angular }} </option>
+                        </select>
+                    </p>
+
+                    <div class="col s2 center"><a class="waves-effect waves-light btn"><i class="mdi-file-cloud-download"></i>Fetch!</a></div>
+
+                    <div class="col s5 valign">
+                        <select ng-model="dataVariables[n]['ind']" browser-default>
+                            <option class="grey-text" value="" disabled selected> Indicator {{ n|angular }} </option>
+                            <option ng-repeat="item in getLocalIndicator(dataVariables[n]['cat'])"> {{ item.name | angular }}</option>
+                        </select>
+                    </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+    </main>
+
+    <footer>
+    </footer>
+
+  <!--  Scripts-->
+  <script src="static/js/jquery-1.11.2.min.js"></script>
+  <script src="static/js/materialize.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.10/angular.min.js"></script>
+  <script src="static/js/main/choose.js"></script>
+
+  <script>
+  (function($){
+      $(function(){
+
+        $('.button-collapse').sideNav({
+            menuwidth: 250
+        });
+
+      }); // end of document ready
+  })(jQuery); // end of jQuery name space
+
+  </script>
+  </body>
+</html>

@@ -9,6 +9,8 @@
 
     <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/pure-min.css">
     <link rel="stylesheet" href="static/css/side-menu.css">
+    <link rel="stylesheet" href="static/css/pure_style.css">
+    <link rel="stylesheet" media="screen" href="http://handsontable.com/dist/handsontable.full.css">
 </head>
 <body>
 
@@ -57,51 +59,70 @@
                         </fieldset>
                  </form>
 
-                 <form class="pure-form">
+                 <form class="pure-form pure-form-aligned">
                      <fieldset ng-repeat="n in range(1, numInds)">
-                         <h2 class="content-subhead"> Indicator {{ n|angular }} </h2>
-                         <label for="ind-{{ n|angular }}"> Category &nbsp;&nbsp; </label>
-                            <select>
-                                <option ng-repeat="item in categories | orderBy: 'cat_id'"> {{ item.cat_id|angular }}. {{ item.cat_name|angular }} </option>
+                        <legend> Indicator {{ n|angular }} </legend>
+
+                        <div class="pure-control-group">
+                        <br />
+                        <label for="ind-{{ n|angular }}"> Category &nbsp;&nbsp; </label>
+                            <select ng-model="dataVariables[n]['cat']" ng-change="getCatIndicators(dataVariables[n]['cat'])">
+                                 <option ng-repeat="item in categories | orderBy: 'cat_id'" value={{ item.cat_id|angular }}>
+                                   {{ item.cat_id|angular }}. {{ item.cat_name|angular }} </option>
                             </select>
-                         <p><a class="pure-button" href="#"> Fetch Data! </a></p>
-                        </fieldset>
+                        </div>
+
+                        <div ng-if="dataVariables[n]['cat']" class="pure-control-group">
+                        <label for="ind-{{ n|angular }}"> Indicator &nbsp;&nbsp; </label>
+                        <select ng-model="dataVariables[n]['ind']" ng-change="setIndicatorAndFetch(n)">
+                               <option ng-repeat="(key,item) in getLocalCatIndicators(dataVariables[n]['cat'])" value="{{ key | angular }}"> {{ key | angular }} - {{ item.name | angular }} </option>
+                        </select>
+                        </div>
+
+                        <div ng-if="dataVariables[n]['ind']" class="pure-controls">
+                            <div class="pure-g">
+                                <div class="pure-u-1-3">
+                                    <label for="from-{{ n|angular }}"> From Year </label>
+                                    <select ng-model="dataVariables[n]['from']" >
+                                         <option ng-repeat="item in range(2010, 2015, 1)"> {{ item | angular }} </option>
+                                    </select>
+                                </div>
+                                <div class="pure-u-1-3">
+                                <label for="to-{{ n|angular }}"> To Year </label>
+                                    <select ng-model="dataVariables[n]['to']" ng-if="dataVariables[n]['from']">
+                                         <option ng-repeat="item in range(dataVariables[n]['from'], 2015, 1)"> {{ item | angular }} </option>
+                                    </select>
+                                </div>
+                                <div class="pure-u-1-3">
+                                    <button type="submit" class="pure-button pure-button-primary"  ng-click="getData(n)"> Get and preview! </button>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="padding: 5%; text-align: center">
+                            <div class="handsontable" id="table-{{ n|angular }}"></div>
+                        </div>
+
+                     </fieldset>
                  </form>
             </div>
             </p>
 
-            <h2 class="content-subhead">Now Let's Speak Some Latin</h2>
+            <h2 class="content-subhead"> Push these variables ... </h2>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                Once done, you can commit these variables for analysis here:
             </p>
+            <button type="submit" class="pure-button pure-button-primary"  ng-click="getData(n)"> Push! </button>
 
-            <div class="pure-g">
-                <div class="pure-u-1-4">
-                    <img class="pure-img-responsive" src="http://farm3.staticflickr.com/2875/9069037713_1752f5daeb.jpg" alt="Peyto Lake">
-                </div>
-                <div class="pure-u-1-4">
-                    <img class="pure-img-responsive" src="http://farm3.staticflickr.com/2813/9069585985_80da8db54f.jpg" alt="Train">
-                </div>
-                <div class="pure-u-1-4">
-                    <img class="pure-img-responsive" src="http://farm6.staticflickr.com/5456/9121446012_c1640e42d0.jpg" alt="T-Shirt Store">
-                </div>
-                <div class="pure-u-1-4">
-                    <img class="pure-img-responsive" src="http://farm8.staticflickr.com/7357/9086701425_fda3024927.jpg" alt="Mountain">
-                </div>
-            </div>
-
-            <h2 class="content-subhead">Try Resizing your Browser</h2>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-            </p>
         </div>
     </div>
 </div>
 
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.10/angular.min.js"></script>
+<script src="static/js/angular.min.js"></script>
 <script src="static/js/ui.js"></script>
 <script src="static/js/jquery-1.11.2.min.js"></script>
-
 <script src="static/js/main/choose.js"></script>
+<script src="http://handsontable.com/dist/handsontable.full.js"></script>
 </body>
 </html>
+
+<!-- TODO: Show more stuff about variables. -->
