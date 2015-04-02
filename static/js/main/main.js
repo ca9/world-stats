@@ -36,6 +36,7 @@ worlDataApp.service('categoriesService', function($http, $q) {
 worlDataApp.service('indicatorService', function($http, $q) {
 
     var service = this;
+
     this.indicators = {};
 
     this.getCatIndicators = function(i) {
@@ -67,6 +68,11 @@ worlDataApp.service('indicatorService', function($http, $q) {
         return {};
     }
 
+});
+
+worlDataApp.service('dataService', function ($q, $http) {
+    this.service = this;
+    this.dataVariables = {};
     this.fetchData = function(ind, from, to, tableContainer) {
         // is optional, depending on whether we want to use cache.
         tableContainer = tableContainer || 0;
@@ -94,8 +100,11 @@ worlDataApp.service('indicatorService', function($http, $q) {
                     for (var i = 1; i < 10; i++) {
                         var key = Object.keys(response)[i];
                         keys.push(key);
-                        if (response[key] == null)
+                        if (response[key] == null) {
                             response[key] = "NA";
+                        } else {
+                            response[key] = Number(response[key]).toFixed(3);
+                        }
                         vals.push(response[key]);
                     }
 
@@ -106,16 +115,12 @@ worlDataApp.service('indicatorService', function($http, $q) {
                                 startCols: 3,
                                 colHeaders: true
                     })
+
                     console.log(table);
                 })
         }
         return deferred_promise.promise;
     }
-});
-
-worlDataApp.service('dataService', function () {
-    this.service = this;
-    this.dataVariables = {};
 });
 
 worlDataApp.controller('chooseController', function ($scope, categoriesService, indicatorService, dataService) {
@@ -152,7 +157,7 @@ worlDataApp.controller('chooseController', function ($scope, categoriesService, 
         var to = $scope.dataVariables[i]['to'];
         var tableContainer = document.getElementById('table-' + i);
         tableContainer.innerHTML = '<img src="static/img/loading.gif">';
-        $scope.dataVariables[i]['data'] = indicatorService.fetchData(ind.trim(), from.trim(), to.trim(), tableContainer);
+        $scope.dataVariables[i]['data'] = dataService.fetchData(ind.trim(), from.trim(), to.trim(), tableContainer);
     }
 
 });
