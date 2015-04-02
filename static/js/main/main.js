@@ -30,7 +30,7 @@ worlDataApp.service('categoriesService', function($http, $q) {
         }
         return deferred_promise.promise;
     }
-    
+
 });
 
 worlDataApp.service('indicatorService', function($http, $q) {
