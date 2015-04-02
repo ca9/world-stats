@@ -2,89 +2,93 @@
  * Created by aditya on 21/01/15.
  */
 
-var chooseApp = angular.module('chooseApp', []);
+var worlDataApp = angular.module('worlDataApp', []);
 
-chooseApp.factory('categories_factory', function($http, $q) {
-    var factory = {};
+worlDataApp.service('categoriesService', function($http, $q) {
 
-    factory.categories = {};
+    var service = this;
+    this.categories = {};
 
-    // Gets invoked as the factory is constructed.
-    factory.getCategories = function() {
+    this.getCategories = function() {
 
         // The promise is merely a wrapper that gives a
         // handle on the value that can be used
         // or referenced as pleased.
         var deferred_promise = $q.defer();
 
-        if (!isEmpty(factory.categories)) {
+        if (!isEmpty(service.categories)) {
             // Sends a resolved object.
-            deferred_promise.resolve(factory.categories);
+            deferred_promise.resolve(service.categories);
         } else {
             $http.get('/static/data/categories.json').
                 success(function(response) {
                     console.log(response);
-                    factory.categories = response;
+                    service.categories = response;
                     // Will be resolved later.
                     deferred_promise.resolve(response);
             })
         }
-
         return deferred_promise.promise;
     }
-
-    return factory;
+    
 });
 
+worlDataApp.service('indicatorService', function($http, $q) {
 
-chooseApp.factory('indicator_factory', function($http, $q) {
-    // we return this object containing a bunch of functions.
-    var factory = {};
+    var service = this;
+    this.indicators = {};
 
-    factory.indicators = {};
+    this.getCatIndicators = function(i) {
 
-    // Gets invoked as the factory is constructed.
-    factory.getCatIndicators = function(i) {
         // The promise is merely a wrapper that gives a
         // handle on the value that can be used
         // or referenced as pleased.
         var deferred_promise = $q.defer();
 
-        if (factory.indicators.hasOwnProperty(i)) {
+        if (service.indicators.hasOwnProperty(i)) {
             // Sends a resolved object.
-            deferred_promise.resolve(factory.indicators[i]);
+            deferred_promise.resolve(service.indicators[i]);
         } else {
             $http.get('/static/data/indicators/' + i + '.json').
                 success(function(response) {
                     console.log(response);
-                    factory.indicators[i] = response;
+                    service.indicators[i] = response;
                     // Will be resolved later.
                     deferred_promise.resolve(response);
             })
         }
-        console.log(factory.indicators);
+        console.log(service.indicators);
         return deferred_promise.promise;
     }
 
-    factory.getLocalCatIndicators = function(i) {
-        if (factory.indicators.hasOwnProperty(i))
-            return factory.indicators[i];
+    this.getLocalCatIndicators = function(i) {
+        if (service.indicators.hasOwnProperty(i))
+            return service.indicators[i];
         return {};
     }
 
-    factory.fetchData = function(ind, from, to, tableContainer) {
+    this.fetchData = function(ind, from, to, tableContainer) {
+        // is optional, depending on whether we want to use cache.
+        tableContainer = tableContainer || 0;
+
         // The promise is merely a wrapper that gives a
         // handle on the value that can be used
         // or referenced as pleased.
         var deferred_promise = $q.defer();
 
         var getQ = 'indData/' + ind + '/' + from + '/' + to;
+
         console.log(getQ);
-        $http.get(getQ).
+
+        if (!tableContainer) {
+            $http.get(getQ).success(function(response) { deferred_promise.resolve(response); });
+        } else {
+            $http.get(getQ).
                 success(function(response) {
                     console.log(response);
                     // Will be resolved later.
                     deferred_promise.resolve(response);
+
                     var keys = [], vals = [];
 
                     for (var i = 1; i < 10; i++) {
@@ -94,6 +98,7 @@ chooseApp.factory('indicator_factory', function($http, $q) {
                             response[key] = "NA";
                         vals.push(response[key]);
                     }
+
                     tableContainer.innerHTML = "";
                     var table = Handsontable(tableContainer, {
                                 data: [keys, vals],
@@ -102,20 +107,18 @@ chooseApp.factory('indicator_factory', function($http, $q) {
                                 colHeaders: true
                     })
                     console.log(table);
-        })
-
+                })
+        }
         return deferred_promise.promise;
     }
-
-    return factory;
 });
 
-
-chooseApp.service('dataService', function () {
+worlDataApp.service('dataService', function () {
+    this.service = this;
     this.dataVariables = {};
 });
 
-chooseApp.controller('chooseController', function ($scope, categories_factory, indicator_factory, dataService) {
+worlDataApp.controller('chooseController', function ($scope, categoriesService, indicatorService, dataService) {
 
     //share this item across
     $scope.dataVariables = dataService.dataVariables;
@@ -130,7 +133,7 @@ chooseApp.controller('chooseController', function ($scope, categories_factory, i
     };
 
     // setInterval(function() {console.log($scope.categories)}, 100);
-    categories_factory.getCategories().then(function(response) {
+    categoriesService.getCategories().then(function(response) {
         $scope.categories = response;
     });
 
@@ -141,15 +144,15 @@ chooseApp.controller('chooseController', function ($scope, categories_factory, i
 
 
     // get indicators
-    $scope.getCatIndicators = indicator_factory.getCatIndicators;
-    $scope.getLocalCatIndicators = indicator_factory.getLocalCatIndicators;
+    $scope.getCatIndicators = indicatorService.getCatIndicators;
+    $scope.getLocalCatIndicators = indicatorService.getLocalCatIndicators;
     $scope.getData = function(i) {
         var ind = $scope.dataVariables[i]['ind'];
         var from = $scope.dataVariables[i]['from'];
         var to = $scope.dataVariables[i]['to'];
         var tableContainer = document.getElementById('table-' + i);
         tableContainer.innerHTML = '<img src="static/img/loading.gif">';
-        $scope.dataVariables[i]['data'] = indicator_factory.fetchData(ind.trim(), from.trim(), to.trim(), tableContainer);
+        $scope.dataVariables[i]['data'] = indicatorService.fetchData(ind.trim(), from.trim(), to.trim(), tableContainer);
     }
 
 });
