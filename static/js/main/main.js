@@ -152,14 +152,35 @@ worlDataApp.controller('chooseController', function ($scope, categoriesService, 
     $scope.getCatIndicators = indicatorService.getCatIndicators;
     $scope.getLocalCatIndicators = indicatorService.getLocalCatIndicators;
     $scope.getData = function(i) {
-        var ind = $scope.dataVariables[i]['ind'];
-        var from = $scope.dataVariables[i]['from'];
-        var to = $scope.dataVariables[i]['to'];
-        var tableContainer = document.getElementById('table-' + i);
-        tableContainer.innerHTML = '<img src="static/img/loading.gif">';
-        $scope.dataVariables[i]['data'] = dataService.fetchData(ind.trim(), from.trim(), to.trim(), tableContainer);
-    }
+        i = i || -1;
 
+        if (i != -1) {
+            var ind = $scope.dataVariables[i]['ind'];
+            var from = $scope.dataVariables[i]['from'];
+            var to = $scope.dataVariables[i]['to'];
+            var tableContainer = document.getElementById('table-' + i);
+            tableContainer.innerHTML = '<img src="static/img/loading.gif">';
+            $scope.dataVariables[i]['data'] = dataService.fetchData(ind.trim(), from.trim(), to.trim(), tableContainer);
+
+        } else {
+            for (var j = 0; j <= $scope.numInds; j++) {
+                // For now we assume that if there is data, it is latest.
+                if (!$scope.dataVariables.hasOwnProperty(j) || $scope.dataVariables[j]['data'])
+                    // continue if not initialized, or data already pulled.
+                    continue;
+
+                //default behavior
+                var ind = $scope.dataVariables[j]['ind'] || '';
+                var from = $scope.dataVariables[j]['from'] || '2010';
+                var to = $scope.dataVariables[j]['to'] || '2015';
+
+                if (ind != '') {
+                    // Data goes to session cache (flask cookies)
+                    $scope.dataVariables[j]['data'] = dataService.fetchData(ind.trim(), from.trim(), to.trim());
+                }
+            }
+        }
+    }
 });
 
 
