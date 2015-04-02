@@ -38,7 +38,9 @@ chooseApp.factory('categories_factory', function($http, $q) {
 
 
 chooseApp.factory('indicator_factory', function($http, $q) {
+    // we return this object containing a bunch of functions.
     var factory = {};
+
     factory.indicators = {};
 
     // Gets invoked as the factory is constructed.
@@ -109,8 +111,14 @@ chooseApp.factory('indicator_factory', function($http, $q) {
 });
 
 
+chooseApp.service('dataService', function () {
+    this.dataVariables = {};
+});
 
-chooseApp.controller('chooseController', function ($scope, categories_factory, indicator_factory) {
+chooseApp.controller('chooseController', function ($scope, categories_factory, indicator_factory, dataService) {
+
+    //share this item across
+    $scope.dataVariables = dataService.dataVariables;
 
     $scope.range = function(min, max, step) {
         min = parseInt(min);
@@ -121,7 +129,7 @@ chooseApp.controller('chooseController', function ($scope, categories_factory, i
         return input;
     };
 
-//    setInterval(function() {console.log($scope.categories)}, 100);
+    // setInterval(function() {console.log($scope.categories)}, 100);
     categories_factory.getCategories().then(function(response) {
         $scope.categories = response;
     });
@@ -131,7 +139,6 @@ chooseApp.controller('chooseController', function ($scope, categories_factory, i
         console.log("Number of indicators: ", numInds);
     }
 
-    $scope.dataVariables = {};
 
     // get indicators
     $scope.getCatIndicators = indicator_factory.getCatIndicators;
@@ -141,7 +148,7 @@ chooseApp.controller('chooseController', function ($scope, categories_factory, i
         var from = $scope.dataVariables[i]['from'];
         var to = $scope.dataVariables[i]['to'];
         var tableContainer = document.getElementById('table-' + i);
-        tableContainer.innerHTML = '<img src="http://www.gifmagic.com/queue/loading_37950.gif">';
+        tableContainer.innerHTML = '<img src="static/img/loading.gif">';
         $scope.dataVariables[i]['data'] = indicator_factory.fetchData(ind.trim(), from.trim(), to.trim(), tableContainer);
     }
 
