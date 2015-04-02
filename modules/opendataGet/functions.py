@@ -13,18 +13,12 @@ def get_data(from_date=datetime.datetime(2010, 1, 1), to_date=datetime.datetime.
     duration = (from_date, to_date)
     variable = variable.upper()
     mykey = '-'.join(map(str, [from_date.year, to_date.year, variable]))
-    if mykey not in session:
-        session[mykey] = functions.get_values(wbdata.get_data(variable, data_date=duration))
-    return session[mykey]
-    # t0 = time.time()
-    # t1 = time.time()
-    # session['dep'] = functions.get_values(wbdata.get_data("FR.INR.RINR", data_date=duration))
-    # t2 = time.time()
-    # print "time", t2 - t1, t1 - t0, t2 - t0
-    # print session['dep']
-    # print session['data']
-    # print len(session['dep']), len(session['data'])
-    # return session['data']
+    return functions.get_values(wbdata.get_data(variable, data_date=duration))
+
+    # this attaches data to every message as cookie, slowing down the system. Dont use this.
+    # if mykey not in session:
+    #     session[mykey] = functions.get_values(wbdata.get_data(variable, data_date=duration))
+    # return session[mykey]
 
 
 def get_categories():
