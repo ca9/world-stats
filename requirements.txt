@@ -2,6 +2,7 @@ requests
 Flask
 rpy2
 wbdata
+flask-triangle
 
 # django
 # django-tastypie
