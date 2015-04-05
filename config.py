@@ -23,4 +23,4 @@ CSRF_SESSION_KEY = "secret"
 
 # Secret key for signing cookies
 # SECRET_KEY = "secret"
-SECRET_KEY = open("/dev/random","rb").read(32)
+SECRET_KEY = open("/dev/random", "rb").read(32)

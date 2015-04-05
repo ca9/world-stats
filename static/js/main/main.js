@@ -2,7 +2,20 @@
  * Created by aditya on 21/01/15.
  */
 
-var worlDataApp = angular.module('worlDataApp', []);
+var worlDataApp = angular.module('worlDataApp', ['ui.router']);
+
+worlDataApp.config(function($stateProvider, $urlRouterProvider) {
+
+    $urlRouterProvider.otherwise("/");
+
+    $stateProvider
+        .state('choose', {
+            controller: 'chooseController',
+            url: "/",
+            templateUrl: "static/templates/choose.html"
+    });
+
+})
 
 worlDataApp.service('categoriesService', function($http, $q) {
 
@@ -181,6 +194,13 @@ worlDataApp.controller('chooseController', function ($scope, categoriesService, 
             }
         }
     }
+});
+
+
+worlDataApp.filter('angular', function () {
+  return function () {
+    return;
+  };
 });
 
 
