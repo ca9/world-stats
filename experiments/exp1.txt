@@ -1,0 +1,31 @@
+> data <- as.data.frame(sapply(data, as.numeric)) 
+
+# ones below not needed.
+> data <- transform(data, AG.YLD.CREL.KG = as.double(AG.YLD.CREL.KG))
+> data <- transform(data, IC.EXP.TIME.IMP = as.double(IC.EXP.TIME.IMP))
+> data <- transform(data, AG.LND.AGRI.ZS = as.double(AG.LND.AGRI.ZS))
+####
+
+> a <-lm(AG.YLD.CREL.KG ~ IC.EXP.TIME.IMP + AG.LND.AGRI.ZS, data=data)
+> summary(a)
+
+Call:
+lm(formula = AG.YLD.CREL.KG ~ IC.EXP.TIME.IMP + AG.LND.AGRI.ZS, 
+    data = data)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-359.96 -147.05   19.37  148.58  289.86 
+
+Coefficients:
+                 Estimate Std. Error t value Pr(>|t|)    
+(Intercept)     291.33182   15.27771  19.069  < 2e-16 ***
+IC.EXP.TIME.IMP   1.41702    0.29478   4.807 1.92e-06 ***
+AG.LND.AGRI.ZS   -0.12364    0.04676  -2.644   0.0084 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 165.9 on 621 degrees of freedom
+Multiple R-squared:  0.04667,	Adjusted R-squared:  0.0436 
+F-statistic:  15.2 on 2 and 621 DF,  p-value: 3.589e-07
+
