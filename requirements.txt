@@ -1,8 +1,9 @@
 requests
 Flask
-rpy2
 wbdata
 flask-triangle
+rpy2
+Pandas
 
 # django
 # django-tastypie

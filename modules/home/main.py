@@ -1,5 +1,8 @@
 from datetime import datetime
 
+from flask import request
+import wbdata
+
 __author__ = 'aditya'
 
 from flask import render_template, Blueprint, session, jsonify
@@ -32,6 +35,15 @@ def get_ind_data(y1=None, y2=None, ind=None):
             y2 = datetime(int(y2), 1, 1)
         return jsonify(**functions.get_data(variable=ind, from_date=y1, to_date=y2))
     return {}
+
+
+@home.route('/regress', methods=['POST'])
+def regress():
+    if request.method == 'POST':
+        data = json.loads(request.data)
+        indicators = {data[x]['ind']:data[x]['ind'] for x in data}
+        df = wbdata.get_dataframe(indicators=indicators, convert_date=True, data_date=(datetime.strptime("1/1/2010", "%d/%m/%Y"), datetime.now()))
+        return jsonify({"desc": str(df.describe())})
 
 
 

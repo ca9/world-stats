@@ -134,12 +134,36 @@ worlDataApp.service('dataService', function ($q, $http) {
         }
         return deferred_promise.promise;
     }
+
+    this.uploadData = function(data) {
+
+        promise = $q.defer();
+
+        $http.post('/regress', data).
+          success(function(data, status, headers, config) {
+            // this callback will be called asynchronously
+            // when the response is available
+                promise.resolve(data);
+          }).
+          error(function(data, status, headers, config) {
+            // called asynchronously if an error occurs
+            // or server returns response with an error status.
+                promise.resolve(status);
+          });
+
+        return promise.promise;
+    }
+
+
 });
 
 worlDataApp.controller('chooseController', function ($scope, categoriesService, indicatorService, dataService) {
 
     //share this item across
     $scope.dataVariables = dataService.dataVariables;
+    $scope.uploadData = function() {
+        dataService.uploadData($scope.dataVariables);
+    }
 
     $scope.range = function(min, max, step) {
         min = parseInt(min);
