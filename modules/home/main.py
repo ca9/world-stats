@@ -3,6 +3,13 @@ from datetime import datetime
 from flask import request
 import wbdata
 
+
+import rpy2.robjects as robjects
+from rpy2.robjects import FloatVector
+from rpy2.robjects.packages import importr
+base = importr('base')
+stats = importr('stats')
+
 __author__ = 'aditya'
 
 from flask import render_template, Blueprint, session, jsonify
@@ -39,11 +46,28 @@ def get_ind_data(y1=None, y2=None, ind=None):
 
 @home.route('/regress', methods=['POST'])
 def regress():
+
     if request.method == 'POST':
         data = json.loads(request.data)
+        highest = max(data.keys())
         indicators = {data[x]['ind']:data[x]['ind'] for x in data}
-        df = wbdata.get_dataframe(indicators=indicators, convert_date=True, data_date=(datetime.strptime("1/1/2010", "%d/%m/%Y"), datetime.now()))
-        return jsonify({"desc": str(df.describe())})
+        # pulls the data, removes rows with any NA (making R's life better)
+        df = wbdata.get_dataframe(indicators=indicators, convert_date=True, data_date=(datetime.strptime("1/1/2010", "%d/%m/%Y"), datetime.now())).dropna()
+
+        lm_vectors = []
+        for num in data:
+            vector = FloatVector(df[data[num]['ind']])
+            if num != highest:
+                robjects.globalenv[str('v' + num)] = vector
+            else:
+                robjects.globalenv[str('res')] = vector
+
+        # soon to be deprecated
+        # rdf = com.convert_to_r_dataframe(df)
+        # robjects.globalenv['rdf'] = rdf
+
+        lmr = stats.lm("res ~ {}".format(' + '.join(['v' + str(i) for i in range(1, len(data))])))
+        return jsonify({"desc": str(df.describe()), "summary": str(base.summary(lmr))})
 
 
 
