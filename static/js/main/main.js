@@ -13,8 +13,13 @@ worlDataApp.config(function($stateProvider, $urlRouterProvider) {
             controller: 'chooseController',
             url: "/",
             templateUrl: "static/templates/choose.html"
-    });
-
+        }).state('result', {
+            controller: 'resultController',
+            templateUrl: "static/templates/result.html",
+            params: {
+                'something': undefined
+            }
+        });
 })
 
 worlDataApp.service('categoriesService', function($http, $q) {
@@ -135,11 +140,11 @@ worlDataApp.service('dataService', function ($q, $http) {
         return deferred_promise.promise;
     }
 
-    this.uploadData = function(data) {
+    this.uploadData = function() {
 
         promise = $q.defer();
 
-        $http.post('/regress', data).
+        $http.post('/regress', this.service.dataVariables).
           success(function(data, status, headers, config) {
             // this callback will be called asynchronously
             // when the response is available
@@ -157,13 +162,32 @@ worlDataApp.service('dataService', function ($q, $http) {
 
 });
 
-worlDataApp.controller('chooseController', function ($scope, categoriesService, indicatorService, dataService) {
+worlDataApp.controller('resultController', function ($scope, $stateParams, dataService) {
+
+    $scope.results = $stateParams.something;
+
+    $scope.arrived = function() {
+        if ($scope.results.$$state.status == 1) {
+            $scope.summary = $scope.results.$$state.value.summary;
+            $scope.desc = $scope.results.$$state.value.desc;
+            return true;
+        }
+        return false;
+    }
+
+    setTimeout(console.log("Something:"  + $scope.results), 60);
+
+});
+
+worlDataApp.controller('chooseController', function ($scope, categoriesService, indicatorService, dataService, $state) {
 
     //share this item across
     $scope.dataVariables = dataService.dataVariables;
-    $scope.uploadData = function() {
-        dataService.uploadData($scope.dataVariables);
+    // this is a function
+    $scope.getResults = function() {
+        $state.go('result', {'something': dataService.uploadData()});
     }
+
 
     $scope.range = function(min, max, step) {
         min = parseInt(min);

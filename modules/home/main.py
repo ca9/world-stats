@@ -46,7 +46,6 @@ def get_ind_data(y1=None, y2=None, ind=None):
 
 @home.route('/regress', methods=['POST'])
 def regress():
-
     if request.method == 'POST':
         data = json.loads(request.data)
         highest = max(data.keys())
