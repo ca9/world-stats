@@ -127,7 +127,9 @@ worlDataApp.service('dataService', function ($q, $http) {
                     }
 
                     tableContainer.innerHTML = "";
+
                     var tableBox = document.createElement("p");
+
                     tableContainer.appendChild(tableBox);
                     var table = Handsontable(tableBox, {
                                 data: [keys, vals],
@@ -136,16 +138,16 @@ worlDataApp.service('dataService', function ($q, $http) {
                                 colHeaders: true
                     })
 
-                    var indDetails = "<p>" +
-                        "id: " + (response.details.id || ind) + "<br />" +
-                        "name: " + (response.details.name || "Name not found.") + "<br />" +
-                        "source: " + (response.details.sourceOrganization || "Source not found.") + "<br />" +
-                        "sourceNote: " + (response.details.sourceNote || "Source not found.") + "<br />" +
-                        "Tags: " + (response.details.topics.reduce(function(prev, cur, index, arr) {
-                                        return prev + ", " + cur;
-                                   }, "") || "None")
-                    + "</p>";
-                    tableContainer.appendChild(document.createTextNode(indDetails));
+                    var indDetails =
+                        "<b>id:</b> " + (response.details.id || ind) + "<br />" +
+                        "<b>name: </b>" + (response.details.name || "Name not found.") + "<br />" +
+                        "<b>source: </b>" + (response.details.sourceOrganization || "Source not found.") + "<br />" +
+                        "<b>sourceNote: </b>" + (response.details.sourceNote || "Source not found.") + "<br />";
+
+                    var detailsBox = document.createElement("p");
+                    detailsBox.style.cssText = "text-align: left";
+                    detailsBox.innerHTML = indDetails;
+                    tableContainer.appendChild(detailsBox);
 
                     console.log(indDetails);
                 })
@@ -255,6 +257,7 @@ String.prototype.trim = function()
     return String(this).replace(/^\s+|\s+$/g, '');
 };
 
-//Todo: Make a preview function
 //Todo: Dropdown.js
 //Todo: menu cleanup
+//Todo: Cleanup results.
+//Todo: Charts

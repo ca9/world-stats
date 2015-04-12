@@ -63,7 +63,7 @@
          <legend> Resulting/Studied Indicator, Indicator {{ numInds }} </legend>
          <div class="pure-control-group">
             <br />
-            <label for="ind-{{ n }}"> Category &nbsp;&nbsp; </label>
+            <label for="ind-{{ numInds }}"> Category &nbsp;&nbsp; </label>
             <select ng-model="dataVariables[numInds]['cat']" ng-change="getCatIndicators(dataVariables[numInds]['cat'])">
                <option ng-repeat="item in categories | orderBy: 'cat_id'" value="{{ item.cat_id }}">
                   {{ item.cat_id }}. {{ item.cat_name }}
@@ -71,7 +71,7 @@
             </select>
          </div>
          <div ng-if="dataVariables[numInds]['cat']" class="pure-control-group">
-            <label for="ind-{{ n }}"> Indicator &nbsp;&nbsp; </label>
+            <label for="ind-{{ numInds }}"> Indicator &nbsp;&nbsp; </label>
             <select ng-model="dataVariables[numInds]['ind']" ng-change="setIndicatorAndFetch(numInds)">
                <option ng-repeat="(key,item) in getLocalCatIndicators(dataVariables[numInds]['cat'])" value="{{ key }}"> {{ key }} - {{ item.name  }} </option>
             </select>
@@ -84,7 +84,7 @@
             </div>
          </div>
          <div style="padding: 5%; text-align: center">
-            <div class="handsontable" id="table-{{ n }}"></div>
+            <div class="handsontable" id="table-{{ numInds }}"></div>
          </div>
       </fieldset>
 
