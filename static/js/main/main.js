@@ -91,7 +91,7 @@ worlDataApp.service('indicatorService', function($http, $q) {
 worlDataApp.service('dataService', function ($q, $http) {
     this.service = this;
     this.dataVariables = {};
-    this.fetchData = function(ind, from, to, tableContainer) {
+    this.fetchDataPreview = function(ind, from, tableContainer) {
         // is optional, depending on whether we want to use cache.
         tableContainer = tableContainer || 0;
 
@@ -100,7 +100,7 @@ worlDataApp.service('dataService', function ($q, $http) {
         // or referenced as pleased.
         var deferred_promise = $q.defer();
 
-        var getQ = 'indData/' + ind + '/' + from + '/' + to;
+        var getQ = 'indDataPreview/' + ind + '/' + from;
 
         console.log(getQ);
 
@@ -116,25 +116,38 @@ worlDataApp.service('dataService', function ($q, $http) {
                     var keys = [], vals = [];
 
                     for (var i = 1; i < 10; i++) {
-                        var key = Object.keys(response)[i];
+                        var key = Object.keys(response.data)[i];
                         keys.push(key);
-                        if (response[key] == null) {
-                            response[key] = "NA";
+                        if (response.data[key] == null) {
+                            response.data[key] = "NA";
                         } else {
-                            response[key] = Number(response[key]).toFixed(3);
+                            response.data[key] = Number(response.data[key]).toPrecision(4);
                         }
-                        vals.push(response[key]);
+                        vals.push(response.data[key]);
                     }
 
                     tableContainer.innerHTML = "";
-                    var table = Handsontable(tableContainer, {
+                    var tableBox = document.createElement("p");
+                    tableContainer.appendChild(tableBox);
+                    var table = Handsontable(tableBox, {
                                 data: [keys, vals],
                                 startRows: 3,
                                 startCols: 3,
                                 colHeaders: true
                     })
 
-                    console.log(table);
+                    var indDetails = "<p>" +
+                        "id: " + (response.details.id || ind) + "<br />" +
+                        "name: " + (response.details.name || "Name not found.") + "<br />" +
+                        "source: " + (response.details.sourceOrganization || "Source not found.") + "<br />" +
+                        "sourceNote: " + (response.details.sourceNote || "Source not found.") + "<br />" +
+                        "Tags: " + (response.details.topics.reduce(function(prev, cur, index, arr) {
+                                        return prev + ", " + cur;
+                                   }, "") || "None")
+                    + "</p>";
+                    tableContainer.appendChild(document.createTextNode(indDetails));
+
+                    console.log(indDetails);
                 })
         }
         return deferred_promise.promise;
@@ -212,35 +225,15 @@ worlDataApp.controller('chooseController', function ($scope, categoriesService, 
     // get indicators
     $scope.getCatIndicators = indicatorService.getCatIndicators;
     $scope.getLocalCatIndicators = indicatorService.getLocalCatIndicators;
-    $scope.getData = function(i) {
+
+    $scope.getDataPreview = function(i) {
         i = i || -1;
-
-        if (i != -1) {
-            var ind = $scope.dataVariables[i]['ind'];
-            var from = $scope.dataVariables['from'] || '2010';
-            var to = $scope.dataVariables['to'] || '2015';
-            var tableContainer = document.getElementById('table-' + i);
-            tableContainer.innerHTML = '<img src="static/img/loading.gif">';
-            $scope.dataVariables[i]['data'] = dataService.fetchData(ind.trim(), from.trim(), to.trim(), tableContainer);
-
-        } else {
-            for (var j = 0; j <= $scope.numInds; j++) {
-                // For now we assume that if there is data, it is latest.
-                if (!$scope.dataVariables.hasOwnProperty(j) || $scope.dataVariables[j]['data'])
-                    // continue if not initialized, or data already pulled.
-                    continue;
-
-                //default behavior
-                var ind = $scope.dataVariables[j]['ind'] || '';
-                var from = $scope.dataVariables['from'] || '2010';
-                var to = $scope.dataVariables['to'] || '2015';
-
-                if (ind != '') {
-                    // Data goes to session cache (flask cookies)
-                    $scope.dataVariables[j]['data'] = dataService.fetchData(ind.trim(), from.trim(), to.trim());
-                }
-            }
-        }
+        var ind = $scope.dataVariables[i]['ind'];
+        var from = $scope.dataVariables['from'] || '2010';
+        var tableContainer = document.getElementById('table-' + i);
+        tableContainer.innerHTML = '<img src="static/img/loading.gif">';
+        $scope.dataVariables[i]['data'] = dataService.fetchDataPreview(ind.trim(), from, tableContainer);
+        //no special cases for final.
     }
 });
 

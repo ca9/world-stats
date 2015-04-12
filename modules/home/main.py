@@ -7,6 +7,7 @@ import wbdata
 import rpy2.robjects as robjects
 from rpy2.robjects import FloatVector
 from rpy2.robjects.packages import importr
+from modules.rpy2_wrap import functions as rpy2functions
 base = importr('base')
 stats = importr('stats')
 
@@ -44,6 +45,19 @@ def get_ind_data(y1=None, y2=None, ind=None):
     return {}
 
 
+preview_countries = ['SE', 'US', 'HK', 'SG', 'IN', 'CN', 'NL', 'CH', 'AU', 'IS', 'EU', 'IE', 'BR']
+@home.route('/indDataPreview/<ind>', defaults={'y1': '2010'}, methods=['GET'])
+@home.route('/indDataPreview/<ind>/<y1>', methods=['GET'])
+def get_ind_preview(y1=2010, ind="FR.INR.LEND"):
+    if ind:
+        if y1:
+            y1 = datetime(int(y1), 1, 1)
+        data = rpy2functions.get_values(wbdata.get_data(ind, data_date=(y1, y1), country=preview_countries))
+        ind_details = wbdata.get_indicator(ind, display=False)
+        return jsonify({'data': data, 'details': ind_details[0]})
+    return {}
+
+
 @home.route('/regress', methods=['POST'])
 def regress():
     if request.method == 'POST':
@@ -56,8 +70,8 @@ def regress():
         df = wbdata.get_dataframe(indicators=indicators,
                                   convert_date=True,
                                   data_date=(
-                                      datetime.strptime("1/1/" + str(from_year), "%d/%m/%Y"),
-                                      datetime.strptime("1/1/" + str(to_year), "%d/%m/%Y") # ,datetime.now())
+                                      datetime(from_year, 1, 1),
+                                      datetime(to_year, 1, 1)
                                   )).dropna()
 
         if not len(df):
