@@ -48,10 +48,20 @@ def get_ind_data(y1=None, y2=None, ind=None):
 def regress():
     if request.method == 'POST':
         data = json.loads(request.data)
+        from_year, to_year = int(data.pop('from')), int(data.pop('to'))
         highest = max(data.keys())
         indicators = {data[x]['ind']:data[x]['ind'] for x in data}
+
         # pulls the data, removes rows with any NA (making R's life better)
-        df = wbdata.get_dataframe(indicators=indicators, convert_date=True, data_date=(datetime.strptime("1/1/2010", "%d/%m/%Y"), datetime.now())).dropna()
+        df = wbdata.get_dataframe(indicators=indicators,
+                                  convert_date=True,
+                                  data_date=(
+                                      datetime.strptime("1/1/" + str(from_year), "%d/%m/%Y"),
+                                      datetime.strptime("1/1/" + str(to_year), "%d/%m/%Y") # ,datetime.now())
+                                  )).dropna()
+
+        if not len(df):
+            return jsonify({"desc": "Not enough data!", "summary": "Not enough data!"})
 
         lm_vectors = []
         for num in data:

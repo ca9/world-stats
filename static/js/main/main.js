@@ -175,7 +175,7 @@ worlDataApp.controller('resultController', function ($scope, $stateParams, dataS
         return false;
     }
 
-    setTimeout(console.log("Something:"  + $scope.results), 60);
+    setTimeout(function() {console.log("Something:"  + $scope.results); }, 60);
 
 });
 
@@ -217,8 +217,8 @@ worlDataApp.controller('chooseController', function ($scope, categoriesService, 
 
         if (i != -1) {
             var ind = $scope.dataVariables[i]['ind'];
-            var from = $scope.dataVariables[i]['from'];
-            var to = $scope.dataVariables[i]['to'];
+            var from = $scope.dataVariables['from'] || '2010';
+            var to = $scope.dataVariables['to'] || '2015';
             var tableContainer = document.getElementById('table-' + i);
             tableContainer.innerHTML = '<img src="static/img/loading.gif">';
             $scope.dataVariables[i]['data'] = dataService.fetchData(ind.trim(), from.trim(), to.trim(), tableContainer);
@@ -232,8 +232,8 @@ worlDataApp.controller('chooseController', function ($scope, categoriesService, 
 
                 //default behavior
                 var ind = $scope.dataVariables[j]['ind'] || '';
-                var from = $scope.dataVariables[j]['from'] || '2010';
-                var to = $scope.dataVariables[j]['to'] || '2015';
+                var from = $scope.dataVariables['from'] || '2010';
+                var to = $scope.dataVariables['to'] || '2015';
 
                 if (ind != '') {
                     // Data goes to session cache (flask cookies)
@@ -261,3 +261,7 @@ String.prototype.trim = function()
 {
     return String(this).replace(/^\s+|\s+$/g, '');
 };
+
+//Todo: Make a preview function
+//Todo: Dropdown.js
+//Todo: menu cleanup

@@ -1,70 +1,99 @@
 <h2 id="choice" class="content-subhead"> Choose your data </h2>
-            <p>
-                Pick from 15200 indicators on the World Bank API here.
-            </p>
+<p>
+   Pick from 15200 indicators on the World Bank API here.
+</p>
+<br />
+<p>
+<div class="pure-control-group">
+   <form class="pure-form pure-form-aligned" id="choiceForm">
+      <fieldset>
+         <label for="numIndsIn"> Number of Indicators </label> &nbsp;&nbsp;
+         <input ng-init="numInds = 2;" ng-model="numInds" id="numIndsIn" type="range" class="pure-u-2" min="2" max="10"
+            ng-change="updateInds(numInds)" />
+         &nbsp; {{ numInds }}
+      </fieldset>
+      <fieldset>
+         <div class="pure-u-1-3">
+            <label for="fromYear"> From Year </label>
+            <select ng-model="dataVariables['from']" ng-init="dataVariables['from'] = 2010;">
+               <option ng-repeat="item in range(2010, 2015, 1)"> {{ item }} </option>
+            </select>
+         </div>
+         <div class="pure-u-1-3" ng-if="dataVariables['from']">
+            <label for="toYear"> To Year </label>
+            <select ng-model="dataVariables['to']" ng-init="dataVariables['to'] = 2015;">
+               <option ng-repeat="item in range(dataVariables['from'], 2015, 1)"> {{ item }} </option>
+            </select>
+         </div>
+         <br \><br \><br \><br \><br \><br \>
+      </fieldset>
+   </form>
+   <form class="pure-form pure-form-aligned">
+      <fieldset ng-repeat="n in range(1, numInds - 1)">
+         <legend> Indicator {{ n }} </legend>
+         <div class="pure-control-group">
             <br />
-            <p>
-            <div class="pure-control-group">
-                <form class="pure-form pure-form-aligned" id="choiceForm">
-                    <fieldset>
-                        <label for="numIndsIn"> Number of Indicators </label> &nbsp;&nbsp;
-                        <input ng-init="numInds = 2;" ng-model="numInds" id="numIndsIn" type="range" class="pure-u-2" min="2" max="10"
-                                ng-change="updateInds(numInds)" />
-
-                        &nbsp; {{ numInds }}
-                        </fieldset>
-                 </form>
-
-                 <form class="pure-form pure-form-aligned">
-                     <fieldset ng-repeat="n in range(1, numInds)">
-                        <legend> Indicator {{ n }} </legend>
-
-                        <div class="pure-control-group">
-                        <br />
-                        <label for="ind-{{ n }}"> Category &nbsp;&nbsp; </label>
-                            <select ng-model="dataVariables[n]['cat']" ng-change="getCatIndicators(dataVariables[n]['cat'])">
-                                 <option ng-repeat="item in categories | orderBy: 'cat_id'" value="{{ item.cat_id }}">
-                                   {{ item.cat_id }}. {{ item.cat_name }} </option>
-                            </select>
-                        </div>
-
-                        <div ng-if="dataVariables[n]['cat']" class="pure-control-group">
-                        <label for="ind-{{ n }}"> Indicator &nbsp;&nbsp; </label>
-                        <select ng-model="dataVariables[n]['ind']" ng-change="setIndicatorAndFetch(n)">
-                               <option ng-repeat="(key,item) in getLocalCatIndicators(dataVariables[n]['cat'])" value="{{ key }}"> {{ key }} - {{ item.name  }} </option>
-                        </select>
-                        </div>
-
-                        <div ng-if="dataVariables[n]['ind']" class="pure-controls">
-                            <div class="pure-g">
-                                <div class="pure-u-1-3">
-                                    <label for="from-{{ n }}"> From Year </label>
-                                    <select ng-model="dataVariables[n]['from']" ng-init="dataVariables[n]['from'] = '2010';">
-                                         <option ng-repeat="item in range(2010, 2015, 1)"> {{ item  }} </option>
-                                    </select>
-                                </div>
-                                <div class="pure-u-1-3" ng-if="dataVariables[n]['from']" ng-init="dataVariables[n]['to'] = '2015';">
-                                <label for="to-{{ n }}"> To Year </label>
-                                    <select ng-model="dataVariables[n]['to']">
-                                         <option ng-repeat="item in range(dataVariables[n]['from'], 2015, 1)"> {{ item  }} </option>
-                                    </select>
-                                </div>
-                                <div class="pure-u-1-3">
-                                    <button type="submit" class="pure-button pure-button-primary"  ng-click="getData(n)"> Get and preview! </button>
-                                </div>
-                            </div>
-                        </div>
-                        <div style="padding: 5%; text-align: center">
-                            <div class="handsontable" id="table-{{ n }}"></div>
-                        </div>
-
-                     </fieldset>
-                 </form>
+            <label for="ind-{{ n }}"> Category &nbsp;&nbsp; </label>
+            <select ng-model="dataVariables[n]['cat']" ng-change="getCatIndicators(dataVariables[n]['cat'])">
+               <option ng-repeat="item in categories | orderBy: 'cat_id'" value="{{ item.cat_id }}">
+                  {{ item.cat_id }}. {{ item.cat_name }}
+               </option>
+            </select>
+         </div>
+         <div ng-if="dataVariables[n]['cat']" class="pure-control-group">
+            <label for="ind-{{ n }}"> Indicator &nbsp;&nbsp; </label>
+            <select ng-model="dataVariables[n]['ind']" ng-change="setIndicatorAndFetch(n)">
+               <option ng-repeat="(key,item) in getLocalCatIndicators(dataVariables[n]['cat'])" value="{{ key }}"> {{ key }} - {{ item.name  }} </option>
+            </select>
+         </div>
+         <div ng-if="dataVariables[n]['ind']" class="pure-controls">
+            <div class="pure-g">
+               <div class="pure-u-1-3">
+                  <button type="submit" class="pure-button pure-button-primary"  ng-click="getData(n)"> Get and preview! </button>
+               </div>
             </div>
-            </p>
+         </div>
+         <div style="padding: 5%; text-align: center">
+            <div class="handsontable" id="table-{{ n }}"></div>
+         </div>
+      </fieldset>
 
-            <h2 class="content-subhead"> Push these variables ... </h2>
-            <p>
-                Once done, you can commit these variables for analysis here:
-            </p>
-            <button id="finalGet" type="submit" class="pure-button pure-button-primary"  ng-click="getResults()"> Commit! </button>
+
+      <fieldset>
+         <legend> Resulting/Studied Indicator, Indicator {{ numInds }} </legend>
+         <div class="pure-control-group">
+            <br />
+            <label for="ind-{{ n }}"> Category &nbsp;&nbsp; </label>
+            <select ng-model="dataVariables[numInds]['cat']" ng-change="getCatIndicators(dataVariables[numInds]['cat'])">
+               <option ng-repeat="item in categories | orderBy: 'cat_id'" value="{{ item.cat_id }}">
+                  {{ item.cat_id }}. {{ item.cat_name }}
+               </option>
+            </select>
+         </div>
+         <div ng-if="dataVariables[numInds]['cat']" class="pure-control-group">
+            <label for="ind-{{ n }}"> Indicator &nbsp;&nbsp; </label>
+            <select ng-model="dataVariables[numInds]['ind']" ng-change="setIndicatorAndFetch(numInds)">
+               <option ng-repeat="(key,item) in getLocalCatIndicators(dataVariables[numInds]['cat'])" value="{{ key }}"> {{ key }} - {{ item.name  }} </option>
+            </select>
+         </div>
+         <div ng-if="dataVariables[numInds]['ind']" class="pure-controls">
+            <div class="pure-g">
+               <div class="pure-u-1-3">
+                  <button type="submit" class="pure-button pure-button-primary"  ng-click="getData(numInds)"> Get and preview! </button>
+               </div>
+            </div>
+         </div>
+         <div style="padding: 5%; text-align: center">
+            <div class="handsontable" id="table-{{ n }}"></div>
+         </div>
+      </fieldset>
+
+
+   </form>
+</div>
+</p>
+<h2 class="content-subhead"> Push these variables ... </h2>
+<p>
+   Once done, you can commit these variables for analysis here:
+</p>
+<button id="finalGet" type="submit" class="pure-button pure-button-primary"  ng-click="getResults()"> Commit! </button>
