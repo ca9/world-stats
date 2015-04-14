@@ -8,3 +8,11 @@ def get_values(indicator_data):
 
 def regress(dep, factors):
     tosend = set(dep).intersection(set(factors))
+
+def sign(a):
+    return not a[0]=='-'
+
+def unsign(a):
+    if a[0] == '-':
+        return a[1:]
+    return a

@@ -99,8 +99,28 @@ def regress():
         lmr = stats.lm("res ~ {}".format(' + '.join(['v' + str(i) for i in range(1, len(data))])))
         lmr = str(base.summary(lmr))
         lmr = lmr[lmr.find('Residuals:'):]
-        return jsonify({"desc": str(df.describe()), "summary": lmr})
 
+        vals = lmr[lmr.lower().find('(intercept)'):lmr.lower().find('---')].split('\n')
+        effects = {}
+        for i in range(1, len(data)):
+            row, name = vals[i].split(), data[str(i)]['ind']     #is the corresponding row of this datum
+            if len(row) == 6:                                    #it is significant
+                effects[name] = "{0} {1}significantly affects {2} in a {3} direction.".format(
+                    name,
+                    {'*': '', '**': 'very ', '***': 'very very '}[row[5]],
+                    data[highest]['ind'],
+                    {1: 'positive', -1: 'negative'}[rpy2functions.sign(row[1])]
+                )
+                effects[name] += 'A single unit increase in {0}, {1} {2} by {3} units on average.'.format(
+                    name,
+                    {1:'increases', -1:'decreases'}[rpy2functions.sign(row[1])],
+                    data[highest]['ind'],
+                    rpy2functions.unsign(row[1])
+                )
+            else:
+                effects[name] = name + " was not found to be a significant factor!"
+
+        return jsonify({"desc": str(df.describe()), "summary": lmr, 'effects': effects})
 
 
 
