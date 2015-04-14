@@ -109,11 +109,11 @@ def regress():
                     name,
                     {'*': '', '**': 'very ', '***': 'very very '}[row[5]],
                     data[highest]['ind'],
-                    {1: 'positive', -1: 'negative'}[rpy2functions.sign(row[1])]
+                    {1: 'positive', 0: 'negative'}[rpy2functions.sign(row[1])]
                 )
                 effects[name] += 'A single unit increase in {0}, {1} {2} by {3} units on average.'.format(
                     name,
-                    {1:'increases', -1:'decreases'}[rpy2functions.sign(row[1])],
+                    {1:'increases', 0:'decreases'}[rpy2functions.sign(row[1])],
                     data[highest]['ind'],
                     rpy2functions.unsign(row[1])
                 )
@@ -126,3 +126,4 @@ def regress():
 
 
 
+#todo: Code cleanup

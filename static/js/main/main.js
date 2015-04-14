@@ -192,6 +192,7 @@ worlDataApp.controller('resultController', function ($scope, $stateParams, dataS
         if ($scope.results.$$state.status == 1) {
             $scope.summary = $scope.results.$$state.value.summary;
             $scope.desc = $scope.results.$$state.value.desc;
+            $scope.effects = $scope.results.$$state.value.effects;
             return true;
         }
         return false;

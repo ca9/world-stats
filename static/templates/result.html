@@ -1,5 +1,16 @@
+<h2> Analysis: </h2>
+<p ng-if="arrived()">
+    <ul>
+        <li ng-repeat="(key, effect) in effects"> {{ effect }} </li>
+    </ul>
+</p>
+
+<br \>
+
 <h2> General Data Analysis: </h2>
 <p ng-if="arrived()"><pre class="code">{{ desc }}</pre></p>
 
-<h2> Results from R </h2>
+<br \>
+
+<h2> Results from R: </h2>
 <p ng-if="arrived()"><pre class="code">{{ summary }}</pre></p>
