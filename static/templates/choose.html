@@ -97,24 +97,25 @@
    Once done, you can commit these variables for analysis here. Please note that it takes up to 15 to 30 seconds to run
     a linear model in the background.
 </p>
-<form class="pure-form">
+
+
+<form class="pure-form" ng-init="dataVariables.options.na = 'drop_na'">
     <label for="svm" class="pure-checkbox">
         <input id="svm" ng-init="dataVariables.options.svm = false" type="checkbox" ng-bind="dataVariables.options.svm">
-        Attempt SVM classification.
+        Attempt SVM <classification class=""></classification>
     </label>
     <label for="drop-na" class="pure-radio">
-        <input id="drop-na" name="na-behaviour" type="radio" value="drop-na" ng-bind="dataVariables.options.na">
+        <input id="drop-na"  name="na-behaviour" type="radio" value="drop_na" ng-model="dataVariables.options.na">
         Drop all rows with na.
     </label>
     <label for="replace-na" class="pure-radio">
-        <input id="replace-na"  name="na-behaviour" type="radio" value="replace-na" ng-bind="dataVariables.options.na">
+        <input id="replace-na"  name="na-behaviour" type="radio" value="replace_na" ng-model="dataVariables.options.na">
         Replace NA's with global mean values.
     </label>
     <label for="replace-local-na" class="pure-radio">
-        <input id="replace-local-na" name="na-behaviour" type="radio" value="replace-local-na" ng-bind="dataVariables.options.na">
+        <input id="replace-local-na" name="na-behaviour" type="radio" value="replace_local_na" ng-model="dataVariables.options.na">
         Replace NA's with national mean values, if available. Else, country will be dropped.
     </label>
     <br \>
 <button id="finalGet" type="submit" class="pure-button pure-button-primary"  ng-click="getResults()"> Commit! </button>
-
 </form>
