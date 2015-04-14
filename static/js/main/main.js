@@ -17,7 +17,7 @@ worlDataApp.config(function($stateProvider, $urlRouterProvider) {
             controller: 'resultController',
             templateUrl: "static/templates/result.html",
             params: {
-                'something': undefined
+                'results': undefined
             }
         });
 })
@@ -90,7 +90,14 @@ worlDataApp.service('indicatorService', function($http, $q) {
 
 worlDataApp.service('dataService', function ($q, $http) {
     this.service = this;
-    this.dataVariables = {};
+    this.dataVariables = {
+        'options': {
+            'na' : 'drop-na',
+            'svm': false
+        },
+        'from': '2010',
+        'to'  : '2015'
+    };
     this.fetchDataPreview = function(ind, from, tableContainer) {
         // is optional, depending on whether we want to use cache.
         tableContainer = tableContainer || 0;
@@ -142,7 +149,8 @@ worlDataApp.service('dataService', function ($q, $http) {
                         "<b>id:</b> " + (response.details.id || ind) + "<br />" +
                         "<b>name: </b>" + (response.details.name || "Name not found.") + "<br />" +
                         "<b>source: </b>" + (response.details.sourceOrganization || "Source not found.") + "<br />" +
-                        "<b>sourceNote: </b>" + (response.details.sourceNote || "Source not found.") + "<br />";
+                        "<b>sourceNote: </b>" + (response.details.sourceNote || "Source not found.") + "<br />" +
+                        "<b>Developer's Note: </b>" + (response.details.dev|| "Dev note not found.") + "<br />";
 
                     var detailsBox = document.createElement("p");
                     detailsBox.style.cssText = "text-align: left";
@@ -179,7 +187,7 @@ worlDataApp.service('dataService', function ($q, $http) {
 
 worlDataApp.controller('resultController', function ($scope, $stateParams, dataService) {
 
-    $scope.results = $stateParams.something;
+    $scope.results = $stateParams.results;
 
     $scope.arrived = function() {
         if ($scope.results.$$state.status == 1) {
@@ -190,7 +198,7 @@ worlDataApp.controller('resultController', function ($scope, $stateParams, dataS
         return false;
     }
 
-    setTimeout(function() {console.log("Something:"  + $scope.results); }, 60);
+    $scope.dataVariables = dataService.dataVariables;
 
 });
 
@@ -200,7 +208,7 @@ worlDataApp.controller('chooseController', function ($scope, categoriesService, 
     $scope.dataVariables = dataService.dataVariables;
     // this is a function
     $scope.getResults = function() {
-        $state.go('result', {'something': dataService.uploadData()});
+        $state.go('result', {'results': dataService.uploadData()});
     }
 
 
@@ -231,7 +239,7 @@ worlDataApp.controller('chooseController', function ($scope, categoriesService, 
     $scope.getDataPreview = function(i) {
         i = i || -1;
         var ind = $scope.dataVariables[i]['ind'];
-        var from = $scope.dataVariables['from'] || '2010';
+        var from = $scope.dataVariables['from'];
         var tableContainer = document.getElementById('table-' + i);
         tableContainer.innerHTML = '<img src="static/img/loading.gif">';
         $scope.dataVariables[i]['data'] = dataService.fetchDataPreview(ind.trim(), from, tableContainer);

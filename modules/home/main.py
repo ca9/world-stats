@@ -51,10 +51,17 @@ preview_countries = ['SE', 'US', 'HK', 'SG', 'IN', 'CN', 'NL', 'CH', 'AU', 'IS',
 def get_ind_preview(y1=2010, ind="FR.INR.LEND"):
     if ind:
         if y1:
-            y1 = datetime(int(y1), 1, 1)
-        data = rpy2functions.get_values(wbdata.get_data(ind, data_date=(y1, y1), country=preview_countries))
-        ind_details = wbdata.get_indicator(ind, display=False)
-        return jsonify({'data': data, 'details': ind_details[0]})
+            ydt = datetime(int(y1), 1, 1)
+        ind_details = wbdata.get_indicator(ind, display=False)[0]
+        ind_details['dev'] = "Feel free to use this variable!"
+        try:
+            data = rpy2functions.get_values(wbdata.get_data(ind, data_date=(ydt, ydt), country=preview_countries))
+            if 'q' in data.keys()[0].split('.')[0].lower():
+                ind_details['dev'] = "If chosen, please make sure all variables are quarterly."
+        except TypeError as e:
+            data = {'{0}.{1}'.format(str(y1), cont):'ERROR' for cont in preview_countries}
+            ind_details['dev'] = "No data found for this variable. Do not use this variable."
+        return jsonify({'data': data, 'details': ind_details})
     return {}
 
 
@@ -62,9 +69,9 @@ def get_ind_preview(y1=2010, ind="FR.INR.LEND"):
 def regress():
     if request.method == 'POST':
         data = json.loads(request.data)
-        from_year, to_year = int(data.pop('from')), int(data.pop('to'))
+        from_year, to_year, options = int(data.pop('from')), int(data.pop('to')), data.pop('options')
         highest = max(data.keys())
-        indicators = {data[x]['ind']:data[x]['ind'] for x in data}
+        indicators = {data[x]['ind']:data[x]['ind'] for x in data if 'ind' in data[x]}
 
         # pulls the data, removes rows with any NA (making R's life better)
         df = wbdata.get_dataframe(indicators=indicators,
@@ -90,7 +97,9 @@ def regress():
         # robjects.globalenv['rdf'] = rdf
 
         lmr = stats.lm("res ~ {}".format(' + '.join(['v' + str(i) for i in range(1, len(data))])))
-        return jsonify({"desc": str(df.describe()), "summary": str(base.summary(lmr))})
+        lmr = str(base.summary(lmr))
+        lmr = lmr[lmr.find('Residuals:'):]
+        return jsonify({"desc": str(df.describe()), "summary": lmr})
 
 
 

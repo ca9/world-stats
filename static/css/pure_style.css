@@ -27,3 +27,7 @@ select {
 .pure-form select {
     max-width: 600px;
 }
+
+#numIndsIn {
+    min-width: 60%;
+}
