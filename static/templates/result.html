@@ -1,7 +1,7 @@
-<div style="text-align: center" ng-if="loading == true">
-    <img src="static/img/loading.gif">
+<div ng-if="loading == true">
+    <h2> Loading ... </h2>
+    <p style="text-align: center" ><img src="static/img/loading.gif"></p>
 </div>
-
 
 <div ng-if="err_msg != false"> <h2> Error </h2>
     <p> {{ err_msg }} </p>

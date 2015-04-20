@@ -192,6 +192,7 @@ worlDataApp.controller('resultController', function ($scope, $stateParams, dataS
 
     $scope.arrived = function() {
         if ($scope.results.$$state.status == 1) {
+            $scope.loading = false;
             if ($scope.summary = $scope.results.$$state.value.error == 0) {
                 $scope.summary = $scope.results.$$state.value.summary;
                 $scope.desc = $scope.results.$$state.value.desc;
@@ -205,7 +206,6 @@ worlDataApp.controller('resultController', function ($scope, $stateParams, dataS
                 $scope.err_msg = true;
                 return false;
             }
-            $scope.loading = false;
         } else if ($scope.results.$$state.status == 2) {
             return true;
         }
