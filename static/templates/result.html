@@ -1,16 +1,32 @@
-<h2> Analysis: </h2>
-<p ng-if="arrived()">
-    <ul>
-        <li ng-repeat="(key, effect) in effects"> {{ effect }} </li>
-    </ul>
-</p>
+<div style="text-align: center" ng-if="loading == true">
+    <img src="static/img/loading.gif">
+</div>
 
-<br \>
 
-<h2> General Data Analysis: </h2>
-<p ng-if="arrived()"><pre class="code">{{ desc }}</pre></p>
+<div ng-if="err_msg != false"> <h2> Error </h2>
+    <p> {{ err_msg }} </p>
+    <pre> {{ err_trace }} </pre>
+</div>
 
-<br \>
+<div ng-if="arrived()">
+    <h2> Analysis: </h2>
+    <p>
+        <ul>
+            <li ng-repeat="(key, effect) in effects"> {{ effect }} </li>
+        </ul>
+    </p>
 
-<h2> Results from R: </h2>
-<p ng-if="arrived()"><pre class="code">{{ summary }}</pre></p>
+    <br \>
+
+    <h2> General Data Analysis: </h2>
+    <p><pre class="code">{{ desc }}</pre></p>
+
+    <br \>
+
+    <h2> Results from R: </h2>
+    <p><pre class="code">{{ summary }}</pre></p>
+
+</div>
+
+<button class="pure-button pure-button-primary" ui-sref="choose"> Go Back </button>
+

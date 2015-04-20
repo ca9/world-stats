@@ -149,3 +149,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+
+#sessions
+.modules/sqlite/sessions/

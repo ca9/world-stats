@@ -68,62 +68,67 @@ def get_ind_preview(y1=2010, ind="FR.INR.LEND"):
 @home.route('/regress', methods=['POST'])
 def regress():
     if request.method == 'POST':
-        data = json.loads(request.data)
-        from_year, to_year, options = int(data.pop('from')), int(data.pop('to')), data.pop('options')
-        highest = max(data.keys())
-        indicators = {data[x]['ind']:data[x]['ind'] for x in data if 'ind' in data[x]}
+        try:
+            data = json.loads(request.data)
+            from_year, to_year, options = int(data.pop('from')), int(data.pop('to')), data.pop('options')
+            highest = max(data.keys())
+            indicators = {data[x]['ind']:data[x]['ind'] for x in data if 'ind' in data[x]}
 
-        # pulls the data, removes rows with any NA (making R's life better)
-        df = wbdata.get_dataframe(indicators=indicators,
-                                  convert_date=True,
-                                  data_date=(
-                                      datetime(from_year, 1, 1),
-                                      datetime(to_year, 1, 1)
-                                  )).dropna()
+            # pulls the data, removes rows with any NA (making R's life better)
+            df = wbdata.get_dataframe(indicators=indicators,
+                                      convert_date=True,
+                                      data_date=(
+                                          datetime(from_year, 1, 1),
+                                          datetime(to_year, 1, 1)
+                                      )).dropna()
 
-        if not len(df):
-            return jsonify({"desc": "Not enough data!", "summary": "Not enough data!"})
+            if not len(df):
+                return jsonify({"desc": "Not enough data!",
+                                "summary": "Not enough data!",
+                                'effects': {'info': "Not enough data!"}, 'error': 0})
 
-        lm_vectors = []
-        for num in data:
-            vector = FloatVector(df[data[num]['ind']])
-            if num != highest:
-                robjects.globalenv[str('v' + num)] = vector
-            else:
-                robjects.globalenv[str('res')] = vector
-
-        # soon to be deprecated
-        # rdf = com.convert_to_r_dataframe(df)
-        # robjects.globalenv['rdf'] = rdf
-
-        lmr = stats.lm("res ~ {}".format(' + '.join(['v' + str(i) for i in range(1, len(data))])))
-        lmr = str(base.summary(lmr))
-        lmr = lmr[lmr.find('Residuals:'):]
-
-        vals = lmr[lmr.lower().find('(intercept)'):lmr.lower().find('---')].split('\n')
-        effects = {}
-        for i in range(1, len(data)):
-            row, name = vals[i].split(), data[str(i)]['ind']     #is the corresponding row of this datum
-            if len(row) == 6:                                    #it is significant
-                effects[name] = "{0} {1}significantly affects {2} in a {3} direction.".format(
-                    name,
-                    {'*': '', '**': 'very ', '***': 'very very '}[row[5]],
-                    data[highest]['ind'],
-                    {1: 'positive', 0: 'negative'}[rpy2functions.sign(row[1])]
-                )
-                effects[name] += 'A single unit increase in {0}, {1} {2} by {3} units on average.'.format(
-                    name,
-                    {1:'increases', 0:'decreases'}[rpy2functions.sign(row[1])],
-                    data[highest]['ind'],
-                    rpy2functions.unsign(row[1])
-                )
-            else:
-                effects[name] = name + " was not found to be a significant factor!"
-
-        return jsonify({"desc": str(df.describe()), "summary": lmr, 'effects': effects})
+            lm_vectors = []
+            for num in data:
+                vector = FloatVector(df[data[num]['ind']])
+                if num != highest:
+                    robjects.globalenv[str('v' + num)] = vector
+                else:
+                    robjects.globalenv[str('res')] = vector
+                # Store it in the server side session.
+                keys = map(functions.make_key, df[data[num]['ind']].keys())
+                session[data[num]['ind']] = [{keys[i]: df[data[num]['ind']][i] for i in range(len(keys))}]
 
 
 
+            lmr = stats.lm("res ~ {}".format(' + '.join(['v' + str(i) for i in range(1, len(data))])))
+            lmr = str(base.summary(lmr))
+            lmr = lmr[lmr.find('Residuals:'):]
+
+            vals = lmr[lmr.lower().find('(intercept)'):lmr.lower().find('---')].split('\n')
+            effects = {}
+            for i in range(1, len(data)):
+                row, name = vals[i].split(), data[str(i)]['ind']     #is the corresponding row of this datum
+                if len(row) == 6:                                    #it is significant
+                    effects[name] = "{0} {1}significantly affects {2} in a {3} direction.".format(
+                        name,
+                        {'*': '', '**': 'very ', '***': 'very very '}[row[5]],
+                        data[highest]['ind'],
+                        {1: 'positive', 0: 'negative'}[rpy2functions.sign(row[1])]
+                    )
+                    effects[name] += ' A single unit increase in {0}, {1} {2} by {3} units on average.'.format(
+                        name,
+                        {1:'increases', 0:'decreases'}[rpy2functions.sign(row[1])],
+                        data[highest]['ind'],
+                        rpy2functions.unsign(row[1])
+                    )
+                else:
+                    effects[name] = name + " was not found to be a significant factor!"
+
+            return jsonify({"desc": str(df.describe()), "summary": lmr, 'effects': effects, 'error': 0})
+        except Exception as e:
+            return jsonify({'error': 1,
+                            'err_mesg': 'There was an error. Trace attached:',
+                            'trace': '\n'.join(e.args) + e.message})
 
 
 #todo: Code cleanup

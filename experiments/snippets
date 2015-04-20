@@ -1,0 +1,1 @@
+pickle.load(open('static/data/countries/c2code.pickle', 'r')) #unused

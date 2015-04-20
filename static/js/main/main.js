@@ -187,12 +187,26 @@ worlDataApp.service('dataService', function ($q, $http) {
 worlDataApp.controller('resultController', function ($scope, $stateParams, dataService) {
 
     $scope.results = $stateParams.results;
+    $scope.err_msg = false;
+    $scope.loading = true;
 
     $scope.arrived = function() {
         if ($scope.results.$$state.status == 1) {
-            $scope.summary = $scope.results.$$state.value.summary;
-            $scope.desc = $scope.results.$$state.value.desc;
-            $scope.effects = $scope.results.$$state.value.effects;
+            if ($scope.summary = $scope.results.$$state.value.error == 0) {
+                $scope.summary = $scope.results.$$state.value.summary;
+                $scope.desc = $scope.results.$$state.value.desc;
+                $scope.effects = $scope.results.$$state.value.effects;
+                $scope.results.$$state.status == 2; // Save repeated reassignment.
+                return true;
+            } else {
+                $scope.err_msg = $scope.results.$$state.value.err_msg;
+                $scope.err_trace = $scope.results.$$state.value.trace;
+                $scope.results.$$state.status == 0;
+                $scope.err_msg = true;
+                return false;
+            }
+            $scope.loading = false;
+        } else if ($scope.results.$$state.status == 2) {
             return true;
         }
         return false;
