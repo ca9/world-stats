@@ -9,6 +9,11 @@
 </div>
 
 <div ng-if="arrived()">
+    <h2> Map: </h2>
+    <p>
+        <world-map ng-attr-mapdata="{{ mapData }}"></world-map>
+    </p>
+
     <h2> Analysis: </h2>
     <p>
         <ul>

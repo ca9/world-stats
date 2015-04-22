@@ -197,13 +197,15 @@ worlDataApp.controller('resultController', function ($scope, $stateParams, dataS
                 $scope.summary = $scope.results.$$state.value.summary;
                 $scope.desc = $scope.results.$$state.value.desc;
                 $scope.effects = $scope.results.$$state.value.effects;
+                $scope.mapData = $scope.results.$$state.value.mapData;
                 $scope.results.$$state.status == 2; // Save repeated reassignment.
+                $scope.$applyAsync(); //update DOM soon
                 return true;
             } else {
                 $scope.err_msg = $scope.results.$$state.value.err_msg;
                 $scope.err_trace = $scope.results.$$state.value.trace;
                 $scope.results.$$state.status == 0;
-                $scope.err_msg = true;
+                $scope.$applyAsync(); //update DOM soon
                 return false;
             }
         } else if ($scope.results.$$state.status == 2) {
@@ -259,13 +261,6 @@ worlDataApp.controller('chooseController', function ($scope, categoriesService, 
         $scope.dataVariables[i]['data'] = dataService.fetchDataPreview(ind.trim(), from, tableContainer);
         //no special cases for final.
     }
-});
-
-
-worlDataApp.filter('angular', function () {
-  return function () {
-    return;
-  };
 });
 
 
