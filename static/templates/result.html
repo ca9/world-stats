@@ -9,24 +9,25 @@
 </div>
 
 <div ng-if="arrived()">
-    <h2> Map: </h2>
-    <p>
+    <h2 style="text-align: center"> {{ map_var }} </h2>
+    <p class="code">
         <world-map ng-attr-mapdata="{{ mapData }}"></world-map>
     </p>
+    <br \><hr \>
 
     <h2> Analysis: </h2>
     <p>
-        <ul>
+        <ul class="code">
             <li ng-repeat="(key, effect) in effects"> {{ effect }} </li>
         </ul>
     </p>
 
-    <br \>
+    <br \><hr \>
 
     <h2> General Data Analysis: </h2>
     <p><pre class="code">{{ desc }}</pre></p>
 
-    <br \>
+    <br \><hr \>
 
     <h2> Results from R: </h2>
     <p><pre class="code">{{ summary }}</pre></p>

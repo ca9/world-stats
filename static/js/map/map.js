@@ -4,7 +4,7 @@
 
 worlDataApp.directive('worldMap', function() {
     return {
-        template: "<div id='result-map' style='width: 600px; height: 400px;'></div>",
+        template: "<div id='result-map' style='height: 400px'></div>", //style='width: 600px; height: 400px;'
         restrict: 'E',
         link: function (scope, element, attrs) {
             scope.map_year = '2011';
@@ -25,11 +25,11 @@ worlDataApp.directive('worldMap', function() {
                     $('#result-map').vectorMap({
                         //map: 'world-mill-en',
                         series: {
-                            regions: {
+                            regions: [{
                                 values: myvalues,
                                 scale: ['#C8EEFF', '#0071A4'],
                                 normalizeFunction: 'polynomial'
-                            }
+                            }]
                         },
                         onRegionTipShow: function(e, el, code) {
                                 el.html( el.html() + ', ' + scope.map_var + ' - ' +

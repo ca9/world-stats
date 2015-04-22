@@ -198,6 +198,7 @@ worlDataApp.controller('resultController', function ($scope, $stateParams, dataS
                 $scope.desc = $scope.results.$$state.value.desc;
                 $scope.effects = $scope.results.$$state.value.effects;
                 $scope.mapData = $scope.results.$$state.value.mapData;
+                $scope.map_var = Object.keys($scope.mapData)[0];
                 $scope.results.$$state.status == 2; // Save repeated reassignment.
                 $scope.$applyAsync(); //update DOM soon
                 return true;
