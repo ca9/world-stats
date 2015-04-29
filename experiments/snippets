@@ -19,6 +19,18 @@ onRegionTipShow: function(e, el, code) {
 
 robjects.r('qres <- quantile(res)')
 robjects.r('qres <- cut(res, qres, labels=c(1,2,3,4), include.lowest=TRUE)')
+
+robjects.r("mylda <- lda(qres ~ {})".format(' + '.join(['v' + str(i) for i in range(1, len(data))])))
+lda_pie = list(robjects.r("mylda$svd^2/sum(mylda$svd^2) * 100"))
+lda_means = list(robjects.r("mylda$means"))
+robjects.r("lda_preds <- predict(mylda, as.table(cbind({})))".format(','.join(['v' + str(i) for i in range(1, len(data))])))
+lda_class_success = robjects.r('mean(as.numeric(lda_preds$class) == qres)')
+
+
+            qres
+  lda_preds    1
+
+
 robjects.r('svp <- ksvm(qres,ind_mat,type="C-svc",kernel="vanilladot")')
 robjects.r("ypred = predict(qres,ind_mat,type='decision')")
 

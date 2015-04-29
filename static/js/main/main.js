@@ -92,7 +92,8 @@ worlDataApp.service('dataService', function ($q, $http) {
     this.service = this;
     this.dataVariables = {
         'options': {
-            'svm': false
+            'svm': false,
+            'lda': false
         },
         'from': '2010',
         'to'  : '2015'

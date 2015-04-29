@@ -111,8 +111,23 @@ def regress(debug = False):
             lmr = str(base.summary(lmr))
             lmr = lmr[lmr.find('Residuals:'):]
 
+            lda = {}
+            if options['lda']:
+                try:
+                    robjects.r('qres <- quantile(res)')
+                    robjects.r('qres <- cut(res, qres, labels=c(1,2,3,4), include.lowest=TRUE)')
+                    importr('MASS')
+                    robjects.r("mylda <- lda(qres ~ {})".format(' + '.join(['v' + str(i) for i in range(1, len(data))])))
+                    lda_pie = list(robjects.r("mylda$svd^2/sum(mylda$svd^2) * 100"))
+                    lda_means = list(robjects.r("mylda$means"))
+                    robjects.r("lda_preds <- predict(mylda, as.table(cbind({})))".format(','.join(['v' + str(i) for i in range(1, len(data))])))
+                    lda_class_success = robjects.r('mean(as.numeric(lda_preds$class) == qres)')
+                    lda = {'lda_pie': lda_pie, 'lda_means': lda_means, 'lda_class_success': float(lda_class_success[0]) * 100}
+                except Exception as lda_e:
+                    lda = {'error': lda_e.message}
+
             vals = lmr[lmr.lower().find('(intercept)'):lmr.lower().find('---')].split('\n')
-            effects = {'count': str(len(df)) + ' rows of data were used for the analysis.'} #todo: add the real number
+            effects = {'count': str(len(df)) + ' rows of data were used for the analysis.'}
             for i in range(1, len(data)):
                 row, name = vals[i].split(), data[str(i)]['ind']     #is the corresponding row of this datum
                 if len(row) == 6:                                    #it is significant
@@ -131,7 +146,7 @@ def regress(debug = False):
                 else:
                     effects[name] = name + " was not found to be a significant factor!"
                 response = {"desc": str(df.describe()), "summary": lmr, 'effects': effects, 'error': 0,
-                            'mapData': mapData}
+                            'mapData': mapData, 'lda': lda}
             return jsonify(response)
         except Exception as e:
             return jsonify({'error': 1,
