@@ -200,6 +200,10 @@ worlDataApp.controller('resultController', function ($scope, $stateParams, dataS
                 $scope.effects = $scope.results.$$state.value.effects;
                 $scope.mapData = $scope.results.$$state.value.mapData;
                 $scope.map_var = Object.keys($scope.mapData)[0];
+                $scope.years = Object.keys($scope.map_var);
+                $scope.min_year = $scope.years.sort()[0];
+                $scope.max_year = $scope.years.sort()[$scope];
+                $scope.cur_year = $scope.years[0];
                 $scope.results.$$state.status == 2; // Save repeated reassignment.
                 $scope.$applyAsync(); //update DOM soon
                 return true;
