@@ -151,4 +151,4 @@ Temporary Items
 
 
 #sessions
-.modules/sqlite/sessions/
+.modules/sqlite/sessions/*

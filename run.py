@@ -11,6 +11,11 @@ app = Flask(__name__)
 app.config.from_object('config')
 
 sqlite_path = 'modules/sqlite/sessions'
+
+from sys import platform as _platform
+if _platform == 'darwin':
+    sqlite_path = os.path.join(app.config.get('BASE_DIR'), sqlite_path)
+
 os.chmod(sqlite_path, int('700', 8))
 app.session_interface = SqliteSessionInterface(sqlite_path)
 

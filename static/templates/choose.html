@@ -101,8 +101,8 @@
 
 <form class="pure-form" ng-init="dataVariables.options.na = 'drop_na'">
     <label for="svm" class="pure-checkbox">
-        <input id="svm" ng-init="dataVariables.options.svm = false" type="checkbox" ng-bind="dataVariables.options.svm">
-        Attempt SVM <classification class=""></classification>
+        <input id="svm" ng-init="dataVariables.options.svm = false" type="checkbox" ng-bind="dataVariables.options.svm" disabled>
+        <del>Attempt SVM </del> &nbsp; Not yet supported by rpy2. <classification class=""></classification>
     </label>
     <label for="drop-na" class="pure-radio">
         <input id="drop-na"  name="na-behaviour" type="radio" value="drop_na" ng-model="dataVariables.options.na">

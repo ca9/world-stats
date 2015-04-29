@@ -16,3 +16,20 @@ onRegionTipShow: function(e, el, code) {
                                     scope.mapDataInner[scope.map_var][scope.map_year]);
                                 }
                             }
+
+robjects.r('qres <- quantile(res)')
+robjects.r('qres <- cut(res, qres, labels=c(1,2,3,4), include.lowest=TRUE)')
+robjects.r('svp <- ksvm(qres,ind_mat,type="C-svc",kernel="vanilladot")')
+robjects.r("ypred = predict(qres,ind_mat,type='decision')")
+
+
+
+            if options['svm']:
+                importr('kernlab')
+                robjects.r("ind_mat <- cbind({})".format(' , '.join(['v' + str(i) for i in range(1, len(data))])))
+                robjects.r('qres <- quantile(res)')
+                robjects.r('qres <- cut(res, qres, labels=c(1,2,3,4), include.lowest=TRUE)')
+                robjects.r('svp <- ksvm(qres, ind_mat,type="C-svc",kernel="vanilladot")')
+                robjects.r("ypred = predict(res,ind_mat,type='decision')")
+                robjects.r("sum(ypred==res)/length(ytest)")
+
