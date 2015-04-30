@@ -9,9 +9,29 @@
 </div>
 
 <div ng-if="arrived()">
-    <h2 style="text-align: center"> {{ map_var }} </h2>
+    <h2 style="text-align: center"> {{ main_var }} </h2>
+    <br \><hr \>
+
+    <h2> Description: </h2>
+    <p>
+        <ul class="code">
+            <li><b>ID: </b> {{ desc2.details.id }}</li>
+            <li><b>Name: </b> {{ desc2.details.name }}</li>
+            <li><b>Category: </b> {{ desc2.details.source.id }}. {{ desc2.details.source.value }}</li>
+            <li><b>Note: </b> {{ desc2.details.sourceNote }}</li>
+            <li><b>Org: </b> {{ desc2.details.sourceOrganization }}</li>
+        </ul>
+    </p>
+
+    <br \><hr \>
+    <h2> Heatmap: </h2>
     <p>
         <world-map ng-attr-mapdata="{{ mapData }}"></world-map>
+    </p>
+    <br \><hr \>
+
+    <p>
+        <world-charts ng-attr-mapdata="{{ mapData }}"></world-charts>
     </p>
     <br \><hr \>
 

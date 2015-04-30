@@ -197,10 +197,11 @@ worlDataApp.controller('resultController', function ($scope, $stateParams, dataS
             if ($scope.summary = $scope.results.$$state.value.error == 0) {
                 $scope.summary = $scope.results.$$state.value.summary;
                 $scope.desc = $scope.results.$$state.value.desc;
+                $scope.desc2 = $scope.results.$$state.value.desc2;
                 $scope.effects = $scope.results.$$state.value.effects;
                 $scope.mapData = $scope.results.$$state.value.mapData;
-                $scope.map_var = Object.keys($scope.mapData)[0];
-                $scope.years = Object.keys($scope.map_var);
+                $scope.main_var = Object.keys($scope.mapData)[0];
+                $scope.years = Object.keys($scope.main_var);
                 $scope.min_year = $scope.years.sort()[0];
                 $scope.max_year = $scope.years.sort()[$scope];
                 $scope.cur_year = $scope.years[0];

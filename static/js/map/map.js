@@ -25,8 +25,6 @@ worlDataApp.directive('worldMap', function() {
             scope.$watch(function(scope) {
                     return jQuery.isEmptyObject(attrs.mapdata);
             },
-
-            //Todo: add the year slider, and var
             function(mapDataWrapNew, mapDataWrapOld) {
                 if (!jQuery.isEmptyObject(scope.mapDataInner)) {
                     if (typeof(scope.mapDataInner) == typeof("abc"))
@@ -48,8 +46,6 @@ worlDataApp.directive('worldMap', function() {
                             }]
                         },
                         onRegionTipShow: function(e, el, code) {
-                            console.log(el.html() + ', ' + scope.map_var + ' - ' +
-                                (scope.mapDataInner[scope.map_var][scope.map_year][code] || 'NA') );
                             el.html( el.html() + ', ' + scope.map_var + ' - ' +
                                 (scope.mapDataInner[scope.map_var][scope.map_year][code] || 'NA') );
                         }

@@ -45,3 +45,8 @@ robjects.r("ypred = predict(qres,ind_mat,type='decision')")
                 robjects.r("ypred = predict(res,ind_mat,type='decision')")
                 robjects.r("sum(ypred==res)/length(ytest)")
 
+<li><b>ID: </b> {{ desc2.details.id }}</li>
+            <li><b>Name: </b> {{ desc2.details.name }}</li>
+            <li><b>Category: </b> {{ desc2.details.source.id }}. {{ desc2.details.source.value }}</li>
+            <li><b>Note: </b> {{ desc2.details.sourceNote }}</li>
+            <li><b>Org: </b> {{ desc2.details.sourceOrganization }}</li>

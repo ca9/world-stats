@@ -8,7 +8,7 @@
 
 worlDataApp.directive('worldCharts', function() {
     return {
-        template: "<div id='charts' style='height: 400px'></div>", //style='width: 600px; height: 400px;'
+        template: "<canvas id='charts-bar' style='height: 400px'></canvas>", //style='width: 600px; height: 400px;'
         restrict: 'E',
         link: function (scope, element, attrs) {
             scope.map_year = '2011';
@@ -18,28 +18,39 @@ worlDataApp.directive('worldCharts', function() {
             scope.$watch(function(scope) {
                     return jQuery.isEmptyObject(attrs.mapdata);
             },
-
             //Todo: add the year slider, and var
             function(mapDataWrapNew, mapDataWrapOld) {
                 if (!jQuery.isEmptyObject(scope.mapDataInner)) {
                     if (typeof(scope.mapDataInner) == typeof("abc"))
                         scope.mapDataInner = JSON.parse(scope.mapDataInner);
                     scope.map_var = Object.keys(scope.mapDataInner)[0]; //Todo: update this
-                    var myvalues = scope.mapDataInner[scope.map_var]['2011'];
-                    $('#result-map').vectorMap({
-                        //map: 'world-mill-en',
-                        series: {
-                            regions: [{
-                                values: myvalues,
-                                scale: ['#C8EEFF', '#0071A4'],
-                                normalizeFunction: 'polynomial'
-                            }]
-                        },
-                        onRegionTipShow: function(e, el, code) {
-                                el.html( el.html() + ', ' + scope.map_var + ' - ' +
-                                (scope.mapDataInner[scope.map_var]['2011'][code] || 'NA'));
+                    var inds = Object.keys(scope.mapDataInner);
+                    var years = Object.keys(scope.mapDataInner[inds[0]]).sort();
+                    var data = {
+                        labels: years, //years
+                        datasets: []
+                            //{
+                            //    label: "My First dataset",
+                            //    fillColor: "rgba(220,220,220,0.5)",
+                            //    strokeColor: "rgba(220,220,220,0.8)",
+                            //    highlightFill: "rgba(220,220,220,0.75)",
+                            //    highlightStroke: "rgba(220,220,220,1)",
+                            //    data: [65, 59, 80, 81, 56, 55, 40]
+                            //},
+                    };
+                    for (var i = 0; i < inds.length; i++) {
+                        var obj = {label: inds[i], data:[]};
+                        for (var y = 0; y < years.length; y++) {
+                            var tot = 0;
+                            for (var j = 0; j < scope.mapDataInner[inds[i]][years[y]].length; j++) {
+                                tot += scope.mapDataInner[inds[i]][years[y]];
+                            }
                         }
-                    });
+                        obj.data.push(tot);
+                    };
+                    var ctx = document.getElementById("charts-bar").getContext("2d");
+                    console.log(ctx);
+                    var myBarChart = new Chart(ctx).Bar(data);
                 }
             });
         }

@@ -158,3 +158,4 @@ def regress(debug = True):
 
 
 #todo: Code cleanup
+#todo make the chosen var global.
