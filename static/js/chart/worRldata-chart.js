@@ -8,7 +8,10 @@
 
 worlDataApp.directive('worldCharts', function() {
     return {
-        template: "<canvas id='charts-bar' style='min-height: 300px'></canvas>", //style='width: 600px; height: 400px;'
+        template: "<div class=\"pure-g code\">" +
+                        "<div class=\"pure-u-2-3\"><p><canvas id='charts-bar' style='min-height: 300px'></canvas></p></div>" +
+                        "<div class=\"pure-u-1-3\"><p id='charts-legend'></p></div>" +
+        "</div>",
         restrict: 'E',
         link: function (scope, element, attrs) {
             scope.map_year = '2011';
@@ -29,14 +32,6 @@ worlDataApp.directive('worldCharts', function() {
                     var data = {
                         labels: years, //years
                         datasets: []
-                            //{
-                            //    label: "My First dataset",
-                            //    fillColor: "rgba(220,220,220,0.5)",
-                            //    strokeColor: "rgba(220,220,220,0.8)",
-                            //    highlightFill: "rgba(220,220,220,0.75)",
-                            //    highlightStroke: "rgba(220,220,220,1)",
-                            //    data: [65, 59, 80, 81, 56, 55, 40]
-                            //},
                     };
                     for (var i = 0; i < inds.length; i++) {
                         var col1 = Math.round(Math.random() * 255).toString();
@@ -66,7 +61,7 @@ worlDataApp.directive('worldCharts', function() {
                         tooltipTemplate: "<%if (label){%><%=label%>: <%}%><%= value %>",
                         legendTemplate : "<ul class=\"<%=name.toLowerCase()%>-legend\"><% for (var i=0; i<datasets.length; i++){%><li><span style=\"background-color:<%=datasets[i].fillColor%>\">[&nbsp;&nbsp;]</span> &nbsp; <%if(datasets[i].label){%><%=datasets[i].label%><%}%></li><%}%></ul>"
                     });
-                    element.append(myBarChart.generateLegend());
+                    $("#charts-legend").html(myBarChart.generateLegend());
                 }
             });
         }
