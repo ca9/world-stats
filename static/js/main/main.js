@@ -209,7 +209,7 @@ worlDataApp.controller('resultController', function ($scope, $stateParams, dataS
                 $scope.results.$$state.status == 2; // Save repeated reassignment.
                 $scope.$applyAsync(); //update DOM soon
                 $scope.lda_check = function() {
-                    return !('error' in $scope.lda);
+                    return (!('error' in $scope.lda) && ('lda_class_success' in $scope.lda));
                 }
                 return true;
             } else {
