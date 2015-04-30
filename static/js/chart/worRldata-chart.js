@@ -8,7 +8,7 @@
 
 worlDataApp.directive('worldCharts', function() {
     return {
-        template: "<canvas id='charts-bar' style='min-height: 400px'></canvas>", //style='width: 600px; height: 400px;'
+        template: "<canvas id='charts-bar' style='min-height: 300px'></canvas>", //style='width: 600px; height: 400px;'
         restrict: 'E',
         link: function (scope, element, attrs) {
             scope.map_year = '2011';
@@ -39,18 +39,34 @@ worlDataApp.directive('worldCharts', function() {
                             //},
                     };
                     for (var i = 0; i < inds.length; i++) {
-                        var obj = {label: inds[i], data:[]};
+                        var col1 = Math.round(Math.random() * 255).toString();
+                        var col2 = Math.round(Math.random() * 255).toString();
+                        var col3 = Math.round(Math.random() * 255).toString();
+                        var obj = {label: inds[i], data:[],
+                            fillColor: "rgba(" + col1 + ", " + col2 + ", " + col3 + ", 0.5)",
+                            strokeColor: "rgba(" + col1 + ", " + col2 + ", " + col3 + ", 0.8)",
+                            highlightFill: "rgba(" + col1 + ", " + col2 + ", " + col3 + ", 0.75)",
+                            highlightStroke: "rgba(" + col1 + ", " + col2 + ", " + col3 + ", 0.1)"
+                        };
                         for (var y = 0; y < years.length; y++) {
                             var tot = 0;
-                            for (var j = 0; j < scope.mapDataInner[inds[i]][years[y]].length; j++) {
-                                tot += scope.mapDataInner[inds[i]][years[y]];
+                            var dat_keys = Object.keys(scope.mapDataInner[inds[i]][years[y]]).sort();
+                            for (var j = 0; j < dat_keys.length; j++) {
+                                tot += scope.mapDataInner[inds[i]][years[y]][dat_keys[j]];
                             }
+                            obj.data.push(tot);
                         }
-                        obj.data.push(tot);
+                        data.datasets.push(obj);
                     };
                     var ctx = document.getElementById("charts-bar").getContext("2d");
-                    console.log(ctx);
-                    var myBarChart = new Chart(ctx).Bar(data);
+                    //console.log(ctx);
+                    var myBarChart = new Chart(ctx).Bar(data, {
+                        showTooltips: true,
+                        scaleShowLabels: true,
+                        tooltipTemplate: "<%if (label){%><%=label%>: <%}%><%= value %>",
+                        legendTemplate : "<ul class=\"<%=name.toLowerCase()%>-legend\"><% for (var i=0; i<datasets.length; i++){%><li><span style=\"background-color:<%=datasets[i].fillColor%>\">[&nbsp;&nbsp;]</span> &nbsp; <%if(datasets[i].label){%><%=datasets[i].label%><%}%></li><%}%></ul>"
+                    });
+                    element.append(myBarChart.generateLegend());
                 }
             });
         }
