@@ -70,7 +70,7 @@ worlDataApp.directive('worldMap', function() {
                             }]
                         },
                         onRegionTipShow: function(e, el, code) {
-                                el.html( el.html() + ', ' + scope.map_var + ' - ' +
+                                el.html( el.html() + ', ' + scope.map_var + ' :  ' +
                                 (scope.mapDataInner[scope.map_var][scope.map_year][code] || 'NA') );
                         }
                     });
