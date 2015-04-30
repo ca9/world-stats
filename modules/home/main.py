@@ -58,7 +58,7 @@ def get_ind_preview(y1=2010, ind="FR.INR.LEND"):
             data = rpy2functions.get_values(wbdata.get_data(ind, data_date=(ydt, ydt), country=preview_countries))
             if 'q' in data.keys()[0].split('.')[0].lower():
                 ind_details['dev'] = "If chosen, please make sure all variables are quarterly."
-            if len(data) < 5:
+            if sum(map(map_adder, data.values())) < 5: #wont add properly.
                 ind_details['dev'] = "Very scarce data. Avoid using this variable."
         except TypeError as e:
             data = {'{0}.{1}'.format(str(y1), cont):'ERROR' for cont in preview_countries}
@@ -66,9 +66,13 @@ def get_ind_preview(y1=2010, ind="FR.INR.LEND"):
         return jsonify({'data': data, 'details': ind_details})
     return {}
 
+def map_adder(i):
+    if i == None or i == False or i == 'NA' or i == 'ERROR' or i == 'None':
+        return 0
+    return 1
 
 @home.route('/regress', methods=['POST'])
-def regress(debug = True):
+def regress(debug = False):
     if request.method == 'POST':
         if debug:
             return jsonify(debug_response_main)
@@ -100,6 +104,7 @@ def regress(debug = True):
                 else:
                     robjects.globalenv[str('res')] = vector
                     desc = json.loads(get_ind_preview(2010, ind_name).data)
+                    desc['highest'] = ind_name
                 # Store it in the server side session.
                 keys = map(functions.make_key, df[ind_name].keys())
                 session[ind_name] = [{keys[i]: df[ind_name][i] for i in range(len(keys))}]
@@ -133,10 +138,10 @@ def regress(debug = True):
 
             for i in range(1, len(data)):
                 row, name = vals[i].split(), data[str(i)]['ind']     #is the corresponding row of this datum
-                if len(row) == 6:                                    #it is significant
+                if len(row) and row[-1] in ['*', '**', '***', '.']:                          #it is significant
                     effects[name] = "{0} {1}significantly affects {2} in a {3} direction.".format(
                         name,
-                        {'*': '', '**': 'very ', '***': 'very very '}[row[5]],
+                        {'.':'', '*': 'quite ', '**': 'very ', '***': 'very very '}[row[-1]],
                         data[highest]['ind'],
                         {1: 'positive', 0: 'negative'}[rpy2functions.sign(row[1])]
                     )
