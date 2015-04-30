@@ -8,7 +8,7 @@
 
 worlDataApp.directive('worldCharts', function() {
     return {
-        template: "<canvas id='charts-bar' style='height: 400px'></canvas>", //style='width: 600px; height: 400px;'
+        template: "<canvas id='charts-bar' style='min-height: 400px'></canvas>", //style='width: 600px; height: 400px;'
         restrict: 'E',
         link: function (scope, element, attrs) {
             scope.map_year = '2011';

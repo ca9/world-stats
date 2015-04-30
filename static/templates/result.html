@@ -51,6 +51,12 @@
 
     <h2> Results from R: </h2>
     <p><pre class="code">{{ summary }}</pre></p>
+    <p ng-if="lda_check()">
+        <ul class="code">
+            <li> LDA means for increasing quartiles of {{ main_var }} = {{ lda.lda_means }} </li>
+            <li> LDA percentage influence PIE {{ main_var }} = {{ lda.lda_pie }} </li>
+        </ul>
+    </p>
 
 </div>
 

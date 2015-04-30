@@ -200,6 +200,7 @@ worlDataApp.controller('resultController', function ($scope, $stateParams, dataS
                 $scope.desc2 = $scope.results.$$state.value.desc2;
                 $scope.effects = $scope.results.$$state.value.effects;
                 $scope.mapData = $scope.results.$$state.value.mapData;
+                $scope.lda = $scope.results.$$state.value.lda;
                 $scope.main_var = Object.keys($scope.mapData)[0];
                 $scope.years = Object.keys($scope.main_var);
                 $scope.min_year = $scope.years.sort()[0];
@@ -207,6 +208,9 @@ worlDataApp.controller('resultController', function ($scope, $stateParams, dataS
                 $scope.cur_year = $scope.years[0];
                 $scope.results.$$state.status == 2; // Save repeated reassignment.
                 $scope.$applyAsync(); //update DOM soon
+                $scope.lda_check = function() {
+                    return !('error' in $scope.lda);
+                }
                 return true;
             } else {
                 $scope.err_msg = $scope.results.$$state.value.err_msg;
