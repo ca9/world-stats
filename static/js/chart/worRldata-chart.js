@@ -49,7 +49,8 @@ worlDataApp.directive('worldCharts', function() {
                             for (var j = 0; j < dat_keys.length; j++) {
                                 tot += scope.mapDataInner[inds[i]][years[y]][dat_keys[j]];
                             }
-                            obj.data.push(tot);
+                            if (j == 0) j = 1;
+                            obj.data.push(tot/j);
                         }
                         data.datasets.push(obj);
                     };
@@ -62,7 +63,8 @@ worlDataApp.directive('worldCharts', function() {
                         legendTemplate : "<ul class=\"<%=name.toLowerCase()%>-legend\"><% for (var i=0; i<datasets.length; i++){%><li><span style=\"background-color:<%=datasets[i].fillColor%>\">[&nbsp;&nbsp;]</span> &nbsp; <%if(datasets[i].label){%><%=datasets[i].label%><%}%></li><%}%></ul>"
                     });
                     $("#charts-legend").html(myBarChart.generateLegend());
-                    $("#charts-legend").append('Bars are subject to data availability for respective years. Please bear in mind.');
+                    $("#charts-legend").append('Bars are subject to data availability for respective years. Please ' +
+                    'bear in mind. Values are averaged over the range.');
                 }
             });
         }
